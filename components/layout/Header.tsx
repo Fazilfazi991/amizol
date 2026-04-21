@@ -53,7 +53,35 @@ export default function Header() {
                 <Link href="/category/women" className="header__nav-link">
                   WOMEN <ChevronDown size={14} />
                 </Link>
-                {/* Women Mega Menu... */}
+                <div className="mega-menu">
+                   <div className="container mega-menu__grid">
+                      <div className="mega-menu__column">
+                         <h3 className="mega-menu__title">SHOES</h3>
+                         <ul className="mega-menu__list">
+                            <li><Link href="/category/womens-shoes">All Shoes</Link></li>
+                            <li><Link href="/brands/christian-louboutin">Christian Louboutin</Link></li>
+                            <li><Link href="/brands/gucci">Gucci</Link></li>
+                            <li><Link href="/brands/dior">Dior</Link></li>
+                         </ul>
+                      </div>
+                      <div className="mega-menu__column">
+                         <h3 className="mega-menu__title">BAGS</h3>
+                         <ul className="mega-menu__list">
+                            <li><Link href="/category/womens-bags">All Bags</Link></li>
+                            <li><Link href="/brands/hermes">Hermès</Link></li>
+                            <li><Link href="/brands/prada">Prada</Link></li>
+                            <li><Link href="/brands/louis-vuitton">Louis Vuitton</Link></li>
+                         </ul>
+                      </div>
+                      <div className="mega-menu__column">
+                         <h3 className="mega-menu__title">ACCESSORIES</h3>
+                         <ul className="mega-menu__list">
+                            <li><Link href="/category/womens-watches">Watches</Link></li>
+                            <li><Link href="/category/womens-slippers">Slippers</Link></li>
+                         </ul>
+                      </div>
+                   </div>
+                </div>
               </li>
               <li className="header__nav-item">
                 <Link href="/brands" className="header__nav-link">BRANDS</Link>
