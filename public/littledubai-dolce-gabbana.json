@@ -1,0 +1,1749 @@
+{
+  "collection": "dolce-gabbana",
+  "source": "https://littledubai-ae.shop/collections/dolce-gabbana",
+  "scraped_at": "2026-04-20T20:47:52.423Z",
+  "total_products": 13,
+  "total_images": 46,
+  "products": [
+    {
+      "id": 8296684585130,
+      "title": "Dolce & Gabbana Portofino Black & White",
+      "handle": "dolce-gabbana-portofino-black-white-1",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-black-white-1",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dolce & Gabbana",
+      "description": "Blending calfskin and split leathers with technical fabric overlays, tubular and flat laces, and a sculpted 3D rubber sole. Inspired by Daymaster and NS1 shapes, it offers bold volume and modern streetwear appeal",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "689.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630107279530,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107312298,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107345066,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107377834,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107410602,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107443370,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107476138,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107508906,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860732940458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_fd60191a-0863-4a04-bde8-5c9733414341.png?v=1763150904",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860732973226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_c0b1a71d-9cfa-41fa-8f40-838f0dc459ce.jpg?v=1763150901",
+          "width": 1038,
+          "height": 1127
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_fd60191a-0863-4a04-bde8-5c9733414341.png?v=1763150904",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_c0b1a71d-9cfa-41fa-8f40-838f0dc459ce.jpg?v=1763150901"
+      ],
+      "created_at": "2025-11-15T00:08:19+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296713093290,
+      "title": "Dolce & Gabbana Portofino Sneakers – White Calfskin with Black Logo Panel (Men’s/Women’s)",
+      "handle": "dolce-gabbana-portofino-sneakers-white-calfskin-with-black-logo-panel-menswomens",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-sneakers-white-calfskin-with-black-logo-panel-menswomens",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Discover the icon of minimal luxury with the Dolce &amp; Gabbana Portofino Sneakers in White Calfskin with Black Logo Detail . These made-in-Italy low-top sneakers showcase premium white calfskin leather accented by a contrasting black logo panel on the heel and a subtly branded tongue. Featuring flat leather laces, a durable rubber sole, and an elegant round toe, these sneakers combine Italian elegance with everyday comfort and versatility—ideal for both casual and refined outfits. Element Content Title Dolce &amp; Gabbana Portofino Sneakers – White Calfskin with Black Logo Panel Description Italian-crafted white calfskin low-tops featuring a black branded panel on the heel and Dior-styled accents. Key Highlights • White calfskin upper• Black logo heel panel• Contrasting stitching• Logo patch on tongue• Flat leather laces• Round toe• Rubber sole• Made in Italy",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630203486378,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203519146,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203551914,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203584682,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203617450,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203650218,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203682986,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860900253866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_5_0d7cfe46-ffed-423c-89dd-b221d28f67c1.jpg?v=1763151727",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860900286634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_1_144b98a2-c51b-40bc-bbf2-1c9f4c624a7e.jpg?v=1763151728",
+          "width": 3023,
+          "height": 3848
+        },
+        {
+          "id": 42860900319402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_2_7d9eb1cf-972f-4101-924a-e62143a8289d.jpg?v=1763151729",
+          "width": 3024,
+          "height": 3931
+        },
+        {
+          "id": 42860900352170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_3_3ef418f9-c849-4f80-8ff0-f62188c14f68.jpg?v=1763151729",
+          "width": 3023,
+          "height": 3870
+        },
+        {
+          "id": 42860900384938,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_4_091fde83-2032-4bb7-93ab-ae36b88e243b.jpg?v=1763151729",
+          "width": 3023,
+          "height": 3917
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_5_0d7cfe46-ffed-423c-89dd-b221d28f67c1.jpg?v=1763151727",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_1_144b98a2-c51b-40bc-bbf2-1c9f4c624a7e.jpg?v=1763151728",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_2_7d9eb1cf-972f-4101-924a-e62143a8289d.jpg?v=1763151729",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_3_3ef418f9-c849-4f80-8ff0-f62188c14f68.jpg?v=1763151729",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_4_091fde83-2032-4bb7-93ab-ae36b88e243b.jpg?v=1763151729"
+      ],
+      "created_at": "2025-11-15T00:22:05+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296713027754,
+      "title": "Dolce & Gabbana Calfskin Nappa Portofino Sneakers – Black (Men’s)",
+      "handle": "dolce-gabbana-calfskin-nappa-portofino-sneakers-black-mens",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-calfskin-nappa-portofino-sneakers-black-mens",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Step into minimalist luxury with the Dolce &amp; Gabbana Calfskin Nappa Portofino Sneakers in Black . Crafted in Italy, these streamlined low-tops are made from premium black calfskin nappa for a buttery-soft yet refined look. The design features contrasting top-stitching, a micro-injected rubberized logo spoiler at the back, and flat laces for a clean silhouette. Additional comfort comes from the padded collar, a logo patch at the tongue, and a bonded rubber sole that balances elegance with functionality. Perfect for both smart casual and elevated everyday outfits. Element Content Title Dolce &amp; Gabbana Calfskin Nappa Portofino Sneakers – Black (Men’s) Description Italian-made black nappa leather low-tops featuring contrast stitching, rubber spoiler with logo, padded collar, and a bonded rubber sole. Key Highlights • 100% calfskin nappa leather• Micro-injected logo spoiler on heel• Logo patch at tongue• Flat laces &amp; padded collar• Bonded rubber sole• Italian craftsmanship",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630203027626,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203060394,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203093162,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203125930,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203158698,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203191466,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203224234,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860899893418,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_de09b14c-dc44-4daf-9e7e-e6471d1e83a7.jpg?v=1763151725",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860899926186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_2_eba533a0-8077-403f-a79a-425112d00d93.jpg?v=1763151726",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860899958954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_3_b85870bd-935b-4407-808c-6375478dff38.jpg?v=1763151727",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860899991722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_4_75356523-a804-4c75-b2b6-ecf1ffdb3d04.jpg?v=1763151727",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860900024490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_5_2a15c72f-7438-42ac-8156-c34f6bf205cb.jpg?v=1763151727",
+          "width": 3024,
+          "height": 4032
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_de09b14c-dc44-4daf-9e7e-e6471d1e83a7.jpg?v=1763151725",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_2_eba533a0-8077-403f-a79a-425112d00d93.jpg?v=1763151726",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_3_b85870bd-935b-4407-808c-6375478dff38.jpg?v=1763151727",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_4_75356523-a804-4c75-b2b6-ecf1ffdb3d04.jpg?v=1763151727",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_5_2a15c72f-7438-42ac-8156-c34f6bf205cb.jpg?v=1763151727"
+      ],
+      "created_at": "2025-11-15T00:22:03+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296713453738,
+      "title": "Dolce & Gabbana Portofino Calfskin Sneakers – Black with Branded Heel Tag",
+      "handle": "dolce-gabbana-portofino-calfskin-sneakers-black-with-branded-heel-tag",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-calfskin-sneakers-black-with-branded-heel-tag",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Explore classic luxury with the Dolce &amp; Gabbana Portofino Sneakers . Crafted from premium 100% calfskin leather, these low-top trainers boast flat laces and a branded spoiler heel for an instantly recognizable detail. Inside, the calfskin footbed is finished with a heat-stamped logo, while the rubber outsole and bottom assembly are both branded for refined durability. Each pair comes with its own dust bag and is meticulously made in Italy.",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630206075050,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630206107818,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630206140586,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630206173354,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630206206122,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630206238890,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630206271658,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860902744234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/CopyofCopyofLVsm_10.jpg?v=1763151738",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860902777002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/c9fa0ec7-9a53-4a3f-b0c5-3fe1a9b8d9be.jpg?v=1763151738",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860902809770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/cf8eb81a-b09e-4c6a-9002-5022f3e24970.jpg?v=1763151738",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860902842538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9271619a-c103-403a-a8f0-fdea3a64493e.jpg?v=1763151738",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860902875306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9885580a-38ad-4c50-a488-12eef3ab6078.jpg?v=1763151738",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/CopyofCopyofLVsm_10.jpg?v=1763151738",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/c9fa0ec7-9a53-4a3f-b0c5-3fe1a9b8d9be.jpg?v=1763151738",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/cf8eb81a-b09e-4c6a-9002-5022f3e24970.jpg?v=1763151738",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9271619a-c103-403a-a8f0-fdea3a64493e.jpg?v=1763151738",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9885580a-38ad-4c50-a488-12eef3ab6078.jpg?v=1763151738"
+      ],
+      "created_at": "2025-11-15T00:22:15+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296684519594,
+      "title": "Dolce & Gabbana Portofino White",
+      "handle": "dolce-gabbana-portofino-white",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dolce & Gabbana",
+      "description": "Blending calfskin and split leathers with technical fabric overlays, tubular and flat laces, and a sculpted 3D rubber sole. Inspired by Daymaster and NS1 shapes, it offers bold volume and modern streetwear appeal",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "689.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630106722474,
+          "title": "38",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630106755242,
+          "title": "39",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630106788010,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630106820778,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630106853546,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630106886314,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630106919082,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630106951850,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860731465898,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_75426f74-8a43-4572-9e8c-1c1af28f768f.png?v=1763150901",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860731498666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_1.jpg?v=1763150899",
+          "width": 1080,
+          "height": 1063
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_75426f74-8a43-4572-9e8c-1c1af28f768f.png?v=1763150901",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_1.jpg?v=1763150899"
+      ],
+      "created_at": "2025-11-15T00:08:17+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296684617898,
+      "title": "Dolce & Gabbana 2.Zero White Gold",
+      "handle": "dolce-gabbana-2-zero-white-gold",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-2-zero-white-gold",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dolce & Gabbana",
+      "description": "Blending calfskin and split leathers with technical fabric overlays, tubular and flat laces, and a sculpted 3D rubber sole. Inspired by Daymaster and NS1 shapes, it offers bold volume and modern streetwear appeal",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "689.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630107541674,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107574442,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107607210,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107639978,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107672746,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107705514,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107738282,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107771050,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860733628586,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_1387e0a8-9256-4f3d-bea2-ba9e437445ce.png?v=1763150905",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860733661354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_3.jpg?v=1763150903",
+          "width": 1064,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_1387e0a8-9256-4f3d-bea2-ba9e437445ce.png?v=1763150905",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_3.jpg?v=1763150903"
+      ],
+      "created_at": "2025-11-15T00:08:20+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296684552362,
+      "title": "Dolce & Gabbana 2.Zero Custom leather Black Silver",
+      "handle": "dolce-gabbana-portofino-black-white",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-black-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dolce & Gabbana",
+      "description": "Blending calfskin and split leathers with technical fabric overlays, tubular and flat laces, and a sculpted 3D rubber sole. Inspired by Daymaster and NS1 shapes, it offers bold volume and modern streetwear appeal",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "689.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630106984618,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107017386,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107050154,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107082922,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107115690,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107148458,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107181226,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107213994,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860732317866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_1863019d-5720-4690-9c44-7e0418231d59.png?v=1763150902",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860732350634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_2.jpg?v=1763150900",
+          "width": 1023,
+          "height": 1109
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_1863019d-5720-4690-9c44-7e0418231d59.png?v=1763150902",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_2.jpg?v=1763150900"
+      ],
+      "created_at": "2025-11-15T00:08:18+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296683765930,
+      "title": "Dolce & Gabbana Portofino All Black",
+      "handle": "asics-gel-nimbus-27-wave-teal-saxon-green",
+      "url": "https://littledubai-ae.shop/products/asics-gel-nimbus-27-wave-teal-saxon-green",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dolce & Gabbana",
+      "description": "Blending calfskin and split leathers with technical fabric overlays, tubular and flat laces, and a sculpted 3D rubber sole. Inspired by Daymaster and NS1 shapes, it offers bold volume and modern streetwear appeal",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "689.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630100791466,
+          "title": "38",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630100824234,
+          "title": "39",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630100857002,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630100889770,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630100922538,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630100955306,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630100988074,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630101020842,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "689.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860716294314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_aaa75136-3711-47cb-803a-d8df84aa0737.png?v=1763150877",
+          "width": 3372,
+          "height": 2413
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_aaa75136-3711-47cb-803a-d8df84aa0737.png?v=1763150877"
+      ],
+      "created_at": "2025-11-15T00:07:52+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296684650666,
+      "title": "Dolce & Gabbana Portofino low top",
+      "handle": "dolce-gabbana-portofino-low-top",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-low-top",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dolce & Gabbana",
+      "description": "Blending calfskin and split leathers with technical fabric overlays, tubular and flat laces, and a sculpted 3D rubber sole. Inspired by Daymaster and NS1 shapes, it offers bold volume and modern streetwear appeal",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "689.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630107803818,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107836586,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107869354,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107902122,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107934890,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630107967658,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630108000426,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630108033194,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "689.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860734808234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_ce4880ed-8795-4836-a177-895da1c4f3f9.png?v=1763150905",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860734841002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_4.jpg?v=1763150903",
+          "width": 1041,
+          "height": 1159
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_ce4880ed-8795-4836-a177-895da1c4f3f9.png?v=1763150905",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-04-20-01-57-38_4.jpg?v=1763150903"
+      ],
+      "created_at": "2025-11-15T00:08:21+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296712962218,
+      "title": "Dolce & Gabbana Men’s White Sneakers – Classic & Limited Edition Styles",
+      "handle": "dolce-gabbana-mens-white-sneakers-classic-limited-edition-styles",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-mens-white-sneakers-classic-limited-edition-styles",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Discover the refined essence of Italian luxury with Dolce &amp; Gabbana Men’s White Sneakers , available in timeless classics and exclusive limited editions. From the streamlined Portofino low-top in pristine calfskin to artistically hand-painted DGLimited variants, each pair exudes craftsmanship and elegance. Signature details such as logo spoilers, metal DG insignias, and heat-stamped insoles enhance authenticity and style. Wrapped in bonded rubber soles and crafted with premium materials, these sneakers offer comfort, longevity, and a touch of designer prestige. Perfect for smart-casual looks or statement streetwear. Element Content Title Dolce &amp; Gabbana Men’s White Sneakers – Classic &amp; Limited Edition Styles Description Italian-made sneakers in white calfskin, featuring Portofino classics and limited editions—crafted with logo details, branded soles, and premium finishes. Key Highlights • All-white calfskin upper (Portofino)• Limited edition hand-painted designs (DGLimited)• DG logo-length spoiler and metal accents• Heat-stamped leather footbed• Bonded rubber outsole for comfort• Made in Italy",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630202536106,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202568874,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202601642,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202634410,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202667178,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202699946,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202732714,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860899565738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_1dd15cfd-47c2-4402-8ea2-b355a492244f.jpg?v=1763151723",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860899598506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_1_a6eb7406-6c4f-49bc-8680-c67d1ca3d91e.jpg?v=1763151723",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899631274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_2_52cbca92-7c09-4620-ab7d-4c2f7b6a3066.jpg?v=1763151724",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899664042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_3_2c6e7195-41a4-4d23-a4ca-26312ffb3b6c.jpg?v=1763151724",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899696810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_4_9627ff3f-3b55-42ee-890a-5056a9a6aebb.jpg?v=1763151724",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_1dd15cfd-47c2-4402-8ea2-b355a492244f.jpg?v=1763151723",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_1_a6eb7406-6c4f-49bc-8680-c67d1ca3d91e.jpg?v=1763151723",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_2_52cbca92-7c09-4620-ab7d-4c2f7b6a3066.jpg?v=1763151724",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_3_2c6e7195-41a4-4d23-a4ca-26312ffb3b6c.jpg?v=1763151724",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_4_9627ff3f-3b55-42ee-890a-5056a9a6aebb.jpg?v=1763151724"
+      ],
+      "created_at": "2025-11-15T00:22:01+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296713060522,
+      "title": "Dolce & Gabbana Portofino Leather Trainers – Black Calfskin (EU 42.5, Model: 42392013)",
+      "handle": "dolce-gabbana-portofino-leather-trainers-black-calfskin-eu-425-model-42392013",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-leather-trainers-black-calfskin-eu-425-model-42392013",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Step into refined urban elegance with the Dolce &amp; Gabbana Portofino Leather Trainers in Black (EU 42.5) . Crafted in Italy from premium calfskin leather, these pristine sneakers feature a distinctive rubberized rear spoiler embossed with the Macro Injection logo and adorned with \"Dolce &amp; Gabbana\" lettering. With a round toe, lace-up front, and flat rubber sole, they offer both minimalist styling and timeless luxury. Absolutely unworn and authenticated, this pair is a rare gem. Element Content Title Dolce &amp; Gabbana Portofino Leather Trainers – Black Calfskin (EU 42.5, Model: 42392013) Description Italian-made trainers in black calfskin leather, featuring a branded rear spoiler, flat rubber sole, and lace-up design—never worn. Key Highlights Calfskin upper, Macro Injection logo on rear spoiler, Dolce &amp; Gabbana lettering, lace-up closure, flat rubber sole, never worn (EU 42.5).",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630203257002,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203289770,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203322538,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203355306,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203388074,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203420842,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630203453610,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860900057258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_5_de1616b4-6903-4cf1-8a19-a7e34731814b.jpg?v=1763151726",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860900090026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_1_7914d092-8c9c-4499-8868-a4fb6b217199.jpg?v=1763151728",
+          "width": 3023,
+          "height": 3893
+        },
+        {
+          "id": 42860900122794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_2_89434df8-961f-4b75-8d72-ce5372764923.jpg?v=1763151728",
+          "width": 3023,
+          "height": 3917
+        },
+        {
+          "id": 42860900155562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_3_37ff1748-bada-416a-a3cf-38b4811dd17a.jpg?v=1763151728",
+          "width": 3023,
+          "height": 3811
+        },
+        {
+          "id": 42860900188330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_4_18709d80-b709-429f-9372-e49a78228337.jpg?v=1763151728",
+          "width": 3023,
+          "height": 3806
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_5_de1616b4-6903-4cf1-8a19-a7e34731814b.jpg?v=1763151726",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_1_7914d092-8c9c-4499-8868-a4fb6b217199.jpg?v=1763151728",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_2_89434df8-961f-4b75-8d72-ce5372764923.jpg?v=1763151728",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_3_37ff1748-bada-416a-a3cf-38b4811dd17a.jpg?v=1763151728",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_4_18709d80-b709-429f-9372-e49a78228337.jpg?v=1763151728"
+      ],
+      "created_at": "2025-11-15T00:22:04+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296712929450,
+      "title": "Dolce & Gabbana Portofino Light Sneakers – Multicolor Canvas & Calfskin with “Made in Italy” Print (Men’s)",
+      "handle": "dolce-gabbana-portofino-light-sneakers-multicolor-canvas-calfskin-with-made-in-italy-print-mens",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-light-sneakers-multicolor-canvas-calfskin-with-made-in-italy-print-mens",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Elevate your sneaker collection with the Dolce &amp; Gabbana Portofino Light Sneakers in Multicolor , a bold expression of Italian craftsmanship. These lightweight low-tops combine rich multicolor calfskin and canvas panels with subtle branding flourishes — including a side \"Made in Italy\" print, a metal DG logo, and branded fabric tongue label. Inside, you’ll find a plush calfskin footbed featuring heat-stamped logo detail. Engineered for comfort and durability, these sneakers also include flat stretch laces and a sturdy EVA sole. Ideal for those who value statement design and premium construction. Element Content Title Dolce &amp; Gabbana Portofino Light Sneakers – Multicolor with “Made in Italy” Print (Men’s) Description Vibrant multicolor calfskin and canvas sneakers featuring \"Made in Italy\" print, DG metal logo, stretch laces, branded footbed and EVA sole, crafted in Italy. Key Highlights - Multicolor canvas &amp; calfskin upper - \"Made in Italy\" side detailing - Metal DG logo - Branded tongue label - Calfskin footbed with heat-stamped logo - Flat stretch laces - Lightweight EVA sole - Made in Italy",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630202306730,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202339498,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202372266,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202405034,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202437802,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202470570,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202503338,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860899369130,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_5_6d07588d-7150-4a36-844f-8ed834e229de.jpg?v=1763151723",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860899401898,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_7_42553592-9a76-46e1-bfc8-3cf44cef594c.jpg?v=1763151723",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899434666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_1_be82b745-d485-45a6-ad0d-263f9a9c1991.jpg?v=1763151723",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899467434,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_3_24993158-f578-45d1-8af0-3a96d6f91d6d.jpg?v=1763151723",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899500202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_6_a763b4aa-5897-46cc-a473-99b8af11e4a8.jpg?v=1763151723",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_5_6d07588d-7150-4a36-844f-8ed834e229de.jpg?v=1763151723",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_7_42553592-9a76-46e1-bfc8-3cf44cef594c.jpg?v=1763151723",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_1_be82b745-d485-45a6-ad0d-263f9a9c1991.jpg?v=1763151723",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_3_24993158-f578-45d1-8af0-3a96d6f91d6d.jpg?v=1763151723",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_6_a763b4aa-5897-46cc-a473-99b8af11e4a8.jpg?v=1763151723"
+      ],
+      "created_at": "2025-11-15T00:22:00+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296712994986,
+      "title": "Dolce & Gabbana Portofino Light Strobel Sneakers – Multicolor Canvas & Calfskin (Men’s)",
+      "handle": "dolce-gabbana-portofino-light-strobel-sneakers-multicolor-canvas-calfskin-mens",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-portofino-light-strobel-sneakers-multicolor-canvas-calfskin-mens",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Discover casual refinement with the Dolce &amp; Gabbana Portofino Light Strobel Sneakers in Multicolor Canvas &amp; Calfskin . These Italian-crafted low-tops seamlessly fuse the elegance of nappa calfskin with vibrant printed canvas for a fresh, standout look. Built on a lightweight EVA outsole and enhanced with a cushioned PU fussbett insole wrapped in leather, they bring together comfort, style, and brand heritage—complete with a 3D DG logo for a signature finish. Element Content Title Dolce &amp; Gabbana Portofino Light Strobel Sneakers – Multicolor Canvas &amp; Calfskin (Men’s) Description Lightweight Italian-crafted sneakers blending printed canvas and calfskin, with leather-wrapped PU insole and EVA sole for comfort. Key Highlights • Multicolor printed canvas &amp; calfskin upper• Built on lightweight EVA outsole• PU fussbett insole wrapped in leather• 3D DG logo branding• Mesh and calfskin blend for comfort and durability• Made in Italy",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630202798250,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202831018,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202863786,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202896554,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202929322,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202962090,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630202994858,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860899729578,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4d082d00-67b7-48ef-ac03-d75d4467a8ff.jpg?v=1763151724",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860899762346,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_1_091e7e1b-72d6-4031-aa17-b4e985e1d2bf.jpg?v=1763151725",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899795114,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_2_ea71fb4b-ad0a-4e22-98b2-006a720e5ed3.jpg?v=1763151724",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899827882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_3_b15d6d6b-83b4-46c7-878c-59df0d313d57.jpg?v=1763151724",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860899860650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4_0d508b5b-1ca4-4407-897c-093e778d3561.jpg?v=1763151725",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4d082d00-67b7-48ef-ac03-d75d4467a8ff.jpg?v=1763151724",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_1_091e7e1b-72d6-4031-aa17-b4e985e1d2bf.jpg?v=1763151725",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_2_ea71fb4b-ad0a-4e22-98b2-006a720e5ed3.jpg?v=1763151724",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_3_b15d6d6b-83b4-46c7-878c-59df0d313d57.jpg?v=1763151724",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4_0d508b5b-1ca4-4407-897c-093e778d3561.jpg?v=1763151725"
+      ],
+      "created_at": "2025-11-15T00:22:02+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    }
+  ]
+}

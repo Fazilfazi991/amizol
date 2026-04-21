@@ -1,0 +1,2172 @@
+{
+  "collection": "lorop",
+  "source": "https://littledubai-ae.shop/collections/lorop",
+  "scraped_at": "2026-04-20T20:47:52.430Z",
+  "total_products": 17,
+  "total_images": 58,
+  "products": [
+    {
+      "id": 8296669937834,
+      "title": "New Balance 990v6 MiUSA Loro Piana",
+      "handle": "nb",
+      "url": "https://littledubai-ae.shop/products/nb",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "New Balance 990",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "420.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629975617706,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975650474,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975683242,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975716010,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975748778,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975781546,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975814314,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975847082,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975879850,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629975912618,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "420.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860582273194,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/DFC22077-98AC-4A5B-BF74-4D3DBAA8E13E.jpg?v=1763150413",
+          "width": 1400,
+          "height": 1000
+        },
+        {
+          "id": 42860582305962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/44FF0AF9-7893-401A-84AC-A8157F046058.jpg?v=1763150413",
+          "width": 1280,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/DFC22077-98AC-4A5B-BF74-4D3DBAA8E13E.jpg?v=1763150413",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/44FF0AF9-7893-401A-84AC-A8157F046058.jpg?v=1763150413"
+      ],
+      "created_at": "2025-11-15T00:00:11+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296709292202,
+      "title": "LORO PIANA Week End Walk 'Sauge Ancien'",
+      "handle": "loro-piana-week-end-walk-sauge-ancien",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-sauge-ancien",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneakers made from Wind microfiber. They are waterproof and wind-resistant, thanks to a Storm System® treatment. Their contoured silhouette is defined by suede details and center lacing. Iconic topstitching and light padding provide comfort and high performance, while the ultra-lightweight soles are trimmed with cleats for a sporty allure.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630178910378,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178943146,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178975914,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179008682,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179041450,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179074218,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179106986,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860882297002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_7e940cc8-43a9-4acc-99d7-d2dd761f2a0a.jpg?v=1763151613",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882329770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_5ea70082-92fc-4266-8731-129859ff6047.jpg?v=1763151613",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882362538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_0cf46aca-332d-404c-bdaf-b0bfb6d4b58c.jpg?v=1763151613",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882395306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_c678ea63-8cba-48bd-8b68-f4ccbc986a93.jpg?v=1763151613",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_7e940cc8-43a9-4acc-99d7-d2dd761f2a0a.jpg?v=1763151613",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_5ea70082-92fc-4266-8731-129859ff6047.jpg?v=1763151613",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_0cf46aca-332d-404c-bdaf-b0bfb6d4b58c.jpg?v=1763151613",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_c678ea63-8cba-48bd-8b68-f4ccbc986a93.jpg?v=1763151613"
+      ],
+      "created_at": "2025-11-15T00:20:10+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296708866218,
+      "title": "LORO PIANA Week-End Walk Sneakers \"White\"",
+      "handle": "loro-piana-week-end-walk-sneakers-white",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-sneakers-white",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneakers made from a three-dimensional technical knit, featuring a contoured silhouette that tapers at the centre. Attractive, functional, Napa-leather details provide comfort and high performance, while the ultra-lightweight soles are trimmed with cleats for a sporty allure.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630175305898,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175338666,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175371434,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175404202,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175436970,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175469738,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860874399914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_86142206-cc9b-4835-80c2-34de57015ac2.jpg?v=1763151596",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860874432682,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22.jpg?v=1763151597",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860874465450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_7ffd7aaa-f5d2-4157-88c2-f33f1184ce42.jpg?v=1763151597",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860874498218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_71f9b63c-5377-4fd3-a226-b6df8a344d6e.jpg?v=1763151596",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_86142206-cc9b-4835-80c2-34de57015ac2.jpg?v=1763151596",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22.jpg?v=1763151597",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_7ffd7aaa-f5d2-4157-88c2-f33f1184ce42.jpg?v=1763151597",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_71f9b63c-5377-4fd3-a226-b6df8a344d6e.jpg?v=1763151596"
+      ],
+      "created_at": "2025-11-15T00:19:54+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296712306858,
+      "title": "LORO PIANA Week End Walk 'Blue'",
+      "handle": "loro-piana-week-end-walk-blue",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneakers made from Wind microfiber. They are waterproof and wind-resistant, thanks to a Storm System® treatment. Their contoured silhouette is defined by suede details and center lacing. Iconic topstitching and light padding provide comfort and high performance, while the ultra-lightweight soles are trimmed with cleats for a sporty allure.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630198341802,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198374570,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198407338,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198440106,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198472874,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198505642,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198538410,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860896747690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_a3df1cd1-2342-47e6-a3a4-cf8dab0d73af.jpg?v=1763151707",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896780458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_1996373f-1c10-4fc1-b148-72138c9b38ff.jpg?v=1763151707",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896813226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_25bf03e0-83a7-48fc-bfda-9934e86ef69a.jpg?v=1763151707",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896845994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_756909a4-f579-4900-888d-6476b8deb8e3.jpg?v=1763151707",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_a3df1cd1-2342-47e6-a3a4-cf8dab0d73af.jpg?v=1763151707",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_1996373f-1c10-4fc1-b148-72138c9b38ff.jpg?v=1763151707",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_25bf03e0-83a7-48fc-bfda-9934e86ef69a.jpg?v=1763151707",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_756909a4-f579-4900-888d-6476b8deb8e3.jpg?v=1763151707"
+      ],
+      "created_at": "2025-11-15T00:21:45+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296710602922,
+      "title": "LORO PIANA Week-End Walk Sneakers \"Charcoal Blue \"",
+      "handle": "loro-piana-week-end-walk-sneakers-charcoal-blue",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-sneakers-charcoal-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneakers made from a three-dimensional technical knit, featuring a contoured silhouette that tapers at the centre. Attractive, functional, Napa-leather details provide comfort and high performance, while the ultra-lightweight soles are trimmed with cleats for a sporty allure.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630187528362,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187561130,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187593898,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187626666,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187659434,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187692202,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860888916138,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_b026ff4a-81d3-4d4d-9471-5644c09ad80f.jpg?v=1763151652",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888948906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17.jpg?v=1763151652",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888981674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_a392cbea-c551-4b13-bf8e-e00555ff5701.jpg?v=1763151652",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860889014442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_ec689fed-ab66-4655-952c-0b7bf3082b3a.jpg?v=1763151652",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_b026ff4a-81d3-4d4d-9471-5644c09ad80f.jpg?v=1763151652",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17.jpg?v=1763151652",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_a392cbea-c551-4b13-bf8e-e00555ff5701.jpg?v=1763151652",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_ec689fed-ab66-4655-952c-0b7bf3082b3a.jpg?v=1763151652"
+      ],
+      "created_at": "2025-11-15T00:20:50+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296712405162,
+      "title": "Loro Piana 360 Lp Flexy Walk Sneaker 'Black'",
+      "handle": "loro-piana-360-lp-flexy-walk-sneaker-black",
+      "url": "https://littledubai-ae.shop/products/loro-piana-360-lp-flexy-walk-sneaker-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneaker in double-layer knitted Wish wool crafted with a very exclusive construction technique. Ultra-light and supremely comfortable, they are ideal for leisure time and relaxing.",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630198866090,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198898858,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198931626,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198964394,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198997162,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199029930,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199062698,
+          "title": "46",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860897009834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_09200b7f-5381-4302-82b4-2a34ba5082d1.jpg?v=1763151709",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860897042602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_b9f47c21-70da-41d0-9441-49713596316a.jpg?v=1763151709",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860897075370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_6ed9e5cc-d5ed-47b7-a4de-7a6ce799f73f.jpg?v=1763151709",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860897108138,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_a7cfb383-e94a-4865-8629-2ecea0222f00.jpg?v=1763151709",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_09200b7f-5381-4302-82b4-2a34ba5082d1.jpg?v=1763151709",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_b9f47c21-70da-41d0-9441-49713596316a.jpg?v=1763151709",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_6ed9e5cc-d5ed-47b7-a4de-7a6ce799f73f.jpg?v=1763151709",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_a7cfb383-e94a-4865-8629-2ecea0222f00.jpg?v=1763151709"
+      ],
+      "created_at": "2025-11-15T00:21:47+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296709718186,
+      "title": "LORO PIANA  Suede Modular Walk  'Blue'",
+      "handle": "loro-piana-suede-modular-walk-blue",
+      "url": "https://littledubai-ae.shop/products/loro-piana-suede-modular-walk-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Loro Piana’s Modular Walk Sneakers tap into modern sports-luxe style codes while upholding the brand’s commitment to impeccable Italian craftsmanship. With panels of sumptuous suede to the upper and a cushioned rubber sole, the sleek, streamlined pair are secured with a comfortable lace-up fastening.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630181630122,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181662890,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181695658,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181728426,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181761194,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181793962,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181826730,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860884787370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_a123f101-604f-4b28-a157-b4401463b21a.jpg?v=1763151623",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884820138,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_3c4995df-b762-418d-9e0c-847aa2f7ec16.jpg?v=1763151624",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884852906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_21cd8bca-031e-4262-95b0-db56a56c5395.jpg?v=1763151624",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884885674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_aab57bd0-8eb6-4fe0-8637-ea7e3756a692.jpg?v=1763151624",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_a123f101-604f-4b28-a157-b4401463b21a.jpg?v=1763151623",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_3c4995df-b762-418d-9e0c-847aa2f7ec16.jpg?v=1763151624",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_21cd8bca-031e-4262-95b0-db56a56c5395.jpg?v=1763151624",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_aab57bd0-8eb6-4fe0-8637-ea7e3756a692.jpg?v=1763151624"
+      ],
+      "created_at": "2025-11-15T00:20:21+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296709390506,
+      "title": "LORO PIANA Wool sock sneakers",
+      "handle": "loro-piana-wool-sock-sneakers",
+      "url": "https://littledubai-ae.shop/products/loro-piana-wool-sock-sneakers",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Wool sock sneakers detailed with leather heel counter and rubber sole.",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630179401898,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179434666,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179467434,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179500202,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179532970,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179565738,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630179598506,
+          "title": "46",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860882559146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_68e6b753-ab8a-49dd-bacb-3e7b5a71d3b0.jpg?v=1763151615",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882591914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_5bd08b3f-7709-43e1-baca-813d83b6099c.jpg?v=1763151615",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882624682,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_b62dbb1b-bc6b-4bb0-8344-b41a4d977b20.jpg?v=1763151615",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882657450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_767326f1-6529-4ec8-a261-c0eee08ed359.jpg?v=1763151615",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_68e6b753-ab8a-49dd-bacb-3e7b5a71d3b0.jpg?v=1763151615",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_5bd08b3f-7709-43e1-baca-813d83b6099c.jpg?v=1763151615",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_b62dbb1b-bc6b-4bb0-8344-b41a4d977b20.jpg?v=1763151615",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_767326f1-6529-4ec8-a261-c0eee08ed359.jpg?v=1763151615"
+      ],
+      "created_at": "2025-11-15T00:20:13+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296709652650,
+      "title": "LORO PIANA Week-End Walk Sneakers \"Mongolian Desert\"",
+      "handle": "loro-piana-week-end-walk-sneakers-mongolian-desert",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-sneakers-mongolian-desert",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneakers made from a three-dimensional technical knit, featuring a contoured silhouette that tapers at the centre. Attractive, functional, Napa-leather details provide comfort and high performance, while the ultra-lightweight soles are trimmed with cleats for a sporty allure.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630181367978,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181400746,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181433514,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181466282,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181499050,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181531818,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860884557994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_44d4d61e-eef0-4b29-9109-ca108468e2c5.jpg?v=1763151622",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884590762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_12660846-129f-4a03-8e92-7e70d35a4ae6.jpg?v=1763151622",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884623530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_bf110a76-d955-4105-aa5b-6e4fc1c98ba6.jpg?v=1763151623",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884656298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_721552a8-ea2a-4eb5-8e54-3bbf1f5dc26f.jpg?v=1763151623",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884689066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_9126ca8c-5eb6-420b-98bb-279cdad753b6.jpg?v=1763151622",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884721834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_272bdd08-7e92-4071-a378-cafcf8e1fbc1.jpg?v=1763151622",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_44d4d61e-eef0-4b29-9109-ca108468e2c5.jpg?v=1763151622",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_12660846-129f-4a03-8e92-7e70d35a4ae6.jpg?v=1763151622",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_bf110a76-d955-4105-aa5b-6e4fc1c98ba6.jpg?v=1763151623",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_721552a8-ea2a-4eb5-8e54-3bbf1f5dc26f.jpg?v=1763151623",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_9126ca8c-5eb6-420b-98bb-279cdad753b6.jpg?v=1763151622",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_272bdd08-7e92-4071-a378-cafcf8e1fbc1.jpg?v=1763151622"
+      ],
+      "created_at": "2025-11-15T00:20:20+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296712241322,
+      "title": "LORO PIANA Week-End Walk Sneakers",
+      "handle": "loro-piana-week-end-walk-sneakers",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-sneakers",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneakers made from a three-dimensional technical knit, featuring a contoured silhouette that tapers at the center. Attractive, functional, Napa-leather details provide comfort and high performance, while the ultra-lightweight soles are trimmed with cleats for a sporty allure.",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630197915818,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197948586,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197981354,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198014122,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198046890,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198079658,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860896452778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_0bd320ce-1f94-4ecc-bfcf-d72df0c291e8.jpg?v=1763151706",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896485546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_36ca0d81-61f9-4aab-875c-8badd9b09935.jpg?v=1763151705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896518314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_9c980228-b43b-4362-b4bd-4ae324467881.jpg?v=1763151705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896551082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_95670f4c-880f-45e4-9a9a-5b9117d8ef6e.jpg?v=1763151705",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_0bd320ce-1f94-4ecc-bfcf-d72df0c291e8.jpg?v=1763151706",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_36ca0d81-61f9-4aab-875c-8badd9b09935.jpg?v=1763151705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_9c980228-b43b-4362-b4bd-4ae324467881.jpg?v=1763151705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_95670f4c-880f-45e4-9a9a-5b9117d8ef6e.jpg?v=1763151705"
+      ],
+      "created_at": "2025-11-15T00:21:43+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296712274090,
+      "title": "LORO PIANA Week End Walk 'Green'",
+      "handle": "loro-piana-week-end-walk-green",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-green",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sneakers made from Wind microfiber. They are waterproof and wind-resistant, thanks to a Storm System® treatment. Their contoured silhouette is defined by suede details and center lacing. Iconic topstitching and light padding provide comfort and high performance, while the ultra-lightweight soles are trimmed with cleats for a sporty allure.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630198112426,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198145194,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198177962,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198210730,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198243498,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198276266,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630198309034,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860896583850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_bf3c456b-f101-4436-9823-e2c399bfeab2.jpg?v=1763151706",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896616618,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_448772aa-a363-42c1-9bd5-37be48cc490e.jpg?v=1763151706",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896649386,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_2744e3ae-c953-4f1a-82ce-275dbb9a6e81.jpg?v=1763151706",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896682154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_6ffe101b-ea19-4e34-acac-0902dbb85a48.jpg?v=1763151706",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_bf3c456b-f101-4436-9823-e2c399bfeab2.jpg?v=1763151706",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_448772aa-a363-42c1-9bd5-37be48cc490e.jpg?v=1763151706",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_2744e3ae-c953-4f1a-82ce-275dbb9a6e81.jpg?v=1763151706",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_6ffe101b-ea19-4e34-acac-0902dbb85a48.jpg?v=1763151706"
+      ],
+      "created_at": "2025-11-15T00:21:44+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8296710013098,
+      "title": "LORO PIANA Week End Walk 'Black'",
+      "handle": "loro-piana-week-end-walk-black",
+      "url": "https://littledubai-ae.shop/products/loro-piana-week-end-walk-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Loro Piana",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Loro Piana's Italian-made 'Weekend Walk' sneakers have durable shell and suede uppers that are waterproof and wind-resistant, thanks to the label's Storm System® treatment. Lightly padded for comfort, they feature signature topstitching, debossed logos and lightweight, cleat-inspired rubber soles.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "890.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630183465130,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183497898,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183530666,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183563434,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183596202,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183628970,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183661738,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "890.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860885737642,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_ab3b4969-aad8-4bbf-8b1b-9ad272c4236a.jpg?v=1763151632",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885770410,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_440aa04c-5d83-4047-a240-58c575b25b99.jpg?v=1763151632",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885803178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_05586585-e46f-4f46-814f-245ec47c4380.jpg?v=1763151632",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885835946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_b349fd0a-106e-4d5d-86ba-e35cf6ad5e05.jpg?v=1763151632",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_ab3b4969-aad8-4bbf-8b1b-9ad272c4236a.jpg?v=1763151632",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_440aa04c-5d83-4047-a240-58c575b25b99.jpg?v=1763151632",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_05586585-e46f-4f46-814f-245ec47c4380.jpg?v=1763151632",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_b349fd0a-106e-4d5d-86ba-e35cf6ad5e05.jpg?v=1763151632"
+      ],
+      "created_at": "2025-11-15T00:20:29+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423121289386,
+      "title": "Loro Piana Open Walk Ankle Boot Black",
+      "handle": "loro-piana-open-walk-ankle-boot-black",
+      "url": "https://littledubai-ae.shop/products/loro-piana-open-walk-ankle-boot-black",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "479.00",
+      "price_currency": "AED",
+      "compare_at_price": "958.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219816460458,
+          "title": "40",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219816493226,
+          "title": "41",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219816525994,
+          "title": "42",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219816558762,
+          "title": "43",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219816591530,
+          "title": "44",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219816624298,
+          "title": "45",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219816657066,
+          "title": "46",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606261330090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_8000_SMALL_9f0c607e-5926-47b4-8b5e-dc063776f81e.jpg?v=1776344573",
+          "width": 395,
+          "height": 553
+        },
+        {
+          "id": 44606261362858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_8000_SMALL_1.jpg?v=1776344573",
+          "width": 395,
+          "height": 553
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_8000_SMALL_9f0c607e-5926-47b4-8b5e-dc063776f81e.jpg?v=1776344573",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_8000_SMALL_1.jpg?v=1776344573"
+      ],
+      "created_at": "2026-04-16T17:02:51+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423121191082,
+      "title": "Loro Piana Open Walk Ankle Boot Light Wood Smoke",
+      "handle": "loro-piana-open-walk-ankle-boot-light-wood-smoke",
+      "url": "https://littledubai-ae.shop/products/loro-piana-open-walk-ankle-boot-light-wood-smoke",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "479.00",
+      "price_currency": "AED",
+      "compare_at_price": "958.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219803615402,
+          "title": "40",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219803648170,
+          "title": "41",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219803680938,
+          "title": "42",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219803713706,
+          "title": "43",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219803746474,
+          "title": "44",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219803779242,
+          "title": "45",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219803812010,
+          "title": "46",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606260904106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_H755_SMALL_13527209-81ba-4e3a-b16d-af475ca19085.jpg?v=1776344572",
+          "width": 395,
+          "height": 553
+        },
+        {
+          "id": 44606260936874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_H755_SMALL_1.jpg?v=1776344571",
+          "width": 395,
+          "height": 553
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_H755_SMALL_13527209-81ba-4e3a-b16d-af475ca19085.jpg?v=1776344572",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_H755_SMALL_1.jpg?v=1776344571"
+      ],
+      "created_at": "2026-04-16T17:02:49+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423121125546,
+      "title": "Loro Piana Open Walk Ankle Boot Very Dark Deep Sea",
+      "handle": "loro-piana-open-walk-ankle-boot-very-dark-deep-sea",
+      "url": "https://littledubai-ae.shop/products/loro-piana-open-walk-ankle-boot-very-dark-deep-sea",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "479.00",
+      "price_currency": "AED",
+      "compare_at_price": "958.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219807613098,
+          "title": "40",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219807645866,
+          "title": "41",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219807678634,
+          "title": "42",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219807711402,
+          "title": "43",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219807744170,
+          "title": "44",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219807776938,
+          "title": "45",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219807809706,
+          "title": "46",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606260674730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/B1B41629-9829-4D49-AF12-904C07497420_FAB4368_W1JT_SMALL_893b3c99-e273-4f2d-bb71-a10d32e2a67a.jpg?v=1776344569",
+          "width": 395,
+          "height": 553
+        },
+        {
+          "id": 44606260707498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/DA28C9F4-87F9-49FE-BAB6-568592D4DC55_FAB4368_W1JT_SMALL_0a710d82-cf3d-4176-a142-23a25c7c0008.jpg?v=1776344569",
+          "width": 395,
+          "height": 553
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/B1B41629-9829-4D49-AF12-904C07497420_FAB4368_W1JT_SMALL_893b3c99-e273-4f2d-bb71-a10d32e2a67a.jpg?v=1776344569",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/DA28C9F4-87F9-49FE-BAB6-568592D4DC55_FAB4368_W1JT_SMALL_0a710d82-cf3d-4176-a142-23a25c7c0008.jpg?v=1776344569"
+      ],
+      "created_at": "2026-04-16T17:02:47+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423121027242,
+      "title": "Loro Piana Open Walk Ankle Boot Very Dark Saffron",
+      "handle": "loro-piana-open-walk-ankle-boot-very-dark-saffron",
+      "url": "https://littledubai-ae.shop/products/loro-piana-open-walk-ankle-boot-very-dark-saffron",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "479.00",
+      "price_currency": "AED",
+      "compare_at_price": "958.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219810627754,
+          "title": "40",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219810660522,
+          "title": "41",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219810693290,
+          "title": "42",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219810726058,
+          "title": "43",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219810758826,
+          "title": "44",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219810791594,
+          "title": "45",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219810824362,
+          "title": "46",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606260314282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1B581826-CE26-4B62-B5F6-2E6BECE01A77_FAB4368_E0GA_MEDIUM_429bedbb-eb1e-4cf4-bd35-a9743a234312.jpg?v=1776344568",
+          "width": 690,
+          "height": 966
+        },
+        {
+          "id": 44606260347050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/74BD4EC5-501C-4172-94EF-11E2766D7B77_FAB4368_E0GA_MEDIUM_a253d84f-2c04-436d-9663-caf149e84a44.jpg?v=1776344567",
+          "width": 690,
+          "height": 966
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1B581826-CE26-4B62-B5F6-2E6BECE01A77_FAB4368_E0GA_MEDIUM_429bedbb-eb1e-4cf4-bd35-a9743a234312.jpg?v=1776344568",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/74BD4EC5-501C-4172-94EF-11E2766D7B77_FAB4368_E0GA_MEDIUM_a253d84f-2c04-436d-9663-caf149e84a44.jpg?v=1776344567"
+      ],
+      "created_at": "2026-04-16T17:02:45+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423120961706,
+      "title": "Loro Piana Open Walk Ankle Boot Very Dark Maroon",
+      "handle": "loro-piana-open-walk-ankle-boot",
+      "url": "https://littledubai-ae.shop/products/loro-piana-open-walk-ankle-boot",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "479.00",
+      "price_currency": "AED",
+      "compare_at_price": "958.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219811938474,
+          "title": "40",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219811971242,
+          "title": "41",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219812004010,
+          "title": "42",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219812036778,
+          "title": "43",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219812069546,
+          "title": "44",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219812102314,
+          "title": "45",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219812135082,
+          "title": "46",
+          "price": "479.00",
+          "compare_at_price": "958.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606260084906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_Q0B5_MEDIUM_efd143fc-2572-4de8-b452-9135320976dd.jpg?v=1776344566",
+          "width": 690,
+          "height": 966
+        },
+        {
+          "id": 44606260117674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_Q0B5_MEDIUM_1.jpg?v=1776344566",
+          "width": 690,
+          "height": 966
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_Q0B5_MEDIUM_efd143fc-2572-4de8-b452-9135320976dd.jpg?v=1776344566",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/FAB4368_Q0B5_MEDIUM_1.jpg?v=1776344566"
+      ],
+      "created_at": "2026-04-16T17:02:43+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    }
+  ]
+}

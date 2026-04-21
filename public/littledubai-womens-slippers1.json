@@ -1,0 +1,4879 @@
+{
+  "collection": "womens-slippers",
+  "source": "https://littledubai-ae.shop/collections/womens-slippers",
+  "scraped_at": "2026-04-20T20:13:27.710Z",
+  "total_products": 42,
+  "total_images": 111,
+  "products": [
+    {
+      "id": 8300803915946,
+      "title": "UGG Tasman contrast-stitch slippers",
+      "handle": "ugg-tasman-contrast-stitch-slippers",
+      "url": "https://littledubai-ae.shop/products/ugg-tasman-contrast-stitch-slippers",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "UGG",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) UGG refreshes its signature Tasman slippers with the Tazz model: the familiar shape is elevated by a 38.1mm platform sole for extra cushioning. Crafted from supple suede, it's lined with a fuzzy UGGplush™ wool-lyocell blend for a soft feel underfoot.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653950292138,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950324906,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950357674,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950390442,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950423210,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950455978,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973627482282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22044354_51791956_1000.webp?v=1763665825",
+          "width": 1000,
+          "height": 1335
+        },
+        {
+          "id": 42973627515050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22044354_51791960_1000.webp?v=1763665825",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22044354_51791956_1000.webp?v=1763665825",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22044354_51791960_1000.webp?v=1763665825"
+      ],
+      "created_at": "2025-11-20T23:10:22+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8300803817642,
+      "title": "UGG Tazz Slipper 'Light Grey'",
+      "handle": "ugg-tazz-slipper-light-grey",
+      "url": "https://littledubai-ae.shop/products/ugg-tazz-slipper-light-grey",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "UGG",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) UGG refreshes its signature Tasman slippers with the Tazz model: the familiar shape is elevated by a 38.1mm platform sole for extra cushioning. Crafted from supple suede, it's lined with a fuzzy UGGplush™ wool-lyocell blend for a soft feel underfoot.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653950062762,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950095530,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950128298,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950161066,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950193834,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653950226602,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973626433706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_0041b521-3a87-4b55-ab30-326d4266884a.jpg?v=1763665823",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973626466474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_30760cac-dab1-43a7-b5c7-92c86c1fd6b9.jpg?v=1763665823",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973626499242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_38828113-fa3a-4de5-be4c-1dbbd67161e1.jpg?v=1763665823",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973626532010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_e8f8e143-5f0a-4f02-b4bb-7f15dc067f52.jpg?v=1763665823",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_0041b521-3a87-4b55-ab30-326d4266884a.jpg?v=1763665823",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_30760cac-dab1-43a7-b5c7-92c86c1fd6b9.jpg?v=1763665823",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_38828113-fa3a-4de5-be4c-1dbbd67161e1.jpg?v=1763665823",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_e8f8e143-5f0a-4f02-b4bb-7f15dc067f52.jpg?v=1763665823"
+      ],
+      "created_at": "2025-11-20T23:10:21+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8300803719338,
+      "title": "UGG Tazz Slipper 'Black'",
+      "handle": "ugg-tazz-slipper-black",
+      "url": "https://littledubai-ae.shop/products/ugg-tazz-slipper-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "UGG",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Designed with comfort in mind, these Tasman slippers are one of the latest signature styles from UGG. Lined with wool, this slip-on pair is crafted from suede with delicate exposed stitching for a playful finishing touch.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653948981418,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653949014186,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653949046954,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653949079722,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653949112490,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653949145258,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973625319594,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_e5cd189c-67b7-45a6-bc3e-ce97157268b3.jpg?v=1763665822",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973625352362,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_e0de2ef9-ca4d-4b4d-87ee-b200288c21ee.jpg?v=1763665822",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973625385130,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_b6622c1b-3307-4291-a04e-6b16e4ffa535.jpg?v=1763665822",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973625417898,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_a167825d-00f3-4c7c-ab49-c1bc3e1a000b.jpg?v=1763665822",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973625450666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_dcf39f2b-492a-442b-b892-c201b6405f0a.jpg?v=1763665822",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_e5cd189c-67b7-45a6-bc3e-ce97157268b3.jpg?v=1763665822",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_e0de2ef9-ca4d-4b4d-87ee-b200288c21ee.jpg?v=1763665822",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_b6622c1b-3307-4291-a04e-6b16e4ffa535.jpg?v=1763665822",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_a167825d-00f3-4c7c-ab49-c1bc3e1a000b.jpg?v=1763665822",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_dcf39f2b-492a-442b-b892-c201b6405f0a.jpg?v=1763665822"
+      ],
+      "created_at": "2025-11-20T23:10:20+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8300803653802,
+      "title": "UGG Tazz Slipper 'Chestnut'",
+      "handle": "ugg-tazz-slipper-chestnut",
+      "url": "https://littledubai-ae.shop/products/ugg-tazz-slipper-chestnut",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "UGG",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Designed with comfort in mind, these Tasman slippers are one of the latest signature styles from UGG. Lined with wool, this slip-on pair is crafted from suede with delicate exposed stitching for a playful finishing touch.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653948653738,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948686506,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948719274,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948752042,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948784810,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948817578,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973624664234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_361a0b72-bcaa-4f27-bb61-8ca63dea9a7d.jpg?v=1763665821",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973624697002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_06d76f2a-114d-4285-b39b-74312b643264.jpg?v=1763665821",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973624729770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_0e39ea0c-d3bd-4f4a-9f36-bb390b943011.jpg?v=1763665821",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973624762538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_35d0d0f1-0d85-4ca1-977a-2ebf165e27ab.jpg?v=1763665821",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42973624795306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_b1348093-a1a7-410d-933c-83ee5a0c77d3.jpg?v=1763665821",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_361a0b72-bcaa-4f27-bb61-8ca63dea9a7d.jpg?v=1763665821",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_06d76f2a-114d-4285-b39b-74312b643264.jpg?v=1763665821",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_0e39ea0c-d3bd-4f4a-9f36-bb390b943011.jpg?v=1763665821",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_35d0d0f1-0d85-4ca1-977a-2ebf165e27ab.jpg?v=1763665821",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_b1348093-a1a7-410d-933c-83ee5a0c77d3.jpg?v=1763665821"
+      ],
+      "created_at": "2025-11-20T23:10:19+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687730858,
+      "title": "HERMES Empire sandal \"Black\"",
+      "handle": "hermes-empire-sandal-black",
+      "url": "https://littledubai-ae.shop/products/hermes-empire-sandal-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) This is an authentic pair of HERMES Calfskin Womens Empire Sandals in Black. These sandals are crafted of black calfskin leather. They feature palladium hardware and leather-lined insoles.",
+      "price": "400.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630127071402,
+          "title": "36",
+          "price": "400.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127104170,
+          "title": "37",
+          "price": "400.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127136938,
+          "title": "38",
+          "price": "400.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127169706,
+          "title": "39",
+          "price": "400.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127202474,
+          "title": "40",
+          "price": "400.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127235242,
+          "title": "41",
+          "price": "400.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860753485994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_fe28820a-48ad-4394-810e-2f6799e52457.jpg?v=1763151002",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753518762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32_c963ec6b-04e5-4626-b832-d5b6b39a0326.jpg?v=1763151002",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753551530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_e5e2a5c6-c61a-4875-9dad-cd5501a7e787.jpg?v=1763151003",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753584298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_5ee8e23a-3b07-4617-9974-fcfaed1f7a68.jpg?v=1763151002",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753617066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_7499aaf5-8009-4a01-a61f-418e87356727.jpg?v=1763151002",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_fe28820a-48ad-4394-810e-2f6799e52457.jpg?v=1763151002",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32_c963ec6b-04e5-4626-b832-d5b6b39a0326.jpg?v=1763151002",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_e5e2a5c6-c61a-4875-9dad-cd5501a7e787.jpg?v=1763151003",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_5ee8e23a-3b07-4617-9974-fcfaed1f7a68.jpg?v=1763151002",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_7499aaf5-8009-4a01-a61f-418e87356727.jpg?v=1763151002"
+      ],
+      "created_at": "2025-11-15T00:10:00+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687567018,
+      "title": "Hermes Oran Sandal  iconic H\"Black\"",
+      "handle": "hermes-oran-sandal-iconic-hblack",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-iconic-hblack",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in Box calfskin with iconic \"H\" cut-out. An iconic Hermès style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630126252202,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126284970,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126317738,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126350506,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126383274,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126416042,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126448810,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860752535722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_e718f8bb-f055-4e7d-bf61-e4e6baf364a1.png?v=1763150998",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860752568490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_757af1cb-2c08-44d0-9158-ceef6ec765ae.png?v=1763150998",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860752601258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_e18a9142-ceec-4a15-8757-84c368b30d96.png?v=1763150998",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_e718f8bb-f055-4e7d-bf61-e4e6baf364a1.png?v=1763150998",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_757af1cb-2c08-44d0-9158-ceef6ec765ae.png?v=1763150998",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_e18a9142-ceec-4a15-8757-84c368b30d96.png?v=1763150998"
+      ],
+      "created_at": "2025-11-15T00:09:55+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687534250,
+      "title": "HERMES Oasis Sandal \"Rose Perle\"",
+      "handle": "hermes-oasis-sandal-rose-perle",
+      "url": "https://littledubai-ae.shop/products/hermes-oasis-sandal-rose-perle",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) High heel sandal in suede goatskin with iconic \"H\" cut-out and rhinestone details. An iconic Hermès style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630126022826,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126055594,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126088362,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126121130,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126153898,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126186666,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860752339114,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_7a63f4d3-364f-4bae-9284-e7796831a929.jpg?v=1763150996",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860752371882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_7ce27b0f-374b-47e4-abfd-0b50abdf1318.jpg?v=1763150996",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860752404650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_811dad49-e051-4f04-8de4-05b5f4028791.jpg?v=1763150996",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_7a63f4d3-364f-4bae-9284-e7796831a929.jpg?v=1763150996",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_7ce27b0f-374b-47e4-abfd-0b50abdf1318.jpg?v=1763150996",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_811dad49-e051-4f04-8de4-05b5f4028791.jpg?v=1763150996"
+      ],
+      "created_at": "2025-11-15T00:09:54+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687501482,
+      "title": "HERMES Oasis Sandal \"Black\"",
+      "handle": "hermes-oasis-sandal-black",
+      "url": "https://littledubai-ae.shop/products/hermes-oasis-sandal-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) High heel sandal in suede goatskin with iconic \"H\" cut-out and rhinestone details. An iconic Hermès style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630125826218,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630125858986,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630125891754,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630125924522,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630125957290,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630125990058,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860752240810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_9b69966b-0748-4a28-9d66-aaf8a07f721a.jpg?v=1763150994",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860752273578,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_4a15f8f2-e963-481b-99d8-c61fcea392c8.jpg?v=1763150994",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860752306346,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_58131275-6ddb-46fa-afd0-21ff4e1296f1.jpg?v=1763150994",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_9b69966b-0748-4a28-9d66-aaf8a07f721a.jpg?v=1763150994",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_4a15f8f2-e963-481b-99d8-c61fcea392c8.jpg?v=1763150994",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_58131275-6ddb-46fa-afd0-21ff4e1296f1.jpg?v=1763150994"
+      ],
+      "created_at": "2025-11-15T00:09:52+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687239338,
+      "title": "Hermès Leather Oasis Slide Sandals \"Black\"",
+      "handle": "hermes-leather-oasis-slide-sandals-black",
+      "url": "https://littledubai-ae.shop/products/hermes-leather-oasis-slide-sandals-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Techno-sandal in calfskin with anatomical rubber sole and adjustable strap. A sleek design for a comfortable and casual look.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630124253354,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124286122,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124318890,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124351658,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124384426,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124417194,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860751061162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_600e408c-e842-48f0-8e4e-5b9192f91bf0.png?v=1763150986",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860751093930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_0f8e1036-9be5-477a-a440-9f438f1beeab.png?v=1763150986",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860751126698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_0b7af39d-8a3e-4540-9561-7e7097b6ba10.png?v=1763150986",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860751159466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_e38e590d-1740-4670-9694-e16be999fd21.png?v=1763150987",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_600e408c-e842-48f0-8e4e-5b9192f91bf0.png?v=1763150986",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_0f8e1036-9be5-477a-a440-9f438f1beeab.png?v=1763150986",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_0b7af39d-8a3e-4540-9561-7e7097b6ba10.png?v=1763150986",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_e38e590d-1740-4670-9694-e16be999fd21.png?v=1763150987"
+      ],
+      "created_at": "2025-11-15T00:09:44+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687206570,
+      "title": "HERMES Oran Sandal \"Rose Perle\"",
+      "handle": "hermes-oran-sandal-rose-perle",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-rose-perle",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in calfskin with iconic \"H\" cut-out and rhinestone details. An iconic Hermès style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630124056746,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124089514,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124122282,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124155050,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124187818,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630124220586,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860750700714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_d5546ef9-bdad-4904-9984-885947eda848.jpg?v=1763150985",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750733482,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_2a8d343e-5d8f-47d8-81b1-61425e1d747a.jpg?v=1763150985",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750766250,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_dead706d-d0a2-4476-ab6d-2715244c1dbe.jpg?v=1763150985",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_d5546ef9-bdad-4904-9984-885947eda848.jpg?v=1763150985",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_2a8d343e-5d8f-47d8-81b1-61425e1d747a.jpg?v=1763150985",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_dead706d-d0a2-4476-ab6d-2715244c1dbe.jpg?v=1763150985"
+      ],
+      "created_at": "2025-11-15T00:09:43+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687108266,
+      "title": "Hermes Sandales Oran \"framboise\"",
+      "handle": "hermes-sandales-oran-framboise",
+      "url": "https://littledubai-ae.shop/products/hermes-sandales-oran-framboise",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The sandal is an invitation to travel. Its journey begins on the shores of Oran, warmed by the radiant sun. Then, alive with vibrant colors and geometric lines, it makes its way between Ndebele houses. Created in 1997 by Pierre Hardy and enhanced by the iconic H cut, its style is minimalist and timeless. From one collection to the next, this summer icon is constantly reimagined in a multitude of colors and materials.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630123303082,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123335850,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123368618,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123401386,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123434154,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123466922,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123499690,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860750373034,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/45_eed72d27-2a1f-4f32-86a2-80c4a7377d6c.png?v=1763150982",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750405802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/44_528936e8-3e50-41b8-bfa7-c499e0fc9411.png?v=1763150982",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750438570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/46_a3cb36b3-8e5b-4dc6-a4e7-dbbb3f0bbf6f.png?v=1763150982",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/45_eed72d27-2a1f-4f32-86a2-80c4a7377d6c.png?v=1763150982",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/44_528936e8-3e50-41b8-bfa7-c499e0fc9411.png?v=1763150982",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/46_a3cb36b3-8e5b-4dc6-a4e7-dbbb3f0bbf6f.png?v=1763150982"
+      ],
+      "created_at": "2025-11-15T00:09:40+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296687075498,
+      "title": "Hermes Sandales Oran \"bleu smalt\"",
+      "handle": "hermes-sandales-oran-bleu-smalt",
+      "url": "https://littledubai-ae.shop/products/hermes-sandales-oran-bleu-smalt",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The sandal is an invitation to travel. Its journey begins on the shores of Oran, warmed by the radiant sun. Then, alive with vibrant colors and geometric lines, it makes its way between Ndebele houses. Created in 1997 by Pierre Hardy and enhanced by the iconic H cut, its style is minimalist and timeless. From one collection to the next, this summer icon is constantly reimagined in a multitude of colors and materials.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630123073706,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123106474,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123139242,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123172010,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123204778,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123237546,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123270314,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860750274730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/54_b5214593-bc4c-4abd-a4e1-04be16269123.png?v=1763150981",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750307498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/53_effe8105-8c07-4df7-af34-bf96bfeb8b96.png?v=1763150981",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750340266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/55_836d75cc-f4aa-471e-b43c-01dbf5aeb52f.png?v=1763150982",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/54_b5214593-bc4c-4abd-a4e1-04be16269123.png?v=1763150981",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/53_effe8105-8c07-4df7-af34-bf96bfeb8b96.png?v=1763150981",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/55_836d75cc-f4aa-471e-b43c-01dbf5aeb52f.png?v=1763150982"
+      ],
+      "created_at": "2025-11-15T00:09:39+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296686977194,
+      "title": "Hermes Oran Sandal \"Rose Bougainvillier\"",
+      "handle": "hermes-oran-sandal-rose-bougainvillier",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-rose-bougainvillier",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in Epsom calfskin with iconic \"H\" cut-out. For a chic look, perfect for summer.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630122582186,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122614954,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122647722,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122680490,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122713258,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122746026,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122778794,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860750045354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_289c1cdc-b4f3-4a4a-946b-0829415fb44b.png?v=1763150980",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750078122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_4e00c98d-2b93-401d-892d-d9601128c7a6.png?v=1763150980",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750110890,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_b36d0d34-3380-4d51-8da3-c143c0b6e287.png?v=1763150980",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_289c1cdc-b4f3-4a4a-946b-0829415fb44b.png?v=1763150980",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_4e00c98d-2b93-401d-892d-d9601128c7a6.png?v=1763150980",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_b36d0d34-3380-4d51-8da3-c143c0b6e287.png?v=1763150980"
+      ],
+      "created_at": "2025-11-15T00:09:37+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296686878890,
+      "title": "Hermès Pre-Owned Oran slides \"White\"",
+      "handle": "hermes-pre-owned-oran-slides-white",
+      "url": "https://littledubai-ae.shop/products/hermes-pre-owned-oran-slides-white",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in Box calfskin with iconic \"H\" cut-out. An iconic Hermès style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630121926826,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121959594,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121992362,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122025130,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122057898,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630122090666,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860749652138,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/35_72bc09c3-2894-475c-a3b1-30179c7dfef1.png?v=1763150977",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749684906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/36_df52a617-a4a3-47b8-b5ca-899bf68efaa0.png?v=1763150977",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749717674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/37_df638eb7-d25c-49b9-a8f0-22b8ab5217da.png?v=1763150977",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/35_72bc09c3-2894-475c-a3b1-30179c7dfef1.png?v=1763150977",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/36_df52a617-a4a3-47b8-b5ca-899bf68efaa0.png?v=1763150977",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/37_df638eb7-d25c-49b9-a8f0-22b8ab5217da.png?v=1763150977"
+      ],
+      "created_at": "2025-11-15T00:09:35+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296686846122,
+      "title": "Hermès Oasis sandal \"Gold\"",
+      "handle": "hermes-oasis-sandal-gold",
+      "url": "https://littledubai-ae.shop/products/hermes-oasis-sandal-gold",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Techno-sandal in calfskin with anatomical rubber sole and adjustable strap. A sleek design for a comfortable and casual look.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630121730218,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121762986,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121795754,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121828522,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121861290,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121894058,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860749521066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_d0049b74-4fbf-4767-bd02-a8f57199794d.png?v=1763150976",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749553834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_930aaf98-0ac5-4caf-9228-638bea142988.png?v=1763150976",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749586602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_c86563f3-71f9-42ed-90fc-cf2e9b72fb82.png?v=1763150976",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749619370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_f6c135d9-43f9-44e3-a0ac-c5c53db842f6.png?v=1763150976",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_d0049b74-4fbf-4767-bd02-a8f57199794d.png?v=1763150976",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_930aaf98-0ac5-4caf-9228-638bea142988.png?v=1763150976",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_c86563f3-71f9-42ed-90fc-cf2e9b72fb82.png?v=1763150976",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_f6c135d9-43f9-44e3-a0ac-c5c53db842f6.png?v=1763150976"
+      ],
+      "created_at": "2025-11-15T00:09:34+04:00",
+      "updated_at": "2026-04-21T00:13:19+04:00"
+    },
+    {
+      "id": 8296686813354,
+      "title": "Hermes Oran Sandal \"Ice Blue\"",
+      "handle": "hermes-oran-sandal-ice-blue",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-ice-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in Epsom calfskin with iconic \"H\" cut-out. For a chic look, perfect for summer.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630121500842,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121533610,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121566378,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121599146,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121631914,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121664682,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121697450,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860749422762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_e590bed3-3e14-455e-abe0-19d96cb4599e.png?v=1763150975",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749455530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_016ef685-0399-487e-9e9b-7bf9a5d0118b.png?v=1763150975",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749488298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_f404dfac-b5c0-4f4a-8455-0c4eaca892c4.png?v=1763150975",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_e590bed3-3e14-455e-abe0-19d96cb4599e.png?v=1763150975",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_016ef685-0399-487e-9e9b-7bf9a5d0118b.png?v=1763150975",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_f404dfac-b5c0-4f4a-8455-0c4eaca892c4.png?v=1763150975"
+      ],
+      "created_at": "2025-11-15T00:09:33+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686780586,
+      "title": "HERMES Oran Sandal \"Violet Majorette\"",
+      "handle": "hermes-oran-sandal-violet-majorette",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-violet-majorette",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in calfskin with iconic \"H\" cut-out and rhinestone details. An iconic Hermès style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630121304234,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121337002,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121369770,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121402538,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121435306,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121468074,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860749324458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_99e98293-55a3-486c-91bc-8af578a1b999.jpg?v=1763150974",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749357226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_23549bb7-3808-43e6-9f59-cb37725c431f.jpg?v=1763150974",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749389994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_6609aa10-ecd7-4164-9130-5c51861e8278.jpg?v=1763150975",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_99e98293-55a3-486c-91bc-8af578a1b999.jpg?v=1763150974",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_23549bb7-3808-43e6-9f59-cb37725c431f.jpg?v=1763150974",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_6609aa10-ecd7-4164-9130-5c51861e8278.jpg?v=1763150975"
+      ],
+      "created_at": "2025-11-15T00:09:32+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686747818,
+      "title": "Hermes Sandales Oran \"Electric Green\"",
+      "handle": "hermes-sandales-oran-electric-green",
+      "url": "https://littledubai-ae.shop/products/hermes-sandales-oran-electric-green",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "التوصيل في جميع أنحاء الإمارات العربية المتحدة (1-2 يوم) الصندل دعوةٌ للسفر. بدايةً، إلى شواطئ وهران، مُدفأً بأشعة الشمس المُشرقة. ثم يشق طريقه بين منازل نديبيلي، مُنعشاً بألوانه النابضة بالحياة وخطوطه الهندسية. ابتكره بيير هاردي عام ١٩٩٧، مُقدماً أسلوباً بسيطاً وخالداً، مُعززاً بفتحة حرف H الشهيرة. في جميع مجموعاته، يُعيد هذا الرمز الصيفي ابتكار نفسه بحرية، بمجموعةٍ مُتنوعة من الألوان والخامات.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630121042090,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121074858,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121107626,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121140394,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121173162,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121205930,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630121238698,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860749226154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_140d2927-0a12-4376-be28-4aa3eb11316d.png?v=1763150973",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749258922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_309a2b5c-8734-4817-b719-a967244135e3.png?v=1763150973",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860749291690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_e32b2f52-9fe8-4353-8659-aff3a8b8c5c4.png?v=1763150974",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_140d2927-0a12-4376-be28-4aa3eb11316d.png?v=1763150973",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_309a2b5c-8734-4817-b719-a967244135e3.png?v=1763150973",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_e32b2f52-9fe8-4353-8659-aff3a8b8c5c4.png?v=1763150974"
+      ],
+      "created_at": "2025-11-15T00:09:31+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686649514,
+      "title": "HERMES Oran Sandal iconic \"H\" Black",
+      "handle": "hermes-oran-sandal-iconic-h-black",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-iconic-h-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in suede goatskin with iconic \"H\" cut-out and \"Arcane\" rhinestone motif. For a chic look.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630120550570,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120583338,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120616106,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120648874,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120681642,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120714410,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860748603562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_cb782c64-8dfa-4af4-bd76-6bcadd559101.png?v=1763150970",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748636330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_5960d478-4371-45cb-96e5-eda575aa354e.png?v=1763150970",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748669098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_b52deac7-e60c-4e52-95e6-91ba321b9a21.png?v=1763150970",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_cb782c64-8dfa-4af4-bd76-6bcadd559101.png?v=1763150970",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_5960d478-4371-45cb-96e5-eda575aa354e.png?v=1763150970",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_b52deac7-e60c-4e52-95e6-91ba321b9a21.png?v=1763150970"
+      ],
+      "created_at": "2025-11-15T00:09:28+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686616746,
+      "title": "Hermes Oran Sandal \"White\"",
+      "handle": "hermes-oran-sandal-white",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-white",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in Box calfskin with iconic \"H\" cut-out. An iconic Hermès style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630120321194,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120353962,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120386730,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120419498,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120452266,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120485034,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120517802,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860748472490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_1b3173eb-7458-4fee-89eb-44458dff5234.png?v=1763150969",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748505258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_8a126ba9-8148-46ac-ba53-1577dba9d26c.png?v=1763150969",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748538026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_2e2e5df0-fb4d-4b16-942e-9667d97fcc46.png?v=1763150970",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_1b3173eb-7458-4fee-89eb-44458dff5234.png?v=1763150969",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_8a126ba9-8148-46ac-ba53-1577dba9d26c.png?v=1763150969",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_2e2e5df0-fb4d-4b16-942e-9667d97fcc46.png?v=1763150970"
+      ],
+      "created_at": "2025-11-15T00:09:26+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686551210,
+      "title": "Hermès Oran Sandal \"Light Blue\"",
+      "handle": "hermes-oran-sandal-light-blue",
+      "url": "https://littledubai-ae.shop/products/hermes-oran-sandal-light-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Techno-sandal in denim and calfskin with anatomical rubber sole and adjustable strap. A sleek design for a comfortable casual look.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630119862442,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119895210,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119927978,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119960746,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119993514,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120026282,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860748243114,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_6ab9d8f8-4e2e-4d29-9f94-ad1296375bdb.png?v=1763150965",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748275882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Design_sans_titre_14.png?v=1763150965",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748308650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_8d83b0a9-ea59-4908-96dd-233bf9385087.png?v=1763150965",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_6ab9d8f8-4e2e-4d29-9f94-ad1296375bdb.png?v=1763150965",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Design_sans_titre_14.png?v=1763150965",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_8d83b0a9-ea59-4908-96dd-233bf9385087.png?v=1763150965"
+      ],
+      "created_at": "2025-11-15T00:09:22+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296685797546,
+      "title": "Hermès Leather Oasis Slide Sandals \"White\"",
+      "handle": "hermes-leather-oasis-slide-sandals-white",
+      "url": "https://littledubai-ae.shop/products/hermes-leather-oasis-slide-sandals-white",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Sandal in calfskin with iconic \"H\" cut-out. An iconic Hermes style, this silhouette is an essential piece in every wardrobe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630115274922,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115307690,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115340458,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115373226,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115405994,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115438762,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860745392298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_b7facc5a-7b2b-4df2-a2c5-608d6ef481f6.png?v=1763150942",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860745425066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_5992b68d-95c6-4cd0-8319-f5e6013c325d.png?v=1763150942",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860745457834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_dccdc918-fb1d-4ba0-9678-7347b73e6aae.png?v=1763150942",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_b7facc5a-7b2b-4df2-a2c5-608d6ef481f6.png?v=1763150942",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_5992b68d-95c6-4cd0-8319-f5e6013c325d.png?v=1763150942",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_dccdc918-fb1d-4ba0-9678-7347b73e6aae.png?v=1763150942"
+      ],
+      "created_at": "2025-11-15T00:08:59+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296685764778,
+      "title": "Hermes Sandales Oran \"bleu clair\"",
+      "handle": "hermes-sandales-oran-bleu-clair",
+      "url": "https://littledubai-ae.shop/products/hermes-sandales-oran-bleu-clair",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The sandal is an invitation to travel. Its journey begins on the shores of Oran, warmed by the radiant sun. Then, alive with vibrant colors and geometric lines, it makes its way between Ndebele houses. Created in 1997 by Pierre Hardy and enhanced by the iconic H cut, its style is minimalist and timeless. From one collection to the next, this summer icon is constantly reimagined in a multitude of colors and materials.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630115045546,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115078314,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115111082,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115143850,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115176618,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115209386,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115242154,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860744638634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/42_8238d9b7-3cfb-445f-81d9-db9bc344beb5.png?v=1763150941",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860744671402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/41_adb108b7-aab3-4436-bcc7-35ac212d2363.png?v=1763150941",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860744704170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/43_e4a2dfc2-1a87-4a0e-96ee-3fd89b030175.png?v=1763150941",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/42_8238d9b7-3cfb-445f-81d9-db9bc344beb5.png?v=1763150941",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/41_adb108b7-aab3-4436-bcc7-35ac212d2363.png?v=1763150941",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/43_e4a2dfc2-1a87-4a0e-96ee-3fd89b030175.png?v=1763150941"
+      ],
+      "created_at": "2025-11-15T00:08:58+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296685699242,
+      "title": "Hermes Sandales Oran \"Prunoir\"",
+      "handle": "hermes-sandales-oran-prunoir",
+      "url": "https://littledubai-ae.shop/products/hermes-sandales-oran-prunoir",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The sandal is an invitation to travel. Its journey begins on the shores of Oran, warmed by the radiant sun. Then, alive with vibrant colors and geometric lines, it makes its way between Ndebele houses. Created in 1997 by Pierre Hardy and enhanced by the iconic H cut, its style is minimalist and timeless. From one collection to the next, this summer icon is constantly reimagined in a multitude of colors and materials.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630114586794,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114619562,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114652330,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114685098,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114717866,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114750634,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114783402,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860743262378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Design_sans_titre.jpg?v=1763150938",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860743295146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/47_2e57da3e-26b1-4784-b44f-f64191c8214e.png?v=1763150939",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860743327914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/49_63a2fcdd-7ed1-4711-9e64-084b26b3c999.png?v=1763150939",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Design_sans_titre.jpg?v=1763150938",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/47_2e57da3e-26b1-4784-b44f-f64191c8214e.png?v=1763150939",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/49_63a2fcdd-7ed1-4711-9e64-084b26b3c999.png?v=1763150939"
+      ],
+      "created_at": "2025-11-15T00:08:56+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686289066,
+      "title": "Dior Slides",
+      "handle": "dior-slides",
+      "url": "https://littledubai-ae.shop/products/dior-slides",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "640.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630118387882,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118420650,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118453418,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118486186,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118518954,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118551722,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747620522,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1cc5cebda7803507ffe34509a1226b6f.jpg?v=1763150955",
+          "width": 640,
+          "height": 692
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1cc5cebda7803507ffe34509a1226b6f.jpg?v=1763150955"
+      ],
+      "created_at": "2025-11-15T00:09:12+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686387370,
+      "title": "Dior Slides",
+      "handle": "dior-slides-eoc3i",
+      "url": "https://littledubai-ae.shop/products/dior-slides-eoc3i",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "620.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630118977706,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "620.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119010474,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "620.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119043242,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "620.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119076010,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "620.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119108778,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "620.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119141546,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "620.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860748013738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ef9d145b32b480c045ea9d6eec18b3d5.jpg?v=1763150958",
+          "width": 736,
+          "height": 796
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ef9d145b32b480c045ea9d6eec18b3d5.jpg?v=1763150958"
+      ],
+      "created_at": "2025-11-15T00:09:16+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686583978,
+      "title": "Hermès Chypre Sandal \"Beige Perlino / Red H\"",
+      "handle": "hermes-chypre-sandal-beige-perlino-red-h",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandal-beige-perlino-red-h",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes Slides",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Techno-sandal in calfskin with anatomical rubber sole and adjustable strap. A sleek design for a comfortable and casual look.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630120059050,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120091818,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120124586,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120157354,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120190122,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630120222890,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860748341418,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/47_0f6453a7-4a05-4b3c-abc6-a7619ca35891.png?v=1763150967",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748374186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/46_da5fe4fc-6beb-4eba-848f-525cc2ab4f5d.png?v=1763150967",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860748406954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/48_3a960db7-3f41-4d8d-85df-34d8fc30cc68.png?v=1763150967",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/47_0f6453a7-4a05-4b3c-abc6-a7619ca35891.png?v=1763150967",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/46_da5fe4fc-6beb-4eba-848f-525cc2ab4f5d.png?v=1763150967",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/48_3a960db7-3f41-4d8d-85df-34d8fc30cc68.png?v=1763150967"
+      ],
+      "created_at": "2025-11-15T00:09:24+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296687665322,
+      "title": "HERMES Suede Goatskin Womens Chypre Sandals Rose Aphrodite",
+      "handle": "hermes-suede-goatskin-womens-chypre-sandals-rose-aphrodite",
+      "url": "https://littledubai-ae.shop/products/hermes-suede-goatskin-womens-chypre-sandals-rose-aphrodite",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) This is an authentic pair of HERMES Suede Goatskin Womens Chypre Sandals 38 in Rose Aphrodite. These stylish sandals are crafted of suede leather in dark pink. They feature a toe strap across-over large Hermes H and an adjustable strap.",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630126743722,
+          "title": "36",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126776490,
+          "title": "37",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126809258,
+          "title": "38",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126842026,
+          "title": "39",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126874794,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630126907562,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860753191082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_2711e13e-c866-48d0-b761-b708d30a3b03.jpg?v=1763151001",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753223850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_83bffe90-6cf0-462d-ab3a-7b54af020cb3.jpg?v=1763151001",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753256618,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_7659e80e-8d94-4fe3-ab4c-7bab4e56bca4.jpg?v=1763151001",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753289386,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_3b86a411-d59e-4cd6-9157-9db8e886b5f2.jpg?v=1763151001",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753322154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_8db0fb00-e57a-4b85-a4fd-7b126c2ab3b9.jpg?v=1763151001",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753354922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_a23bd9b3-a520-4ee3-8f8e-4530d08493ff.jpg?v=1763151001",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_2711e13e-c866-48d0-b761-b708d30a3b03.jpg?v=1763151001",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_83bffe90-6cf0-462d-ab3a-7b54af020cb3.jpg?v=1763151001",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_7659e80e-8d94-4fe3-ab4c-7bab4e56bca4.jpg?v=1763151001",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_3b86a411-d59e-4cd6-9157-9db8e886b5f2.jpg?v=1763151001",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_8db0fb00-e57a-4b85-a4fd-7b126c2ab3b9.jpg?v=1763151001",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_a23bd9b3-a520-4ee3-8f8e-4530d08493ff.jpg?v=1763151001"
+      ],
+      "created_at": "2025-11-15T00:09:59+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296685306026,
+      "title": "Hermes Chypre Sandals Black",
+      "handle": "hermes-chypre-sandals-black",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandals-black",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630111998122,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112030890,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112063658,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112096426,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112129194,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112161962,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112194730,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112227498,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112260266,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112293034,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860741066922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-used-shoes-p970377-003.jpg?v=1763150927",
+          "width": 750,
+          "height": 750
+        },
+        {
+          "id": 42860741099690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitleddesign_16.webp?v=1763150928",
+          "width": 2888,
+          "height": 2888
+        },
+        {
+          "id": 42860741132458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/pldchypresandl20-black_5.jpg?v=1763150927",
+          "width": 607,
+          "height": 850
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-used-shoes-p970377-003.jpg?v=1763150927",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitleddesign_16.webp?v=1763150928",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/pldchypresandl20-black_5.jpg?v=1763150927"
+      ],
+      "created_at": "2025-11-15T00:08:45+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296685437098,
+      "title": "Hermes Chypre Sandals \"White Leather\"",
+      "handle": "hermes-chypre-sandals-white-leather",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandals-white-leather",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630112981162,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113013930,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113046698,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113079466,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113112234,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113145002,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113177770,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113210538,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113243306,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113276074,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860741656746,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-new-shoes-p1018905-004.jpg?v=1763150932",
+          "width": 750,
+          "height": 750
+        },
+        {
+          "id": 42860741689514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15a-11.jpg?v=1763150932",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860741722282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Lux_Website_Template_Photo_1_1.webp?v=1763150932",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860741755050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/image_7c81b226-bff5-4453-b8a9-8373a1e6d4b4.webp?v=1763150932",
+          "width": 990,
+          "height": 990
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-new-shoes-p1018905-004.jpg?v=1763150932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15a-11.jpg?v=1763150932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Lux_Website_Template_Photo_1_1.webp?v=1763150932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/image_7c81b226-bff5-4453-b8a9-8373a1e6d4b4.webp?v=1763150932"
+      ],
+      "created_at": "2025-11-15T00:08:49+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296671019178,
+      "title": "Hermes Chypre Pink Orange Suede Sandals",
+      "handle": "nike-dunk-low-cacao-wow-iijnx",
+      "url": "https://littledubai-ae.shop/products/nike-dunk-low-cacao-wow-iijnx",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "229.00",
+      "price_currency": "AED",
+      "compare_at_price": "399.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629984104618,
+          "title": "36",
+          "price": "229.00",
+          "compare_at_price": "399.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629984137386,
+          "title": "37",
+          "price": "229.00",
+          "compare_at_price": "399.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629984170154,
+          "title": "38",
+          "price": "229.00",
+          "compare_at_price": "399.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629984202922,
+          "title": "39",
+          "price": "229.00",
+          "compare_at_price": "399.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629984235690,
+          "title": "40",
+          "price": "229.00",
+          "compare_at_price": "399.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629984268458,
+          "title": "41",
+          "price": "229.00",
+          "compare_at_price": "399.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860589973674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/bab70bb902f2d03a5912c8e44071d425.jpg?v=1763150449",
+          "width": 560,
+          "height": 560
+        },
+        {
+          "id": 42860590006442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.21.32_AM.jpg?v=1763150449",
+          "width": 360,
+          "height": 480
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/bab70bb902f2d03a5912c8e44071d425.jpg?v=1763150449",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.21.32_AM.jpg?v=1763150449"
+      ],
+      "created_at": "2025-11-15T00:00:47+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686452906,
+      "title": "Dior Slides",
+      "handle": "dior-slides-azazz",
+      "url": "https://littledubai-ae.shop/products/dior-slides-azazz",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "640.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630119403690,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119436458,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119469226,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119501994,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119534762,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630119567530,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "640.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860748079274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/dce50cd9e65354717ea0c89cc7152305.jpg?v=1763150962",
+          "width": 735,
+          "height": 740
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/dce50cd9e65354717ea0c89cc7152305.jpg?v=1763150962"
+      ],
+      "created_at": "2025-11-15T00:09:19+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296685633706,
+      "title": "Dolce & Gabbana Slides",
+      "handle": "dolce-gabbana-slides",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-slides",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "580.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630114160810,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114193578,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114226346,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114259114,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114291882,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114324650,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860742934698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ff035941b84c23cb0119b672a4ee0aa2.jpg?v=1763150937",
+          "width": 736,
+          "height": 981
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ff035941b84c23cb0119b672a4ee0aa2.jpg?v=1763150937"
+      ],
+      "created_at": "2025-11-15T00:08:54+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296685666474,
+      "title": "Dolce & Gabbana Slides",
+      "handle": "dolce-gabbana-slides-iltkk",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-slides-iltkk",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "580.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630114357418,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114390186,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114422954,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114455722,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114488490,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630114521258,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860742967466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9523a7af050f9202a30262cab7ca9e37.jpg?v=1763150938",
+          "width": 736,
+          "height": 981
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9523a7af050f9202a30262cab7ca9e37.jpg?v=1763150938"
+      ],
+      "created_at": "2025-11-15T00:08:55+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686125226,
+      "title": "Dolce & Gabbana Slides",
+      "handle": "dolce-gabbana-slides-nstuo",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-slides-nstuo",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "580.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630117535914,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117568682,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117601450,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117634218,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117666986,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117699754,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747391146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7322daab38e7555def773b3c1f4a068e.jpg?v=1763150951",
+          "width": 474,
+          "height": 632
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7322daab38e7555def773b3c1f4a068e.jpg?v=1763150951"
+      ],
+      "created_at": "2025-11-15T00:09:09+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686157994,
+      "title": "Dolce & Gabbana Slides",
+      "handle": "dolce-gabbana-slides-zzioz",
+      "url": "https://littledubai-ae.shop/products/dolce-gabbana-slides-zzioz",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "580.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630117732522,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117765290,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117798058,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117830826,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117863594,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117896362,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "580.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747489450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5f74904efc6b77047819bb6b054a31c3.jpg?v=1763150952",
+          "width": 736,
+          "height": 981
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5f74904efc6b77047819bb6b054a31c3.jpg?v=1763150952"
+      ],
+      "created_at": "2025-11-15T00:09:09+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686059690,
+      "title": "Hermes Slides",
+      "handle": "hermes-slides",
+      "url": "https://littledubai-ae.shop/products/hermes-slides",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630117142698,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117175466,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117208234,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117241002,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117273770,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117306538,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747325610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9b902cef-c292-41a1-bf55-8aad9772bb4f.jpg?v=1763150949",
+          "width": 1099,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9b902cef-c292-41a1-bf55-8aad9772bb4f.jpg?v=1763150949"
+      ],
+      "created_at": "2025-11-15T00:09:07+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686092458,
+      "title": "Hermes Slides",
+      "handle": "hermes-slides-4w2vy",
+      "url": "https://littledubai-ae.shop/products/hermes-slides-4w2vy",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630117339306,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117372074,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117404842,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117437610,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117470378,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117503146,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747358378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/0d8a3d234784dd8da27f7509925deb7e.jpg?v=1763150950",
+          "width": 736,
+          "height": 981
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/0d8a3d234784dd8da27f7509925deb7e.jpg?v=1763150950"
+      ],
+      "created_at": "2025-11-15T00:09:08+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686190762,
+      "title": "Hermes Slides",
+      "handle": "hermes-slides-iwsml",
+      "url": "https://littledubai-ae.shop/products/hermes-slides-iwsml",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630117929130,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117961898,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630117994666,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118027434,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118060202,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118092970,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747554986,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/f12e83cb6a577feee41915b8a8788071.jpg?v=1763150953",
+          "width": 736,
+          "height": 983
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/f12e83cb6a577feee41915b8a8788071.jpg?v=1763150953"
+      ],
+      "created_at": "2025-11-15T00:09:10+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686223530,
+      "title": "Hermes Slides",
+      "handle": "hermes-slides-namrl",
+      "url": "https://littledubai-ae.shop/products/hermes-slides-namrl",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630118158506,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118191274,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118224042,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118256810,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118289578,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118322346,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747587754,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ab2fdb2df530c52ff3cb9f638b6c3734.jpg?v=1763150954",
+          "width": 736,
+          "height": 981
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ab2fdb2df530c52ff3cb9f638b6c3734.jpg?v=1763150954"
+      ],
+      "created_at": "2025-11-15T00:09:11+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686321834,
+      "title": "Hermes Slides",
+      "handle": "hermes-slides-an2xz",
+      "url": "https://littledubai-ae.shop/products/hermes-slides-an2xz",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630118584490,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118617258,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118650026,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118682794,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118715562,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118748330,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747882666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2eb38a38f4757b3baa4532a5f57ac17f.jpg?v=1763150956",
+          "width": 736,
+          "height": 981
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2eb38a38f4757b3baa4532a5f57ac17f.jpg?v=1763150956"
+      ],
+      "created_at": "2025-11-15T00:09:13+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    },
+    {
+      "id": 8296686354602,
+      "title": "Hermes Slides",
+      "handle": "hermes-slides-cbiqh",
+      "url": "https://littledubai-ae.shop/products/hermes-slides-cbiqh",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630118781098,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118813866,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118846634,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118879402,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118912170,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630118944938,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "749.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747948202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/433bf799d79c0abdbf4bf4d7cae90acd.jpg?v=1763150957",
+          "width": 736,
+          "height": 754
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/433bf799d79c0abdbf4bf4d7cae90acd.jpg?v=1763150957"
+      ],
+      "created_at": "2025-11-15T00:09:15+04:00",
+      "updated_at": "2026-04-21T00:13:20+04:00"
+    }
+  ]
+}

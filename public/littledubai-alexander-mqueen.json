@@ -1,0 +1,679 @@
+{
+  "collection": "alexander-mqueen",
+  "source": "https://littledubai-ae.shop/collections/alexander-mqueen",
+  "scraped_at": "2026-04-20T20:47:52.433Z",
+  "total_products": 5,
+  "total_images": 23,
+  "products": [
+    {
+      "id": 8296691335338,
+      "title": "Alexander McQueen oversized sole sneakers \"Full Black\"",
+      "handle": "alexander-mcqueen-oversized-sole-sneakers-full-black",
+      "url": "https://littledubai-ae.shop/products/alexander-mcqueen-oversized-sole-sneakers-full-black",
+      "vendor": "CATCHY",
+      "product_type": "Alexander McQueen",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) oversized sole sneakers Instantly recognizable by their exaggerated sole, these black leather sneakers from Alexander McQueen will take your look to the next level. Featuring a lace-up front fastening, a brand embossed tongue, a brand embossed heel counter, a round toe and an oversized rubber sole, these sneakers can be worn paired with denim for a low key look or dressed up with tailored trousers. Alexander McQueen's sneakers are a dependable off-duty necessity. ALEXANDER MCQUEEN won't provide dust bags to sneakers anymore. Made in Italy Composition Sole: Rubber 100% Lining: Leather 100% Outer: Leather 100%",
+      "price": "359.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630144045226,
+          "title": "40",
+          "price": "359.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630144077994,
+          "title": "41",
+          "price": "359.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630144110762,
+          "title": "42",
+          "price": "359.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630144143530,
+          "title": "43",
+          "price": "359.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630144176298,
+          "title": "44",
+          "price": "359.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630144209066,
+          "title": "45",
+          "price": "359.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630144241834,
+          "title": "46",
+          "price": "359.00",
+          "compare_at_price": "499.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860767674538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12512181_11768354_1000.jpg?v=1763151090",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860767707306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_1_2df9b120-b83d-4fc0-a575-f9e9f7622915.jpg?v=1763151090",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860767740074,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_2_47e9d417-12e6-4f79-8462-905a0204a69f.jpg?v=1763151090",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860767772842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_3_d8b7e0ba-65f1-4bb1-8b69-4ee88f12c5c5.jpg?v=1763151090",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12512181_11768354_1000.jpg?v=1763151090",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_1_2df9b120-b83d-4fc0-a575-f9e9f7622915.jpg?v=1763151090",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_2_47e9d417-12e6-4f79-8462-905a0204a69f.jpg?v=1763151090",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_3_d8b7e0ba-65f1-4bb1-8b69-4ee88f12c5c5.jpg?v=1763151090"
+      ],
+      "created_at": "2025-11-15T00:11:28+04:00",
+      "updated_at": "2026-04-21T00:47:52+04:00"
+    },
+    {
+      "id": 8296708898986,
+      "title": "Alexander McQueen Oversized Sneaker 'White'",
+      "handle": "alexander-mcqueen-oversized-sneaker-white",
+      "url": "https://littledubai-ae.shop/products/alexander-mcqueen-oversized-sneaker-white",
+      "vendor": "dubaiallstar",
+      "product_type": "Alexander McQueen",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) White smooth calf leather lace-up sneaker with rounded toe and trimmed with black leather heel detail. Large flat laces and Alexander McQueen signature on tongue and heel counter. Oversized rubber sole. The sneaker comes with an additional set of white shoelaces. To lessen our environmental impact and to reduce cotton consumption, we will no longer be providing a dust bag with our sneakers.",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630175502506,
+          "title": "40",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175535274,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175568042,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175600810,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175633578,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175666346,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175699114,
+          "title": "46",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860874530986,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_a466280d-0d3a-418b-bee1-df68ae1baf11.jpg?v=1763151597",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860874563754,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_f721179a-a1d7-47e5-8935-008cc43efd75.jpg?v=1763151597",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860874596522,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_8456fac0-6a70-42f8-891e-774d0d6184dc.jpg?v=1763151597",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860874629290,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_43ba3105-636c-4c4b-8e2b-39b988b95bee.jpg?v=1763151597",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860874662058,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_d9d0d145-9cd0-464f-95e5-5fba0214eb0e.jpg?v=1763151597",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_a466280d-0d3a-418b-bee1-df68ae1baf11.jpg?v=1763151597",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_f721179a-a1d7-47e5-8935-008cc43efd75.jpg?v=1763151597",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_8456fac0-6a70-42f8-891e-774d0d6184dc.jpg?v=1763151597",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_43ba3105-636c-4c4b-8e2b-39b988b95bee.jpg?v=1763151597",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_d9d0d145-9cd0-464f-95e5-5fba0214eb0e.jpg?v=1763151597"
+      ],
+      "created_at": "2025-11-15T00:19:55+04:00",
+      "updated_at": "2026-04-21T00:47:52+04:00"
+    },
+    {
+      "id": 8296709259434,
+      "title": "Alexander McQueen Oversized Sneaker 'White Black'",
+      "handle": "alexander-mcqueen-oversized-sneaker-white-black-mfukg",
+      "url": "https://littledubai-ae.shop/products/alexander-mcqueen-oversized-sneaker-white-black-mfukg",
+      "vendor": "dubaiallstar",
+      "product_type": "Alexander McQueen",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) White smooth shiny classic calf leather lace up sneaker with oversized rounded rubber toe and black back details. Perforated air hole detail on sneaker. Kid leather lining and 7 hole metal eyelets. Flat large laces with Alexander McQueen logo on tongue and back counter. Oversized rubber sole. The sneaker comes with an additional set of white shoelaces. To lessen our environmental impact and to reduce cotton consumption, we will no longer be providing a dust bag with our sneakers.",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630178648234,
+          "title": "40",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178681002,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178713770,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178746538,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178779306,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178812074,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178844842,
+          "title": "46",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860882133162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_d96c8153-3faa-4b9e-bebb-880aff9b09a0.png?v=1763151612",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882165930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_1f5ab343-b57d-406b-b2d9-0d45408c6a0d.png?v=1763151611",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882198698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_c0841781-50e2-4cce-aa5e-e4081c575d94.png?v=1763151612",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882231466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_19548cad-3319-4a68-a385-094665dbd847.png?v=1763151611",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860882264234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_28520457-b188-4cd7-9f58-38dd3ae9120b.png?v=1763151611",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_d96c8153-3faa-4b9e-bebb-880aff9b09a0.png?v=1763151612",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_1f5ab343-b57d-406b-b2d9-0d45408c6a0d.png?v=1763151611",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_c0841781-50e2-4cce-aa5e-e4081c575d94.png?v=1763151612",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_19548cad-3319-4a68-a385-094665dbd847.png?v=1763151611",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_28520457-b188-4cd7-9f58-38dd3ae9120b.png?v=1763151611"
+      ],
+      "created_at": "2025-11-15T00:20:09+04:00",
+      "updated_at": "2026-04-21T00:47:52+04:00"
+    },
+    {
+      "id": 8296709980330,
+      "title": "Alexander McQueen Oversized Sneaker 'Black'",
+      "handle": "alexander-mcqueen-oversized-sneaker-black-xyjz7",
+      "url": "https://littledubai-ae.shop/products/alexander-mcqueen-oversized-sneaker-black-xyjz7",
+      "vendor": "dubaiallstar",
+      "product_type": "Alexander McQueen",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Black smooth calf leather sneaker with rounded toe and tonal black heel panel. Perforated air holes, large flat laces and Alexander McQueen signature on tongue and heel. Leather lined. Tonal black oversized rubber sole. To lessen our environmental impact and to reduce cotton consumption, we will no longer be providing a dust bag with our sneakers.",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630183235754,
+          "title": "40",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183268522,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183301290,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183334058,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183366826,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183399594,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183432362,
+          "title": "46",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860885573802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_3a9569ba-01dc-4f42-b24e-8ddbd512981d.png?v=1763151630",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885606570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_69386f56-b1bb-4c2a-87a9-b41220994d93.png?v=1763151630",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885639338,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_2d929a0d-562f-4edd-8378-2133697b547d.png?v=1763151630",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885672106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_3010f02c-bea9-41af-aaf8-eeb789279451.png?v=1763151630",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885704874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_eb5e8072-3159-47c8-9dfd-3318c0745691.png?v=1763151631",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_3a9569ba-01dc-4f42-b24e-8ddbd512981d.png?v=1763151630",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_69386f56-b1bb-4c2a-87a9-b41220994d93.png?v=1763151630",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_2d929a0d-562f-4edd-8378-2133697b547d.png?v=1763151630",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_3010f02c-bea9-41af-aaf8-eeb789279451.png?v=1763151630",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_eb5e8072-3159-47c8-9dfd-3318c0745691.png?v=1763151631"
+      ],
+      "created_at": "2025-11-15T00:20:28+04:00",
+      "updated_at": "2026-04-21T00:47:52+04:00"
+    },
+    {
+      "id": 8296710570154,
+      "title": "Alexander McQueen platform lace-up sneakers",
+      "handle": "alexander-mcqueen-platform-lace-up-sneakers",
+      "url": "https://littledubai-ae.shop/products/alexander-mcqueen-platform-lace-up-sneakers",
+      "vendor": "dubaiallstar",
+      "product_type": "Alexander McQueen",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) platform lace-up sneakers Home to the edgy and mysteriously alluring, Alexander McQueen is an encounter of finesse and duskiness. These black calf leather platform lace-up sneakers from Alexander McQueen feature a round toe, a contrasting heel counter and a contrasting lettering printed logo at the tongue. Made in Italy Composition Lining: Leather 100% Outer: Calf Leather 100% Sole: Rubber 100%",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630187331754,
+          "title": "36",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187364522,
+          "title": "37",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187397290,
+          "title": "38",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187430058,
+          "title": "39",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187462826,
+          "title": "40",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187495594,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860888785066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_42_8c960b6e-4fff-48d9-aef2-4903d1b9738d.jpg?v=1763151651",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888817834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_43_03624011-f448-4124-a99f-498679043f1f.jpg?v=1763151651",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888850602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_44_2856ffed-f405-4b5c-b47b-69479c73c20d.jpg?v=1763151651",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888883370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_45_13be775e-7419-45f9-b4b8-4bd8bcb48254.jpg?v=1763151651",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_42_8c960b6e-4fff-48d9-aef2-4903d1b9738d.jpg?v=1763151651",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_43_03624011-f448-4124-a99f-498679043f1f.jpg?v=1763151651",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_44_2856ffed-f405-4b5c-b47b-69479c73c20d.jpg?v=1763151651",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_45_13be775e-7419-45f9-b4b8-4bd8bcb48254.jpg?v=1763151651"
+      ],
+      "created_at": "2025-11-15T00:20:48+04:00",
+      "updated_at": "2026-04-21T00:47:52+04:00"
+    }
+  ]
+}

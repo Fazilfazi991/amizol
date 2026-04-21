@@ -1,0 +1,1445 @@
+{
+  "collection": "puma",
+  "source": "https://littledubai-ae.shop/collections/puma",
+  "scraped_at": "2026-04-20T20:53:13.433Z",
+  "total_products": 9,
+  "total_images": 51,
+  "products": [
+    {
+      "id": 8296656961706,
+      "title": "Puma Speedcat LS 'High Risk Red'",
+      "handle": "puma-speedcat-ls-high-risk-red",
+      "url": "https://littledubai-ae.shop/products/puma-speedcat-ls-high-risk-red",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Puma",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) A PUMA classic inspired by the speed of the racetrack: the Speedcat OG. It stands out from the crowd with its race-shoe inspired shape and sleek lines that look fast and bold. Bring motorsport to the street and own the low profile trend with this new version of the iconic silhouette.",
+      "price": "239.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629860405418,
+          "title": "36",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860438186,
+          "title": "37",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860470954,
+          "title": "38",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860503722,
+          "title": "39",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860536490,
+          "title": "40",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860569258,
+          "title": "41",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860602026,
+          "title": "42",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860634794,
+          "title": "43",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860667562,
+          "title": "44",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860700330,
+          "title": "45",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860435701930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_22d5a615-8ca9-402e-aa31-e18a30080bba.png?v=1763149940",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860435734698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_4d111074-49cb-4c66-995f-7c22c7649bf7.png?v=1763149940",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860435767466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_f6eed626-3db4-4f57-b8fa-70b88179494d.png?v=1763149940",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860435800234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_61ed7aa4-da9e-4bf7-83f6-2630f31b7b13.png?v=1763149940",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860435833002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_b7d41041-7cd2-4673-8403-10fa51119976.png?v=1763149941",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_22d5a615-8ca9-402e-aa31-e18a30080bba.png?v=1763149940",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_4d111074-49cb-4c66-995f-7c22c7649bf7.png?v=1763149940",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_f6eed626-3db4-4f57-b8fa-70b88179494d.png?v=1763149940",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_61ed7aa4-da9e-4bf7-83f6-2630f31b7b13.png?v=1763149940",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_b7d41041-7cd2-4673-8403-10fa51119976.png?v=1763149941"
+      ],
+      "created_at": "2025-11-14T23:52:18+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296656928938,
+      "title": "Puma Speedcat OG 'Black White'",
+      "handle": "puma-speedcat-og-black-white",
+      "url": "https://littledubai-ae.shop/products/puma-speedcat-og-black-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Puma",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) A PUMA classic inspired by the speed of the racetrack: the Speedcat OG. It stands out from the crowd with its race-shoe inspired shape and sleek lines that look fast and bold. Bring motorsport to the street and own the low profile trend with this new version of the iconic silhouette.",
+      "price": "239.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629860077738,
+          "title": "36",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860110506,
+          "title": "37",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860143274,
+          "title": "38",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860176042,
+          "title": "39",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860208810,
+          "title": "40",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860241578,
+          "title": "41",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860274346,
+          "title": "42",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860307114,
+          "title": "43",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860339882,
+          "title": "44",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860372650,
+          "title": "45",
+          "price": "239.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860435243178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_25867f1e-bdb4-4e64-86c3-376a30feaca2.png?v=1763149939",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860435275946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_fb6d58cf-d66b-4cdf-a668-b643c568a8b5.png?v=1763149939",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860435308714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_72276cd3-740b-4cd3-bea7-3eacfcb51490.png?v=1763149939",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860435341482,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_ae992c26-a7bb-40d7-afa6-5a22e0d9700c.png?v=1763149939",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_25867f1e-bdb4-4e64-86c3-376a30feaca2.png?v=1763149939",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_fb6d58cf-d66b-4cdf-a668-b643c568a8b5.png?v=1763149939",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_72276cd3-740b-4cd3-bea7-3eacfcb51490.png?v=1763149939",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_ae992c26-a7bb-40d7-afa6-5a22e0d9700c.png?v=1763149939"
+      ],
+      "created_at": "2025-11-14T23:52:17+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296657027242,
+      "title": "Puma CALI White",
+      "handle": "puma-cali-white",
+      "url": "https://littledubai-ae.shop/products/puma-cali-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "399.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629861028010,
+          "title": "39",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861060778,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861093546,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861126314,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861159082,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861191850,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861224618,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861257386,
+          "title": "46",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860435996842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIWhite_1.webp?v=1763149943",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436029610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIWhite_2.jpg?v=1763149943",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "id": 42860436062378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIWhite_3.webp?v=1763149943",
+          "width": 700,
+          "height": 466
+        },
+        {
+          "id": 42860436095146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-06-06at04.04.46_1cef3f61.jpg?v=1763149943",
+          "width": 824,
+          "height": 1099
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIWhite_1.webp?v=1763149943",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIWhite_2.jpg?v=1763149943",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIWhite_3.webp?v=1763149943",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-06-06at04.04.46_1cef3f61.jpg?v=1763149943"
+      ],
+      "created_at": "2025-11-14T23:52:21+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296657125546,
+      "title": "Puma RS-Fast Limiter Black & White",
+      "handle": "puma-rs-fast-limiter-black-white",
+      "url": "https://littledubai-ae.shop/products/puma-rs-fast-limiter-black-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "239.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629861847210,
+          "title": "39",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861879978,
+          "title": "40",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861912746,
+          "title": "41",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861945514,
+          "title": "42",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629861978282,
+          "title": "43",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862011050,
+          "title": "44",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862043818,
+          "title": "45",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862076586,
+          "title": "46",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860436521130,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw15.webp?v=1763149946",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436553898,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw18.webp?v=1763149946",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436586666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw9.webp?v=1763149947",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436619434,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw20.webp?v=1763149946",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436652202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw14.webp?v=1763149946",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436684970,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw16.webp?v=1763149946",
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw15.webp?v=1763149946",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw18.webp?v=1763149946",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw9.webp?v=1763149947",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw20.webp?v=1763149946",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw14.webp?v=1763149946",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/puma-rs-fast-limiter-bw16.webp?v=1763149946"
+      ],
+      "created_at": "2025-11-14T23:52:24+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296657256618,
+      "title": "PUMA RS-Fast Limiter Neon White Black",
+      "handle": "puma-rs-fast-limiter-neon-white-black",
+      "url": "https://littledubai-ae.shop/products/puma-rs-fast-limiter-neon-white-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "239.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629862666410,
+          "title": "39",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862699178,
+          "title": "40",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862731946,
+          "title": "41",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862764714,
+          "title": "42",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862797482,
+          "title": "43",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862830250,
+          "title": "44",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862863018,
+          "title": "45",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862895786,
+          "title": "46",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860437110954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_a81753a1-42fa-4b8d-bf74-63945a83329a.png?v=1763149953",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860437143722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_1.webp?v=1763149950",
+          "width": 601,
+          "height": 901
+        },
+        {
+          "id": 42860437176490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_3_abf8415a-7bd9-48c4-a93c-ce42e83c61c5.webp?v=1763149950",
+          "width": 700,
+          "height": 467
+        },
+        {
+          "id": 42860437209258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_5_d0449ea0-c965-4b02-bc6e-d680bf411f0b.webp?v=1763149950",
+          "width": 601,
+          "height": 901
+        },
+        {
+          "id": 42860437242026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_4_8f22b945-c189-46b9-a89f-c5eb6136edd9.jpg?v=1763149950",
+          "width": 642,
+          "height": 832
+        },
+        {
+          "id": 42860437274794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_5.webp?v=1763149950",
+          "width": 693,
+          "height": 832
+        },
+        {
+          "id": 42860437307562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_9.webp?v=1763149950",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860437340330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_7.webp?v=1763149950",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860437373098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_8.webp?v=1763149950",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860437405866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_3.webp?v=1763149950",
+          "width": 601,
+          "height": 901
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_a81753a1-42fa-4b8d-bf74-63945a83329a.png?v=1763149953",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_1.webp?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_3_abf8415a-7bd9-48c4-a93c-ce42e83c61c5.webp?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_5_d0449ea0-c965-4b02-bc6e-d680bf411f0b.webp?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_4_8f22b945-c189-46b9-a89f-c5eb6136edd9.jpg?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_5.webp?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_9.webp?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_7.webp?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_8.webp?v=1763149950",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PUMARS-FastLimiterNeonWhiteBlackSneakers_3.webp?v=1763149950"
+      ],
+      "created_at": "2025-11-14T23:52:28+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296657191082,
+      "title": "PUMA Park Lifestyle Sneakers White Black",
+      "handle": "puma-park-lifestyle-sneakers-white-black",
+      "url": "https://littledubai-ae.shop/products/puma-park-lifestyle-sneakers-white-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "239.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629862371498,
+          "title": "39",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862404266,
+          "title": "40",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862437034,
+          "title": "41",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862469802,
+          "title": "42",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862502570,
+          "title": "43",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862535338,
+          "title": "44",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862568106,
+          "title": "45",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862600874,
+          "title": "46",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860436914346,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2c6d64ee-f650-44b1-bbc4-a7f94469e227.webp?v=1763149949",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436947114,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_4_3aa12683-4074-4b8a-96f6-54a86b0e7935.webp?v=1763149949",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436979882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_1_6923f870-c86c-4807-a8fb-1d47725c1b2c.webp?v=1763149949",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860437012650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2_61e4b171-5b71-463a-b551-31b205eb3b11.webp?v=1763149949",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860437045418,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_5_9e663f0a-5c19-4025-9d55-3fb4a22856e4.webp?v=1763149949",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860437078186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_3_1b788814-4e1b-4704-84f9-4a67bbe6b360.webp?v=1763149949",
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2c6d64ee-f650-44b1-bbc4-a7f94469e227.webp?v=1763149949",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_4_3aa12683-4074-4b8a-96f6-54a86b0e7935.webp?v=1763149949",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_1_6923f870-c86c-4807-a8fb-1d47725c1b2c.webp?v=1763149949",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2_61e4b171-5b71-463a-b551-31b205eb3b11.webp?v=1763149949",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_5_9e663f0a-5c19-4025-9d55-3fb4a22856e4.webp?v=1763149949",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_3_1b788814-4e1b-4704-84f9-4a67bbe6b360.webp?v=1763149949"
+      ],
+      "created_at": "2025-11-14T23:52:27+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296657158314,
+      "title": "PUMA Park Lifestyle Sneakers Black White",
+      "handle": "puma-park-lifestyle-sneakers-black-white",
+      "url": "https://littledubai-ae.shop/products/puma-park-lifestyle-sneakers-black-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "239.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "46",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629862109354,
+          "title": "39",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862142122,
+          "title": "40",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862174890,
+          "title": "41",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862207658,
+          "title": "42",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862240426,
+          "title": "43",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862273194,
+          "title": "44",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862305962,
+          "title": "46",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629862338730,
+          "title": "45",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860436717738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2e2754bf-ecc8-4796-8bf2-e755ff89b8cb.webp?v=1763149948",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436750506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_6.webp?v=1763149948",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436783274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_4_fd4e3846-740b-4426-9093-86469dc2ef9a.webp?v=1763149948",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436816042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_5_8cdbbd26-9368-45de-9ff3-328651338f2f.webp?v=1763149948",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436848810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_7.webp?v=1763149948",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860436881578,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_3_e249e99d-04da-452d-99ed-d5cc5c0b79da.webp?v=1763149948",
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2e2754bf-ecc8-4796-8bf2-e755ff89b8cb.webp?v=1763149948",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_6.webp?v=1763149948",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_4_fd4e3846-740b-4426-9093-86469dc2ef9a.webp?v=1763149948",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_5_8cdbbd26-9368-45de-9ff3-328651338f2f.webp?v=1763149948",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_7.webp?v=1763149948",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_3_e249e99d-04da-452d-99ed-d5cc5c0b79da.webp?v=1763149948"
+      ],
+      "created_at": "2025-11-14T23:52:26+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296660369578,
+      "title": "PUMA Park Lifestyle Sneakers Beige White",
+      "handle": "puma-park-lifestyle-sneakers-beige-white",
+      "url": "https://littledubai-ae.shop/products/puma-park-lifestyle-sneakers-beige-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "239.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629891600554,
+          "title": "39",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629891633322,
+          "title": "40",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629891666090,
+          "title": "41",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629891698858,
+          "title": "42",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629891731626,
+          "title": "43",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629891764394,
+          "title": "44",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629891797162,
+          "title": "45",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629891829930,
+          "title": "46",
+          "price": "239.00",
+          "compare_at_price": "599.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860485247146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers.webp?v=1763150067",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860485279914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_4.webp?v=1763150066",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860485312682,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_1.webp?v=1763150066",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860485345450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2.webp?v=1763150066",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860485378218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_5.webp?v=1763150067",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860485410986,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_3.webp?v=1763150066",
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers.webp?v=1763150067",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_4.webp?v=1763150066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_1.webp?v=1763150066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_2.webp?v=1763150066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_5.webp?v=1763150067",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Park-Lifestyle-Sneakers_3.webp?v=1763150066"
+      ],
+      "created_at": "2025-11-14T23:54:24+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    },
+    {
+      "id": 8296656994474,
+      "title": "Puma CALI BOLD Black",
+      "handle": "puma-cali-bold-black",
+      "url": "https://littledubai-ae.shop/products/puma-cali-bold-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "399.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629860765866,
+          "title": "39",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860798634,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860831402,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860864170,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860896938,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860929706,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860962474,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629860995242,
+          "title": "46",
+          "price": "199.00",
+          "compare_at_price": "399.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860435865770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-06-06at04.03.53_c7856d9f.jpg?v=1763149942",
+          "width": 750,
+          "height": 750
+        },
+        {
+          "id": 42860435898538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIBOLDBlack_1_1.webp?v=1763149942",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860435931306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIBOLDBlack_2.webp?v=1763149942",
+          "width": 700,
+          "height": 823
+        },
+        {
+          "id": 42860435964074,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIBOLDBlack_1.webp?v=1763149942",
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-06-06at04.03.53_c7856d9f.jpg?v=1763149942",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIBOLDBlack_1_1.webp?v=1763149942",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIBOLDBlack_2.webp?v=1763149942",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PumaCALIBOLDBlack_1.webp?v=1763149942"
+      ],
+      "created_at": "2025-11-14T23:52:20+04:00",
+      "updated_at": "2026-04-21T00:53:13+04:00"
+    }
+  ]
+}

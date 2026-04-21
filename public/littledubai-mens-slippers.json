@@ -1,0 +1,4985 @@
+{
+  "collection": "mens-slippers",
+  "source": "https://littledubai-ae.shop/collections/mens-slippers",
+  "scraped_at": "2026-04-20T20:24:59.058Z",
+  "total_products": 45,
+  "total_images": 58,
+  "products": [
+    {
+      "id": 8296685338794,
+      "title": "Hermes Chypre Sandal \"Brown Suede\"",
+      "handle": "hermes-chypre-sandal-brown-suede",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandal-brown-suede",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Introduced in 2020, the Hermès Chypre sandal has quickly become a favorite for all H collectors—a sleek design for a comfortable casual look all year round. This pair is crafted from Etoupe suede with anatomical rubber soles and adjustable straps. This style comes with the original dust bag and box. This pre-owned pair will make a great contribution towards sustainability and an even greater contribution towards your wardrobe.",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "649.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630112325802,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112358570,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112391338,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112424106,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112456874,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112489642,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112522410,
+          "title": "46",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112555178,
+          "title": "47",
+          "price": "450.00",
+          "compare_at_price": "649.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860741165226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_1c83434c-5d97-4654-8126-d5e51f365c55.png?v=1763150929",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860741197994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_a1926548-1c53-4fe0-822b-693f63dcbc06.png?v=1763150929",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860741230762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_5834636d-f496-45b2-92bb-e23878e95aee.png?v=1763150929",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860741263530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_21f36066-928b-4795-b439-c756dcc68da2.png?v=1763150929",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_1c83434c-5d97-4654-8126-d5e51f365c55.png?v=1763150929",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_a1926548-1c53-4fe0-822b-693f63dcbc06.png?v=1763150929",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_5834636d-f496-45b2-92bb-e23878e95aee.png?v=1763150929",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_21f36066-928b-4795-b439-c756dcc68da2.png?v=1763150929"
+      ],
+      "created_at": "2025-11-15T00:08:46+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296687173802,
+      "title": "Hermes Chypre Sandal \"Bleu Minéral\"",
+      "handle": "hermes-chypre-sandal-bleu-mineral",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandal-bleu-mineral",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Techno-sandal in suede goatskin with anatomical rubber sole and adjustable strap. A sleek design for a comfortable and casual look.",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "649.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630123761834,
+          "title": "40",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123794602,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123827370,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123860138,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123892906,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123925674,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123958442,
+          "title": "46",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630123991210,
+          "title": "47",
+          "price": "399.00",
+          "compare_at_price": "649.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860750602410,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_2a92a54f-6264-475c-a7e2-77ad26dc637d.png?v=1763150984",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750635178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_cdfcac9d-ee10-4a9b-8a72-d2e8c622cf13.png?v=1763150984",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860750667946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_1ffae823-6605-4136-8661-22ac1026f333.png?v=1763150984",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_2a92a54f-6264-475c-a7e2-77ad26dc637d.png?v=1763150984",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_cdfcac9d-ee10-4a9b-8a72-d2e8c622cf13.png?v=1763150984",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_1ffae823-6605-4136-8661-22ac1026f333.png?v=1763150984"
+      ],
+      "created_at": "2025-11-15T00:09:42+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296687763626,
+      "title": "Hermes Chypre sandal \"Golden Brown\"",
+      "handle": "hermes-chypre-sandal-golden-brown",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandal-golden-brown",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Hermes",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Techno-sandal in woven ribbon and calfskin. An interlaced silhouette inspired by the \"H\" signature motif, a casual look perfect for summer.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "479.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630127268010,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "479.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127300778,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "479.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127333546,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "479.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127366314,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "479.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127399082,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "479.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127431850,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "479.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860753649834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_419ff861-c956-4793-b1ca-d90edd812264.png?v=1763151003",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753682602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_e03844cd-a81c-4d62-8fb7-2f492a3ceb29.png?v=1763151003",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860753715370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_b15346dd-971e-4457-8c61-50319c1f0a05.png?v=1763151003",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_419ff861-c956-4793-b1ca-d90edd812264.png?v=1763151003",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_e03844cd-a81c-4d62-8fb7-2f492a3ceb29.png?v=1763151003",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_b15346dd-971e-4457-8c61-50319c1f0a05.png?v=1763151003"
+      ],
+      "created_at": "2025-11-15T00:10:01+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296685437098,
+      "title": "Hermes Chypre Sandals \"White Leather\"",
+      "handle": "hermes-chypre-sandals-white-leather",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandals-white-leather",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630112981162,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113013930,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113046698,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113079466,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113112234,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113145002,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113177770,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113210538,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113243306,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113276074,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860741656746,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-new-shoes-p1018905-004.jpg?v=1763150932",
+          "width": 750,
+          "height": 750
+        },
+        {
+          "id": 42860741689514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15a-11.jpg?v=1763150932",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860741722282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Lux_Website_Template_Photo_1_1.webp?v=1763150932",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860741755050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/image_7c81b226-bff5-4453-b8a9-8373a1e6d4b4.webp?v=1763150932",
+          "width": 990,
+          "height": 990
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-new-shoes-p1018905-004.jpg?v=1763150932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15a-11.jpg?v=1763150932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Lux_Website_Template_Photo_1_1.webp?v=1763150932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/image_7c81b226-bff5-4453-b8a9-8373a1e6d4b4.webp?v=1763150932"
+      ],
+      "created_at": "2025-11-15T00:08:49+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296685306026,
+      "title": "Hermes Chypre Sandals Black",
+      "handle": "hermes-chypre-sandals-black",
+      "url": "https://littledubai-ae.shop/products/hermes-chypre-sandals-black",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630111998122,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112030890,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112063658,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112096426,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112129194,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112161962,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112194730,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112227498,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112260266,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630112293034,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860741066922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-used-shoes-p970377-003.jpg?v=1763150927",
+          "width": 750,
+          "height": 750
+        },
+        {
+          "id": 42860741099690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitleddesign_16.webp?v=1763150928",
+          "width": 2888,
+          "height": 2888
+        },
+        {
+          "id": 42860741132458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/pldchypresandl20-black_5.jpg?v=1763150927",
+          "width": 607,
+          "height": 850
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-hermes-used-shoes-p970377-003.jpg?v=1763150927",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitleddesign_16.webp?v=1763150928",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/pldchypresandl20-black_5.jpg?v=1763150927"
+      ],
+      "created_at": "2025-11-15T00:08:45+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296685273258,
+      "title": "Hermes Izmir Sandal",
+      "handle": "hermes-izmir-sandal",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630111637674,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111670442,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111703210,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111735978,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111768746,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111801514,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111834282,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111867050,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111899818,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111932586,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860741034154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ZTgEbd1fvdZRM9fKb7Hao4JjY6NCd9DAqK3DszE7.jpg?v=1763150927",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ZTgEbd1fvdZRM9fKb7Hao4JjY6NCd9DAqK3DszE7.jpg?v=1763150927"
+      ],
+      "created_at": "2025-11-15T00:08:44+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296705786026,
+      "title": "Hermes Izmir White",
+      "handle": "hermes-izmir-white-cibjj",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-white-cibjj",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630167703722,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167736490,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167769258,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167802026,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167834794,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167867562,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860851396778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Hermes-slipper-400-20.webp?v=1763151488",
+          "width": 900,
+          "height": 1000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Hermes-slipper-400-20.webp?v=1763151488"
+      ],
+      "created_at": "2025-11-15T00:18:06+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296705884330,
+      "title": "Hermes Izmir",
+      "handle": "hermes-izmir-wdk2w",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-wdk2w",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630168326314,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168359082,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168391850,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168424618,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168457386,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168490154,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860852838570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-58.jpg?v=1763151491",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-58.jpg?v=1763151491"
+      ],
+      "created_at": "2025-11-15T00:18:09+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296705720490,
+      "title": "Hermes Izmir Black",
+      "handle": "hermes-izmir-black",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630167310506,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167343274,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167376042,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167408810,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167441578,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167474346,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860850184362,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-59.jpg?v=1763151487",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-59.jpg?v=1763151487"
+      ],
+      "created_at": "2025-11-15T00:18:04+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296705982634,
+      "title": "Hermes Izmir Blue Finland",
+      "handle": "hermes-izmir-blue-finland-zipwh",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-blue-finland-zipwh",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630168916138,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168948906,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168981674,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169014442,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169047210,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169079978,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860853788842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-57_1.jpg?v=1763151494",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-57_1.jpg?v=1763151494"
+      ],
+      "created_at": "2025-11-15T00:18:12+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296705851562,
+      "title": "Hermes Izmir Navy Blue",
+      "handle": "hermes-izmir-navy-blue",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-navy-blue",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630168129706,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168162474,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168195242,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168228010,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168260778,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168293546,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860852347050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-58_2.jpg?v=1763151490",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-58_2.jpg?v=1763151490"
+      ],
+      "created_at": "2025-11-15T00:18:08+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296705687722,
+      "title": "Hermes Izmir White",
+      "handle": "hermes-izmir-white",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630167113898,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167146666,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167179434,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167212202,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167244970,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630167277738,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860849758378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_486037183_17952384689930398_865062996707571192_n.jpg?v=1763151487",
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_486037183_17952384689930398_865062996707571192_n.jpg?v=1763151487"
+      ],
+      "created_at": "2025-11-15T00:18:03+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296705917098,
+      "title": "Hermes Izmir White",
+      "handle": "hermes-izmir-white-0tgqn",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-white-0tgqn",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630168522922,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168555690,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168588458,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168621226,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168653994,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630168686762,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860853166250,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-58_1.jpg?v=1763151492",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PHOTO-2025-06-26-20-17-58_1.jpg?v=1763151492"
+      ],
+      "created_at": "2025-11-15T00:18:10+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296670888106,
+      "title": "Hermes Izmir Gold Sandals",
+      "handle": "nike-dunk-low-cacao-wow-atms0",
+      "url": "https://littledubai-ae.shop/products/nike-dunk-low-cacao-wow-atms0",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629983482026,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983514794,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983547562,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983580330,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983613098,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983645866,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860587810986,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.14.47_AM_2.jpg?v=1763150445",
+          "width": 906,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.14.47_AM_2.jpg?v=1763150445"
+      ],
+      "created_at": "2025-11-15T00:00:43+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296670789802,
+      "title": "Hermes Izmir Croco Black Sandals",
+      "handle": "nike-dunk-low-cacao-wow-tacxo",
+      "url": "https://littledubai-ae.shop/products/nike-dunk-low-cacao-wow-tacxo",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Sandals",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629982859434,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982892202,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982924970,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982957738,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982990506,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983023274,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860587647146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.14.46_AM.jpg?v=1763150442",
+          "width": 886,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.14.46_AM.jpg?v=1763150442"
+      ],
+      "created_at": "2025-11-15T00:00:40+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296670822570,
+      "title": "Hermes Izmir Black Sandals",
+      "handle": "nike-dunk-low-cacao-wow-a7jiv",
+      "url": "https://littledubai-ae.shop/products/nike-dunk-low-cacao-wow-a7jiv",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "369.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629983056042,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "369.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983088810,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "369.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983121578,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "369.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983154346,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "369.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983187114,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "369.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629983219882,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "369.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860587745450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.14.47_AM.jpg?v=1763150443",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-09_at_6.14.47_AM.jpg?v=1763150443"
+      ],
+      "created_at": "2025-11-15T00:00:41+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296706015402,
+      "title": "Dior Black Sandals",
+      "handle": "dior-black-sandals",
+      "url": "https://littledubai-ae.shop/products/dior-black-sandals",
+      "vendor": "Velluxe",
+      "product_type": "",
+      "description": "",
+      "price": "219.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630169276586,
+          "title": "40",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169309354,
+          "title": "41",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169342122,
+          "title": "42",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169374890,
+          "title": "43",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169407658,
+          "title": "44",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169440426,
+          "title": "45",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860853985450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.44_AM.jpg?v=1763151495",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.44_AM.jpg?v=1763151495"
+      ],
+      "created_at": "2025-11-15T00:18:13+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296706048170,
+      "title": "Dior Sandals",
+      "handle": "dior-sandals",
+      "url": "https://littledubai-ae.shop/products/dior-sandals",
+      "vendor": "Velluxe",
+      "product_type": "",
+      "description": "",
+      "price": "219.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630169604266,
+          "title": "40",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169637034,
+          "title": "41",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169669802,
+          "title": "42",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169702570,
+          "title": "43",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169735338,
+          "title": "44",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169768106,
+          "title": "45",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860854018218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.45_AM_1.jpg?v=1763151496",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.45_AM_1.jpg?v=1763151496"
+      ],
+      "created_at": "2025-11-15T00:18:14+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296706080938,
+      "title": "Dior Sandals",
+      "handle": "dior-sandals-nydag",
+      "url": "https://littledubai-ae.shop/products/dior-sandals-nydag",
+      "vendor": "Velluxe",
+      "product_type": "",
+      "description": "",
+      "price": "219.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630169931946,
+          "title": "40",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169964714,
+          "title": "41",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630169997482,
+          "title": "42",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170030250,
+          "title": "43",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170063018,
+          "title": "44",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170095786,
+          "title": "45",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860854050986,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.45_AM.jpg?v=1763151497",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.45_AM.jpg?v=1763151497"
+      ],
+      "created_at": "2025-11-15T00:18:14+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296706113706,
+      "title": "Hermes Sandals",
+      "handle": "hermes-sandals-exnsq",
+      "url": "https://littledubai-ae.shop/products/hermes-sandals-exnsq",
+      "vendor": "Velluxe",
+      "product_type": "",
+      "description": "",
+      "price": "219.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630170128554,
+          "title": "36",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170161322,
+          "title": "37",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170194090,
+          "title": "38",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170226858,
+          "title": "39",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170259626,
+          "title": "40",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170292394,
+          "title": "41",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170325162,
+          "title": "42",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170357930,
+          "title": "43",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170390698,
+          "title": "44",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170423466,
+          "title": "45",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860854083754,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.46_AM_1.jpg?v=1763151498",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.46_AM_1.jpg?v=1763151498"
+      ],
+      "created_at": "2025-11-15T00:18:16+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296706146474,
+      "title": "Hermes Sandals",
+      "handle": "hermes-sandals-bo86p",
+      "url": "https://littledubai-ae.shop/products/hermes-sandals-bo86p",
+      "vendor": "Velluxe",
+      "product_type": "",
+      "description": "",
+      "price": "219.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630170456234,
+          "title": "36",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170489002,
+          "title": "37",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170521770,
+          "title": "38",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170554538,
+          "title": "39",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170587306,
+          "title": "40",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170620074,
+          "title": "41",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170652842,
+          "title": "42",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170685610,
+          "title": "43",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170718378,
+          "title": "44",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630170751146,
+          "title": "45",
+          "price": "219.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860854149290,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.46_AM.jpg?v=1763151499",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-06-29_at_8.10.46_AM.jpg?v=1763151499"
+      ],
+      "created_at": "2025-11-15T00:18:16+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296685535402,
+      "title": "LV Men Slippers",
+      "handle": "lv-men-slippers",
+      "url": "https://littledubai-ae.shop/products/lv-men-slippers",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630113734826,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113767594,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113800362,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113833130,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113865898,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630113898666,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860742148266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/telechargement_3.jpg?v=1763150935",
+          "width": 736,
+          "height": 981
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/telechargement_3.jpg?v=1763150935"
+      ],
+      "created_at": "2025-11-15T00:08:53+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296685994154,
+      "title": "LV Men Slippers",
+      "handle": "lv-men-slippers-auhbs",
+      "url": "https://littledubai-ae.shop/products/lv-men-slippers-auhbs",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630116683946,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630116716714,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630116749482,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630116782250,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630116815018,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630116847786,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860747129002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis_Vittion_20240922_2024_LV_Slipper_man_0922_LV_sz38-45_mnf0315.jpg?v=1763150947",
+          "width": 736,
+          "height": 736
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis_Vittion_20240922_2024_LV_Slipper_man_0922_LV_sz38-45_mnf0315.jpg?v=1763150947"
+      ],
+      "created_at": "2025-11-15T00:09:05+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296688255146,
+      "title": "LV Men slippers",
+      "handle": "lv-men-slippers-0sajo",
+      "url": "https://littledubai-ae.shop/products/lv-men-slippers-0sajo",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630130249898,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630130282666,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630130315434,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630130348202,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630130380970,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630130413738,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860754600106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/telechargement_4.jpg?v=1763151016",
+          "width": 736,
+          "height": 736
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/telechargement_4.jpg?v=1763151016"
+      ],
+      "created_at": "2025-11-15T00:10:14+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296688058538,
+      "title": "Prada slippers",
+      "handle": "prada-slippers",
+      "url": "https://littledubai-ae.shop/products/prada-slippers",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630129004714,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129037482,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129070250,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129103018,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129135786,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129168554,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860754108586,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.44PM_1.jpg?v=1763151010",
+          "width": 960,
+          "height": 1209
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.44PM_1.jpg?v=1763151010"
+      ],
+      "created_at": "2025-11-15T00:10:08+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296688091306,
+      "title": "Prada slippers Black",
+      "handle": "prada-slippers-black",
+      "url": "https://littledubai-ae.shop/products/prada-slippers-black",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630129201322,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129234090,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129266858,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129299626,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129332394,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129365162,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860754141354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.43PM.jpg?v=1763151011",
+          "width": 960,
+          "height": 992
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.43PM.jpg?v=1763151011"
+      ],
+      "created_at": "2025-11-15T00:10:09+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296688025770,
+      "title": "Prada slippers Brown",
+      "handle": "prada-slippers-brown",
+      "url": "https://littledubai-ae.shop/products/prada-slippers-brown",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630128808106,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128840874,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128873642,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128906410,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128939178,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128971946,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860754075818,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.44PM.jpg?v=1763151010",
+          "width": 910,
+          "height": 1061
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.44PM.jpg?v=1763151010"
+      ],
+      "created_at": "2025-11-15T00:10:07+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296687993002,
+      "title": "Prada slippers Grey",
+      "handle": "prada-slippers-grey",
+      "url": "https://littledubai-ae.shop/products/prada-slippers-grey",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630128611498,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128644266,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128677034,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128709802,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128742570,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128775338,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860754043050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.45PM_1.jpg?v=1763151009",
+          "width": 862,
+          "height": 1172
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.45PM_1.jpg?v=1763151009"
+      ],
+      "created_at": "2025-11-15T00:10:07+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296688124074,
+      "title": "Prada Slippers Grey",
+      "handle": "prada-slippers-grey-ntxsy",
+      "url": "https://littledubai-ae.shop/products/prada-slippers-grey-ntxsy",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "280.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630129430698,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "280.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129463466,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "280.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129496234,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "280.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129529002,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "280.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129561770,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "280.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630129594538,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "280.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860754174122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.46PM.jpg?v=1763151012",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-26at2.22.46PM.jpg?v=1763151012"
+      ],
+      "created_at": "2025-11-15T00:10:10+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296687927466,
+      "title": "Loro Piana Slippers Blue",
+      "handle": "loro-piana-slippers-blue",
+      "url": "https://littledubai-ae.shop/products/loro-piana-slippers-blue",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630128349354,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128382122,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128414890,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128447658,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128480426,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128513194,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860754010282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.08AM.jpg?v=1763151008",
+          "width": 1080,
+          "height": 948
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.08AM.jpg?v=1763151008"
+      ],
+      "created_at": "2025-11-15T00:10:06+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296685830314,
+      "title": "Loro Piana Slippers Brown",
+      "handle": "loro-piana-slippers-brown",
+      "url": "https://littledubai-ae.shop/products/loro-piana-slippers-brown",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630115831978,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115864746,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115897514,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115930282,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115963050,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630115995818,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860746244266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.06AM.jpg?v=1763150943",
+          "width": 1290,
+          "height": 1286
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.06AM.jpg?v=1763150943"
+      ],
+      "created_at": "2025-11-15T00:09:01+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296687894698,
+      "title": "Loro Piana Slippers Grey",
+      "handle": "loro-piana-slippers-grey",
+      "url": "https://littledubai-ae.shop/products/loro-piana-slippers-grey",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630128152746,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128185514,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128218282,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128251050,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128283818,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128316586,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860753977514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.07AM_2.jpg?v=1763151006",
+          "width": 1050,
+          "height": 965
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.07AM_2.jpg?v=1763151006"
+      ],
+      "created_at": "2025-11-15T00:10:04+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296687829162,
+      "title": "Loro Piana Slippers",
+      "handle": "loro-piana-slippers",
+      "url": "https://littledubai-ae.shop/products/loro-piana-slippers",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630127759530,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127792298,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127825066,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127857834,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127890602,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127923370,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860753846442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.07AM.jpg?v=1763151005",
+          "width": 1076,
+          "height": 954
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.07AM.jpg?v=1763151005"
+      ],
+      "created_at": "2025-11-15T00:10:03+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8296687861930,
+      "title": "Loro Piana Slippers Black",
+      "handle": "loro-piana-slippers-black",
+      "url": "https://littledubai-ae.shop/products/loro-piana-slippers-black",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630127956138,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630127988906,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128021674,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128054442,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128087210,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630128119978,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860753879210,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.07AM_1.jpg?v=1763151006",
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-05-27at12.32.07AM_1.jpg?v=1763151006"
+      ],
+      "created_at": "2025-11-15T00:10:03+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300802605226,
+      "title": "Hermes Go Mule Suede Black",
+      "handle": "hermes-go-mule-suede-black",
+      "url": "https://littledubai-ae.shop/products/hermes-go-mule-suede-black",
+      "vendor": "Mavetti Dxb",
+      "product_type": "",
+      "description": "",
+      "price": "500.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653944492202,
+          "title": "40",
+          "price": "500.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944524970,
+          "title": "41",
+          "price": "500.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944557738,
+          "title": "42",
+          "price": "500.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944590506,
+          "title": "43",
+          "price": "500.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944623274,
+          "title": "44",
+          "price": "500.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944656042,
+          "title": "45",
+          "price": "500.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944688810,
+          "title": "46",
+          "price": "500.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623419050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_550799702_17919655725156055_8628190580915402869_n.jpg?v=1763665807",
+          "width": 1080,
+          "height": 1090
+        },
+        {
+          "id": 42973623451818,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_549208420_17919655716156055_3272115184499238532_n.jpg?v=1763665807",
+          "width": 1080,
+          "height": 1088
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_550799702_17919655725156055_8628190580915402869_n.jpg?v=1763665807",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_549208420_17919655716156055_3272115184499238532_n.jpg?v=1763665807"
+      ],
+      "created_at": "2025-11-20T23:10:05+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300802703530,
+      "title": "Hermes Izmir Sandal Grey Suede",
+      "handle": "hermes-izmir-sandal-1",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal-1",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653944819882,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944852650,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944885418,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944918186,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944950954,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944983722,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945016490,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623550122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.34_AM_1.jpg?v=1763665808",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.34_AM_1.jpg?v=1763665808"
+      ],
+      "created_at": "2025-11-20T23:10:06+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300802801834,
+      "title": "Hermes Izmir Sandal Suede Gold calfskin",
+      "handle": "hermes-izmir-sandal-grey-suede-copy",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal-grey-suede-copy",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653945376938,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945409706,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945442474,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945475242,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945508010,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945540778,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945573546,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623648426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.34_AM.jpg?v=1763665809",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.34_AM.jpg?v=1763665809"
+      ],
+      "created_at": "2025-11-20T23:10:07+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300802867370,
+      "title": "Hermes Izmir Sandal Gold",
+      "handle": "hermes-izmir-sandal-suede-gold-calfskin",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal-suede-gold-calfskin",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653945671850,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945704618,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945737386,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945770154,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945802922,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945835690,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653945868458,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623746730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.35_AM.jpg?v=1763665811",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.35_AM.jpg?v=1763665811"
+      ],
+      "created_at": "2025-11-20T23:10:09+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300802998442,
+      "title": "Hermes Izmir Sandal Blue",
+      "handle": "hermes-izmir-sandal-gold-copy",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal-gold-copy",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653945999530,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946032298,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946065066,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946097834,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946130602,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946163370,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946196138,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623877802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.08_AM.jpg?v=1763665812",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.08_AM.jpg?v=1763665812"
+      ],
+      "created_at": "2025-11-20T23:10:10+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300803063978,
+      "title": "Hermes Izmir Sandal White",
+      "handle": "hermes-izmir-sandal-blue",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal-blue",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653946359978,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946392746,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946425514,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946458282,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946491050,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946523818,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946556586,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973624008874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.09_AM_1.jpg?v=1763665814",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.09_AM_1.jpg?v=1763665814"
+      ],
+      "created_at": "2025-11-20T23:10:11+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300803195050,
+      "title": "Hermes Izmir Sandal Croc Black",
+      "handle": "hermes-izmir-sandal-white-copy",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal-white-copy",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653946785962,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946818730,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946851498,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946884266,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946917034,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946949802,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653946982570,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973624107178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.36_AM_1.jpg?v=1763665815",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.13.36_AM_1.jpg?v=1763665815"
+      ],
+      "created_at": "2025-11-20T23:10:12+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300803260586,
+      "title": "Kazimir Sandal - Black White",
+      "handle": "hermes-izmir-sandal-croc-black-copy",
+      "url": "https://littledubai-ae.shop/products/hermes-izmir-sandal-croc-black-copy",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653947080874,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947113642,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947146410,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947179178,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947211946,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947244714,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947277482,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973624172714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.48_AM_1.jpg?v=1763665816",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.48_AM_1.jpg?v=1763665816"
+      ],
+      "created_at": "2025-11-20T23:10:14+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300803326122,
+      "title": "Kazimir Sandal - Black Orange",
+      "handle": "kazimir-sandal-black-white-copy",
+      "url": "https://littledubai-ae.shop/products/kazimir-sandal-black-white-copy",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653947441322,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947474090,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947506858,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947539626,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947572394,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947605162,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947637930,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973624271018,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.48_AM_2.jpg?v=1763665817",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.48_AM_2.jpg?v=1763665817"
+      ],
+      "created_at": "2025-11-20T23:10:15+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300803457194,
+      "title": "Kazimir Sandal - Black",
+      "handle": "kazimir-sandal-black-orange-copy",
+      "url": "https://littledubai-ae.shop/products/kazimir-sandal-black-orange-copy",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653947965610,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653947998378,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948031146,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948063914,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948096682,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948129450,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948162218,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973624434858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.49_AM.jpg?v=1763665818",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.49_AM.jpg?v=1763665818"
+      ],
+      "created_at": "2025-11-20T23:10:16+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    },
+    {
+      "id": 8300803522730,
+      "title": "Kazimir Sandal - Blue",
+      "handle": "kazimir-sandal-black",
+      "url": "https://littledubai-ae.shop/products/kazimir-sandal-black",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "270.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653948293290,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948326058,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948358826,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948391594,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948424362,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948457130,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653948489898,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "270.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973624533162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.49_AM_1.jpg?v=1763665820",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-11-14_at_4.12.49_AM_1.jpg?v=1763665820"
+      ],
+      "created_at": "2025-11-20T23:10:17+04:00",
+      "updated_at": "2026-04-21T00:24:59+04:00"
+    }
+  ]
+}

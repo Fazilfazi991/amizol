@@ -1,0 +1,942 @@
+{
+  "collection": "timberland",
+  "source": "https://littledubai-ae.shop/collections/timberland",
+  "scraped_at": "2026-04-20T20:47:52.428Z",
+  "total_products": 7,
+  "total_images": 12,
+  "products": [
+    {
+      "id": 8423120863402,
+      "title": "Timberland Waterproof Boot \"Ghost White\"",
+      "handle": "timberland-waterproof-boot-ghost-white",
+      "url": "https://littledubai-ae.shop/products/timberland-waterproof-boot-ghost-white",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219783397546,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783430314,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783463082,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783495850,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783528618,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783561386,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783594154,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783626922,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219783659690,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606259495082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TBOA1M6Q-1.webp?v=1776344564",
+          "width": 990,
+          "height": 990
+        },
+        {
+          "id": 44606259527850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TBOA1M6Q-2.webp?v=1776344564",
+          "width": 990,
+          "height": 990
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TBOA1M6Q-1.webp?v=1776344564",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TBOA1M6Q-2.webp?v=1776344564"
+      ],
+      "created_at": "2026-04-16T17:02:41+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423120765098,
+      "title": "TIMBERLAND BOOTS Light Pink",
+      "handle": "timberland-boots-light-pink",
+      "url": "https://littledubai-ae.shop/products/timberland-boots-light-pink",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219782774954,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782807722,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782840490,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782873258,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782906026,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782938794,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782971562,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606258970794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/lMyRrcfLXMPCT8SBhzUIjJ8tateLHe3rMfpoNqqG.jpg?v=1776344562",
+          "width": 640,
+          "height": 424
+        },
+        {
+          "id": 44606259003562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/u8YiHIB2t39w3KMcKuuExUI0y2K3mD5yWoy88X2i.jpg?v=1776344562",
+          "width": 640,
+          "height": 424
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/lMyRrcfLXMPCT8SBhzUIjJ8tateLHe3rMfpoNqqG.jpg?v=1776344562",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/u8YiHIB2t39w3KMcKuuExUI0y2K3mD5yWoy88X2i.jpg?v=1776344562"
+      ],
+      "created_at": "2026-04-16T17:02:39+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423120699562,
+      "title": "Timberland Boots Olive green",
+      "handle": "timberland-boots-olive-green",
+      "url": "https://littledubai-ae.shop/products/timberland-boots-olive-green",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219782316202,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782348970,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782381738,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782414506,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782447274,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782480042,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782512810,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219782545578,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606258839722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG-20201114-WA0055.jpg?v=1776344562",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG-20201114-WA0055.jpg?v=1776344562"
+      ],
+      "created_at": "2026-04-16T17:02:37+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423120568490,
+      "title": "Timberland Gray 6 Inch Premium Boots 'Light'",
+      "handle": "timberland-gray-6-inch-premium-boots-light",
+      "url": "https://littledubai-ae.shop/products/timberland-gray-6-inch-premium-boots-light",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219781628074,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781660842,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781693610,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781726378,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781759146,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781791914,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781824682,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781857450,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781890218,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606258479274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/00031_10000ISX6IP_png.webp?v=1776344557",
+          "width": 600,
+          "height": 443
+        },
+        {
+          "id": 44606258512042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/timberland-grey-Wmns-6-Inch-Premium-Boots-Light.webp?v=1776344558",
+          "width": 1040,
+          "height": 1300
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/00031_10000ISX6IP_png.webp?v=1776344557",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/timberland-grey-Wmns-6-Inch-Premium-Boots-Light.webp?v=1776344558"
+      ],
+      "created_at": "2026-04-16T17:02:35+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423120470186,
+      "title": "Timberland® 50th Anniversary Edition Boot Medium Red Nubuck",
+      "handle": "timberland®-50th-anniversary-edition-boot-medium-red-nubuck",
+      "url": "https://littledubai-ae.shop/products/timberland®-50th-anniversary-edition-boot-medium-red-nubuck",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219780972714,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781005482,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781038250,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781071018,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781103786,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781136554,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781169322,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781202090,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219781234858,
+          "title": "46",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606258282666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Womens-Timberland-50th-Anniversary-Edition-6Inch-Waterproof-Boot-TBL-Medium-Red-Nubuck-HERO.jpg?v=1776344555",
+          "width": 1300,
+          "height": 1300
+        },
+        {
+          "id": 44606258315434,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Womens-Timberland-50th-Anniversary-Edition-6Inch-Waterproof-Boot-TBL-Medium-Red-Nubuck-ALT2.jpg?v=1776344555",
+          "width": 1300,
+          "height": 1300
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Womens-Timberland-50th-Anniversary-Edition-6Inch-Waterproof-Boot-TBL-Medium-Red-Nubuck-HERO.jpg?v=1776344555",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Womens-Timberland-50th-Anniversary-Edition-6Inch-Waterproof-Boot-TBL-Medium-Red-Nubuck-ALT2.jpg?v=1776344555"
+      ],
+      "created_at": "2026-04-16T17:02:32+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423120371882,
+      "title": "Timberland 6-Inch Boot Blue",
+      "handle": "timberland-6-inch-boot-blue",
+      "url": "https://littledubai-ae.shop/products/timberland-6-inch-boot-blue",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219780186282,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780219050,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780251818,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780284586,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780317354,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780350122,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780382890,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780415658,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219780448426,
+          "title": "46",
+          "price": "349.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606257922218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Timberland-Boots-Navy-Blue.webp?v=1776344553",
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Timberland-Boots-Navy-Blue.webp?v=1776344553"
+      ],
+      "created_at": "2026-04-16T17:02:30+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    },
+    {
+      "id": 8423120273578,
+      "title": "Timberland®  Boot Wheat",
+      "handle": "timberland®-6-inch-waterproof-boot",
+      "url": "https://littledubai-ae.shop/products/timberland®-6-inch-waterproof-boot",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219779432618,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779465386,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779498154,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779530922,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779563690,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779596458,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779629226,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779661994,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219779694762,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606257561770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Mens-Timberland-Premium-6Inch-Waterproof-Boot-TBL-Wheat-Nubuck-HERO_63b5ed87-060b-46a3-8e34-be105158146a.jpg?v=1776344551",
+          "width": 1300,
+          "height": 1300
+        },
+        {
+          "id": 44606257594538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Mens-Timberland-Premium-6Inch-Waterproof-Boot-TBL-Wheat-Nubuck-ALT2_f4959503-d643-4002-85aa-b181b032ef55.jpg?v=1776344551",
+          "width": 1300,
+          "height": 1300
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Mens-Timberland-Premium-6Inch-Waterproof-Boot-TBL-Wheat-Nubuck-HERO_63b5ed87-060b-46a3-8e34-be105158146a.jpg?v=1776344551",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Mens-Timberland-Premium-6Inch-Waterproof-Boot-TBL-Wheat-Nubuck-ALT2_f4959503-d643-4002-85aa-b181b032ef55.jpg?v=1776344551"
+      ],
+      "created_at": "2026-04-16T17:02:28+04:00",
+      "updated_at": "2026-04-21T00:47:51+04:00"
+    }
+  ]
+}

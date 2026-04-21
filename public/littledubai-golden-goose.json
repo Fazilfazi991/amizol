@@ -1,0 +1,1952 @@
+{
+  "collection": "golden-goose",
+  "source": "https://littledubai-ae.shop/collections/golden-goose",
+  "scraped_at": "2026-04-20T20:53:13.428Z",
+  "total_products": 14,
+  "total_images": 46,
+  "products": [
+    {
+      "id": 8296656765098,
+      "title": "Golden Goose Super-Star distressed-finish sneakers",
+      "handle": "golden-goose-super-star-distressed-finish-sneakers",
+      "url": "https://littledubai-ae.shop/products/golden-goose-super-star-distressed-finish-sneakers",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629858635946,
+          "title": "36",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858668714,
+          "title": "37",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858701482,
+          "title": "38",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858734250,
+          "title": "39",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858767018,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858799786,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858832554,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858865322,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858898090,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858930858,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860434653354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_31966e0c-ca5f-4e85-a171-d07776f760a2.png?v=1763149935",
+          "width": 3438,
+          "height": 5156
+        },
+        {
+          "id": 42860434686122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28919329_1000.webp?v=1763149932",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860434718890,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28919330_1000.webp?v=1763149932",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860434751658,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28923066_1000.webp?v=1763149933",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860434784426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28922499_1000.webp?v=1763149933",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_31966e0c-ca5f-4e85-a171-d07776f760a2.png?v=1763149935",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28919329_1000.webp?v=1763149932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28919330_1000.webp?v=1763149932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28923066_1000.webp?v=1763149933",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15802200_28922499_1000.webp?v=1763149933"
+      ],
+      "created_at": "2025-11-14T23:52:10+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8300802179242,
+      "title": "Golden Goose Sneaker",
+      "handle": "golden-goose-sneaker-1",
+      "url": "https://littledubai-ae.shop/products/golden-goose-sneaker-1",
+      "vendor": "Mavetti Dxb",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "990.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653941149866,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941182634,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941215402,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941248170,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941280938,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941313706,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941346474,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973622763690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_572805844_17924839905156055_7761550150987014179_n.jpg?v=1763665801",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42973622796458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573909273_17924839917156055_2963846875677980638_n.jpg?v=1763665801",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_572805844_17924839905156055_7761550150987014179_n.jpg?v=1763665801",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573909273_17924839917156055_2963846875677980638_n.jpg?v=1763665801"
+      ],
+      "created_at": "2025-11-20T23:09:58+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8300802277546,
+      "title": "Golden Goose Sneaker",
+      "handle": "golden-goose-sneaker-2",
+      "url": "https://littledubai-ae.shop/products/golden-goose-sneaker-2",
+      "vendor": "Mavetti Dxb",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "990.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653941837994,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941870762,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941903530,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941936298,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653941969066,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942001834,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942034602,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973622894762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573577376_17924840046156055_1092453902692699881_n.jpg?v=1763665802",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42973622927530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573885409_17924840058156055_5400103941423311611_n.jpg?v=1763665802",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573577376_17924840046156055_1092453902692699881_n.jpg?v=1763665802",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573885409_17924840058156055_5400103941423311611_n.jpg?v=1763665802"
+      ],
+      "created_at": "2025-11-20T23:10:00+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8300802015402,
+      "title": "Golden Goose Sneaker",
+      "handle": "golden-goose-sneaker",
+      "url": "https://littledubai-ae.shop/products/golden-goose-sneaker",
+      "vendor": "Mavetti Dxb",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "990.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653939839146,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653939871914,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653939904682,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653939937450,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653939970218,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653940002986,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653940035754,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973622599850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_572911940_17924839863156055_1413898930674005625_n.jpg?v=1763665799",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42973622632618,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573851637_17924839872156055_5801204099956492578_n.jpg?v=1763665799",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_572911940_17924839863156055_1413898930674005625_n.jpg?v=1763665799",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573851637_17924839872156055_5801204099956492578_n.jpg?v=1763665799"
+      ],
+      "created_at": "2025-11-20T23:09:57+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8300802572458,
+      "title": "Golden Goose Sneaker",
+      "handle": "golden-goose-sneaker-5",
+      "url": "https://littledubai-ae.shop/products/golden-goose-sneaker-5",
+      "vendor": "Mavetti Dxb",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "990.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653944262826,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944295594,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944328362,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944361130,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944393898,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944426666,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653944459434,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623353514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_574321738_17924840190156055_7243270201612896253_n.jpg?v=1763665806",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "id": 42973623386282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573510226_17924840199156055_9222980540110023606_n.jpg?v=1763665806",
+          "width": 1440,
+          "height": 1440
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_574321738_17924840190156055_7243270201612896253_n.jpg?v=1763665806",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573510226_17924840199156055_9222980540110023606_n.jpg?v=1763665806"
+      ],
+      "created_at": "2025-11-20T23:10:04+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296656601258,
+      "title": "Golden Goose Wmns Superstar ‘White Silver Ice Blue’",
+      "handle": "golden-goose-wmns-superstar-white-silver-ice-blue",
+      "url": "https://littledubai-ae.shop/products/golden-goose-wmns-superstar-white-silver-ice-blue",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629857554602,
+          "title": "36",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857587370,
+          "title": "37",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857620138,
+          "title": "38",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857652906,
+          "title": "39",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857685674,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857718442,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857751210,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857783978,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857816746,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857849514,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860434063530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r3_9e21f1f9-6747-46f7-98b2-57a0a8eb1d30.jpg?v=1763149929",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860434096298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r4.jpg?v=1763149929",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860434129066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r2.jpg?v=1763149929",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860434161834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r1.jpg?v=1763149929",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r3_9e21f1f9-6747-46f7-98b2-57a0a8eb1d30.jpg?v=1763149929",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r4.jpg?v=1763149929",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r2.jpg?v=1763149929",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/r1.jpg?v=1763149929"
+      ],
+      "created_at": "2025-11-14T23:52:06+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296656634026,
+      "title": "Golden Goose Super-Star sneakers",
+      "handle": "golden-goose-super-star-sneakers-brh4z",
+      "url": "https://littledubai-ae.shop/products/golden-goose-super-star-sneakers-brh4z",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629857915050,
+          "title": "36",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857947818,
+          "title": "37",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857980586,
+          "title": "38",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858013354,
+          "title": "39",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858046122,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858078890,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858111658,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858144426,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858177194,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858209962,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860434260138,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42285564_1000.webp?v=1763149930",
+          "width": 1000,
+          "height": 1333
+        },
+        {
+          "id": 42860434292906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42285510_1000.webp?v=1763149930",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860434325674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42287002_1000.webp?v=1763149930",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860434358442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42285463_1000.webp?v=1763149930",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42285564_1000.webp?v=1763149930",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42285510_1000.webp?v=1763149930",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42287002_1000.webp?v=1763149930",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19194108_42285463_1000.webp?v=1763149930"
+      ],
+      "created_at": "2025-11-14T23:52:08+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296712700074,
+      "title": "Golden Goose Super-Star Low-Top Sneakers – White Leather & Green Heel Tab (Men’s)",
+      "handle": "golden-goose-super-star-low-top-sneakers-white-leather-green-heel-tab-mens",
+      "url": "https://littledubai-ae.shop/products/golden-goose-super-star-low-top-sneakers-white-leather-green-heel-tab-mens",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Elevate your sneaker game with the iconic Golden Goose Super-Star sneakers in a timeless white-and-green palette. Crafted in Italy from premium buffed leather, these low-tops boast the signature suede star and a vibrant green heel tab branded with the GGDB logo. Perforated detailing enhances breathability, while a textured off-white rubber midsole and treaded outsole deliver subtle contrast and nostalgic vintage appeal. Finished with tonal stitching and a round toe, these sneakers blend urban style with artisanal flair. Element Content Title Golden Goose Super-Star Sneakers – White Leather &amp; Green Heel Tab Description White leather low-tops with green heel tab, suede star detail, and textured off-white sole—handcrafted in Italy. Key Highlights • Buffed white leather upper • Green branded heel tab • Suede star emblem • Perforated detailing • Textured rubber midsole and treaded outsole • Vintage-inspired finish",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630200832170,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630200864938,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630200897706,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630200930474,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630200963242,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630200996010,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630201028778,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860898353322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.11.58_3893851f.jpg?v=1763151717",
+          "width": 1284,
+          "height": 1404
+        },
+        {
+          "id": 42860898386090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4_d9ce3504-4b4c-44b7-8016-ee5de54c70a6.jpg?v=1763151718",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860898418858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_1_1d1551b9-4364-4d8d-bcf6-4748091a8773.jpg?v=1763151718",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860898451626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_2_52a73f2e-3c24-4547-a887-bd180bf1c657.jpg?v=1763151718",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860898484394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_3_3e838503-a15e-4307-aeb4-79af9c47eabb.jpg?v=1763151718",
+          "width": 3024,
+          "height": 4032
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.11.58_3893851f.jpg?v=1763151717",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4_d9ce3504-4b4c-44b7-8016-ee5de54c70a6.jpg?v=1763151718",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_1_1d1551b9-4364-4d8d-bcf6-4748091a8773.jpg?v=1763151718",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_2_52a73f2e-3c24-4547-a887-bd180bf1c657.jpg?v=1763151718",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_3_3e838503-a15e-4307-aeb4-79af9c47eabb.jpg?v=1763151718"
+      ],
+      "created_at": "2025-11-15T00:21:55+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296712470698,
+      "title": "Golden Goose Leather Ball Star Sneakers",
+      "handle": "golden-goose-leather-ball-star-sneakers",
+      "url": "https://littledubai-ae.shop/products/golden-goose-leather-ball-star-sneakers",
+      "vendor": "Maison eleave",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630199324842,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199357610,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199390378,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199423146,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199455914,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199488682,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199521450,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860897206442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.47.54_90dc41ad.jpg?v=1763151711",
+          "width": 1274,
+          "height": 1251
+        },
+        {
+          "id": 42860897239210,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.48.49_3dbe2caa.jpg?v=1763151711",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860897271978,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.49.09_3b0cba08.jpg?v=1763151711",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860897304746,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.49.38_eca19902.jpg?v=1763151711",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.47.54_90dc41ad.jpg?v=1763151711",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.48.49_3dbe2caa.jpg?v=1763151711",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.49.09_3b0cba08.jpg?v=1763151711",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.49.38_eca19902.jpg?v=1763151711"
+      ],
+      "created_at": "2025-11-15T00:21:48+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296656568490,
+      "title": "Golden Goose Superstar Leather Trainers - White/Purple/Black",
+      "handle": "golden-goose-superstar-leather-trainers-whitepurpleblack",
+      "url": "https://littledubai-ae.shop/products/golden-goose-superstar-leather-trainers-whitepurpleblack",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629857226922,
+          "title": "36",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857259690,
+          "title": "37",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857292458,
+          "title": "38",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857325226,
+          "title": "39",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857357994,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857390762,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857423530,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857456298,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857489066,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629857521834,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860434030762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/golden-goose-10.jpg?v=1763149928",
+          "width": 1079,
+          "height": 599
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/golden-goose-10.jpg?v=1763149928"
+      ],
+      "created_at": "2025-11-14T23:52:05+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296656699562,
+      "title": "Golden Goose Super-Star sneakers",
+      "handle": "golden-goose-super-star-sneakers",
+      "url": "https://littledubai-ae.shop/products/golden-goose-super-star-sneakers",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629858275498,
+          "title": "36",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858308266,
+          "title": "37",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858341034,
+          "title": "38",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858373802,
+          "title": "39",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858406570,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858439338,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858472106,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858504874,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858537642,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629858570410,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860434423978,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_in.webp?v=1763149931",
+          "width": 920,
+          "height": 920
+        },
+        {
+          "id": 42860434456746,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_bk.webp?v=1763149931",
+          "width": 920,
+          "height": 1380
+        },
+        {
+          "id": 42860434489514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_e1.webp?v=1763149932",
+          "width": 920,
+          "height": 1380
+        },
+        {
+          "id": 42860434522282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_fr.webp?v=1763149932",
+          "width": 920,
+          "height": 1380
+        },
+        {
+          "id": 42860434555050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_cu.webp?v=1763149931",
+          "width": 920,
+          "height": 1380
+        },
+        {
+          "id": 42860434587818,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_e2.webp?v=1763149932",
+          "width": 920,
+          "height": 1380
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_in.webp?v=1763149931",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_bk.webp?v=1763149931",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_e1.webp?v=1763149932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_fr.webp?v=1763149932",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_cu.webp?v=1763149931",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/213869485_silver_e2.webp?v=1763149932"
+      ],
+      "created_at": "2025-11-14T23:52:09+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8300802474154,
+      "title": "Golden Goose Sneaker",
+      "handle": "golden-goose-sneaker-4",
+      "url": "https://littledubai-ae.shop/products/golden-goose-sneaker-4",
+      "vendor": "Mavetti Dxb",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "990.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653943541930,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653943574698,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653943607466,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653943640234,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653943673002,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653943705770,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653943738538,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623189674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573222101_17924840139156055_8241231841551856840_n.jpg?v=1763665804",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42973623222442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_572164160_17924840154156055_6155230204964577247_n.jpg?v=1763665805",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573222101_17924840139156055_8241231841551856840_n.jpg?v=1763665804",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_572164160_17924840154156055_6155230204964577247_n.jpg?v=1763665805"
+      ],
+      "created_at": "2025-11-20T23:10:02+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8300802375850,
+      "title": "Golden Goose Sneaker",
+      "handle": "golden-goose-sneaker-3",
+      "url": "https://littledubai-ae.shop/products/golden-goose-sneaker-3",
+      "vendor": "Mavetti Dxb",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "990.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47653942526122,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942558890,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942591658,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942624426,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942657194,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942689962,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47653942722730,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "990.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42973623025834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573818851_17924840106156055_6659265908608213804_n.jpg?v=1763665803",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42973623058602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_576018324_17924840121156055_9090133331958609644_n.jpg?v=1763665803",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_573818851_17924840106156055_6659265908608213804_n.jpg?v=1763665803",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/SnapInsta.to_576018324_17924840121156055_9090133331958609644_n.jpg?v=1763665803"
+      ],
+      "created_at": "2025-11-20T23:10:01+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296712732842,
+      "title": "Golden Goose Ball Star “Triple White” Sneakers – Men’s (GMF00117 F004170 10100)",
+      "handle": "golden-goose-ball-star-triple-white-sneakers-mens-gmf00117-f004170-10100",
+      "url": "https://littledubai-ae.shop/products/golden-goose-ball-star-triple-white-sneakers-mens-gmf00117-f004170-10100",
+      "vendor": "My Store",
+      "product_type": "",
+      "description": "Elevate your sneaker collection with the Golden Goose Ball Star “Triple White” , a staple of Italian luxury craftsmanship blended with retro flair. Released in 2023, this lifestyle sneaker reimagines the classic 1980s athletic silhouette using premium leather with a deliberately worn “lived-in” aesthetic. The monochrome white palette spans the upper, star emblem, heel tab, and sole—yet each pair boasts subtle distressing and artisanal finishing. Individually handcrafted in Italy, they deliver both elevated style and laid-back comfort. Available now on GOAT after being authenticated for authenticity and resale readiness. Element Details Title Golden Goose Ball Star “Triple White” Sneakers – GMF00117 F004170 10100 (Men’s) Description Vintage-style all-white leather sneakers with Golden Goose star, worn-in finish, handcrafted in Italy. Key Highlights • Monochrome white leather upper, star, heel tab, and sole • Signature distressed finish • 2023 release • SKU: GMF00117-F004170-10100 • Made in Italy craftsmanship",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630201061546,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630201094314,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630201127082,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630201159850,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630201192618,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630201225386,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630201258154,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860898549930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.33.43_8f905062.jpg?v=1763151718",
+          "width": 1494,
+          "height": 1600
+        },
+        {
+          "id": 42860898582698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_1_e7b64cef-de19-47b8-b21b-0e71b6f068f6.jpg?v=1763151719",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860898615466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_2_5ef29057-a9cb-40ba-8237-e6f6c1f6af53.jpg?v=1763151719",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860898648234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_3_17269689-c7b4-47c0-8cae-864516c4d62e.jpg?v=1763151719",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 42860898681002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_4_9edbaf03-4752-428f-bfb2-5ee09ddbe0d1.jpg?v=1763151719",
+          "width": 3024,
+          "height": 4032
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-24at04.33.43_8f905062.jpg?v=1763151718",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_1_e7b64cef-de19-47b8-b21b-0e71b6f068f6.jpg?v=1763151719",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_2_5ef29057-a9cb-40ba-8237-e6f6c1f6af53.jpg?v=1763151719",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_3_17269689-c7b4-47c0-8cae-864516c4d62e.jpg?v=1763151719",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_4_9edbaf03-4752-428f-bfb2-5ee09ddbe0d1.jpg?v=1763151719"
+      ],
+      "created_at": "2025-11-15T00:21:56+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    }
+  ]
+}

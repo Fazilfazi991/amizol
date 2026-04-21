@@ -1,0 +1,1516 @@
+{
+  "collection": "balenciaga",
+  "source": "https://littledubai-ae.shop/collections/balenciaga",
+  "scraped_at": "2026-04-20T20:53:13.422Z",
+  "total_products": 12,
+  "total_images": 37,
+  "products": [
+    {
+      "id": 8296669282474,
+      "title": "Balenciaga Speed Runner High Tops Black Red",
+      "handle": "balenciaga-speed-runner-high-tops-black-red-f6rys",
+      "url": "https://littledubai-ae.shop/products/balenciaga-speed-runner-high-tops-black-red-f6rys",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Balenciaga",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "479.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629970112682,
+          "title": "39",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970145450,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970178218,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970210986,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970243754,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970276522,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970309290,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970342058,
+          "title": "46",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860577423530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_bf8fecf5-a830-4ee1-9a29-c1c97b34f562.png?v=1763150393",
+          "width": 6147,
+          "height": 3125
+        },
+        {
+          "id": 42860577456298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_9.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577489066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_6_101c41cd-ed7c-466b-9ce3-e4628901d25e.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577521834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_2_ef680fa7-0a0f-403b-8dbe-bc6b2329b20b.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577554602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_3_b53ac617-9fa1-4273-9e81-4da124a3cc20.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577587370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_4_17760ee6-a402-4d1d-a7d8-e0492d0b86dd.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577620138,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_5_102fbe23-8e98-4b61-95e9-31859b2fec32.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577652906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_8_9425ebe4-4839-4fdd-9fba-a120a404ee9d.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577685674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_7_903dbe20-c3dd-466d-b1a2-69b1eff02300.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        },
+        {
+          "id": 42860577718442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_1.jpg?v=1763150390",
+          "width": 880,
+          "height": 880
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_bf8fecf5-a830-4ee1-9a29-c1c97b34f562.png?v=1763150393",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_9.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_6_101c41cd-ed7c-466b-9ce3-e4628901d25e.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_2_ef680fa7-0a0f-403b-8dbe-bc6b2329b20b.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_3_b53ac617-9fa1-4273-9e81-4da124a3cc20.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_4_17760ee6-a402-4d1d-a7d8-e0492d0b86dd.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_5_102fbe23-8e98-4b61-95e9-31859b2fec32.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_8_9425ebe4-4839-4fdd-9fba-a120a404ee9d.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_7_903dbe20-c3dd-466d-b1a2-69b1eff02300.jpg?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_1.jpg?v=1763150390"
+      ],
+      "created_at": "2025-11-14T23:59:48+04:00",
+      "updated_at": "2026-04-21T00:53:11+04:00"
+    },
+    {
+      "id": 8296669249706,
+      "title": "Balenciaga Speed Runner High Tops Black White",
+      "handle": "balenciaga-speed-runner-high-tops-black-white-44zmb",
+      "url": "https://littledubai-ae.shop/products/balenciaga-speed-runner-high-tops-black-white-44zmb",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Balenciaga",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "199.00",
+      "price_currency": "AED",
+      "compare_at_price": "479.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629969817770,
+          "title": "39",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969850538,
+          "title": "40",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969883306,
+          "title": "41",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969916074,
+          "title": "42",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969948842,
+          "title": "43",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969981610,
+          "title": "44",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970014378,
+          "title": "45",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629970047146,
+          "title": "46",
+          "price": "199.00",
+          "compare_at_price": "479.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860577161386,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_ffd2240e-5196-41d6-b03e-7193b269fb27.png?v=1763150391",
+          "width": 3125,
+          "height": 4169
+        },
+        {
+          "id": 42860577194154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_2.jpg?v=1763150388",
+          "width": 690,
+          "height": 690
+        },
+        {
+          "id": 42860577226922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_4.jpg?v=1763150388",
+          "width": 690,
+          "height": 690
+        },
+        {
+          "id": 42860577259690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_5.jpg?v=1763150388",
+          "width": 690,
+          "height": 690
+        },
+        {
+          "id": 42860577292458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_6.jpg?v=1763150389",
+          "width": 690,
+          "height": 690
+        },
+        {
+          "id": 42860577325226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_7.jpg?v=1763150388",
+          "width": 690,
+          "height": 690
+        },
+        {
+          "id": 42860577357994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_8.jpg?v=1763150389",
+          "width": 690,
+          "height": 690
+        },
+        {
+          "id": 42860577390762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_3.jpg?v=1763150388",
+          "width": 690,
+          "height": 690
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_ffd2240e-5196-41d6-b03e-7193b269fb27.png?v=1763150391",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_2.jpg?v=1763150388",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_4.jpg?v=1763150388",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_5.jpg?v=1763150388",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_6.jpg?v=1763150389",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_7.jpg?v=1763150388",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_8.jpg?v=1763150389",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/BalenciagaSpeedRunnerHighTopsBlackRed_3.jpg?v=1763150388"
+      ],
+      "created_at": "2025-11-14T23:59:46+04:00",
+      "updated_at": "2026-04-21T00:53:11+04:00"
+    },
+    {
+      "id": 8423120044202,
+      "title": "Balenciaga Unisex White Brown Sneakers",
+      "handle": "balenciaga-unisex-white-brown-sneakers",
+      "url": "https://littledubai-ae.shop/products/balenciaga-unisex-white-brown-sneakers",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219777761450,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777794218,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777826986,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777859754,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777892522,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777925290,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777958058,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606256644266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/542023_W3AC1_1897_png.webp?v=1776344542",
+          "width": 600,
+          "height": 316
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/542023_W3AC1_1897_png.webp?v=1776344542"
+      ],
+      "created_at": "2026-04-16T17:02:19+04:00",
+      "updated_at": "2026-04-21T00:53:11+04:00"
+    },
+    {
+      "id": 8423120076970,
+      "title": "Balenciaga Track.2 trainers in black",
+      "handle": "balenciaga-track-2-trainers-in-black",
+      "url": "https://littledubai-ae.shop/products/balenciaga-track-2-trainers-in-black",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219777990826,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219778023594,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219778056362,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219778089130,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219778121898,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219778154666,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219778187434,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606256709802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9690ced731e3fd42bf8de51c4d7e1fe6_1600x2000_178358cf-9ccb-4897-885b-81d581a64fa6.webp?v=1776344544",
+          "width": 1000,
+          "height": 1251
+        },
+        {
+          "id": 44606256742570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/b15f1ba92e2769fae92112a0fa56c2bd_1600x2000_7c9d78f0-fd36-459c-a174-d245d0352223.webp?v=1776344544",
+          "width": 1000,
+          "height": 1251
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9690ced731e3fd42bf8de51c4d7e1fe6_1600x2000_178358cf-9ccb-4897-885b-81d581a64fa6.webp?v=1776344544",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/b15f1ba92e2769fae92112a0fa56c2bd_1600x2000_7c9d78f0-fd36-459c-a174-d245d0352223.webp?v=1776344544"
+      ],
+      "created_at": "2026-04-16T17:02:22+04:00",
+      "updated_at": "2026-04-21T00:53:11+04:00"
+    },
+    {
+      "id": 8423120011434,
+      "title": "Balenciaga Track Sneakers  beige",
+      "handle": "balenciaga-track-sneakers-beige",
+      "url": "https://littledubai-ae.shop/products/balenciaga-track-sneakers-beige",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219777532074,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777564842,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777597610,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777630378,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777663146,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777695914,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777728682,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606256414890,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga-mens-TrackSneakerinbeigemeshandnylon-1_1600x2000_e8d87234-9ad1-447c-a813-2e62f62a46cf.webp?v=1776344540",
+          "width": 1000,
+          "height": 1250
+        },
+        {
+          "id": 44606256447658,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga-mens-TrackSneakerinbeigemeshandnylon-2_1600x2000_97fcfbef-1d4b-4815-8e23-28feb4c03da6.webp?v=1776344540",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga-mens-TrackSneakerinbeigemeshandnylon-1_1600x2000_e8d87234-9ad1-447c-a813-2e62f62a46cf.webp?v=1776344540",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga-mens-TrackSneakerinbeigemeshandnylon-2_1600x2000_97fcfbef-1d4b-4815-8e23-28feb4c03da6.webp?v=1776344540"
+      ],
+      "created_at": "2026-04-16T17:02:17+04:00",
+      "updated_at": "2026-04-21T00:53:11+04:00"
+    },
+    {
+      "id": 8423119978666,
+      "title": "Balenciaga Track Sneakers in Multicolor Polyurethane",
+      "handle": "balenciaga-track-sneakers-in-multicolor-polyurethane",
+      "url": "https://littledubai-ae.shop/products/balenciaga-track-sneakers-in-multicolor-polyurethane",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219777302698,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777335466,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777368234,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777401002,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777433770,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777466538,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219777499306,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606256349354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/542023_W1GB1_7580_png.webp?v=1776344537",
+          "width": 600,
+          "height": 341
+        },
+        {
+          "id": 44606256382122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/846880-4.jpg?v=1776344537",
+          "width": 670,
+          "height": 500
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/542023_W1GB1_7580_png.webp?v=1776344537",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/846880-4.jpg?v=1776344537"
+      ],
+      "created_at": "2026-04-16T17:02:15+04:00",
+      "updated_at": "2026-04-21T00:53:11+04:00"
+    },
+    {
+      "id": 8423119847594,
+      "title": "BALENCIAGA Circuit Sneakers Silver",
+      "handle": "balenciaga-circuit-sneakers-silver",
+      "url": "https://littledubai-ae.shop/products/balenciaga-circuit-sneakers-silver",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219776319658,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219776352426,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219776385194,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219776417962,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219776450730,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219776483498,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219776516266,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606255792298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga_circuit_sneakers_1721369632_2682f939_progressive.jpg?v=1776344533",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 44606255825066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga_circuit_sneakers_1721369632_723286ef_progressive.jpg?v=1776344533",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga_circuit_sneakers_1721369632_2682f939_progressive.jpg?v=1776344533",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/balenciaga_circuit_sneakers_1721369632_723286ef_progressive.jpg?v=1776344533"
+      ],
+      "created_at": "2026-04-16T17:02:10+04:00",
+      "updated_at": "2026-04-21T00:53:11+04:00"
+    },
+    {
+      "id": 8423119749290,
+      "title": "BALENCIAGA Circuit Sneaker in White/Silver",
+      "handle": "balenciaga-circuit-sneaker-in-white-silver",
+      "url": "https://littledubai-ae.shop/products/balenciaga-circuit-sneaker-in-white-silver",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219775664298,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775697066,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775729834,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775762602,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775795370,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775828138,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775860906,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606255366314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7341444792403_1_5a33c255-d9d0-449f-8dc1-0873c292b32d.webp?v=1776344531",
+          "width": 1840,
+          "height": 2454
+        },
+        {
+          "id": 44606255399082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7341444792403_4_46c69899-8f6e-4dfa-9cac-3bfe31907d7a.webp?v=1776344531",
+          "width": 1840,
+          "height": 2454
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7341444792403_1_5a33c255-d9d0-449f-8dc1-0873c292b32d.webp?v=1776344531",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7341444792403_4_46c69899-8f6e-4dfa-9cac-3bfe31907d7a.webp?v=1776344531"
+      ],
+      "created_at": "2026-04-16T17:02:08+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423119650986,
+      "title": "Balenciaga logo-print sneakers",
+      "handle": "balenciaga-logo-print-sneakers",
+      "url": "https://littledubai-ae.shop/products/balenciaga-logo-print-sneakers",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219775041706,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775074474,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775107242,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775140010,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775172778,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775205546,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219775238314,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606255071402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25790028_55799221_1000.webp?v=1776344529",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606255104170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25790028_55799215_1000.webp?v=1776344529",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25790028_55799221_1000.webp?v=1776344529",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25790028_55799215_1000.webp?v=1776344529"
+      ],
+      "created_at": "2026-04-16T17:02:06+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423119585450,
+      "title": "Balenciaga Circuit sneakers",
+      "handle": "balenciaga-circuit-sneakers",
+      "url": "https://littledubai-ae.shop/products/balenciaga-circuit-sneakers",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219774615722,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774648490,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774681258,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774714026,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774746794,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774779562,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774812330,
+          "title": "46",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606254907562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26235688_56062530_1000.webp?v=1776344526",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606254940330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26235688_56062527_1000.webp?v=1776344527",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26235688_56062530_1000.webp?v=1776344526",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26235688_56062527_1000.webp?v=1776344527"
+      ],
+      "created_at": "2026-04-16T17:02:04+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423119487146,
+      "title": "Balenciaga Track sneakers  Black",
+      "handle": "balenciaga-track-sneakers-black",
+      "url": "https://littledubai-ae.shop/products/balenciaga-track-sneakers-black",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219773993130,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774025898,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774058666,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774091434,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774124202,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219774156970,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606254416042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/P00513601.jpg?v=1776344524",
+          "width": 1094,
+          "height": 1237
+        },
+        {
+          "id": 44606254448810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/P00513601_d1.jpg?v=1776344524",
+          "width": 1094,
+          "height": 1237
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/P00513601.jpg?v=1776344524",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/P00513601_d1.jpg?v=1776344524"
+      ],
+      "created_at": "2026-04-16T17:02:01+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423119356074,
+      "title": "Balenciaga Track low-top sneakers",
+      "handle": "balenciaga-track-low-top-sneakers",
+      "url": "https://littledubai-ae.shop/products/balenciaga-track-low-top-sneakers",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "499.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219772747946,
+          "title": "40",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772780714,
+          "title": "41",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772813482,
+          "title": "42",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772846250,
+          "title": "43",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772879018,
+          "title": "44",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772911786,
+          "title": "45",
+          "price": "499.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606254088362,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13407941_54383264_1000.webp?v=1776344522",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606254121130,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13407941_54385771_1000.webp?v=1776344522",
+          "width": 1000,
+          "height": 1333
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13407941_54383264_1000.webp?v=1776344522",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13407941_54385771_1000.webp?v=1776344522"
+      ],
+      "created_at": "2026-04-16T17:01:59+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    }
+  ]
+}

@@ -1,0 +1,1476 @@
+{
+  "collection": "amiri",
+  "source": "https://littledubai-ae.shop/collections/amiri",
+  "scraped_at": "2026-04-20T20:53:13.424Z",
+  "total_products": 12,
+  "total_images": 25,
+  "products": [
+    {
+      "id": 8423119257770,
+      "title": "Amiri MA-1 sneakers 'White Blue'",
+      "handle": "amiri-ma-1-sneakers-white-blue",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-sneakers-white-blue",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219772059818,
+          "title": "36",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772092586,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772125354,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772158122,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772190890,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772223658,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772256426,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772289194,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219772321962,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606253826218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28ba7b97746274cecfbf52859865364ef4aee65ca7cd92bf94c9e0c2eb794537-width800.jpg?v=1776344520",
+          "width": 800,
+          "height": 1067
+        },
+        {
+          "id": 44606253858986,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7a93575c29f283c901086339c6df1ee2cb74324e1bbbca7001d3a3b9f49deb32-width800.jpg?v=1776344520",
+          "width": 800,
+          "height": 1067
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28ba7b97746274cecfbf52859865364ef4aee65ca7cd92bf94c9e0c2eb794537-width800.jpg?v=1776344520",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7a93575c29f283c901086339c6df1ee2cb74324e1bbbca7001d3a3b9f49deb32-width800.jpg?v=1776344520"
+      ],
+      "created_at": "2026-04-16T17:01:57+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423119192234,
+      "title": "AMIRI MA-1 Sneakers Brown",
+      "handle": "amiri-ma-1-sneakers-brown",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-sneakers-brown",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219771568298,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771601066,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771633834,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771666602,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771699370,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771732138,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771764906,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606253564074,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/153_AW23_Runway_SNEAKERS_SHOES_MA-1_AW23MFS013-210_BROWN_1.webp?v=1776344517",
+          "width": 1440,
+          "height": 1922
+        },
+        {
+          "id": 44606253596842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/153_AW23_Runway_SNEAKERS_SHOES_MA-1_AW23MFS013-210_BROWN_3.webp?v=1776344518",
+          "width": 1440,
+          "height": 1922
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/153_AW23_Runway_SNEAKERS_SHOES_MA-1_AW23MFS013-210_BROWN_1.webp?v=1776344517",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/153_AW23_Runway_SNEAKERS_SHOES_MA-1_AW23MFS013-210_BROWN_3.webp?v=1776344518"
+      ],
+      "created_at": "2026-04-16T17:01:55+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423119093930,
+      "title": "AMIRI White & Green MA-1 Sneakers",
+      "handle": "amiri-white-green-ma-1-sneakers",
+      "url": "https://littledubai-ae.shop/products/amiri-white-green-ma-1-sneakers",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219770945706,
+          "title": "36",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770978474,
+          "title": "37",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771011242,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771044010,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219771076778,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606253170858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/white-and-green-ma-1-sneakers.webp?v=1776344515",
+          "width": 856,
+          "height": 520
+        },
+        {
+          "id": 44606253203626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/white-and-green-ma-1-sneakers_1.webp?v=1776344515",
+          "width": 856,
+          "height": 571
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/white-and-green-ma-1-sneakers.webp?v=1776344515",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/white-and-green-ma-1-sneakers_1.webp?v=1776344515"
+      ],
+      "created_at": "2026-04-16T17:01:52+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118995626,
+      "title": "AMIRI MA-1 leather chunky sneakers",
+      "handle": "amiri-ma-1-leather-chunky-sneakers",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-leather-chunky-sneakers",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219770093738,
+          "title": "36",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770126506,
+          "title": "37",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770159274,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770192042,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770224810,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770257578,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770290346,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770323114,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770355882,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219770388650,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606252843178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22929177_53056007_1000.webp?v=1776344513",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606252875946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22929177_53056008_1000.webp?v=1776344513",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22929177_53056007_1000.webp?v=1776344513",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22929177_53056008_1000.webp?v=1776344513"
+      ],
+      "created_at": "2026-04-16T17:01:50+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118897322,
+      "title": "AMIRI MA-1 lace-up sneakers Black/ White",
+      "handle": "amiri-ma-1-lace-up-sneakers-black-white",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-lace-up-sneakers-black-white",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219769471146,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769503914,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769536682,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769569450,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769602218,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769634986,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769667754,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606252482730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24458524_54408875_1000.webp?v=1776344510",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606252515498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24458524_54408868_1000.webp?v=1776344510",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24458524_54408875_1000.webp?v=1776344510",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24458524_54408868_1000.webp?v=1776344510"
+      ],
+      "created_at": "2026-04-16T17:01:48+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118799018,
+      "title": "AMIRI MA-1 sneakers White/ Black",
+      "handle": "amiri-ma-1-sneakers-white-black",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-sneakers-white-black",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219768783018,
+          "title": "36",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768815786,
+          "title": "37",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768848554,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768881322,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768914090,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768946858,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768979626,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769012394,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219769045162,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606252122282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24752155_54929151_1000.webp?v=1776344508",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606252155050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24752155_54929150_1000.webp?v=1776344508",
+          "width": 1000,
+          "height": 1333
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24752155_54929151_1000.webp?v=1776344508",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24752155_54929150_1000.webp?v=1776344508"
+      ],
+      "created_at": "2026-04-16T17:01:45+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118700714,
+      "title": "Amiri ‘MA Skyline’  All WHITE",
+      "handle": "amiri-ma-skyline-all-white",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-skyline-all-white",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "43",
+            "41",
+            "42",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219768029354,
+          "title": "36",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768062122,
+          "title": "37",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768094890,
+          "title": "38",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768127658,
+          "title": "39",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768160426,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768193194,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768225962,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768258730,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768291498,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768324266,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219768357034,
+          "title": "46",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606251761834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1600_5.webp?v=1776344506",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 44606251794602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1600_4.jpg?v=1776344507",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 44606251827370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1600_3.jpg?v=1776344507",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1600_5.webp?v=1776344506",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1600_4.jpg?v=1776344507",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1600_3.jpg?v=1776344507"
+      ],
+      "created_at": "2026-04-16T17:01:43+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118602410,
+      "title": "AMIRI MA Skyline White",
+      "handle": "amiri-ma-skyline-white",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-skyline-white",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219767439530,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767472298,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767505066,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767537834,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767570602,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767603370,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606251303082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/97_PS26_Men_Sneakers_Low_20Top_CORE_20LOGOS_AMSNSN1027-001_MA_20SKYLINE_Black_1_05c3f37aded3488888fe39172f4a8710.webp?v=1776344504",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": 44606251335850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/97_PS26_Men_Sneakers_Low_20Top_CORE_20LOGOS_AMSNSN1027-001_MA_20SKYLINE_Black_3_c5add246783a4de786eeef762e827165.webp?v=1776344504",
+          "width": 1440,
+          "height": 1920
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/97_PS26_Men_Sneakers_Low_20Top_CORE_20LOGOS_AMSNSN1027-001_MA_20SKYLINE_Black_1_05c3f37aded3488888fe39172f4a8710.webp?v=1776344504",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/97_PS26_Men_Sneakers_Low_20Top_CORE_20LOGOS_AMSNSN1027-001_MA_20SKYLINE_Black_3_c5add246783a4de786eeef762e827165.webp?v=1776344504"
+      ],
+      "created_at": "2026-04-16T17:01:41+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118536874,
+      "title": "AMIRI MA Skyline Black",
+      "handle": "amiri-ma-skyline-black",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-skyline-black",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "50.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219767046314,
+          "title": "40",
+          "price": "50.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767079082,
+          "title": "41",
+          "price": "50.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767111850,
+          "title": "42",
+          "price": "50.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767144618,
+          "title": "43",
+          "price": "50.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767177386,
+          "title": "44",
+          "price": "50.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219767210154,
+          "title": "45",
+          "price": "50.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606251106474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/62_PS26_Men_Sneakers_Footwear__AMSNSN1043-083__Black_20Black_1_2359e31486c54050a4426dac8ce8e97d.webp?v=1776344502",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": 44606251139242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/62_PS26_Men_Sneakers_Footwear__AMSNSN1043-083__Black_20Black_3_208302165be949939e9fd989badc2189.webp?v=1776344502",
+          "width": 1440,
+          "height": 1920
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/62_PS26_Men_Sneakers_Footwear__AMSNSN1043-083__Black_20Black_1_2359e31486c54050a4426dac8ce8e97d.webp?v=1776344502",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/62_PS26_Men_Sneakers_Footwear__AMSNSN1043-083__Black_20Black_3_208302165be949939e9fd989badc2189.webp?v=1776344502"
+      ],
+      "created_at": "2026-04-16T17:01:39+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118438570,
+      "title": "AMIRI Ma-1 sneakers",
+      "handle": "amiri-ma-1-sneakers",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-sneakers",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "450.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219766456490,
+          "title": "40",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219766489258,
+          "title": "41",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219766522026,
+          "title": "42",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219766554794,
+          "title": "43",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219766587562,
+          "title": "44",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219766620330,
+          "title": "45",
+          "price": "450.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606250483882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/139_PF25_Men_Sneakers_FOOTWEAR__AMFOSR1152-001_METALLIC_20MA-1_Black_1_3055246171c24f97a337f523b6907955.webp?v=1776344499",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": 44606250516650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/139_PF25_Men_Sneakers_FOOTWEAR__AMFOSR1152-001_METALLIC_20MA-1_Black_2_ae39640055b04efc8e9053a0bc63aa7a.webp?v=1776344500",
+          "width": 1440,
+          "height": 1920
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/139_PF25_Men_Sneakers_FOOTWEAR__AMFOSR1152-001_METALLIC_20MA-1_Black_1_3055246171c24f97a337f523b6907955.webp?v=1776344499",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/139_PF25_Men_Sneakers_FOOTWEAR__AMFOSR1152-001_METALLIC_20MA-1_Black_2_ae39640055b04efc8e9053a0bc63aa7a.webp?v=1776344500"
+      ],
+      "created_at": "2026-04-16T17:01:36+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118340266,
+      "title": "AMIRI Ma-1 sneakers White",
+      "handle": "amiri-ma-1-sneakers-white",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-sneakers-white",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219765866666,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765899434,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765932202,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765964970,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765997738,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219766030506,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606250221738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25564505_57210408_1000.webp?v=1776344497",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606250254506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25564505_57210409_1000.webp?v=1776344497",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25564505_57210408_1000.webp?v=1776344497",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25564505_57210409_1000.webp?v=1776344497"
+      ],
+      "created_at": "2026-04-16T17:01:34+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8423118274730,
+      "title": "AMIRI MA-1 sneakers Black",
+      "handle": "amiri-ma-1-sneakers-black",
+      "url": "https://littledubai-ae.shop/products/amiri-ma-1-sneakers-black",
+      "vendor": "Mad Sole",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "799.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 48219765473450,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765506218,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765538986,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765571754,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765604522,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 48219765637290,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "799.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 44606250025130,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24762501_54912610_1000.webp?v=1776344495",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 44606250057898,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24762501_54912612_1000.webp?v=1776344495",
+          "width": 1000,
+          "height": 1333
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24762501_54912610_1000.webp?v=1776344495",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24762501_54912612_1000.webp?v=1776344495"
+      ],
+      "created_at": "2026-04-16T17:01:32+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    }
+  ]
+}

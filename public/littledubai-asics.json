@@ -1,0 +1,3576 @@
+{
+  "collection": "asics",
+  "source": "https://littledubai-ae.shop/collections/asics",
+  "scraped_at": "2026-04-20T20:53:13.429Z",
+  "total_products": 22,
+  "total_images": 123,
+  "products": [
+    {
+      "id": 8296684257450,
+      "title": "Asics Superblast 2 Lake Grey White Sage",
+      "handle": "asics-superblast-2-lake-grey-white-sage",
+      "url": "https://littledubai-ae.shop/products/asics-superblast-2-lake-grey-white-sage",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "Move from feeling standard to super in the SUPERBLAST™ 2 shoe. It's designed to help provide the most responsive, energized feel compared to other shoes in the ASICS® cushioning range. The midsole features a combination of FF BLAST™ PLUS and FF TURBO™ PLUS cushioning. Also used in our METASPEED™ racing models, this foam helps creates one of the lightest and bounciest running experiences. This shoe's upper construction features an asymmetric mesh design. It features different colors on the medial and lateral angles of the shoe for visual interest.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630104625322,
+          "title": "36",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104658090,
+          "title": "37",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104690858,
+          "title": "38",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104723626,
+          "title": "39",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104756394,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104789162,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104821930,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104854698,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104887466,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104920234,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860725960874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_3.jpg?v=1763150891",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860725993642,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_6.jpg?v=1763150891",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726026410,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_5.jpg?v=1763150891",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726059178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_4.jpg?v=1763150891",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726091946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_2.jpg?v=1763150891",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726124714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_1.jpg?v=1763150891",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_3.jpg?v=1763150891",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_6.jpg?v=1763150891",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_5.jpg?v=1763150891",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_4.jpg?v=1763150891",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_2.jpg?v=1763150891",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2LakeGreyWhiteSage_1.jpg?v=1763150891"
+      ],
+      "created_at": "2025-11-15T00:08:09+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296690352298,
+      "title": "Asics Novablast 4 Lilac Hint",
+      "handle": "asics-novablast-4-lilac-hint-bsefv",
+      "url": "https://littledubai-ae.shop/products/asics-novablast-4-lilac-hint-bsefv",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The NOVABLAST 4 running shoe features a new midsole and outsole geometry that helps produce an energized ride. A tongue wing construction in the upper helps improve the fit while reducing tongue movement. It's complemented with an engineered woven upper that offers more stretch, ventilation, and durability. FF BLAST PLUS ECO cushioning is made with 20 % recycled bio-based content. This material helps create softer landings and a more energized toe-off during your training.",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630138278058,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138310826,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138343594,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138376362,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138409130,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138441898,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860760563882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_4_61f62ef9-6ef5-4b3d-81e0-eb2bb515823d.jpg?v=1763151066",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760596650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_1_6f96cbaa-803a-463f-ac85-4c2db3629e1b.jpg?v=1763151066",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760629418,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_6_cf3d34d9-0e7c-48b7-91b6-0cabf0b4945b.jpg?v=1763151066",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760662186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_5_00ad8151-a4cf-45bd-976f-2bf7480906c0.jpg?v=1763151066",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760694954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_3_ab78715d-bed4-4f4f-af40-0f64d9d943f8.jpg?v=1763151066",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760727722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_2_10dcf32e-9927-425e-9bb9-b6642538753a.jpg?v=1763151066",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_4_61f62ef9-6ef5-4b3d-81e0-eb2bb515823d.jpg?v=1763151066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_1_6f96cbaa-803a-463f-ac85-4c2db3629e1b.jpg?v=1763151066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_6_cf3d34d9-0e7c-48b7-91b6-0cabf0b4945b.jpg?v=1763151066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_5_00ad8151-a4cf-45bd-976f-2bf7480906c0.jpg?v=1763151066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_3_ab78715d-bed4-4f4f-af40-0f64d9d943f8.jpg?v=1763151066",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LilacHint_2_10dcf32e-9927-425e-9bb9-b6642538753a.jpg?v=1763151066"
+      ],
+      "created_at": "2025-11-15T00:11:04+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296690450602,
+      "title": "Asics Novablast 4 Black Graphite Grey",
+      "handle": "asics-novablast-4-black-graphite-grey-aylwe",
+      "url": "https://littledubai-ae.shop/products/asics-novablast-4-black-graphite-grey-aylwe",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The NOVABLAST 4 running shoe features a new midsole and outsole geometry that helps produce an energized ride. A tongue wing construction in the upper helps improve the fit while reducing tongue movement. It's complemented with an engineered woven upper that offers more stretch, ventilation, and durability. FF BLAST PLUS ECO cushioning is made with 20 % recycled bio-based content. This material helps create softer landings and a more energized toe-off during your training.",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630138867882,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138900650,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138933418,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138966186,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138998954,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630139031722,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860761055402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_4_c3a1635e-9f65-4ce0-8402-85b7528b7a44.jpg?v=1763151069",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860761088170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_1_c0059c87-2bfa-4f96-9ce4-7efbb9bb94f8.jpg?v=1763151069",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860761120938,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_6_556690eb-3513-41df-8b99-b995f0672d34.jpg?v=1763151069",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860761153706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_5_c840baba-b7a2-49be-a73a-c82613bd24ec.jpg?v=1763151069",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860761186474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_3_b72448d9-bc77-4ffc-98cc-db4c2607585c.jpg?v=1763151069",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860761219242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_2_028892b9-5fa8-443f-85a9-ac59d332fe13.jpg?v=1763151069",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_4_c3a1635e-9f65-4ce0-8402-85b7528b7a44.jpg?v=1763151069",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_1_c0059c87-2bfa-4f96-9ce4-7efbb9bb94f8.jpg?v=1763151069",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_6_556690eb-3513-41df-8b99-b995f0672d34.jpg?v=1763151069",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_5_c840baba-b7a2-49be-a73a-c82613bd24ec.jpg?v=1763151069",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_3_b72448d9-bc77-4ffc-98cc-db4c2607585c.jpg?v=1763151069",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlackGraphiteGrey_2_028892b9-5fa8-443f-85a9-ac59d332fe13.jpg?v=1763151069"
+      ],
+      "created_at": "2025-11-15T00:11:07+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296690876586,
+      "title": "Asics Novablast 4 Blue Expanse Blue Teal",
+      "handle": "asics-novablast-4-blue-expanse-blue-teal-qakfr",
+      "url": "https://littledubai-ae.shop/products/asics-novablast-4-blue-expanse-blue-teal-qakfr",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The NOVABLAST 4 running shoe features a new midsole and outsole geometry that helps produce an energized ride. A tongue wing construction in the upper helps improve the fit while reducing tongue movement. It's complemented with an engineered woven upper that offers more stretch, ventilation, and durability. FF BLAST PLUS ECO cushioning is made with 20 % recycled bio-based content. This material helps create softer landings and a more energized toe-off during your training.",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630141391018,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141423786,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141456554,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141489322,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141522090,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141554858,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860763119786,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_6_3ce444a4-89a8-4613-8d66-7369aad6e0d7.jpg?v=1763151080",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763152554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_1_f1ca81ed-e146-4f32-8d0c-49c00c004113.jpg?v=1763151080",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763185322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_5_734371fd-800e-4bfc-98d1-201cf1c6777b.jpg?v=1763151080",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763218090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_4_c4cf0443-bcf8-4e0b-8208-c81e746aaed8.jpg?v=1763151080",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763250858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_3_e670fd3c-cd26-42df-bb56-f0e591fc002d.jpg?v=1763151080",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763283626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_2_80799c0f-f048-48a2-9946-e5bcbe0dc257.jpg?v=1763151080",
+          "width": 600,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_6_3ce444a4-89a8-4613-8d66-7369aad6e0d7.jpg?v=1763151080",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_1_f1ca81ed-e146-4f32-8d0c-49c00c004113.jpg?v=1763151080",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_5_734371fd-800e-4bfc-98d1-201cf1c6777b.jpg?v=1763151080",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_4_c4cf0443-bcf8-4e0b-8208-c81e746aaed8.jpg?v=1763151080",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_3_e670fd3c-cd26-42df-bb56-f0e591fc002d.jpg?v=1763151080",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4BlueExpanseBlueTeal_2_80799c0f-f048-48a2-9946-e5bcbe0dc257.jpg?v=1763151080"
+      ],
+      "created_at": "2025-11-15T00:11:17+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296684093610,
+      "title": "Asics Metaspeed Edge Paris Illuminate Mint Black",
+      "handle": "asics-metaspeed-edge-paris-illuminate-mint-black",
+      "url": "https://littledubai-ae.shop/products/asics-metaspeed-edge-paris-illuminate-mint-black",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The METASPEED™ EDGE PARIS racing shoes are designed for cadence-style runners who are looking to start fast and finish faster. Runners wearing these shoes will be able to increase their speed by increasing number of strides and conserve energy with each step. Thanks to an energetic midsole foam and a propulsive carbon plate, runners wearing these shoes will be able to conserve more energy while maintaining their pace at the later stages of the race. This update will also help you to kick-through the 30km wall more easily. In addition to its lighter construction, these shoes also feature FF TURBO™ PLUS cushioning. This helps to improve compression and while providing more energy savings.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630103511210,
+          "title": "36",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103543978,
+          "title": "37",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103576746,
+          "title": "38",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103609514,
+          "title": "39",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103642282,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103675050,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103707818,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103740586,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103773354,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103806122,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860722258090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_3.jpg?v=1763150886",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860722290858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_1.jpg?v=1763150887",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860722323626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_2.jpg?v=1763150887",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860722356394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_4.jpg?v=1763150887",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860722389162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_5.jpg?v=1763150886",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860722421930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_6.jpg?v=1763150886",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_3.jpg?v=1763150886",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_1.jpg?v=1763150887",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_2.jpg?v=1763150887",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_4.jpg?v=1763150887",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_5.jpg?v=1763150886",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisIlluminateMintBlack_6.jpg?v=1763150886"
+      ],
+      "created_at": "2025-11-15T00:08:04+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296690974890,
+      "title": "Asics Novablast 5 Purple Coral Reef",
+      "handle": "asics-novablast-5-purple-coral-reef-tayte",
+      "url": "https://littledubai-ae.shop/products/asics-novablast-5-purple-coral-reef-tayte",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The NOVABLAST ™ 5 running shoe's midsole and outsole geometry that helps produce an energized ride. FF BLAST ™ MAX cushioning helps create softer landings and a more energized toe-off during your training. A tongue wing construction in the upper helps improve the fit while reducing tongue movement. It's complemented with an engineered jacquard mesh upper that offers more stretch and ventilation.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630141849770,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141882538,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141915306,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141948074,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630141980842,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630142013610,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630142046378,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630142079146,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630142111914,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630142144682,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860763545770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_4_eaec5b40-c8af-4206-b976-21d8ea4abb19.jpg?v=1763151082",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 42860763578538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_1_32233ec2-c69c-4348-a752-122829f5bc80.jpg?v=1763151082",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763611306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_6_6f6c479b-dde2-454b-ac48-f3bb9b4b5e65.jpg?v=1763151082",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763644074,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_5_2c012aae-2501-47e1-9211-e8eba71844e5.jpg?v=1763151082",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763676842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_2_91df4f23-26f1-4f73-a143-4b79b5f8ab1c.jpg?v=1763151082",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860763709610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_3_4540d3a9-033b-4b08-b74d-4e3c09aac106.jpg?v=1763151082",
+          "width": 600,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_4_eaec5b40-c8af-4206-b976-21d8ea4abb19.jpg?v=1763151082",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_1_32233ec2-c69c-4348-a752-122829f5bc80.jpg?v=1763151082",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_6_6f6c479b-dde2-454b-ac48-f3bb9b4b5e65.jpg?v=1763151082",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_5_2c012aae-2501-47e1-9211-e8eba71844e5.jpg?v=1763151082",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_2_91df4f23-26f1-4f73-a143-4b79b5f8ab1c.jpg?v=1763151082",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast5PurpleCoralReef_3_4540d3a9-033b-4b08-b74d-4e3c09aac106.jpg?v=1763151082"
+      ],
+      "created_at": "2025-11-15T00:11:20+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296689959082,
+      "title": "Asics Novablast 4 Illuminate Green",
+      "handle": "asics-novablast-4-illuminate-green-4ymzv",
+      "url": "https://littledubai-ae.shop/products/asics-novablast-4-illuminate-green-4ymzv",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The NOVABLAST 4 running shoe features a new midsole and outsole geometry that helps produce an energized ride. A tongue wing construction in the upper helps improve the fit while reducing tongue movement. It's complemented with an engineered woven upper that offers more stretch, ventilation, and durability. FF BLAST PLUS ECO cushioning is made with 20 % recycled bio-based content. This material helps create softer landings and a more energized toe-off during your training.",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630133166250,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630133199018,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630133231786,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630133264554,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630133297322,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630133330090,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860758368426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_4_10bcda07-cc5d-44e5-a966-51d964a7a1e0.jpg?v=1763151053",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860758401194,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_1_da75d3ed-186e-4958-97f8-acbead9fbb0a.jpg?v=1763151053",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860758433962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_2_b444de95-345e-4fa8-8370-8ee11dae6bda.jpg?v=1763151054",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860758466730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_3_a9a8eb73-0da8-4619-9bb5-42dec28698c0.jpg?v=1763151053",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860758499498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_5_d1cdf0ce-b1d3-4783-a362-4a1dc9f2aa96.jpg?v=1763151054",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860758532266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_6_286831c6-0276-4172-93fd-da1a5e936241.jpg?v=1763151053",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_4_10bcda07-cc5d-44e5-a966-51d964a7a1e0.jpg?v=1763151053",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_1_da75d3ed-186e-4958-97f8-acbead9fbb0a.jpg?v=1763151053",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_2_b444de95-345e-4fa8-8370-8ee11dae6bda.jpg?v=1763151054",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_3_a9a8eb73-0da8-4619-9bb5-42dec28698c0.jpg?v=1763151053",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_5_d1cdf0ce-b1d3-4783-a362-4a1dc9f2aa96.jpg?v=1763151054",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4IlluminateGreen_6_286831c6-0276-4172-93fd-da1a5e936241.jpg?v=1763151053"
+      ],
+      "created_at": "2025-11-15T00:10:51+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296670593194,
+      "title": "ASICS Gel-NYC Graphite Grey Black",
+      "handle": "asics-gel-nyc-graphite-grey-black",
+      "url": "https://littledubai-ae.shop/products/asics-gel-nyc-graphite-grey-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629981548714,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981581482,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981614250,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981647018,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981679786,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981712554,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981745322,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981778090,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981810858,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981843626,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860586303658,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1201A789_020_SR_RT_GLB.jpg?v=1763150437",
+          "width": 683,
+          "height": 512
+        },
+        {
+          "id": 42860586336426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/asics-gel-nyc-graphite-3-grey-black-1201a789-020_1800x1800_a648bf7c-e793-4630-9ca3-4e2955b44d6e.jpg?v=1763150437",
+          "width": 850,
+          "height": 680
+        },
+        {
+          "id": 42860586369194,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/asics-gel-nyc-1201a789-graphite-grey-black.jpg?v=1763150437",
+          "width": 1500,
+          "height": 979
+        },
+        {
+          "id": 42860586401962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-04-18at12.54.07PM.jpg?v=1763150437",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 42860586434730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-04-18at12.54.06PM_2.jpg?v=1763150437",
+          "width": 768,
+          "height": 768
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1201A789_020_SR_RT_GLB.jpg?v=1763150437",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/asics-gel-nyc-graphite-3-grey-black-1201a789-020_1800x1800_a648bf7c-e793-4630-9ca3-4e2955b44d6e.jpg?v=1763150437",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/asics-gel-nyc-1201a789-graphite-grey-black.jpg?v=1763150437",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-04-18at12.54.07PM.jpg?v=1763150437",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-04-18at12.54.06PM_2.jpg?v=1763150437"
+      ],
+      "created_at": "2025-11-15T00:00:35+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296670625962,
+      "title": "Asics Gel NYC 'Cream Oyster Grey",
+      "handle": "asics-gel-nyc-cream-oyster-grey",
+      "url": "https://littledubai-ae.shop/products/asics-gel-nyc-cream-oyster-grey",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629981876394,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981909162,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981941930,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981974698,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982007466,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982040234,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982073002,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982105770,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982138538,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629982171306,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860586795178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4870888403_sd1.webp?v=1763150438",
+          "width": 1200,
+          "height": 1049
+        },
+        {
+          "id": 42860586827946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/d754a0f03a8d4877bf58d4a168b4ac16.webp?v=1763150438",
+          "width": 762,
+          "height": 1100
+        },
+        {
+          "id": 42860586860714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_37.jpg?v=1763150438",
+          "width": 225,
+          "height": 225
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4870888403_sd1.webp?v=1763150438",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/d754a0f03a8d4877bf58d4a168b4ac16.webp?v=1763150438",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_37.jpg?v=1763150438"
+      ],
+      "created_at": "2025-11-15T00:00:36+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296655126698,
+      "title": "Asics  Gel 1130 'White Midnight'",
+      "handle": "asics-gel-1130-white-midnight",
+      "url": "https://littledubai-ae.shop/products/asics-gel-1130-white-midnight",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Asics",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) ASICS GEL-1130 \"White/Midnight\" sneakers First released in 2008, ASICS’ GEL-1130 sneakers take inspiration from the brand’s GEL-KAYANO™ 14 style. Designed to provide stability and comfort when running, this \"White/Midnight\" pair is crafted with breathable mesh uppers trimmed with silver-tone and blue-grey accents.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629845037226,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845069994,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845102762,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845135530,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845168298,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845201066,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845233834,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845266602,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845299370,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845332138,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860409618602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_76da5a14-8871-49e2-b097-03d36ce054ca.png?v=1763149869",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860409651370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_b496b96e-79c4-4a5d-a6b1-4767bfa27abe.png?v=1763149869",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860409684138,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_660df930-b49f-4cde-acd8-e0c1cbfc6061.png?v=1763149869",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860409716906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_f80d605d-74c9-4d7e-bc1b-a42283bd2078.png?v=1763149869",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_76da5a14-8871-49e2-b097-03d36ce054ca.png?v=1763149869",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_b496b96e-79c4-4a5d-a6b1-4767bfa27abe.png?v=1763149869",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_660df930-b49f-4cde-acd8-e0c1cbfc6061.png?v=1763149869",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_f80d605d-74c9-4d7e-bc1b-a42283bd2078.png?v=1763149869"
+      ],
+      "created_at": "2025-11-14T23:51:06+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296690319530,
+      "title": "Asics Superblast 2 Wave Teal Illuminate Mint",
+      "handle": "asics-superblast-2-wave-teal-illuminate-mint-7dmfh",
+      "url": "https://littledubai-ae.shop/products/asics-superblast-2-wave-teal-illuminate-mint-7dmfh",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "Move from feeling standard to super in the SUPERBLAST™ 2 shoe. It's designed to help provide the most responsive, energized feel compared to other shoes in the ASICS® cushioning range. The midsole features a combination of FF BLAST™ PLUS and FF TURBO™ PLUS cushioning. Also used in our METASPEED™ racing models, this foam helps creates one of the lightest and bounciest running experiences. This shoe's upper construction features an asymmetric mesh design. It features different colors on the medial and lateral angles of the shoe for visual interest.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630137950378,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630137983146,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138015914,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138048682,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138081450,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138114218,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138146986,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138179754,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138212522,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630138245290,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860760334506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_4_7e381c37-b990-42e5-8d86-1bdc5642b30a.jpg?v=1763151065",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760367274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_1_9d7e259a-280a-44b1-9d8e-b65eae1fff03.jpg?v=1763151065",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760400042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_6_b30bc006-d449-4464-9d50-e88a593c7d16.jpg?v=1763151065",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760432810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_5_87f16675-85c2-462c-9721-533cd685840c.jpg?v=1763151065",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760465578,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_3_2458584e-acf7-4cb3-ae56-0592d39c5663.jpg?v=1763151065",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860760498346,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_2_91a6e23c-1216-4dbf-8f68-88b9291348fb.jpg?v=1763151065",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_4_7e381c37-b990-42e5-8d86-1bdc5642b30a.jpg?v=1763151065",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_1_9d7e259a-280a-44b1-9d8e-b65eae1fff03.jpg?v=1763151065",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_6_b30bc006-d449-4464-9d50-e88a593c7d16.jpg?v=1763151065",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_5_87f16675-85c2-462c-9721-533cd685840c.jpg?v=1763151065",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_3_2458584e-acf7-4cb3-ae56-0592d39c5663.jpg?v=1763151065",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2WaveTealIlluminateMint_2_91a6e23c-1216-4dbf-8f68-88b9291348fb.jpg?v=1763151065"
+      ],
+      "created_at": "2025-11-15T00:11:03+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296691302570,
+      "title": "Asics Superblast 2 Greyish Purple Coral Reef",
+      "handle": "asics-superblast-2-greyish-purple-coral-reef-mngrs",
+      "url": "https://littledubai-ae.shop/products/asics-superblast-2-greyish-purple-coral-reef-mngrs",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "Move from feeling standard to super in the SUPERBLAST™ 2 shoe. It's designed to help provide the most responsive, energized feel compared to other shoes in the ASICS® cushioning range. The midsole features a combination of FF BLAST™ PLUS and FF TURBO™ PLUS cushioning. Also used in our METASPEED™ racing models, this foam helps creates one of the lightest and bounciest running experiences. This shoe's upper construction features an asymmetric mesh design. It features different colors on the medial and lateral angles of the shoe for visual interest.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630143717546,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143750314,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143783082,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143815850,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143848618,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143881386,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143914154,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143946922,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630143979690,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630144012458,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860766757034,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_1_1abf57aa-7315-43f7-8d46-fef7e987e997.jpg?v=1763151089",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860766789802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_6_07190cd7-62a9-41a5-a2f3-654eff2686d0.jpg?v=1763151089",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860766822570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_5_e7e44bd9-54f4-4731-99be-929283bf041c.jpg?v=1763151089",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860766855338,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_4_4bdfff8d-4ce4-49f5-b99b-428d324257f9.jpg?v=1763151089",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860766888106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_3_f3eafc9d-34e6-41f7-99ec-c7ce15103640.jpg?v=1763151089",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860766920874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_2_6769def0-0150-49f3-8241-fd25119c1618.jpg?v=1763151089",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_1_1abf57aa-7315-43f7-8d46-fef7e987e997.jpg?v=1763151089",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_6_07190cd7-62a9-41a5-a2f3-654eff2686d0.jpg?v=1763151089",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_5_e7e44bd9-54f4-4731-99be-929283bf041c.jpg?v=1763151089",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_4_4bdfff8d-4ce4-49f5-b99b-428d324257f9.jpg?v=1763151089",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_3_f3eafc9d-34e6-41f7-99ec-c7ce15103640.jpg?v=1763151089",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsSuperblast2PurpleCoralReef_2_6769def0-0150-49f3-8241-fd25119c1618.jpg?v=1763151089"
+      ],
+      "created_at": "2025-11-15T00:11:26+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296670527658,
+      "title": "ASICS Novablast 5 White Piedmont Grey",
+      "handle": "asics-novablast-5-white-piedmont-grey",
+      "url": "https://littledubai-ae.shop/products/asics-novablast-5-white-piedmont-grey",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "490.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629981024426,
+          "title": "36",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981057194,
+          "title": "37",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981089962,
+          "title": "38",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981122730,
+          "title": "39",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981155498,
+          "title": "40",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981188266,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981221034,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981253802,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981286570,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981319338,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "490.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860586008746,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1012B288_102_SR_RT_GLB.webp?v=1763150435",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "id": 42860586041514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1012B765_100_SB_TP_GLB_1946x_c4966759-4350-4fe1-a90b-b342e4574529.jpg?v=1763150435",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860586074282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1012B765_100_SB_BT_GLB_1946x_d5d6b809-ab45-4981-9146-770a800a1e7f.jpg?v=1763150435",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860586107050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/asics_novablast_5_white_piedmo_1736416194_f1b01cfa_progressive.jpg?v=1763150435",
+          "width": 1080,
+          "height": 720
+        },
+        {
+          "id": 42860586139818,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-22_at_9.42.33_AM.jpg?v=1763150435",
+          "width": 1050,
+          "height": 1280
+        },
+        {
+          "id": 42860586172586,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-22_at_9.42.34_AM.jpg?v=1763150436",
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1012B288_102_SR_RT_GLB.webp?v=1763150435",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1012B765_100_SB_TP_GLB_1946x_c4966759-4350-4fe1-a90b-b342e4574529.jpg?v=1763150435",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1012B765_100_SB_BT_GLB_1946x_d5d6b809-ab45-4981-9146-770a800a1e7f.jpg?v=1763150435",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/asics_novablast_5_white_piedmo_1736416194_f1b01cfa_progressive.jpg?v=1763150435",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-22_at_9.42.33_AM.jpg?v=1763150435",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-22_at_9.42.34_AM.jpg?v=1763150436"
+      ],
+      "created_at": "2025-11-15T00:00:33+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296684191914,
+      "title": "Asics Novablast 4 Light Sapphire",
+      "handle": "asics-novablast-4-light-sapphire",
+      "url": "https://littledubai-ae.shop/products/asics-novablast-4-light-sapphire",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The NOVABLAST 4 running shoe features a new midsole and outsole geometry that helps produce an energized ride. A tongue wing construction in the upper helps improve the fit while reducing tongue movement. It's complemented with an engineered woven upper that offers more stretch, ventilation, and durability. FF BLAST PLUS ECO cushioning is made with 20 % recycled bio-based content. This material helps create softer landings and a more energized toe-off during your training.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630104068266,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104101034,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104133802,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104166570,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104199338,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104232106,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860724191402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_6.jpg?v=1763150889",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860724224170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_1.jpg?v=1763150889",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860724256938,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_5.jpg?v=1763150889",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860724289706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_4.jpg?v=1763150889",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860724322474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_3.jpg?v=1763150889",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860724355242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_2.jpg?v=1763150889",
+          "width": 600,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_6.jpg?v=1763150889",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_1.jpg?v=1763150889",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_5.jpg?v=1763150889",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_4.jpg?v=1763150889",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_3.jpg?v=1763150889",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsNovablast4LightSapphire_2.jpg?v=1763150889"
+      ],
+      "created_at": "2025-11-15T00:08:06+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296684060842,
+      "title": "Asics Metaspeed Edge Paris Safety Yellow Black",
+      "handle": "asics-metaspeed-edge-paris-safety-yellow-black",
+      "url": "https://littledubai-ae.shop/products/asics-metaspeed-edge-paris-safety-yellow-black",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The METASPEED™ EDGE PARIS racing shoes are designed for cadence-style runners who are looking to start fast and finish faster. Runners wearing these shoes will be able to increase their speed by increasing number of strides and conserve energy with each step. Thanks to an energetic midsole foam and a propulsive carbon plate, runners wearing these shoes will be able to conserve more energy while maintaining their pace at the later stages of the race. This update will also help you to kick-through the 30km wall more easily. In addition to its lighter construction, these shoes also feature FF TURBO™ PLUS cushioning. This helps to improve compression and while providing more energy savings.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630103183530,
+          "title": "36",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103216298,
+          "title": "37",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103249066,
+          "title": "38",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103281834,
+          "title": "39",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103314602,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103347370,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103380138,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103412906,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103445674,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103478442,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860721209514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_4.jpg?v=1763150885",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860721242282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_1.jpg?v=1763150885",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860721275050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_6.jpg?v=1763150885",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860721307818,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_5.jpg?v=1763150885",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860721340586,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_3.jpg?v=1763150886",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860721373354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_2.jpg?v=1763150885",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_4.jpg?v=1763150885",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_1.jpg?v=1763150885",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_6.jpg?v=1763150885",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_5.jpg?v=1763150885",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_3.jpg?v=1763150886",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisSafetyYellowBlack_2.jpg?v=1763150885"
+      ],
+      "created_at": "2025-11-15T00:08:03+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296684028074,
+      "title": "Asics Metaspeed Edge Paris Light Blue Black",
+      "handle": "asics-metaspeed-edge-paris-light-blue-black",
+      "url": "https://littledubai-ae.shop/products/asics-metaspeed-edge-paris-light-blue-black",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "The METASPEED™ EDGE PARIS racing shoes are designed for cadence-style runners who are looking to start fast and finish faster. Runners wearing these shoes will be able to increase their speed by increasing number of strides and conserve energy with each step. Thanks to an energetic midsole foam and a propulsive carbon plate, runners wearing these shoes will be able to conserve more energy while maintaining their pace at the later stages of the race. This update will also help you to kick-through the 30km wall more easily. In addition to its lighter construction, these shoes also feature FF TURBO™ PLUS cushioning. This helps to improve compression and while providing more energy savings.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630102823082,
+          "title": "36",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630102855850,
+          "title": "37",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630102888618,
+          "title": "38",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630102921386,
+          "title": "39",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630102954154,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630102986922,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103019690,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103052458,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103085226,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630103117994,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860720357546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_4.jpg?v=1763150884",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860720390314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_1.jpg?v=1763150884",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860720423082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_6.jpg?v=1763150884",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860720455850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_5.jpg?v=1763150884",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860720488618,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_3.jpg?v=1763150884",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860720521386,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_2.jpg?v=1763150884",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_4.jpg?v=1763150884",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_1.jpg?v=1763150884",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_6.jpg?v=1763150884",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_5.jpg?v=1763150884",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_3.jpg?v=1763150884",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsMetaspeedEdgeParisLightBlueBlack_2.jpg?v=1763150884"
+      ],
+      "created_at": "2025-11-15T00:08:02+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296670560426,
+      "title": "ASICS GEL-NYC \"Cream/Steel Grey",
+      "handle": "asics-gel-nyc-creamsteel-grey",
+      "url": "https://littledubai-ae.shop/products/asics-gel-nyc-creamsteel-grey",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "550.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629981352106,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981384874,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981417642,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981450410,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981483178,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629981515946,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860586205354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-04-22at9.39.24AM.jpg?v=1763150437",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "id": 42860586238122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Gel-NYC---Cream-Steel-Grey-1203A383.101-02-14-24-Feature-JP-5.jpg?v=1763150436",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-04-22at9.39.24AM.jpg?v=1763150437",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Gel-NYC---Cream-Steel-Grey-1203A383.101-02-14-24-Feature-JP-5.jpg?v=1763150436"
+      ],
+      "created_at": "2025-11-15T00:00:34+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296684322986,
+      "title": "Asics Gel-Kayano 31 Triple Black",
+      "handle": "asics-gel-kayano-31-triple-black",
+      "url": "https://littledubai-ae.shop/products/asics-gel-kayano-31-triple-black",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "Move your mind with the GEL-KAYANO® 31 shoe’s adaptive stability and premium comfort. The 4D GUIDANCE SYSTEM™ helps provide adaptive stability. This helps you experience a more supportive and balanced stride during your distance training. Its midsole implements FF BLAST™ PLUS cushioning and PureGEL™ technology. These features make your distance training feel surprisingly smooth and comfortable.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630105280682,
+          "title": "36",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105313450,
+          "title": "37",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105346218,
+          "title": "38",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105378986,
+          "title": "39",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105411754,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105444522,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105477290,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105510058,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105542826,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105575594,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860727468202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_4.jpg?v=1763150893",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860727500970,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_1.jpg?v=1763150893",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860727533738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_6.jpg?v=1763150893",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860727566506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_5.jpg?v=1763150893",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860727599274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_3.jpg?v=1763150893",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860727632042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_2.jpg?v=1763150893",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_4.jpg?v=1763150893",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_1.jpg?v=1763150893",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_6.jpg?v=1763150893",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_5.jpg?v=1763150893",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_3.jpg?v=1763150893",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31TripleBlack_2.jpg?v=1763150893"
+      ],
+      "created_at": "2025-11-15T00:08:11+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296684355754,
+      "title": "Asics Gel-Kayano 31 Matcha Celadon",
+      "handle": "asics-gel-kayano-31-matcha-celadon",
+      "url": "https://littledubai-ae.shop/products/asics-gel-kayano-31-matcha-celadon",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "Move your mind with the GEL-KAYANO® 31 shoe’s adaptive stability and premium comfort. The 4D GUIDANCE SYSTEM™ helps provide adaptive stability. This helps you experience a more supportive and balanced stride during your distance training. Its midsole implements FF BLAST™ PLUS cushioning and PureGEL™ technology. These features make your distance training feel surprisingly smooth and comfortable.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630105608362,
+          "title": "36",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105641130,
+          "title": "37",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105673898,
+          "title": "38",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105706666,
+          "title": "39",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105739434,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105772202,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105804970,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105837738,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105870506,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105903274,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860728385706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_4.jpg?v=1763150894",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860728418474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_1.jpg?v=1763150895",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860728451242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_6.jpg?v=1763150894",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860728484010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_5.jpg?v=1763150894",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860728516778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_2.jpg?v=1763150894",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860728549546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_3.jpg?v=1763150895",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_4.jpg?v=1763150894",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_1.jpg?v=1763150895",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_6.jpg?v=1763150894",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_5.jpg?v=1763150894",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_2.jpg?v=1763150894",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31MatchaCeladon_3.jpg?v=1763150895"
+      ],
+      "created_at": "2025-11-15T00:08:12+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296684290218,
+      "title": "Asics Gel-Kayano 31 Black White",
+      "handle": "asics-gel-kayano-31-black-white",
+      "url": "https://littledubai-ae.shop/products/asics-gel-kayano-31-black-white",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Asics",
+      "description": "Move your mind with the GEL-KAYANO® 31 shoe’s adaptive stability and premium comfort. The 4D GUIDANCE SYSTEM™ helps provide adaptive stability. This helps you experience a more supportive and balanced stride during your distance training. Its midsole implements FF BLAST™ PLUS cushioning and PureGEL™ technology. These features make your distance training feel surprisingly smooth and comfortable.",
+      "price": "339.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630104953002,
+          "title": "36",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630104985770,
+          "title": "37",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105018538,
+          "title": "38",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105051306,
+          "title": "39",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105084074,
+          "title": "40",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105116842,
+          "title": "41",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105149610,
+          "title": "42",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105182378,
+          "title": "43",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105215146,
+          "title": "44",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630105247914,
+          "title": "45",
+          "price": "339.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860726812842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_5.jpg?v=1763150892",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726845610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_1.jpg?v=1763150892",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726878378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_2.jpg?v=1763150892",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726911146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_3.jpg?v=1763150892",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726943914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_4.jpg?v=1763150892",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860726976682,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_6.jpg?v=1763150892",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_5.jpg?v=1763150892",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_1.jpg?v=1763150892",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_2.jpg?v=1763150892",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_3.jpg?v=1763150892",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_4.jpg?v=1763150892",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/AsicsGel-Kayano31Black_White_6.jpg?v=1763150892"
+      ],
+      "created_at": "2025-11-15T00:08:10+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296670429354,
+      "title": "Asics Gel NYC Cream Mineral Pink",
+      "handle": "asics-gel-nyc-cream-mineral-pink",
+      "url": "https://littledubai-ae.shop/products/asics-gel-nyc-cream-mineral-pink",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "550.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629980369066,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980401834,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980434602,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980467370,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980500138,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980532906,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980565674,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980598442,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "550.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980631210,
+          "title": "44",
+          "price": "359.00",
+          "compare_at_price": "550.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629980663978,
+          "title": "45",
+          "price": "359.00",
+          "compare_at_price": "550.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860585615530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1203A383_104_SR_RT_GLB.webp?v=1763150433",
+          "width": 683,
+          "height": 512
+        },
+        {
+          "id": 42860585648298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ASICS-Gel-NYC-Creme-Mineral-Beige-rose-oversized-2-800x800.webp?v=1763150433",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860585681066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PgIZMngQ3Xv2kbaQAX58_1203A383-104-Asics-GEL-NYC-Cream-Mineral-Beige-os-3_e229917d-bb56-46ff-9e1a-be13a5aabf77.webp?v=1763150433",
+          "width": 768,
+          "height": 768
+        },
+        {
+          "id": 42860585713834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2334754_PS4.jpg?v=1763150433",
+          "width": 450,
+          "height": 450
+        },
+        {
+          "id": 42860585746602,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_38.jpg?v=1763150433",
+          "width": 220,
+          "height": 229
+        },
+        {
+          "id": 42860585779370,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24822277_54994013_1000.webp?v=1763150433",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1203A383_104_SR_RT_GLB.webp?v=1763150433",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ASICS-Gel-NYC-Creme-Mineral-Beige-rose-oversized-2-800x800.webp?v=1763150433",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/PgIZMngQ3Xv2kbaQAX58_1203A383-104-Asics-GEL-NYC-Cream-Mineral-Beige-os-3_e229917d-bb56-46ff-9e1a-be13a5aabf77.webp?v=1763150433",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2334754_PS4.jpg?v=1763150433",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_38.jpg?v=1763150433",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24822277_54994013_1000.webp?v=1763150433"
+      ],
+      "created_at": "2025-11-15T00:00:30+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296655650986,
+      "title": "Asics Gel Nyc 'Cream/Steel Grey'",
+      "handle": "asics-gel-nyc-cream-steel-grey",
+      "url": "https://littledubai-ae.shop/products/asics-gel-nyc-cream-steel-grey",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Asics",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The GEL-NYC™ sneaker sources inspiration from heritage and modern performance running styles. It's upper construction references the GEL-NIMBUS™ 3 shoe from the early 2000s and blends it with various embellishments from the GEL-MC PLUS™ V design.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "0.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629854113962,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629854146730,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629854179498,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629854212266,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629854245034,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629854277802,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "0.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860413485226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_b97888d8-b6f4-4a5d-9117-1351d73bfc42.png?v=1763149890",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860413517994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_dd1f14a3-a3f2-45f6-ab08-5e6f6826e5a2.png?v=1763149890",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860413550762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_e1397e83-1667-4436-a08e-8aeb59d2c596.png?v=1763149890",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860413583530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_57f72848-e997-40fc-b888-46e8189dd8a2.png?v=1763149890",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860413616298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_d42f4e57-e577-418b-a689-6b26ba486b76.png?v=1763149890",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860413649066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_702c66a8-15ed-4d64-869e-80678e2401ae.png?v=1763149890",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860413681834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_d4560615-d870-4555-925f-79cbc5a29206.png?v=1763149890",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_b97888d8-b6f4-4a5d-9117-1351d73bfc42.png?v=1763149890",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_dd1f14a3-a3f2-45f6-ab08-5e6f6826e5a2.png?v=1763149890",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_e1397e83-1667-4436-a08e-8aeb59d2c596.png?v=1763149890",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_57f72848-e997-40fc-b888-46e8189dd8a2.png?v=1763149890",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_d42f4e57-e577-418b-a689-6b26ba486b76.png?v=1763149890",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_702c66a8-15ed-4d64-869e-80678e2401ae.png?v=1763149890",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_d4560615-d870-4555-925f-79cbc5a29206.png?v=1763149890"
+      ],
+      "created_at": "2025-11-14T23:51:27+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    }
+  ]
+}

@@ -1,0 +1,4748 @@
+{
+  "collection": "zeg",
+  "source": "https://littledubai-ae.shop/collections/zeg",
+  "scraped_at": "2026-04-20T20:40:54.977Z",
+  "total_products": 35,
+  "total_images": 135,
+  "products": [
+    {
+      "id": 8316894216362,
+      "title": "Premium Luxury Zegna Tripple Stitch Black Suede",
+      "handle": "premium-luxury-zegna-tripple-stitch-black-suede",
+      "url": "https://littledubai-ae.shop/products/premium-luxury-zegna-tripple-stitch-black-suede",
+      "vendor": "Meravo steps",
+      "product_type": "",
+      "description": "",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "600.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47765291729066,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "600.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47765291761834,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "600.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47765291794602,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "600.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47765291827370,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "600.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47765291860138,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "600.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47765291892906,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "600.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47765291925674,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "600.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 43437080051882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_8a2513e6-fdb1-46f1-b0dd-0f9a7b331423.jpg?v=1765793441",
+          "width": 958,
+          "height": 972
+        },
+        {
+          "id": 43437080084650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_7110ac42-6f44-4523-aecc-da3a8d4bd1a9.jpg?v=1765793441",
+          "width": 1280,
+          "height": 1279
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_8a2513e6-fdb1-46f1-b0dd-0f9a7b331423.jpg?v=1765793441",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_7110ac42-6f44-4523-aecc-da3a8d4bd1a9.jpg?v=1765793441"
+      ],
+      "created_at": "2025-12-15T14:10:39+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296709193898,
+      "title": "Zegna Triple Stitch suede sneakers \"Blue\"",
+      "handle": "zegna-triple-stitch-suede-sneakers-blue",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stitch-suede-sneakers-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) These Triple Stitch™ low-top sneakers in workwear blue suede calfskin are incredibly light and flexible. A tribute to the historic know-how of the house, the three elastic crosses designed to facilitate donning are a signature detail evoking the hand stitching on our sartorial jackets. This pair is completed with a Foliage-colored leather lining.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630178156714,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178189482,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178222250,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178255018,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178287786,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178320554,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178353322,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178386090,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860881838250,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_cb50a0ec-9727-422b-a27d-919af67eaa8b.jpg?v=1763151609",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860881871018,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_e014f066-5c18-4741-a755-5b46c12404c0.jpg?v=1763151609",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860881903786,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_e6da5c02-ed17-4df8-882e-9c2f680b75bf.jpg?v=1763151609",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860881936554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_fad05216-5d76-40d8-8012-0938ab12056b.jpg?v=1763151609",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_cb50a0ec-9727-422b-a27d-919af67eaa8b.jpg?v=1763151609",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_e014f066-5c18-4741-a755-5b46c12404c0.jpg?v=1763151609",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_e6da5c02-ed17-4df8-882e-9c2f680b75bf.jpg?v=1763151609",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_fad05216-5d76-40d8-8012-0938ab12056b.jpg?v=1763151609"
+      ],
+      "created_at": "2025-11-15T00:20:07+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296712503466,
+      "title": "Zegna Foliage Deerskin Triple Stitch Sneakers",
+      "handle": "zegna-foliage-deerskin-triple-stitch-sneakers",
+      "url": "https://littledubai-ae.shop/products/zegna-foliage-deerskin-triple-stitch-sneakers",
+      "vendor": "Maison eleave",
+      "product_type": "",
+      "description": "",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630199586986,
+          "title": "40",
+          "price": "399.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199619754,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199652522,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199685290,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199718058,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199750826,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630199783594,
+          "title": "46",
+          "price": "399.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860897730730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at06.01.55_be92d8a4.jpg?v=1763151712",
+          "width": 1352,
+          "height": 1346
+        },
+        {
+          "id": 42860897763498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at05.59.38_fbb53b82.jpg?v=1763151711",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860897796266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at05.59.59_787f586a.jpg?v=1763151712",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 42860897829034,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at06.00.13_98c6a171.jpg?v=1763151712",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at06.01.55_be92d8a4.jpg?v=1763151712",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at05.59.38_fbb53b82.jpg?v=1763151711",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at05.59.59_787f586a.jpg?v=1763151712",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2025-09-23at06.00.13_98c6a171.jpg?v=1763151712"
+      ],
+      "created_at": "2025-11-15T00:21:49+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710733994,
+      "title": "Zegna Crocodile Leather Triple Stitch SECONDSKIN",
+      "handle": "zegna-crocodile-leather-triple-stitch-secondskin-zwbom",
+      "url": "https://littledubai-ae.shop/products/zegna-crocodile-leather-triple-stitch-secondskin-zwbom",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630188544170,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188576938,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188609706,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188642474,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188675242,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188708010,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188740778,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188773546,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860889571498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/706c7997348a1d1b37e7507b36ec3ac1.jpg?v=1763151656",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889604266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8988fbf7ccebeab461f56611835cdf67.jpg?v=1763151657",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889637034,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7422d8610f4d8b07c3ee459a8dd805f7.jpg?v=1763151656",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889669802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/bf62ed34634cb61d13bc99b4c9bf3980.jpg?v=1763151657",
+          "width": 922,
+          "height": 1048
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/706c7997348a1d1b37e7507b36ec3ac1.jpg?v=1763151656",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8988fbf7ccebeab461f56611835cdf67.jpg?v=1763151657",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7422d8610f4d8b07c3ee459a8dd805f7.jpg?v=1763151656",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/bf62ed34634cb61d13bc99b4c9bf3980.jpg?v=1763151657"
+      ],
+      "created_at": "2025-11-15T00:20:54+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711913642,
+      "title": "Zegna Monte Sneakers \"Brown\"",
+      "handle": "zegna-monte-sneakers-brown",
+      "url": "https://littledubai-ae.shop/products/zegna-monte-sneakers-brown",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The brown suede and leather Triple Stitch™ Monte sneaker is a very versatile shoe, perfect all year round. The brand’s signature triple-crossed elastic detail ensures an easy slip-on fit, while evoking the traditional hand-stitching of tailored jackets to symbolize and honor Zegna’s legacy of fine craftsmanship. This elegant, casual shoe is lined with leather.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630196048042,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196080810,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196113578,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196146346,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196179114,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196211882,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196244650,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196277418,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860895207594,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_33db987e-3475-4247-b460-b465b6d16d58.png?v=1763151694",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895240362,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_147dbf26-cae9-457e-bffd-ce9ee89cd6bb.png?v=1763151694",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895273130,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_d19f2689-5c72-4e21-90ca-62eadb6610e8.png?v=1763151694",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895305898,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_6895aa84-6f16-4068-af2b-2af394f2f8c5.png?v=1763151694",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_33db987e-3475-4247-b460-b465b6d16d58.png?v=1763151694",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_147dbf26-cae9-457e-bffd-ce9ee89cd6bb.png?v=1763151694",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_d19f2689-5c72-4e21-90ca-62eadb6610e8.png?v=1763151694",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_6895aa84-6f16-4068-af2b-2af394f2f8c5.png?v=1763151694"
+      ],
+      "created_at": "2025-11-15T00:21:32+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711946410,
+      "title": "Zegna Pelletessuta Leather Triple Stitch \"Black\"",
+      "handle": "zegna-pelletessuta-leather-triple-stitch-black",
+      "url": "https://littledubai-ae.shop/products/zegna-pelletessuta-leather-triple-stitch-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Distinguished by their woven leather uppers, the black PELLETESSUTA™ Triple Stitch™ low top sneakers combine rich materials with unique texture. Lightweight and flexible, this special design is a luxurious take on casual footwear. The sneakers slip on easily thanks to the collection's iconic, triple-crossed elastics, which evoke the hand-stitching of classic leather shoes.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630196310186,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196342954,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196375722,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196408490,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196441258,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196474026,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860895338666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_5da2364c-fd21-4796-9967-c68b19810067.jpg?v=1763151695",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895371434,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_251afe5c-4519-44ce-98c5-9aebb1a991c7.jpg?v=1763151695",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895404202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_81b40c6c-4c09-443f-97a5-23a2a6b57882.jpg?v=1763151695",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895436970,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_87d8df5a-cb7f-46d5-b933-c1132f85b8b4.jpg?v=1763151695",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_5da2364c-fd21-4796-9967-c68b19810067.jpg?v=1763151695",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_251afe5c-4519-44ce-98c5-9aebb1a991c7.jpg?v=1763151695",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_81b40c6c-4c09-443f-97a5-23a2a6b57882.jpg?v=1763151695",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_87d8df5a-cb7f-46d5-b933-c1132f85b8b4.jpg?v=1763151695"
+      ],
+      "created_at": "2025-11-15T00:21:33+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711815338,
+      "title": "Zegna Monte Sneakers \"Black\"",
+      "handle": "zegna-monte-sneakers-black",
+      "url": "https://littledubai-ae.shop/products/zegna-monte-sneakers-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The black leather Triple Stitch™ Monte sneaker is a very versatile shoe, perfect all year round. The brand’s signature triple-crossed elastic detail ensures an easy slip-on fit, while evoking the traditional hand-stitching of tailored jackets to symbolize and honor Zegna’s legacy of fine craftsmanship. This elegant, casual shoe is lined with leather.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630195490986,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195523754,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195556522,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195589290,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195622058,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195654826,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195687594,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860894879914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_57636109-c70d-4afa-b67b-8896a0557d08.png?v=1763151692",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894912682,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_ca49180b-400a-442f-b0ae-0327edffb0ef.png?v=1763151692",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894945450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_78fca7a5-f5df-40fa-8bb2-881c66bdb037.png?v=1763151691",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894978218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_2e5a0a5c-ed08-4263-ae2a-c4ae672eb94f.png?v=1763151692",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_57636109-c70d-4afa-b67b-8896a0557d08.png?v=1763151692",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_ca49180b-400a-442f-b0ae-0327edffb0ef.png?v=1763151692",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_78fca7a5-f5df-40fa-8bb2-881c66bdb037.png?v=1763151691",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_2e5a0a5c-ed08-4263-ae2a-c4ae672eb94f.png?v=1763151692"
+      ],
+      "created_at": "2025-11-15T00:21:29+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711979178,
+      "title": "Zegna slip-on suede sneakers \"Blue\"",
+      "handle": "zegna-slip-on-suede-sneakers-blue",
+      "url": "https://littledubai-ae.shop/products/zegna-slip-on-suede-sneakers-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The utility blue suede Triple Stitch™ low-top sneakers' construction makes them lightweight and flexible. The brand’s signature triple-crossed elastic detail ensures an easy slip-on fit, while evoking the traditional hand-stitching of tailored jackets to symbolize and honor Zegna’s legacy of fine craftsmanship. Foliage-colored leather lining completes the look.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630196506794,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196539562,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196572330,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196605098,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196637866,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196670634,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630196703402,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860895502506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_4752f763-53e0-401b-a5e0-1a471280bec2.jpg?v=1763151696",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895535274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25.jpg?v=1763151698",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895568042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_4fe98db6-ae03-41d9-8880-dc644c88a9a3.jpg?v=1763151696",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895600810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_53925de1-6c47-4281-a9fa-fa4b0cdcd4e6.jpg?v=1763151696",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_4752f763-53e0-401b-a5e0-1a471280bec2.jpg?v=1763151696",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25.jpg?v=1763151698",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_4fe98db6-ae03-41d9-8880-dc644c88a9a3.jpg?v=1763151696",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_53925de1-6c47-4281-a9fa-fa4b0cdcd4e6.jpg?v=1763151696"
+      ],
+      "created_at": "2025-11-15T00:21:34+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296709619882,
+      "title": "Zegna Triple Stich leather sneakers \"Black\"",
+      "handle": "zegna-triple-stich-leather-sneakers-black",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stich-leather-sneakers-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Zegna's black deerskin Triple Stitch sneakers exude sophistication with their soft uppers. Featuring crossed elastics and an extra-light rubber sole, these Italian-made low-top sneakers pay homage to Zegna's legacy of fine craftsmanship. The foliage-colored leather lining adds a refined touch.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630181138602,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181171370,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181204138,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181236906,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181269674,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181302442,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181335210,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860884394154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_d51b3b6a-e1a8-45aa-a605-e501f7f87f91.jpg?v=1763151621",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884426922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_d91d1dc1-89b0-4c95-abf4-c85d4690674c.jpg?v=1763151621",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884459690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_91880972-ef5e-4ce6-b406-0aeafedf6a91.jpg?v=1763151621",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884492458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_677b4396-0727-489d-b082-adec6bf1092e.jpg?v=1763151621",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_d51b3b6a-e1a8-45aa-a605-e501f7f87f91.jpg?v=1763151621",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_d91d1dc1-89b0-4c95-abf4-c85d4690674c.jpg?v=1763151621",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_91880972-ef5e-4ce6-b406-0aeafedf6a91.jpg?v=1763151621",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_677b4396-0727-489d-b082-adec6bf1092e.jpg?v=1763151621"
+      ],
+      "created_at": "2025-11-15T00:20:19+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296712143018,
+      "title": "Zegna Triple Stich leather sneakers \"Tobacco\"",
+      "handle": "zegna-triple-stich-leather-sneakers-tobacco",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stich-leather-sneakers-tobacco",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Soft-touch suede enhances the casual charm of the tobacco low top Triple Stitch™ sneakers. Lightweight and flexible, this refined design is a luxurious take on casual footwear for fast-paced lifestyles. The sneakers a fitted with a white rubber sole and slip on easily thanks to the collection's iconic, triple-crossed elastics, which evoke the hand-stitching on our tailored jackets. Customize these sneakers with our Made to Measure Service. For more information, please contact our Customer Care or visit your nearest stores.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630197391530,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197424298,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197457066,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197489834,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197522602,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197555370,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197588138,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197620906,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860896157866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_6948cc0f-2dcc-4088-9b99-1b4e923d5f47.jpg?v=1763151704",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896190634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_9c9d888e-65a4-4012-8e6a-0ce6bda06da5.jpg?v=1763151703",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896223402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_19001b73-03c0-43cf-bbe2-55a92bd8e324.jpg?v=1763151703",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896256170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_7df247cf-9f4d-49e3-839a-81b66d6cd0bc.jpg?v=1763151704",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_6948cc0f-2dcc-4088-9b99-1b4e923d5f47.jpg?v=1763151704",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_9c9d888e-65a4-4012-8e6a-0ce6bda06da5.jpg?v=1763151703",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_19001b73-03c0-43cf-bbe2-55a92bd8e324.jpg?v=1763151703",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_7df247cf-9f4d-49e3-839a-81b66d6cd0bc.jpg?v=1763151704"
+      ],
+      "created_at": "2025-11-15T00:21:41+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710439082,
+      "title": "Zegna Triple Stich leather sneakers \"Vicuna\"",
+      "handle": "zegna-triple-stich-leather-sneakers-vicuna",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stich-leather-sneakers-vicuna",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Crafted from supple vicuna-colored deerskin, the Triple Stitch™ low top sneakers are a sophisticated take on casual footwear. The sneakers' signature triple-crossed elastics evoke the hand-stitching on our tailored jackets. The lightweight design is completed with a tonal rubber sole.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630186545322,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186578090,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186610858,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186643626,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186676394,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186709162,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186741930,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860888195242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_75615d4b-689d-4b07-8c9f-31d9df8cc62c.jpg?v=1763151647",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888228010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_4822efb5-d24f-4095-a952-f5b216831192.jpg?v=1763151647",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888260778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_c204c459-8808-4029-86c6-7c870107bf8e.jpg?v=1763151647",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888293546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_c5595070-6eba-4c65-a1ce-a4f23e329ed9.jpg?v=1763151647",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_75615d4b-689d-4b07-8c9f-31d9df8cc62c.jpg?v=1763151647",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_4822efb5-d24f-4095-a952-f5b216831192.jpg?v=1763151647",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_c204c459-8808-4029-86c6-7c870107bf8e.jpg?v=1763151647",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_c5595070-6eba-4c65-a1ce-a4f23e329ed9.jpg?v=1763151647"
+      ],
+      "created_at": "2025-11-15T00:20:45+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710668458,
+      "title": "Zegna Crocodile Leather Triple Stitch Sneakers",
+      "handle": "zegna-crocodile-leather-triple-stitch-sneakers",
+      "url": "https://littledubai-ae.shop/products/zegna-crocodile-leather-triple-stitch-sneakers",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630187987114,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188019882,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188052650,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188085418,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188118186,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188150954,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188183722,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188216490,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860889309354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6a1cd677c2ed28cda22db61b7167c559.jpg?v=1763151654",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889342122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7e6cd89d133954fee519e5908b968c38.jpg?v=1763151654",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889374890,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33cea0f4e8d4b160bb3b937ed32a7916.jpg?v=1763151654",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889407658,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/fb56d1ae698fafe36a66774a0c02f725.jpg?v=1763151654",
+          "width": 922,
+          "height": 1048
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6a1cd677c2ed28cda22db61b7167c559.jpg?v=1763151654",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7e6cd89d133954fee519e5908b968c38.jpg?v=1763151654",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33cea0f4e8d4b160bb3b937ed32a7916.jpg?v=1763151654",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/fb56d1ae698fafe36a66774a0c02f725.jpg?v=1763151654"
+      ],
+      "created_at": "2025-11-15T00:20:52+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710504618,
+      "title": "ZEGNA White Off Linen Blend Triple Stitch Espadrilles",
+      "handle": "zegna-white-off-linen-blend-triple-stitch-espadrilles",
+      "url": "https://littledubai-ae.shop/products/zegna-white-off-linen-blend-triple-stitch-espadrilles",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Airy and elegant, the canvas Triple Stitch™ sneakers are presented in a stylish faded blue colorway. This refined design is a fresh new take on casual footwear for fast-paced lifestyles. The sneakers are fitted with a white rubber sole and slip on easily thanks to the collection's iconic, triple-crossed elastics, which evoke the hand-stitching on our tailored jackets. Customize these sneakers with our Made to Measure Service. For more information, please contact our Customer Care or visit your nearest stores.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630186807466,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186840234,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186873002,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186905770,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186938538,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186971306,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187004074,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860888326314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_50a4bf59-2b82-4451-8f4e-bd229f5f3e7f.jpg?v=1763151648",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888359082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_3f3f661a-5469-4a60-9b46-2877fca495fd.jpg?v=1763151648",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888391850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_ee3e3cfa-b4a6-4796-b495-081ad9416f9f.jpg?v=1763151648",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888424618,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_e07807f0-47d3-4c5d-9501-bbdb4d3ff212.jpg?v=1763151648",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_50a4bf59-2b82-4451-8f4e-bd229f5f3e7f.jpg?v=1763151648",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_3f3f661a-5469-4a60-9b46-2877fca495fd.jpg?v=1763151648",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_ee3e3cfa-b4a6-4796-b495-081ad9416f9f.jpg?v=1763151648",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_e07807f0-47d3-4c5d-9501-bbdb4d3ff212.jpg?v=1763151648"
+      ],
+      "created_at": "2025-11-15T00:20:46+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296709161130,
+      "title": "Zegna Triple Stitch canvas sneakers \"Egg shell\"",
+      "handle": "zegna-triple-stitch-canvas-sneakers-egg-shell",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stitch-canvas-sneakers-egg-shell",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Lightweight and breathable, these off-white Triple Stitch™ canvas sneakers are perfect for summer. Foliage-colored leather details cleverly enhance its classic look. Resting on a white rubber sole, it is easy to put on thanks to the iconic three-cross elastic system, a signature detail evoking the stitching of our sartorial jackets. Personalize these sneakers with our Custom Service. For more information, contact our customer service or visit the store nearest to you.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630177927338,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177960106,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177992874,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178025642,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178058410,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178091178,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630178123946,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860881182890,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_07907f44-6520-4b7f-846d-fe4d49d8e53d.jpg?v=1763151608",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860881215658,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_8a561fe7-7f18-40bd-9c74-d2fcc7f3bef1.jpg?v=1763151608",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860881248426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_db99b3e5-df66-4871-9f51-7153902ccdea.jpg?v=1763151608",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860881281194,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_a964b21f-2147-4aa1-b15c-990210207663.jpg?v=1763151608",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_07907f44-6520-4b7f-846d-fe4d49d8e53d.jpg?v=1763151608",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_8a561fe7-7f18-40bd-9c74-d2fcc7f3bef1.jpg?v=1763151608",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_db99b3e5-df66-4871-9f51-7153902ccdea.jpg?v=1763151608",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_a964b21f-2147-4aa1-b15c-990210207663.jpg?v=1763151608"
+      ],
+      "created_at": "2025-11-15T00:20:06+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296712110250,
+      "title": "Zegna Triple Stich leather sneakers \"Beige\"",
+      "handle": "zegna-triple-stich-leather-sneakers-beige",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stich-leather-sneakers-beige",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) A perfectly sleek silhouette from Italian designer Zegna, the Triple Stitch sneakers draw their name from three crossover laces upon the vamp – capturing the refined aesthetic that the brand is renowned for. Luring you in through the grained leather upper and sumptuous touch of suede trims, this pair will instantly enrich any casual ensemble.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630197129386,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197162154,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197194922,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197227690,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197260458,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197293226,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197325994,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860895994026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_a68437e2-ff47-492d-9261-021a1c8c3182.jpg?v=1763151702",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896026794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_93b0be46-3a10-4ab5-ae9e-11f4d0d1df34.jpg?v=1763151703",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896059562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4d74d888-06b9-4193-8cb2-dd2e3262d054.jpg?v=1763151703",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896092330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_c41ff130-9766-492d-85ad-4b248142d422.jpg?v=1763151702",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_a68437e2-ff47-492d-9261-021a1c8c3182.jpg?v=1763151702",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_93b0be46-3a10-4ab5-ae9e-11f4d0d1df34.jpg?v=1763151703",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_4d74d888-06b9-4193-8cb2-dd2e3262d054.jpg?v=1763151703",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_c41ff130-9766-492d-85ad-4b248142d422.jpg?v=1763151702"
+      ],
+      "created_at": "2025-11-15T00:21:40+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710340778,
+      "title": "Zegna Suede Triple Stitch Espadrilles \"Black\"",
+      "handle": "zegna-suede-triple-stitch-espadrilles-black",
+      "url": "https://littledubai-ae.shop/products/zegna-suede-triple-stitch-espadrilles-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Zegna’s Triple Stitch sneakers have become something of a staple among those in the know, with their signature crossover elastic laces and clean lines. Here, the Italian House translates the soft suede profile atop woven jute soles, creating a refined yet casual pair of espadrilles.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630185758890,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630185791658,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630185824426,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630185857194,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630185889962,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630185922730,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630185955498,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630185988266,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860887769258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_ca5bfb42-b6f0-4bf8-85c6-f91bb3e152c2.png?v=1763151644",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860887802026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_9059824f-66d3-4550-9d71-74f99485045f.png?v=1763151644",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860887834794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_68afcd34-8c47-4200-a7ce-79fbbc8fa192.png?v=1763151644",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860887867562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_aa907d7c-9806-47a9-a575-9906907a7099.png?v=1763151644",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_ca5bfb42-b6f0-4bf8-85c6-f91bb3e152c2.png?v=1763151644",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_9059824f-66d3-4550-9d71-74f99485045f.png?v=1763151644",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_68afcd34-8c47-4200-a7ce-79fbbc8fa192.png?v=1763151644",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_aa907d7c-9806-47a9-a575-9906907a7099.png?v=1763151644"
+      ],
+      "created_at": "2025-11-15T00:20:41+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710373546,
+      "title": "Zegna SECONDSKIN Triple Stitch leather sneakers Light Grey\"",
+      "handle": "zegna-secondskin-triple-stitch-leather-sneakers-light-grey",
+      "url": "https://littledubai-ae.shop/products/zegna-secondskin-triple-stitch-leather-sneakers-light-grey",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The light grey Triple Stitch™ SECONDSKIN sneakers are crafted from specially selected calf leather for even more flexibility. The brand’s signature triple-crossed elastic detail ensures an easy slip-on fit, while evoking the traditional hand-stitching of tailored jackets to symbolize and honor Zegna’s legacy of fine craftsmanship. The super soft, light uppers are complemented by a white rubber sole. The Triple Stitch™ SECONDSKIN Shoes result from over a century of generational craftsmanship, the sharing of wisdom and dedication to innovation. Crafted from our SECONDSKIN leather, they feature a remarkable 'memory' that ensures a glove-inspired fit — making them ideal for travelling in exceptional style and comfort.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630186053802,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186086570,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186119338,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186152106,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186184874,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186217642,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186250410,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860887900330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_787f711a-a462-424d-bacc-187a3fb7bd7f.png?v=1763151645",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860887933098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_63de99b3-35c9-4c2b-806d-93401ed7e6bd.png?v=1763151645",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860887965866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_a937963a-b235-4073-8883-7d497dbf62e3.png?v=1763151645",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860887998634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_eb10998a-f060-48b7-9b14-e8b8f0c8ca51.png?v=1763151645",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_787f711a-a462-424d-bacc-187a3fb7bd7f.png?v=1763151645",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_63de99b3-35c9-4c2b-806d-93401ed7e6bd.png?v=1763151645",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_a937963a-b235-4073-8883-7d497dbf62e3.png?v=1763151645",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_eb10998a-f060-48b7-9b14-e8b8f0c8ca51.png?v=1763151645"
+      ],
+      "created_at": "2025-11-15T00:20:43+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296709128362,
+      "title": "ZEGNA Off-White Deerskin Triple Stitch Sneakers",
+      "handle": "zegna-off-white-deerskin-triple-stitch-sneakers",
+      "url": "https://littledubai-ae.shop/products/zegna-off-white-deerskin-triple-stitch-sneakers",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Low-top grained deerskin slip-on sneakers in off-white and tan. · Elasticized criss-crossing straps at vamp · Logo embossed at padded tongue · Padded collar · Pull-loop at heel collar · Rubberized logo patch at heel counter · Cushioned Sanitized® insole · Buffed leather lining · Treaded rubber sole Supplier color: Off white",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630177665194,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177697962,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177730730,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177763498,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177796266,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177829034,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630177861802,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860879741098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_5b8fe3b1-8f06-4b49-83db-115a2785e7a6.jpg?v=1763151606",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860879773866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_f43013f6-03a4-455d-895a-d52eadbf3e36.jpg?v=1763151605",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860879806634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_35de51c1-cc00-4381-8864-6a797512bbf3.jpg?v=1763151605",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860879839402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_94e8a7a0-89a1-4ad8-b957-759434aa78d2.jpg?v=1763151605",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_5b8fe3b1-8f06-4b49-83db-115a2785e7a6.jpg?v=1763151606",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_f43013f6-03a4-455d-895a-d52eadbf3e36.jpg?v=1763151605",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_35de51c1-cc00-4381-8864-6a797512bbf3.jpg?v=1763151605",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_94e8a7a0-89a1-4ad8-b957-759434aa78d2.jpg?v=1763151605"
+      ],
+      "created_at": "2025-11-15T00:20:03+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710701226,
+      "title": "Zegna Crocodile Leather Triple Stitch SECONDSKIN",
+      "handle": "zegna-crocodile-leather-triple-stitch-secondskin-g7peo",
+      "url": "https://littledubai-ae.shop/products/zegna-crocodile-leather-triple-stitch-secondskin-g7peo",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630188282026,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188314794,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188347562,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188380330,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188413098,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188445866,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188478634,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630188511402,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860889440426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/90d793d0684048155c9e7f4e462588d0.jpg?v=1763151656",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889473194,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/b71285f2f292b5e81df35dfbc1eb42e6.jpg?v=1763151655",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889505962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/36c74dfa903f521bc883a45c7340a172.jpg?v=1763151655",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860889538730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/46f1cc0fe7fa0331715b181c8341a03a.jpg?v=1763151655",
+          "width": 922,
+          "height": 1048
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/90d793d0684048155c9e7f4e462588d0.jpg?v=1763151656",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/b71285f2f292b5e81df35dfbc1eb42e6.jpg?v=1763151655",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/36c74dfa903f521bc883a45c7340a172.jpg?v=1763151655",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/46f1cc0fe7fa0331715b181c8341a03a.jpg?v=1763151655"
+      ],
+      "created_at": "2025-11-15T00:20:53+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711553194,
+      "title": "ZEGNA Black & Brown Deerskin Triple Stitch Sneakers",
+      "handle": "zegna-black-brown-deerskin-triple-stitch-sneakers",
+      "url": "https://littledubai-ae.shop/products/zegna-black-brown-deerskin-triple-stitch-sneakers",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Low-top grained deerskin sneakers in black and brown. · Elasticized straps at vamp · Logo embossed at padded tongue · Padded collar · Pull-loop at heel collar · Rubberized trim at heel · Buffed leather lining · Treaded rubber sole Supplier color: Black",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630193983658,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194016426,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194049194,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194081962,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194114730,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194147498,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194180266,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860893765802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_f641187e-3520-48f8-a5ae-26fd95390118.jpg?v=1763151681",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893798570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_74a28a99-61b7-49e8-9f62-45514c1a69ef.jpg?v=1763151681",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893831338,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_c6644fab-541d-4803-8f2f-a019a452dfb6.jpg?v=1763151681",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893864106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_12c66dac-853b-4043-a639-8963f778e724.jpg?v=1763151681",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_f641187e-3520-48f8-a5ae-26fd95390118.jpg?v=1763151681",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_74a28a99-61b7-49e8-9f62-45514c1a69ef.jpg?v=1763151681",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_c6644fab-541d-4803-8f2f-a019a452dfb6.jpg?v=1763151681",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_12c66dac-853b-4043-a639-8963f778e724.jpg?v=1763151681"
+      ],
+      "created_at": "2025-11-15T00:21:18+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711487658,
+      "title": "ZEGNA  Velvet Triple Stitch Sneakers \"Black\"",
+      "handle": "zegna-velvet-triple-stitch-sneakers-black",
+      "url": "https://littledubai-ae.shop/products/zegna-velvet-triple-stitch-sneakers-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) For the new season, Zegna looks to fresh materials when crafting its Triple Stitch sneakers. The low-top style has become something of a staple among those in the know – crossover elastics to the vamp offer a modern edge, while clean lines keep things feeling premium. However, this pair is rendered in plush velvet, pushing them straight into the upper echelons of masculine dressing.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630193655978,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193688746,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193721514,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193754282,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193787050,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193819818,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193852586,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860893438122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_b0a679b6-e218-4fc2-b32d-fbe045c40744.jpg?v=1763151679",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893470890,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_f9952668-df7a-4bb4-a9d0-a6a2366ca0e0.jpg?v=1763151679",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893503658,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_551f4f90-10ec-4672-804c-400a042a12b0.jpg?v=1763151679",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893536426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_bb5ecd97-2c13-4c18-8b6e-28c3a98af12e.jpg?v=1763151679",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_b0a679b6-e218-4fc2-b32d-fbe045c40744.jpg?v=1763151679",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_f9952668-df7a-4bb4-a9d0-a6a2366ca0e0.jpg?v=1763151679",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_551f4f90-10ec-4672-804c-400a042a12b0.jpg?v=1763151679",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_bb5ecd97-2c13-4c18-8b6e-28c3a98af12e.jpg?v=1763151679"
+      ],
+      "created_at": "2025-11-15T00:21:17+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711422122,
+      "title": "Triple Stitch sneakers \"Light Cream\"",
+      "handle": "triple-stitch-sneakers-light-cream",
+      "url": "https://littledubai-ae.shop/products/triple-stitch-sneakers-light-cream",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The sneaker on everyone's radar, Zegna's Triple Stitch sneakers are a sophisticated take on casual footwear. Showcasing the iconic, triple-crossed elastics, they feature a low-top silhouette, lightweight rubber sole, and smooth leather upper.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630193197226,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193229994,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193262762,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193295530,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193328298,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193361066,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193393834,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630193426602,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860893175978,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_8173b48c-398d-4b01-bb7d-53fd2fb4f3c0.png?v=1763151677",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893208746,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_eabf5cd7-1636-4dec-8c6c-db19df1e8bb3.png?v=1763151677",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893241514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_41cd2f57-62de-4bc3-9d7b-5a714165c663.png?v=1763151677",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_8173b48c-398d-4b01-bb7d-53fd2fb4f3c0.png?v=1763151677",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_eabf5cd7-1636-4dec-8c6c-db19df1e8bb3.png?v=1763151677",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_41cd2f57-62de-4bc3-9d7b-5a714165c663.png?v=1763151677"
+      ],
+      "created_at": "2025-11-15T00:21:14+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296709914794,
+      "title": "Zegna 14milmil14 Triple Stitch sneakers \"Navy Blue\"",
+      "handle": "zegna-14milmil14-triple-stitch-sneakers-navy-blue",
+      "url": "https://littledubai-ae.shop/products/zegna-14milmil14-triple-stitch-sneakers-navy-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The navy blue 14milmil14 flannel Triple Stitch™ low top sneakers feature one of Zegna's most exclusive fabrics.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630182842538,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630182875306,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630182908074,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630182940842,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630182973610,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183006378,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183039146,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630183071914,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860885442730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_3635829a-7c68-4aca-a8d5-7d29c2d1c6ae.png?v=1763151629",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885475498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_9579457e-0e55-49bf-ad09-22ed621a7a06.png?v=1763151629",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885508266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_01f6f6c1-a436-49c4-b695-0ac13a957464.png?v=1763151629",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860885541034,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_4d62826e-2fc4-41d2-856a-6b9f5fa4af47.png?v=1763151629",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/20_3635829a-7c68-4aca-a8d5-7d29c2d1c6ae.png?v=1763151629",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/21_9579457e-0e55-49bf-ad09-22ed621a7a06.png?v=1763151629",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/22_01f6f6c1-a436-49c4-b695-0ac13a957464.png?v=1763151629",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_4d62826e-2fc4-41d2-856a-6b9f5fa4af47.png?v=1763151629"
+      ],
+      "created_at": "2025-11-15T00:20:26+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711585962,
+      "title": "ZEGNA Black Leather Triple Stitch Sneakers",
+      "handle": "zegna-black-leather-triple-stitch-sneakers",
+      "url": "https://littledubai-ae.shop/products/zegna-black-leather-triple-stitch-sneakers",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Low-top grained leather slip-on sneakers in black. · Elasticized criss-crossing straps at vamp · Logo embossed at padded tongue · Padded collar · Pull-loop at heel collar · Rubberized logo patch at heel counter · Cushioned Sanitized® insole · Buffed leather lining · Treaded rubber sole",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630194245802,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194278570,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194311338,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194344106,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194376874,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194409642,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194442410,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860893896874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_35a71a61-c238-43d8-8a30-b2b00287dfc1.jpg?v=1763151683",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893929642,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_7ba6020c-12c3-48ef-ac9c-b1fe7af0c452.jpg?v=1763151683",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893962410,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_ef42b727-0a0b-44a0-a56a-d229a840c611.jpg?v=1763151683",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860893995178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_580ef0c5-0ef2-42e9-83f2-cd0daefa8551.jpg?v=1763151683",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_35a71a61-c238-43d8-8a30-b2b00287dfc1.jpg?v=1763151683",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_7ba6020c-12c3-48ef-ac9c-b1fe7af0c452.jpg?v=1763151683",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_ef42b727-0a0b-44a0-a56a-d229a840c611.jpg?v=1763151683",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_580ef0c5-0ef2-42e9-83f2-cd0daefa8551.jpg?v=1763151683"
+      ],
+      "created_at": "2025-11-15T00:21:20+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710406314,
+      "title": "Zegna Blue Canvas Triple Stitch™ Sneakers",
+      "handle": "zegna-blue-canvas-triple-stitch-sneakers",
+      "url": "https://littledubai-ae.shop/products/zegna-blue-canvas-triple-stitch-sneakers",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Airy and elegant, the canvas Triple Stitch™ sneakers are presented in a stylish faded blue colorway. This refined design is a fresh new take on casual footwear for fast-paced lifestyles. The sneakers are fitted with a white rubber sole and slip on easily thanks to the collection's iconic, triple-crossed elastics, which evoke the hand-stitching on our tailored jackets. Customize these sneakers with our Made to Measure Service. For more information, please contact our Customer Care or visit your nearest stores.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630186283178,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186315946,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186348714,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186381482,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186414250,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186447018,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186479786,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630186512554,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860888031402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_8c5f42eb-accf-4761-bddf-87b7f155514b.jpg?v=1763151646",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888064170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_158f0469-52ed-48f0-a4f1-33878e10126a.jpg?v=1763151646",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888096938,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_814ea984-d060-4ddf-aabb-cbfdda2c5b5b.jpg?v=1763151646",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888129706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_9a75bad8-ee99-4ba5-86da-bb00cfbd4f49.jpg?v=1763151646",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_8c5f42eb-accf-4761-bddf-87b7f155514b.jpg?v=1763151646",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_158f0469-52ed-48f0-a4f1-33878e10126a.jpg?v=1763151646",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_814ea984-d060-4ddf-aabb-cbfdda2c5b5b.jpg?v=1763151646",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_9a75bad8-ee99-4ba5-86da-bb00cfbd4f49.jpg?v=1763151646"
+      ],
+      "created_at": "2025-11-15T00:20:44+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711618730,
+      "title": "Zegna Brown Triple Stitch Sneakers - \"Put Greyish Brown\"",
+      "handle": "zegna-brown-triple-stitch-sneakers-put-greyish-brown",
+      "url": "https://littledubai-ae.shop/products/zegna-brown-triple-stitch-sneakers-put-greyish-brown",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Low-top suede sneakers in brown. · Elasticized straps at vamp · Logo embossed at padded tongue · Padded collar · Pull-loop at heel tab · Buffed leather lining · Treaded rubber sole Supplier color: Greyish brown",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630194475178,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194507946,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194540714,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194573482,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194606250,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194639018,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194671786,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194704554,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860894224554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/53_79df912c-a5aa-431e-add0-bc4cc4d33188.jpg?v=1763151684",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894257322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/50_2096a03b-e4f8-4cae-9555-ef2d5fb8fa81.jpg?v=1763151684",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894290090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/52_8cc1291f-8a3e-4d4f-8ba6-7b20a97474ba.jpg?v=1763151684",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894322858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/51_a449bff8-184b-40f9-9f3e-1621f5914ffb.jpg?v=1763151684",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/53_79df912c-a5aa-431e-add0-bc4cc4d33188.jpg?v=1763151684",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/50_2096a03b-e4f8-4cae-9555-ef2d5fb8fa81.jpg?v=1763151684",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/52_8cc1291f-8a3e-4d4f-8ba6-7b20a97474ba.jpg?v=1763151684",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/51_a449bff8-184b-40f9-9f3e-1621f5914ffb.jpg?v=1763151684"
+      ],
+      "created_at": "2025-11-15T00:21:22+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711684266,
+      "title": "Zegna Calfskin Tiziano Sneakers \"Black\"",
+      "handle": "zegna-calfskin-tiziano-sneakers-black",
+      "url": "https://littledubai-ae.shop/products/zegna-calfskin-tiziano-sneakers-black",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Elevated with artisan details like the Foliage-colored leather inserts and hand-painted edges, the Tiziano low top sneakers are presented in smooth black leather. This elegant material transforms the sporty sneaker into a refined choice of casual wear. The durable rubber sole offers all the support you need to explore the city streets.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630194770090,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194802858,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194835626,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194868394,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194901162,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194933930,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630194966698,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860894388394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_3ae6c4b6-c7b8-4946-a181-19a2c62038ae.png?v=1763151686",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894421162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_684f689d-6b33-4e6b-b89d-9fe082d82045.png?v=1763151687",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894453930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_65671a5e-6c61-4516-bdb3-8f17ebf51942.png?v=1763151686",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894486698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_1b72f14a-b178-45fb-a768-20cc7b67346c.png?v=1763151687",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_3ae6c4b6-c7b8-4946-a181-19a2c62038ae.png?v=1763151686",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_684f689d-6b33-4e6b-b89d-9fe082d82045.png?v=1763151687",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_65671a5e-6c61-4516-bdb3-8f17ebf51942.png?v=1763151686",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_1b72f14a-b178-45fb-a768-20cc7b67346c.png?v=1763151687"
+      ],
+      "created_at": "2025-11-15T00:21:24+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711749802,
+      "title": "Zegna Cotton Denim Triple Stitch™ Sneakers \"Blue\"",
+      "handle": "zegna-cotton-denim-triple-stitch-sneakers-blue",
+      "url": "https://littledubai-ae.shop/products/zegna-cotton-denim-triple-stitch-sneakers-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Casual materials put a fresh twist on Zegna's iconic design: the blue cotton denim Triple Stitch™ sneakers are perfect for laid-back city styles. The sneakers' signature triple-crossed elastics evoke the hand-stitching on our tailored jackets. A durable but lightweight white rubber sole adds a pop of contrast. Customize these sneakers with our Made to Measure Service. For more information, please contact our Customer Care or visit your nearest stores.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630195065002,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195097770,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195130538,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195163306,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195196074,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195228842,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860894519466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_10dfd474-a501-4e27-9b95-22a91b90994e.jpg?v=1763151688",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894552234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_d0c1916e-cce1-475c-9750-fb2b9ef34b40.jpg?v=1763151688",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894585002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_9f241e3c-9b5d-4ba4-81b5-cecc661d9a54.jpg?v=1763151688",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894617770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_9c78a574-e66f-4a4f-9171-f85df6ea344e.jpg?v=1763151688",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_10dfd474-a501-4e27-9b95-22a91b90994e.jpg?v=1763151688",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_d0c1916e-cce1-475c-9750-fb2b9ef34b40.jpg?v=1763151688",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/19_9f241e3c-9b5d-4ba4-81b5-cecc661d9a54.jpg?v=1763151688",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_9c78a574-e66f-4a4f-9171-f85df6ea344e.jpg?v=1763151688"
+      ],
+      "created_at": "2025-11-15T00:21:25+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710078634,
+      "title": "Zegna Crocodile Leather Triple Stitch SECONDSKIN",
+      "handle": "zegna-crocodile-leather-triple-stitch-secondskin",
+      "url": "https://littledubai-ae.shop/products/zegna-crocodile-leather-triple-stitch-secondskin",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630183989418,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630184022186,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630184054954,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630184087722,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630184120490,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630184153258,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630184186026,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630184218794,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860886360234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2aa67217537c5fe7605e71d76c4dfc12.jpg?v=1763151636",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860886393002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/c8577f5dd1a18997071a0afe1f643909.jpg?v=1763151635",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860886425770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4505db3f645372eadcccfe91e014ae0b.jpg?v=1763151635",
+          "width": 922,
+          "height": 1048
+        },
+        {
+          "id": 42860886458538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5dd9d82c6b0c6dada928e34c28844657.jpg?v=1763151636",
+          "width": 922,
+          "height": 1048
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2aa67217537c5fe7605e71d76c4dfc12.jpg?v=1763151636",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/c8577f5dd1a18997071a0afe1f643909.jpg?v=1763151635",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4505db3f645372eadcccfe91e014ae0b.jpg?v=1763151635",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5dd9d82c6b0c6dada928e34c28844657.jpg?v=1763151636"
+      ],
+      "created_at": "2025-11-15T00:20:33+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711782570,
+      "title": "Zegna Leather And Suede Triple Stitch \"Navy Blue\"",
+      "handle": "zegna-leather-and-suede-triple-stitch-navy-blue",
+      "url": "https://littledubai-ae.shop/products/zegna-leather-and-suede-triple-stitch-navy-blue",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Smooth and supple materials enhance the relaxed charm of the navy blue leather and suede Triple Stitch™ low-top sneakers. The brand’s signature triple-crossed elastic detail ensures an easy slip-on fit, while evoking the traditional hand-stitching of tailored jackets to symbolize and honor Zegna’s legacy of fine craftsmanship. The flexible uppers are mounted on an extra-light white rubber sole.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630195261610,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195294378,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195327146,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195359914,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195392682,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195425450,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195458218,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860894716074,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_88cfe157-8d20-415b-9c8e-6f36f211cfe5.jpg?v=1763151690",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894748842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_a7c62152-e7d5-4c2e-a672-1689fe3bcb45.jpg?v=1763151689",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894781610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_643dbc14-500c-47d5-b6c1-c1597bbcd998.jpg?v=1763151689",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860894814378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_70454c77-6f29-4f12-88bd-afca9a24c6c0.jpg?v=1763151690",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_88cfe157-8d20-415b-9c8e-6f36f211cfe5.jpg?v=1763151690",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_a7c62152-e7d5-4c2e-a672-1689fe3bcb45.jpg?v=1763151689",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_643dbc14-500c-47d5-b6c1-c1597bbcd998.jpg?v=1763151689",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_70454c77-6f29-4f12-88bd-afca9a24c6c0.jpg?v=1763151690"
+      ],
+      "created_at": "2025-11-15T00:21:27+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296709587114,
+      "title": "Zegna Low-top suede sneakers \"Brown\"",
+      "handle": "zegna-low-top-suede-sneakers-brown",
+      "url": "https://littledubai-ae.shop/products/zegna-low-top-suede-sneakers-brown",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Zegna low-top suede sneakers chocolate brown suede/leather logo-print tongue lace-up detailing round toe branded footbed flat rubber sole slip-on style",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630180843690,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630180876458,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630180909226,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630180941994,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630180974762,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181007530,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181040298,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630181073066,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860884263082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_d951597b-493f-4757-bc78-3ce47bc35fa7.png?v=1763151620",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860884295850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_a541c812-9dcc-4b11-9e39-0b1af7d2c47a.png?v=1763151620",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_d951597b-493f-4757-bc78-3ce47bc35fa7.png?v=1763151620",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_a541c812-9dcc-4b11-9e39-0b1af7d2c47a.png?v=1763151620"
+      ],
+      "created_at": "2025-11-15T00:20:18+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296711848106,
+      "title": "Zegna Monte Sneakers \"Taupe Grey\"",
+      "handle": "zegna-monte-sneakers-taupe-grey",
+      "url": "https://littledubai-ae.shop/products/zegna-monte-sneakers-taupe-grey",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The light taupe suede and leather Triple Stitch™ Monte sneaker is a very versatile shoe, perfect all year round. The brand’s signature triple-crossed elastic detail ensures an easy slip-on fit, while evoking the traditional hand-stitching of tailored jackets to symbolize and honor Zegna’s legacy of fine craftsmanship. This elegant, casual shoe is lined with leather.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630195753130,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195785898,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195818666,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195851434,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195884202,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195916970,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195949738,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630195982506,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860895076522,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_2565451a-7f2d-4f3f-9a65-6c115bdbd425.png?v=1763151693",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895109290,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_d3f50a81-ef25-41a0-b198-2180151ec108.png?v=1763151693",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895142058,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_c4017f85-1931-48c7-b035-a26791b86eed.png?v=1763151693",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860895174826,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_fb92f5ad-22df-40ef-8a15-fb8c5ef886a5.png?v=1763151693",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_2565451a-7f2d-4f3f-9a65-6c115bdbd425.png?v=1763151693",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/23_d3f50a81-ef25-41a0-b198-2180151ec108.png?v=1763151693",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/25_c4017f85-1931-48c7-b035-a26791b86eed.png?v=1763151693",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/24_fb92f5ad-22df-40ef-8a15-fb8c5ef886a5.png?v=1763151693"
+      ],
+      "created_at": "2025-11-15T00:21:30+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296708964522,
+      "title": "Zegna Triple Stich leather sneakers \"White\"",
+      "handle": "zegna-triple-stich-leather-sneakers-white",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stich-leather-sneakers-white",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The off white deerskin Triple Stitch™ low-top sneakers are mounted on an extra-light, white rubber sole. The brand’s signature triple-crossed elastic detail ensures an easy slip-on fit, while evoking the traditional hand-stitching of tailored jackets to symbolize and honor Zegna’s legacy of fine craftsmanship. Foliage-colored leather lining completes the design.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630175961258,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630175994026,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630176026794,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630176059562,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630176092330,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630176125098,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630176157866,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630176190634,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860875317418,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_2855e167-6532-43d0-8cf0-dc688c4fbd00.jpg?v=1763151600",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860875350186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_90e2670f-1f12-450b-b05a-53704aa7ba60.jpg?v=1763151600",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860875382954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_d2d39283-bb3f-4a74-b1ca-817dc93ac8c9.jpg?v=1763151600",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860875415722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_f0a4cd1d-f1c3-4e8d-ae47-35c0e81e4f90.jpg?v=1763151600",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_2855e167-6532-43d0-8cf0-dc688c4fbd00.jpg?v=1763151600",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_90e2670f-1f12-450b-b05a-53704aa7ba60.jpg?v=1763151600",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_d2d39283-bb3f-4a74-b1ca-817dc93ac8c9.jpg?v=1763151600",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_f0a4cd1d-f1c3-4e8d-ae47-35c0e81e4f90.jpg?v=1763151600"
+      ],
+      "created_at": "2025-11-15T00:19:57+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296712208554,
+      "title": "Zegna Triple Stitch leather sneakers \"olive green\"",
+      "handle": "zegna-triple-stitch-leather-sneakers-olive-green",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stitch-leather-sneakers-olive-green",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Zegna Triple Stitch leather sneakers vA signature of the brand, Zegna's Triple Stitch sneakers radiate sophistication through their sleek silhouette. Tonal crisscross elastics secure the design, while the leather construction adds a classic touch to the pair.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630197686442,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197719210,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197751978,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197784746,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197817514,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197850282,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630197883050,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860896321706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_c8c645fe-dc8f-42f9-8ee0-fceb41ca5695.png?v=1763151705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896354474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_4822f9b9-7c34-48c4-b89a-a7fee60cf6d8.png?v=1763151705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896387242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_218946f6-316e-41ef-9f39-bde4fe2fc7f3.png?v=1763151705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860896420010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_c5470384-9b6b-44a0-9d69-ca6d4599cf48.png?v=1763151705",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_c8c645fe-dc8f-42f9-8ee0-fceb41ca5695.png?v=1763151705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_4822f9b9-7c34-48c4-b89a-a7fee60cf6d8.png?v=1763151705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_218946f6-316e-41ef-9f39-bde4fe2fc7f3.png?v=1763151705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/8_c5470384-9b6b-44a0-9d69-ca6d4599cf48.png?v=1763151705"
+      ],
+      "created_at": "2025-11-15T00:21:42+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296710537386,
+      "title": "Zegna Triple Stitch™ sneakers \"Brown\"",
+      "handle": "zegna-triple-stitch-sneakers-brown",
+      "url": "https://littledubai-ae.shop/products/zegna-triple-stitch-sneakers-brown",
+      "vendor": "DUBAI ALL STAR",
+      "product_type": "Zegna",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Smooth and supple uppers define the brown Triple Stitch™ SECONDSKIN low top sneakers. The iconic, triple-crossed elastics evoke the hand-stitching on our tailored jackets. Perfect for fast-paced lifestyles, the lightweight design is completed with a white rubber sole. The Triple Stitch™ SECONDSKIN Shoes result from over a century of generational craftsmanship, the sharing of wisdom and dedication to innovation. Crafted from our SECONDSKIN leather, they feature a remarkable 'memory' that ensures a glove-inspired fit — making them ideal for travelling in exceptional style and comfort.",
+      "price": "550.00",
+      "price_currency": "AED",
+      "compare_at_price": "850.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630187069610,
+          "title": "40",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187102378,
+          "title": "41",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187135146,
+          "title": "42",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187167914,
+          "title": "43",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187200682,
+          "title": "44",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187233450,
+          "title": "45",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187266218,
+          "title": "46",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630187298986,
+          "title": "47",
+          "price": "550.00",
+          "compare_at_price": "850.00",
+          "option1": "47",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860888490154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_46816382-ab48-4695-adcf-20ed4f65223b.png?v=1763151650",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888522922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_64063e70-d028-43b3-9cb8-e45941bfb063.png?v=1763151650",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888555690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_0b32fbe0-42c3-4a21-bf33-8a8262b2774f.png?v=1763151650",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860888588458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_633b6e98-854a-4b4b-bcb0-c5fc74ba4d90.png?v=1763151650",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/9_46816382-ab48-4695-adcf-20ed4f65223b.png?v=1763151650",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_64063e70-d028-43b3-9cb8-e45941bfb063.png?v=1763151650",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_0b32fbe0-42c3-4a21-bf33-8a8262b2774f.png?v=1763151650",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_633b6e98-854a-4b4b-bcb0-c5fc74ba4d90.png?v=1763151650"
+      ],
+      "created_at": "2025-11-15T00:20:47+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    }
+  ]
+}

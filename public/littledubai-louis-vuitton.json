@@ -1,0 +1,5234 @@
+{
+  "collection": "louis-vuitton",
+  "source": "https://littledubai-ae.shop/collections/louis",
+  "scraped_at": "2026-04-20T20:37:24.441Z",
+  "total_products": 34,
+  "total_images": 193,
+  "products": [
+    {
+      "id": 8296668889258,
+      "title": "Louis Vuitton Green White Trainer",
+      "handle": "louis-vuitton-green-white-trainer-50po3",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-green-white-trainer-50po3",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629967818922,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967851690,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967884458,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967917226,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967949994,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967982762,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860574802090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_29cec204-d517-454a-9f80-379ab108b5ab.png?v=1763150383",
+          "width": 6400,
+          "height": 3250
+        },
+        {
+          "id": 42860574867626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_1.webp?v=1763150378",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574900394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_7.webp?v=1763150378",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574933162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_6.webp?v=1763150378",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574965930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_4.webp?v=1763150378",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574998698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_5.webp?v=1763150378",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575031466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_2.webp?v=1763150378",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575064234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_3.webp?v=1763150378",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_29cec204-d517-454a-9f80-379ab108b5ab.png?v=1763150383",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_1.webp?v=1763150378",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_7.webp?v=1763150378",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_6.webp?v=1763150378",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_4.webp?v=1763150378",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_5.webp?v=1763150378",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_2.webp?v=1763150378",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonGreenWhiteTrainer_3.webp?v=1763150378"
+      ],
+      "created_at": "2025-11-14T23:59:36+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296668823722,
+      "title": "Louis Vuitton Blue White Trainer",
+      "handle": "louis-vuitton-blue-white-trainer-yewze",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-blue-white-trainer-yewze",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629967425706,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967458474,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967491242,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967524010,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967556778,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967589546,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860574277802,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_da7aa959-7f51-49c6-b2cc-2ed4b09c717c.png?v=1763150377",
+          "width": 2500,
+          "height": 1784
+        },
+        {
+          "id": 42860574310570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_6.webp?v=1763150376",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574343338,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_5.webp?v=1763150376",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574376106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_4.webp?v=1763150376",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574408874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_3.webp?v=1763150376",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574441642,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_1.webp?v=1763150376",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574474410,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_7.webp?v=1763150376",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574507178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_2.webp?v=1763150376",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_da7aa959-7f51-49c6-b2cc-2ed4b09c717c.png?v=1763150377",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_6.webp?v=1763150376",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_5.webp?v=1763150376",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_4.webp?v=1763150376",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_3.webp?v=1763150376",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_1.webp?v=1763150376",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_7.webp?v=1763150376",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlueWhiteTrainer_2.webp?v=1763150376"
+      ],
+      "created_at": "2025-11-14T23:59:34+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296671379626,
+      "title": "Louis Vuitton Trainer Black & White",
+      "handle": "louis-vuitton-trainer-2",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-2",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The iconic LV Trainers are revisited this season in a combination of Monogram denim and Monogram-embossed grained calf leather. The contrasting colours and materials highlight the elaborate construction of this model, which was inspired by vintage basketball trainers. A single pair takes seven hours to stitch.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "899.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Black/White"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629987020970,
+          "title": "Black/White / 39",
+          "price": "299.00",
+          "compare_at_price": "899.99",
+          "option1": "Black/White",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629987053738,
+          "title": "Black/White / 40",
+          "price": "299.00",
+          "compare_at_price": "899.99",
+          "option1": "Black/White",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629987086506,
+          "title": "Black/White / 41",
+          "price": "299.00",
+          "compare_at_price": "899.99",
+          "option1": "Black/White",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629987119274,
+          "title": "Black/White / 42",
+          "price": "299.00",
+          "compare_at_price": "899.99",
+          "option1": "Black/White",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629987152042,
+          "title": "Black/White / 43",
+          "price": "299.00",
+          "compare_at_price": "899.99",
+          "option1": "Black/White",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629987184810,
+          "title": "Black/White / 44",
+          "price": "299.00",
+          "compare_at_price": "899.99",
+          "option1": "Black/White",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629987217578,
+          "title": "Black/White / 45",
+          "price": "299.00",
+          "compare_at_price": "899.99",
+          "option1": "Black/White",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860599312554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8115.jpg?v=1763150466",
+          "width": 828,
+          "height": 808
+        },
+        {
+          "id": 42860599345322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainers-shoes--BM9U5PMI02_PM2_Frontview.jpg?v=1763150466",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42860599378090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker-shoes--BM9U5PMI02_PM1_Interiorview.jpg?v=1763150466",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8115.jpg?v=1763150466",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainers-shoes--BM9U5PMI02_PM2_Frontview.jpg?v=1763150466",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker-shoes--BM9U5PMI02_PM1_Interiorview.jpg?v=1763150466"
+      ],
+      "created_at": "2025-11-15T00:01:04+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296668790954,
+      "title": "Louis Vuitton Black Trainer",
+      "handle": "louis-vuitton-black-trainer-uu9cn",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-black-trainer-uu9cn",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629967229098,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967261866,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967294634,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967327402,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967360170,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629967392938,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860574048426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_9aae0080-9cb7-4845-83b1-fa51e8dce414.png?v=1763150378",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860574081194,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_1.webp?v=1763150375",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574113962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_6.webp?v=1763150375",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574146730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_5.webp?v=1763150374",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574179498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_4.webp?v=1763150375",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574212266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_3.webp?v=1763150374",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860574245034,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_2.webp?v=1763150375",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_9aae0080-9cb7-4845-83b1-fa51e8dce414.png?v=1763150378",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_1.webp?v=1763150375",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_6.webp?v=1763150375",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_5.webp?v=1763150374",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_4.webp?v=1763150375",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_3.webp?v=1763150374",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonBlackTrainer_2.webp?v=1763150375"
+      ],
+      "created_at": "2025-11-14T23:59:32+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296683405482,
+      "title": "Louis Vuitton by Tyler, the Creator LV Trainer Blue",
+      "handle": "louis-vuitton-by-tyler-the-creator-lv-trainer-blue",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-by-tyler-the-creator-lv-trainer-blue",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630098301098,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098333866,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098366634,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098399402,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098432170,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098464938,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860713967786,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_d53c533a-828a-4e6c-934f-abdb1b7750b4.png?v=1763150866",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860714000554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_3.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714033322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_2.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714066090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_1.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714098858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_4.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714131626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_7.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714164394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_6.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714197162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_5.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_d53c533a-828a-4e6c-934f-abdb1b7750b4.png?v=1763150866",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_3.jpg?v=1763150863",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_2.jpg?v=1763150863",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_1.jpg?v=1763150863",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_4.jpg?v=1763150863",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_7.jpg?v=1763150863",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_6.jpg?v=1763150863",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerBlue_5.jpg?v=1763150863"
+      ],
+      "created_at": "2025-11-15T00:07:40+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296683438250,
+      "title": "Louis Vuitton Trainer Black Gray Signature",
+      "handle": "louis-vuitton-trainer-black-gray-signature",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-black-gray-signature",
+      "vendor": "PRESTIGE ATTIREE",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630098497706,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098530474,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098563242,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098596010,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098628778,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630098661546,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860714262698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_6bd11c88-3c36-467c-9c6e-7c62674cc1a4.png?v=1763150866",
+          "width": 3372,
+          "height": 2413
+        },
+        {
+          "id": 42860714295466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_2.jpg?v=1763150864",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "id": 42860714328234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_1.jpg?v=1763150864",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714361002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_3.jpg?v=1763150863",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860714393770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_4.jpg?v=1763150864",
+          "width": 640,
+          "height": 853
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_6bd11c88-3c36-467c-9c6e-7c62674cc1a4.png?v=1763150866",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_2.jpg?v=1763150864",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_1.jpg?v=1763150864",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_3.jpg?v=1763150863",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGraySignature_4.jpg?v=1763150864"
+      ],
+      "created_at": "2025-11-15T00:07:42+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296670363818,
+      "title": "Louis Vuitton Trainer Blue Denim Embroidered",
+      "handle": "louis-vuitton-trainer-blue-denim-embroidered-ljp8q",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-blue-denim-embroidered-ljp8q",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "279.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629979812010,
+          "title": "40",
+          "price": "279.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629979844778,
+          "title": "41",
+          "price": "279.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629979877546,
+          "title": "42",
+          "price": "279.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629979910314,
+          "title": "43",
+          "price": "279.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629979943082,
+          "title": "44",
+          "price": "279.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629979975850,
+          "title": "45",
+          "price": "279.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860585091242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_d64fd04f-bd10-467b-b71f-07f258245e33.png?v=1763150434",
+          "width": 3438,
+          "height": 2063
+        },
+        {
+          "id": 42860585124010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_28196ed5-0d0a-4d91-a3dd-bf8d90bd335c.png?v=1763150433",
+          "width": 3125,
+          "height": 4169
+        },
+        {
+          "id": 42860585156778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_0db64938-f5fd-4242-a6df-64865ec76fae.png?v=1763150433",
+          "width": 2253,
+          "height": 3375
+        },
+        {
+          "id": 42860585189546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_1_108967fa-8863-4e08-948e-d622e5be40e7.jpg?v=1763150430",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860585222314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_2_c0f36889-f58c-4f63-986d-7e4d577ddf4e.jpg?v=1763150431",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860585255082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_7_f02dcd36-c8de-4cdf-a00b-757e1a8496f7.jpg?v=1763150432",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860585287850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_3_00c46efb-e1cf-4c32-904d-ce0dbe20731c.jpg?v=1763150430",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860585320618,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_6_3b66581b-c6b9-4d17-8374-79d4bbc722ce.jpg?v=1763150430",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860585353386,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_5_296b1a13-254f-4ce2-9087-09b35d19566f.jpg?v=1763150431",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860585386154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_4_ec49cace-3046-4a2e-b277-30236d387fd6.jpg?v=1763150430",
+          "width": 640,
+          "height": 853
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_d64fd04f-bd10-467b-b71f-07f258245e33.png?v=1763150434",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_28196ed5-0d0a-4d91-a3dd-bf8d90bd335c.png?v=1763150433",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_0db64938-f5fd-4242-a6df-64865ec76fae.png?v=1763150433",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_1_108967fa-8863-4e08-948e-d622e5be40e7.jpg?v=1763150430",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_2_c0f36889-f58c-4f63-986d-7e4d577ddf4e.jpg?v=1763150431",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_7_f02dcd36-c8de-4cdf-a00b-757e1a8496f7.jpg?v=1763150432",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_3_00c46efb-e1cf-4c32-904d-ce0dbe20731c.jpg?v=1763150430",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_6_3b66581b-c6b9-4d17-8374-79d4bbc722ce.jpg?v=1763150430",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_5_296b1a13-254f-4ce2-9087-09b35d19566f.jpg?v=1763150431",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlueDenimEmbroidered_4_ec49cace-3046-4a2e-b277-30236d387fd6.jpg?v=1763150430"
+      ],
+      "created_at": "2025-11-15T00:00:28+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296670167210,
+      "title": "Louis Vuitton Trainer White Rose",
+      "handle": "louis-vuitton-trainer-blue-denim-embroidered",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-blue-denim-embroidered",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629977911466,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629977944234,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629977977002,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629978009770,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629978042538,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629978075306,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860583452842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Trainer-Rose-Sneaker-Crepslocker-Front.webp?v=1763150422",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 42860583485610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_f6f7e031-e272-4e27-8585-95c79de0d5f7.jpg?v=1763150421",
+          "width": 224,
+          "height": 224
+        },
+        {
+          "id": 42860583518378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Trainer-Rose-Sneaker-Crepslocker-Back-Side.webp?v=1763150422",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 42860583551146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-trainer-pink-white_4.jpg?v=1763150421",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 42860583583914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/P0.jpg?v=1763150421",
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "id": 42860583616682,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2023-07-09at13.48.46.webp?v=1763150422",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "id": 42860583649450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6546c9b8b54e2.jpg?v=1763150421",
+          "width": 500,
+          "height": 608
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Trainer-Rose-Sneaker-Crepslocker-Front.webp?v=1763150422",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_f6f7e031-e272-4e27-8585-95c79de0d5f7.jpg?v=1763150421",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Trainer-Rose-Sneaker-Crepslocker-Back-Side.webp?v=1763150422",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-trainer-pink-white_4.jpg?v=1763150421",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/P0.jpg?v=1763150421",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsAppImage2023-07-09at13.48.46.webp?v=1763150422",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6546c9b8b54e2.jpg?v=1763150421"
+      ],
+      "created_at": "2025-11-15T00:00:19+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669216938,
+      "title": "Louis Vuitton Trainer White Denim Embroidered",
+      "handle": "louis-vuitton-trainer-white-denim-embroidered-2k4ue",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-white-denim-embroidered-2k4ue",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629969621162,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969653930,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969686698,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969719466,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969752234,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969785002,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860576768170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_ebf47181-5e8b-4541-b9d4-a1717ab373a9.png?v=1763150389",
+          "width": 1989,
+          "height": 1302
+        },
+        {
+          "id": 42860576800938,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_3.jpg?v=1763150387",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576833706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_2.jpg?v=1763150387",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576866474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_1.jpg?v=1763150388",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576899242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_4.jpg?v=1763150387",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576932010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_8.jpg?v=1763150387",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576964778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_6.jpg?v=1763150387",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576997546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_5.jpg?v=1763150387",
+          "width": 640,
+          "height": 853
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_ebf47181-5e8b-4541-b9d4-a1717ab373a9.png?v=1763150389",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_3.jpg?v=1763150387",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_2.jpg?v=1763150387",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_1.jpg?v=1763150388",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_4.jpg?v=1763150387",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_8.jpg?v=1763150387",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_6.jpg?v=1763150387",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerWhiteDenimEmbroidered_5.jpg?v=1763150387"
+      ],
+      "created_at": "2025-11-14T23:59:45+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669184170,
+      "title": "Louis Vuitton Trainer #54 Signature White Red",
+      "handle": "louis-vuitton-trainer-54-signature-white-red-pnajp",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-54-signature-white-red-pnajp",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629969424554,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969457322,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969490090,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969522858,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969555626,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969588394,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860576506026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_8fcfa0bb-e03b-4450-a800-e260624019f8.png?v=1763150390",
+          "width": 6147,
+          "height": 3125
+        },
+        {
+          "id": 42860576538794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_1_e1691dee-16e8-4bed-b02f-30a8c1685315.jpg?v=1763150386",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576571562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_2_1081d529-c2e1-4f6c-a544-ad4796fa24fd.jpg?v=1763150386",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576604330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_7_973c1459-3988-46d6-94bc-086ab7008320.jpg?v=1763150386",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576637098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_4_95c80aaf-8d99-45b8-a949-f232324f82cf.jpg?v=1763150386",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576669866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_6_42d100c7-7c03-44a3-ae1e-c8fa0227551b.jpg?v=1763150387",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576702634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_5_9d7723a0-0222-45ff-a579-88e084e159f2.jpg?v=1763150386",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576735402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_3_cd6ea0a0-8981-45b0-8901-c92a34c9adc5.jpg?v=1763150386",
+          "width": 640,
+          "height": 853
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_8fcfa0bb-e03b-4450-a800-e260624019f8.png?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_1_e1691dee-16e8-4bed-b02f-30a8c1685315.jpg?v=1763150386",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_2_1081d529-c2e1-4f6c-a544-ad4796fa24fd.jpg?v=1763150386",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_7_973c1459-3988-46d6-94bc-086ab7008320.jpg?v=1763150386",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_4_95c80aaf-8d99-45b8-a949-f232324f82cf.jpg?v=1763150386",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_6_42d100c7-7c03-44a3-ae1e-c8fa0227551b.jpg?v=1763150387",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_5_9d7723a0-0222-45ff-a579-88e084e159f2.jpg?v=1763150386",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteRed_3_cd6ea0a0-8981-45b0-8901-c92a34c9adc5.jpg?v=1763150386"
+      ],
+      "created_at": "2025-11-14T23:59:44+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669151402,
+      "title": "Louis Vuitton Trainer #54 Signature White Grey",
+      "handle": "louis-vuitton-trainer-54-signature-white-grey-qfltx",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-54-signature-white-grey-qfltx",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629969227946,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969260714,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969293482,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969326250,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969359018,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969391786,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860576407722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_a741b110-212e-481c-be41-a9496dd2c562.png?v=1763150390",
+          "width": 6147,
+          "height": 3125
+        },
+        {
+          "id": 42860576440490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteGrey_1.jpg?v=1763150385",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": 42860576473258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteGrey_2.jpg?v=1763150385",
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_a741b110-212e-481c-be41-a9496dd2c562.png?v=1763150390",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteGrey_1.jpg?v=1763150385",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureWhiteGrey_2.jpg?v=1763150385"
+      ],
+      "created_at": "2025-11-14T23:59:43+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669085866,
+      "title": "Louis Vuitton by Tyler, the Creator LV Trainer White Mocha",
+      "handle": "louis-vuitton-by-tyler-the-creator-lv-trainer-white-mocha-mrc4f",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-by-tyler-the-creator-lv-trainer-white-mocha-mrc4f",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629968998570,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969031338,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969064106,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969096874,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969129642,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629969162410,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860576243882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_54a9b836-cc23-45d5-873a-74ff64803252.png?v=1763150385",
+          "width": 2253,
+          "height": 3375
+        },
+        {
+          "id": 42860576276650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_1.jpg?v=1763150384",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576309418,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_2.jpg?v=1763150384",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576342186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_3.jpg?v=1763150384",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576374954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_4.jpg?v=1763150384",
+          "width": 640,
+          "height": 853
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_54a9b836-cc23-45d5-873a-74ff64803252.png?v=1763150385",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_1.jpg?v=1763150384",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_2.jpg?v=1763150384",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_3.jpg?v=1763150384",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerWhiteMocha_4.jpg?v=1763150384"
+      ],
+      "created_at": "2025-11-14T23:59:42+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669053098,
+      "title": "Louis Vuitton by Tyler, the Creator LV Trainer Mocha",
+      "handle": "louis-vuitton-by-tyler-the-creator-lv-trainer-mocha-wqx02",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-by-tyler-the-creator-lv-trainer-mocha-wqx02",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629968769194,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968801962,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968834730,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968867498,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968900266,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968933034,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860576112810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_1.jpg?v=1763150382",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576145578,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_4.jpg?v=1763150382",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576178346,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_2.jpg?v=1763150382",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "id": 42860576211114,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_3.jpg?v=1763150383",
+          "width": 640,
+          "height": 853
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_1.jpg?v=1763150382",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_4.jpg?v=1763150382",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_2.jpg?v=1763150382",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerMocha_3.jpg?v=1763150383"
+      ],
+      "created_at": "2025-11-14T23:59:40+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296668987562,
+      "title": "Louis Vuitton by Tyler, the Creator LV Trainer Green",
+      "handle": "louis-vuitton-by-tyler-the-creator-lv-trainer-green-tt8iz",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-by-tyler-the-creator-lv-trainer-green-tt8iz",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629968507050,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968539818,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968572586,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968605354,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968638122,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968670890,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860575948970,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen.jpg?v=1763150382",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": 42860575981738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen_2.png?v=1763150382",
+          "width": 2400,
+          "height": 2400
+        },
+        {
+          "id": 42860576014506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen_3.png?v=1763150383",
+          "width": 2400,
+          "height": 2400
+        },
+        {
+          "id": 42860576047274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen_4.png?v=1763150382",
+          "width": 2400,
+          "height": 2400
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen.jpg?v=1763150382",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen_2.png?v=1763150382",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen_3.png?v=1763150383",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonbyTyler_theCreatorLVTrainerGreen_4.png?v=1763150382"
+      ],
+      "created_at": "2025-11-14T23:59:39+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296668954794,
+      "title": "Louis Vuitton Trainer Black Grey Denim Monogram",
+      "handle": "louis-vuitton-trainer-black-grey-denim-monogram-i7woh",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-black-grey-denim-monogram-i7woh",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629968244906,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968277674,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968310442,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968343210,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968375978,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968408746,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860575686826,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_42690ad3-e8df-4762-ba3f-449f06690b9d.png?v=1763150385",
+          "width": 6147,
+          "height": 3125
+        },
+        {
+          "id": 42860575719594,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_1.webp?v=1763150381",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575752362,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_7.webp?v=1763150380",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575785130,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_2.webp?v=1763150380",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575817898,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_6.webp?v=1763150380",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575850666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_4.webp?v=1763150380",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575883434,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_5.webp?v=1763150381",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575916202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_3.webp?v=1763150380",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_42690ad3-e8df-4762-ba3f-449f06690b9d.png?v=1763150385",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_1.webp?v=1763150381",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_7.webp?v=1763150380",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_2.webp?v=1763150380",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_6.webp?v=1763150380",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_4.webp?v=1763150380",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_5.webp?v=1763150381",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainerBlackGreyDenimMonogram_3.webp?v=1763150380"
+      ],
+      "created_at": "2025-11-14T23:59:38+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296668922026,
+      "title": "Louis Vuitton Trainer #54 Signature Blue White",
+      "handle": "louis-vuitton-trainer-54-signature-blue-white-rjyvb",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer-54-signature-blue-white-rjyvb",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "579.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629968048298,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968081066,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968113834,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968146602,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968179370,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629968212138,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "579.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860575457450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_fe3e132b-78da-4695-b13f-977609f1f7cd.png?v=1763150383",
+          "width": 3750,
+          "height": 3750
+        },
+        {
+          "id": 42860575490218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_00aaf4ca-e2e8-4bd0-ade3-d6d4f88232bb.png?v=1763150383",
+          "width": 3750,
+          "height": 3750
+        },
+        {
+          "id": 42860575522986,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_1.webp?v=1763150379",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575555754,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_4.webp?v=1763150379",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575588522,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_5.webp?v=1763150379",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575621290,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_3.webp?v=1763150379",
+          "width": 750,
+          "height": 1000
+        },
+        {
+          "id": 42860575654058,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_2.webp?v=1763150379",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_fe3e132b-78da-4695-b13f-977609f1f7cd.png?v=1763150383",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_00aaf4ca-e2e8-4bd0-ade3-d6d4f88232bb.png?v=1763150383",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_1.webp?v=1763150379",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_4.webp?v=1763150379",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_5.webp?v=1763150379",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_3.webp?v=1763150379",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonTrainer_54SignatureBlueWhite_2.webp?v=1763150379"
+      ],
+      "created_at": "2025-11-14T23:59:37+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296714141866,
+      "title": "Louis Vuitton Trainer",
+      "handle": "louis-vuitton-trainer",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-trainer",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630210990250,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630211023018,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630211055786,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630211088554,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630211121322,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630211154090,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860906152106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Sideview.png?v=1763151756",
+          "width": 730,
+          "height": 730
+        },
+        {
+          "id": 42860906184874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM2_Frontview.png?v=1763151757",
+          "width": 730,
+          "height": 730
+        },
+        {
+          "id": 42860906217642,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Interiorview.png?v=1763151757",
+          "width": 730,
+          "height": 730
+        },
+        {
+          "id": 42860906250410,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Closeupview.png?v=1763151758",
+          "width": 730,
+          "height": 730
+        },
+        {
+          "id": 42860906283178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Backview.png?v=1763151757",
+          "width": 730,
+          "height": 730
+        },
+        {
+          "id": 42860906315946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Detailview.png?v=1763151757",
+          "width": 730,
+          "height": 730
+        },
+        {
+          "id": 42860906348714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Otherview.png?v=1763151757",
+          "width": 730,
+          "height": 730
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Sideview.png?v=1763151756",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM2_Frontview.png?v=1763151757",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Interiorview.png?v=1763151757",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Closeupview.png?v=1763151758",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Backview.png?v=1763151757",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Detailview.png?v=1763151757",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-sneaker--BQ9U5PPC11_PM1_Otherview.png?v=1763151757"
+      ],
+      "created_at": "2025-11-15T00:22:34+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659746986,
+      "title": "Nike Air Force 1 x Off x Louis Vuitton Brown Azur",
+      "handle": "louis-vuitton-x-nike-air-force-1-low-by-virgil-brown-damier-azur",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-x-nike-air-force-1-low-by-virgil-brown-damier-azur",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "499.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629886423210,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886455978,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886488746,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886521514,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886554282,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886587050,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886619818,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886652586,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886685354,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886718122,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886750890,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "499.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860476989610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/a0e2eb9d0367442648d7d5c0a38bde465b60388318051e1e74b8c030da7b58a7.jpg?v=1763150044",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860477022378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/sub3-5.jpg?v=1763150044",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 42860477055146,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_1_193ff3e6-1284-42ba-9aba-0e9977234902.jpg?v=1763150044",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 42860477087914,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_2.jpg?v=1763150044",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860477120682,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_01ef1b9c-086e-49e8-9c9d-b6e307df79e7.jpg?v=1763150044",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860477153450,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_1.jpg?v=1763150044",
+          "width": 800,
+          "height": 799
+        },
+        {
+          "id": 42860477186218,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download.jpg?v=1763150045",
+          "width": 800,
+          "height": 798
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/a0e2eb9d0367442648d7d5c0a38bde465b60388318051e1e74b8c030da7b58a7.jpg?v=1763150044",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/sub3-5.jpg?v=1763150044",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_1_193ff3e6-1284-42ba-9aba-0e9977234902.jpg?v=1763150044",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_2.jpg?v=1763150044",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_01ef1b9c-086e-49e8-9c9d-b6e307df79e7.jpg?v=1763150044",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download_1.jpg?v=1763150044",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/download.jpg?v=1763150045"
+      ],
+      "created_at": "2025-11-14T23:54:01+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296674164906,
+      "title": "Nike Air Force 1 x Off White x Louis Vuitton Black",
+      "handle": "nike-air-force-1-x-off-white-x-louis-vuitton-5",
+      "url": "https://littledubai-ae.shop/products/nike-air-force-1-x-off-white-x-louis-vuitton-5",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Louis Vuitton x Nike Air Force 1 Low “Black” is a special collaboration between the high fashion house and Nike that was directed by the late Virgil Abloh. First previewed in Louis Vuitton’s SS22 fashion show back in 2021, this sneaker puts a premium spin on the vintage basketball shoe. It features an all-black suede construction with Louis Vuitton’s monogram print stamped into the leather. Details from Abloh’s previous collaborations with Nike under his Off-White clothing brand appear on the shoe, including a small black hang tag on the Swoosh, and printed 'AIR' branding alongside classic Air Force 1 'AIR' detailing on the lateral side of the midsole.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Black"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630016741546,
+          "title": "Black / 36",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016774314,
+          "title": "Black / 37",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016807082,
+          "title": "Black / 38",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016839850,
+          "title": "Black / 39",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016872618,
+          "title": "Black / 40",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016905386,
+          "title": "Black / 41",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016938154,
+          "title": "Black / 42",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016970922,
+          "title": "Black / 43",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630017003690,
+          "title": "Black / 44",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630017036458,
+          "title": "Black / 45",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Black",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860633391274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8683.jpg?v=1763150561",
+          "width": 828,
+          "height": 742
+        },
+        {
+          "id": 42860633424042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8684.jpg?v=1763150560",
+          "width": 828,
+          "height": 745
+        },
+        {
+          "id": 42860633456810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8685.jpg?v=1763150561",
+          "width": 828,
+          "height": 747
+        },
+        {
+          "id": 42860633489578,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8686.jpg?v=1763150561",
+          "width": 828,
+          "height": 748
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8683.jpg?v=1763150561",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8684.jpg?v=1763150560",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8685.jpg?v=1763150561",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8686.jpg?v=1763150561"
+      ],
+      "created_at": "2025-11-15T00:02:39+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296674099370,
+      "title": "Nike Air Force 1 x Off x Louis Vuitton Blue",
+      "handle": "nike-air-force-1-x-off-white-x-louis-vuitton-2",
+      "url": "https://littledubai-ae.shop/products/nike-air-force-1-x-off-white-x-louis-vuitton-2",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Louis Vuitton x Nike Air Force 1 Low is a special collaboration between the storied high fashion house and Nike that was directed by the late Virgil Abloh. Produced by Louis Vuitton, Nike, and Abloh in 2022, this low-top sneaker features a two-tone colour block design, in blue and white, that replicates the original Nike Dunk colourways from 1985. This highly sought-after collaboration features a white leather base with Louis Vuitton’s famous monogram print stamped into the material while a contrasting blue textile with the Parisian fashion brand’s aforementioned pattern is found on the overlays and Swoosh. Signature details from Abloh’s previous collaborations with Nike under his Off-White clothing brand include a lime green hang tag on the sides, and printed 'AIR' branding alongside classic Air Force 1 'AIR' detailing on the lateral side of the midsole.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Blue"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630016086186,
+          "title": "Blue / 36",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016118954,
+          "title": "Blue / 37",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016151722,
+          "title": "Blue / 38",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016184490,
+          "title": "Blue / 39",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016217258,
+          "title": "Blue / 40",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016250026,
+          "title": "Blue / 41",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016282794,
+          "title": "Blue / 42",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016315562,
+          "title": "Blue / 43",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016348330,
+          "title": "Blue / 44",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016381098,
+          "title": "Blue / 45",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Blue",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860632998058,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8754.jpg?v=1763150559",
+          "width": 828,
+          "height": 740
+        },
+        {
+          "id": 42860633030826,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8755.jpg?v=1763150559",
+          "width": 828,
+          "height": 739
+        },
+        {
+          "id": 42860633063594,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8756.jpg?v=1763150559",
+          "width": 828,
+          "height": 740
+        },
+        {
+          "id": 42860633096362,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8757.jpg?v=1763150559",
+          "width": 828,
+          "height": 731
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8754.jpg?v=1763150559",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8755.jpg?v=1763150559",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8756.jpg?v=1763150559",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8757.jpg?v=1763150559"
+      ],
+      "created_at": "2025-11-15T00:02:36+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296674132138,
+      "title": "Nike Air Force 1 x Off White x Louis Vuitton White",
+      "handle": "nike-air-force-1-x-off-white-x-louis-vuitton-4",
+      "url": "https://littledubai-ae.shop/products/nike-air-force-1-x-off-white-x-louis-vuitton-4",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Louis Vuitton x Nike Air Force 1 Low “White” is a special collaboration between the high fashion house and Nike that was directed by the late Virgil Abloh. First previewed in Louis Vuitton’s SS22 fashion show back in 2021, this sneaker puts a premium spin on the vintage basketball shoe. Based on the classic “White on White” colourway, it features crisp, all-white leather construction with Louis Vuitton’s monogram print stamped into the leather. Details from Abloh’s previous collaborations with Nike under his Off-White clothing brand appear on the shoe, including a small white hang tag on the Swoosh, and printed 'AIR' branding alongside classic Air Force 1 'AIR' detailing on the lateral side of the midsole.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "White"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630016413866,
+          "title": "White / 36",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016446634,
+          "title": "White / 37",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016479402,
+          "title": "White / 38",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016512170,
+          "title": "White / 39",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016544938,
+          "title": "White / 40",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016577706,
+          "title": "White / 41",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016610474,
+          "title": "White / 42",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016643242,
+          "title": "White / 43",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016676010,
+          "title": "White / 44",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630016708778,
+          "title": "White / 45",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "White",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860633227434,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8687.jpg?v=1763150560",
+          "width": 828,
+          "height": 734
+        },
+        {
+          "id": 42860633260202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8688.jpg?v=1763150560",
+          "width": 828,
+          "height": 739
+        },
+        {
+          "id": 42860633292970,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8689.jpg?v=1763150561",
+          "width": 828,
+          "height": 739
+        },
+        {
+          "id": 42860633325738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8690.jpg?v=1763150560",
+          "width": 828,
+          "height": 749
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8687.jpg?v=1763150560",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8688.jpg?v=1763150560",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8689.jpg?v=1763150561",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8690.jpg?v=1763150560"
+      ],
+      "created_at": "2025-11-15T00:02:38+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296674033834,
+      "title": "Nike Air Force 1 x Off White x Louis Vuitton Green",
+      "handle": "nike-air-force-1-x-off-white-x-louis-vuitton",
+      "url": "https://littledubai-ae.shop/products/nike-air-force-1-x-off-white-x-louis-vuitton",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Louis Vuitton x Nike Air Force 1 Low is a special collaboration between the storied high fashion house and Nike that was directed by the late Virgil Abloh. Produced by Louis Vuitton, Nike, and Abloh in 2022, this low-top sneaker features a two-tone colour block design, in green and white, that replicates the original Nike Dunk colourways from 1985. This highly sought-after collaboration features a white leather base with Louis Vuitton’s famous monogram print stamped into the material while a contrasting green textile with the Parisian fashion brand’s aforementioned pattern is found on the overlays and Swoosh. Signature details from Abloh’s previous collaborations with Nike under his Off-White clothing brand include a lime green hang tag on the sides, and printed 'AIR' branding alongside classic Air Force 1 'AIR' detailing on the lateral side of the midsole.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630015430826,
+          "title": "Green / 36",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015463594,
+          "title": "Green / 37",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015496362,
+          "title": "Green / 38",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015529130,
+          "title": "Green / 39",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015561898,
+          "title": "Green / 40",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015594666,
+          "title": "Green / 41",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015627434,
+          "title": "Green / 42",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015660202,
+          "title": "Green / 43",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015692970,
+          "title": "Green / 44",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630015725738,
+          "title": "Green / 45",
+          "price": "299.00",
+          "compare_at_price": "599.99",
+          "option1": "Green",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860632277162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8762.jpg?v=1763150557",
+          "width": 803,
+          "height": 748
+        },
+        {
+          "id": 42860632309930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8763.jpg?v=1763150557",
+          "width": 828,
+          "height": 751
+        },
+        {
+          "id": 42860632342698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8764.jpg?v=1763150557",
+          "width": 828,
+          "height": 750
+        },
+        {
+          "id": 42860632375466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8765.jpg?v=1763150557",
+          "width": 828,
+          "height": 747
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8762.jpg?v=1763150557",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8763.jpg?v=1763150557",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8764.jpg?v=1763150557",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8765.jpg?v=1763150557"
+      ],
+      "created_at": "2025-11-15T00:02:35+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669479082,
+      "title": "Louis Vuitton Trainer Crystal  – Black Grey",
+      "handle": "nike-kaws-x-air-jordan-4-cool-grey-white-gqdqv",
+      "url": "https://littledubai-ae.shop/products/nike-kaws-x-air-jordan-4-cool-grey-white-gqdqv",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Luxury meets edge in the Louis Vuitton Trainer Crystal – Black Grey , featuring a sleek two-tone design and hand-embellished Swarovski crystal monogram . Crafted for comfort and style, this limited-edition sneaker is a bold take on the iconic LV silhouette. Details: Black and grey premium materials Swarovski crystal LV monogram Cushioned sole for everyday wear Signature LV branding Limited release",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "899.00",
+      "options": [
+        {
+          "name": "Sizes",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629971783850,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971816618,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971849386,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971882154,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971914922,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971947690,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971980458,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972013226,
+          "title": "46",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860579127466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-rhinestone-trainer.jpg?v=1763150398",
+          "width": 3543,
+          "height": 3543
+        },
+        {
+          "id": 42860579160234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuittion-trainer-crystal-black-red-500x500.webp?v=1763150397",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 42860579193002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/whatsapp-image-2023-12-07-at-11-47-54-pm.jpg?v=1763150397",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "id": 42860579225770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuittion-trainer-crystal-black-red-500x500_1.webp?v=1763150397",
+          "width": 375,
+          "height": 500
+        },
+        {
+          "id": 42860579258538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis_Vuitton_LV_Trainer_Black_Grey_Crystal_1AA6PV_Hype_Clothinga_Limited_Edition.002-thumbnail-1080x1080-70.jpg?v=1763150397",
+          "width": 1080,
+          "height": 771
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-rhinestone-trainer.jpg?v=1763150398",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuittion-trainer-crystal-black-red-500x500.webp?v=1763150397",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/whatsapp-image-2023-12-07-at-11-47-54-pm.jpg?v=1763150397",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuittion-trainer-crystal-black-red-500x500_1.webp?v=1763150397",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis_Vuitton_LV_Trainer_Black_Grey_Crystal_1AA6PV_Hype_Clothinga_Limited_Edition.002-thumbnail-1080x1080-70.jpg?v=1763150397"
+      ],
+      "created_at": "2025-11-14T23:59:55+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669511850,
+      "title": "Louis Vuitton Trainer Crystal  – Black",
+      "handle": "crystal-black",
+      "url": "https://littledubai-ae.shop/products/crystal-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Bold and luxurious, the Louis Vuitton Trainer Crystal – Black features an all-black design adorned with shimmering Swarovski crystals . This exclusive sneaker blends streetwear style with high-end detail for a standout look. Details: Premium black leather &amp; suede Swarovski crystal LV monogram Cushioned interior for comfort Durable rubber sole Limited edition release",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "899.00",
+      "options": [
+        {
+          "name": "Sizes",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629972045994,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972078762,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972111530,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972144298,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972177066,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972209834,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972242602,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629972275370,
+          "title": "46",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860579291306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/50cdab67a71242d0a5bb044e9a08b32b.webp?v=1763150398",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860579324074,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1200_2.jpg?v=1763150398",
+          "width": 1006,
+          "height": 1200
+        },
+        {
+          "id": 42860579356842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/fecbab265044406e804b7b5585393076.webp?v=1763150398",
+          "width": 740,
+          "height": 740
+        },
+        {
+          "id": 42860579389610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/a27b23fc06c047b5af752d907a0a83ea.webp?v=1763150398",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 42860579422378,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1200_3.jpg?v=1763150398",
+          "width": 1200,
+          "height": 900
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/50cdab67a71242d0a5bb044e9a08b32b.webp?v=1763150398",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1200_2.jpg?v=1763150398",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/fecbab265044406e804b7b5585393076.webp?v=1763150398",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/a27b23fc06c047b5af752d907a0a83ea.webp?v=1763150398",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1200_3.jpg?v=1763150398"
+      ],
+      "created_at": "2025-11-14T23:59:56+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669446314,
+      "title": "Louis Vuitton Skate Crystal – Black Edition",
+      "handle": "nike-kaws-x-air-jordan-4-cool-grey-white-wwu94",
+      "url": "https://littledubai-ae.shop/products/nike-kaws-x-air-jordan-4-cool-grey-white-wwu94",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Step into refined street luxury with the Black Edition of the Louis Vuitton Skate Crystal. Featuring an all-black design with hand-applied Swarovski crystals, this limited sneaker delivers bold elegance and premium craftsmanship in every step. Details: Black leather &amp; suede construction Black Swarovski crystal LV monogram Cushioned interior for all-day comfort Durable skate-style sole Exclusive limited release",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "899.00",
+      "options": [
+        {
+          "name": "Sizes",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629971521706,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971554474,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971587242,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971620010,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971652778,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971685546,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971718314,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971751082,
+          "title": "46",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860578865322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_26c9c4e5-4fdb-4ea2-a9ff-0e741f7836a1.png?v=1763150397",
+          "width": 2500,
+          "height": 1784
+        },
+        {
+          "id": 42860578898090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/50542770b603ae222e2e5edb269f68d7a74e03400543437b153b465c463594b8.jpg?v=1763150396",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42860578930858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/fashion-myst-sneaker-louis-vuitton-skate-sneaker-black-44060531228974.webp?v=1763150396",
+          "width": 1242,
+          "height": 1140
+        },
+        {
+          "id": 42860578963626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-sneaker-swarovski-crystals-monogram-denim-black-1abmhz-scaled.webp?v=1763150396",
+          "width": 2560,
+          "height": 2560
+        },
+        {
+          "id": 42860578996394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/73e9179238d7496a80d242a0fe3b5aaa.webp?v=1763150398",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "id": 42860579029162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4584841_NjIwLTUwOC1hZDA3MzA1NTJh.webp?v=1763150395",
+          "width": 620,
+          "height": 508
+        },
+        {
+          "id": 42860579061930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/56a88dbeee894b9ca2e8401d7f0da8ec.webp?v=1763150397",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "id": 42860579094698,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5f4af4b125a84277ac1516664ec6a850.webp?v=1763150395",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_26c9c4e5-4fdb-4ea2-a9ff-0e741f7836a1.png?v=1763150397",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/50542770b603ae222e2e5edb269f68d7a74e03400543437b153b465c463594b8.jpg?v=1763150396",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/fashion-myst-sneaker-louis-vuitton-skate-sneaker-black-44060531228974.webp?v=1763150396",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-sneaker-swarovski-crystals-monogram-denim-black-1abmhz-scaled.webp?v=1763150396",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/73e9179238d7496a80d242a0fe3b5aaa.webp?v=1763150398",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4584841_NjIwLTUwOC1hZDA3MzA1NTJh.webp?v=1763150395",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/56a88dbeee894b9ca2e8401d7f0da8ec.webp?v=1763150397",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5f4af4b125a84277ac1516664ec6a850.webp?v=1763150395"
+      ],
+      "created_at": "2025-11-14T23:59:53+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296669413546,
+      "title": "Louis Vuitton Skate Crystal – Blue Swarovski Monogram",
+      "handle": "nike-kaws-x-air-jordan-4-cool-grey-white-uisdg",
+      "url": "https://littledubai-ae.shop/products/nike-kaws-x-air-jordan-4-cool-grey-white-uisdg",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Louis Vuitton",
+      "description": "Make a bold statement with this limited-edition Louis Vuitton skate sneaker, featuring a dazzling Blue Swarovski crystal monogram . Crafted from premium materials with a comfortable, padded fit, this piece blends luxury with streetwear edge. A must-have for collectors and style leaders alike.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "899.00",
+      "options": [
+        {
+          "name": "Sizes",
+          "values": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629971226794,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971259562,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971292330,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971325098,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971357866,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971390634,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971423402,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629971456170,
+          "title": "46",
+          "price": "349.00",
+          "compare_at_price": "899.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860578603178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_14eaf093-073d-4354-afab-ea25dfb7b680.png?v=1763150398",
+          "width": 6147,
+          "height": 3125
+        },
+        {
+          "id": 42860578635946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-sneaker-swarovski-crystals-monogram-denim-blue-1abmhfcopy_1-scaled.webp?v=1763150395",
+          "width": 2560,
+          "height": 2560
+        },
+        {
+          "id": 42860578668714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/img-20230922-wa00141-26c4f6d8fdd9910f9816953989542879-1024-1024.jpg?v=1763150394",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860578701482,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-skate-trainer-blue-swarovski-monogram-6.jpg?v=1763150394",
+          "width": 1485,
+          "height": 1980
+        },
+        {
+          "id": 42860578734250,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1200_1.jpg?v=1763150394",
+          "width": 900,
+          "height": 1200
+        },
+        {
+          "id": 42860578767018,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonLVSkateTrainerSwarovskiCrystalsBlueSneakers_2.webp?v=1763150395",
+          "width": 1446,
+          "height": 1928
+        },
+        {
+          "id": 42860578799786,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-skate-trainer-blue-swarovski-monogram-3.jpg?v=1763150395",
+          "width": 1485,
+          "height": 1980
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_14eaf093-073d-4354-afab-ea25dfb7b680.png?v=1763150398",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-sneaker-swarovski-crystals-monogram-denim-blue-1abmhfcopy_1-scaled.webp?v=1763150395",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/img-20230922-wa00141-26c4f6d8fdd9910f9816953989542879-1024-1024.jpg?v=1763150394",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-skate-trainer-blue-swarovski-monogram-6.jpg?v=1763150394",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l1200_1.jpg?v=1763150394",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LouisVuittonLVSkateTrainerSwarovskiCrystalsBlueSneakers_2.webp?v=1763150395",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-skate-trainer-blue-swarovski-monogram-3.jpg?v=1763150395"
+      ],
+      "created_at": "2025-11-14T23:59:52+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659812522,
+      "title": "Louis Vuitton Skate Denim",
+      "handle": "louis-vuitton-skate-denim",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-skate-denim",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629887144106,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887176874,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887209642,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887242410,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887275178,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887307946,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887340714,
+          "title": "42",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887373482,
+          "title": "43",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887406250,
+          "title": "44",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887439018,
+          "title": "45",
+          "price": "320.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860477677738,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.47.44_PM_2.jpg?v=1763150047",
+          "width": 621,
+          "height": 370
+        },
+        {
+          "id": 42860477710506,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/detailed-review-lv-skate-black-from-yumi-v0-pet1einsvfvc1.webp?v=1763150049",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860477743274,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/detailed-review-lv-skate-sneaker-black-from-nana-v0-jpjxargliq8d1.webp?v=1763150047",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "id": 42860477776042,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l400.jpg?v=1763150047",
+          "width": 300,
+          "height": 400
+        },
+        {
+          "id": 42860477808810,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Skate-Sneaker-Black-Black_3.webp?v=1763150048",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.47.44_PM_2.jpg?v=1763150047",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/detailed-review-lv-skate-black-from-yumi-v0-pet1einsvfvc1.webp?v=1763150049",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/detailed-review-lv-skate-sneaker-black-from-nana-v0-jpjxargliq8d1.webp?v=1763150047",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-l400.jpg?v=1763150047",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Skate-Sneaker-Black-Black_3.webp?v=1763150048"
+      ],
+      "created_at": "2025-11-14T23:54:05+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659779754,
+      "title": "Louis Vuitton Skate Beige",
+      "handle": "louis-vuitton-skate-beige",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-skate-beige",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629886816426,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886849194,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886881962,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886914730,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886947498,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629886980266,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887013034,
+          "title": "42",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887045802,
+          "title": "43",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887078570,
+          "title": "44",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887111338,
+          "title": "45",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860477546666,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LV1_9ab43c56-7f88-4243-b3cd-4d6c9433e4c3.jpg?v=1763150047",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 42860477579434,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LV2_1024x1024_2x_3048aaa0-4ab0-44f5-bd23-aecf417c4540.jpg?v=1763150046",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 42860477612202,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LV8_1d142b60-11c9-4d3f-977a-d2e730548165.jpg?v=1763150047",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 42860477644970,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_10.59.11_PM.jpg?v=1763150046",
+          "width": 1280,
+          "height": 1027
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LV1_9ab43c56-7f88-4243-b3cd-4d6c9433e4c3.jpg?v=1763150047",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LV2_1024x1024_2x_3048aaa0-4ab0-44f5-bd23-aecf417c4540.jpg?v=1763150046",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/LV8_1d142b60-11c9-4d3f-977a-d2e730548165.jpg?v=1763150047",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_10.59.11_PM.jpg?v=1763150046"
+      ],
+      "created_at": "2025-11-14T23:54:04+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659878058,
+      "title": "Louis Vuitton Skate Grey White",
+      "handle": "louis-vuitton-skate-grey-white",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-skate-grey-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629887832234,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887865002,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887897770,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887930538,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887963306,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887996074,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888028842,
+          "title": "42",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888061610,
+          "title": "43",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888094378,
+          "title": "44",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888127146,
+          "title": "45",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860478038186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1AGL42_png.png?v=1763150050",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 42860478070954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ipad_louis-vuitton-lv-skate-grey-white-beige-0.png?v=1763150050",
+          "width": 1128,
+          "height": 738
+        },
+        {
+          "id": 42860478103722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-trainer-grey-sneaker-1abz5t-Top.webp?v=1763150051",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 42860478136490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/detailed-review-lv-skate-sneaker-grey-from-yumi-v0-9ta12pzgni7d1.webp?v=1763150049",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "id": 42860478169258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ec71c866ff6b819a64572b212f2ed9af.jpg?v=1763150050",
+          "width": 736,
+          "height": 1308
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1AGL42_png.png?v=1763150050",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ipad_louis-vuitton-lv-skate-grey-white-beige-0.png?v=1763150050",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-trainer-grey-sneaker-1abz5t-Top.webp?v=1763150051",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/detailed-review-lv-skate-sneaker-grey-from-yumi-v0-9ta12pzgni7d1.webp?v=1763150049",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/ec71c866ff6b819a64572b212f2ed9af.jpg?v=1763150050"
+      ],
+      "created_at": "2025-11-14T23:54:07+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659845290,
+      "title": "Louis Vuitton Skate Navy Blue",
+      "handle": "louis-vuitton-skate-navy-blue",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-skate-navy-blue",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "320.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629887471786,
+          "title": "36",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887504554,
+          "title": "37",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887537322,
+          "title": "38",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887570090,
+          "title": "39",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887602858,
+          "title": "40",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887635626,
+          "title": "41",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887668394,
+          "title": "42",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887701162,
+          "title": "43",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887733930,
+          "title": "44",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629887766698,
+          "title": "45",
+          "price": "320.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860477874346,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_10.59.11_PM_1.jpg?v=1763150048",
+          "width": 845,
+          "height": 613
+        },
+        {
+          "id": 42860477907114,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-sneaker-navy-blue-marine-1acf1u_13.webp?v=1763150049",
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "id": 42860477939882,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG-0287.webp?v=1763150048",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860477972650,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/45261ecad9bcd65d_700x_58b706b2-b833-49c1-a9e2-c02892b8bd4b.webp?v=1763150048",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860478005418,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Skate-Sneaker-Marine-White_3.webp?v=1763150049",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_10.59.11_PM_1.jpg?v=1763150048",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-skate-sneaker-navy-blue-marine-1acf1u_13.webp?v=1763150049",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG-0287.webp?v=1763150048",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/45261ecad9bcd65d_700x_58b706b2-b833-49c1-a9e2-c02892b8bd4b.webp?v=1763150048",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Louis-Vuitton-LV-Skate-Sneaker-Marine-White_3.webp?v=1763150049"
+      ],
+      "created_at": "2025-11-14T23:54:06+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296660009130,
+      "title": "Louis Vuitton LV Maxi – Black & White",
+      "handle": "louis-vuitton-lv-maxi-black-and-white",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-lv-maxi-black-and-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629889142954,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889175722,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889208490,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889241258,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889274026,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889306794,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889339562,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889372330,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889405098,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889437866,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860478628010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-louis-vuitton-used-shoes-p1158135-010.jpg?v=1763150055",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42860478660778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-louis-vuitton-used-shoes-p1158135-005.jpg?v=1763150054",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42860478693546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-louis-vuitton-used-shoes-p1158135-004.jpg?v=1763150054",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 42860478726314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.53.59_PM.jpg?v=1763150054",
+          "width": 1067,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-louis-vuitton-used-shoes-p1158135-010.jpg?v=1763150055",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-louis-vuitton-used-shoes-p1158135-005.jpg?v=1763150054",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/luxury-women-louis-vuitton-used-shoes-p1158135-004.jpg?v=1763150054",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.53.59_PM.jpg?v=1763150054"
+      ],
+      "created_at": "2025-11-14T23:54:12+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659943594,
+      "title": "Louis Vuitton LV Maxi – Grey & White",
+      "handle": "louis-vuitton-lv-maxi-grey-white",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-lv-maxi-grey-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629888487594,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888520362,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888553130,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888585898,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888618666,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888651434,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888684202,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888716970,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888749738,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888782506,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860478300330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/421f27ea1c7d6708d4356043e70cc2db.png?v=1763150052",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860478333098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.53.58_PM.jpg?v=1763150052",
+          "width": 1072,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/421f27ea1c7d6708d4356043e70cc2db.png?v=1763150052",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.53.58_PM.jpg?v=1763150052"
+      ],
+      "created_at": "2025-11-14T23:54:10+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659976362,
+      "title": "Louis Vuitton LV Maxi – White",
+      "handle": "louis-vuitton-lv-maxi-white",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-lv-maxi-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629888815274,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888848042,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888880810,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888913578,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888946346,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888979114,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889011882,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889044650,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889077418,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629889110186,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860478365866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_dfdeefe0-f739-4bc0-b04f-6bae66f86ffb.png?v=1763150054",
+          "width": 3438,
+          "height": 2063
+        },
+        {
+          "id": 42860478398634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-22_2000x_7fd2a87e-a993-408c-93f6-ff12df5457fc.png?v=1763150054",
+          "width": 1090,
+          "height": 1090
+        },
+        {
+          "id": 42860478431402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-maxi-trainers-shoes-1AB8RK-McKickz-01_1200x_8461b1e8-268b-49b2-a991-ac041ee17f6a.png?v=1763150053",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 42860478464170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-23_1200x_af6b327f-6077-409c-9937-d716a7ad33c5.png?v=1763150054",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 42860478496938,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-24_600x_f82c7653-3ba3-4a28-b0c5-3b3b7be22df3.png?v=1763150053",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 42860478529706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.54.29_PM_1.jpg?v=1763150053",
+          "width": 1068,
+          "height": 1280
+        },
+        {
+          "id": 42860478562474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-25_1200x_e9ec691a-450f-411a-995d-8b3bd1e41090.png?v=1763150054",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_dfdeefe0-f739-4bc0-b04f-6bae66f86ffb.png?v=1763150054",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-22_2000x_7fd2a87e-a993-408c-93f6-ff12df5457fc.png?v=1763150054",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-maxi-trainers-shoes-1AB8RK-McKickz-01_1200x_8461b1e8-268b-49b2-a991-ac041ee17f6a.png?v=1763150053",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-23_1200x_af6b327f-6077-409c-9937-d716a7ad33c5.png?v=1763150054",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-24_600x_f82c7653-3ba3-4a28-b0c5-3b3b7be22df3.png?v=1763150053",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.54.29_PM_1.jpg?v=1763150053",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/louis-vuitton-lv-trainer-maxi-sneaker-white-1ab8rw-McKickz-25_1200x_e9ec691a-450f-411a-995d-8b3bd1e41090.png?v=1763150054"
+      ],
+      "created_at": "2025-11-14T23:54:11+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    },
+    {
+      "id": 8296659910826,
+      "title": "Louis Vuitton Trainer Maxi – Black & Brown Suede",
+      "handle": "louis-vuitton-lv-trainer-maxi-black",
+      "url": "https://littledubai-ae.shop/products/louis-vuitton-lv-trainer-maxi-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Shoe size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629888159914,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888192682,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888225450,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888258218,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888290986,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888323754,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888356522,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888389290,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888422058,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629888454826,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860478202026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_13c177e8-4a2f-4baa-b636-ff2908a1b6b1.png?v=1763150052",
+          "width": 2253,
+          "height": 3375
+        },
+        {
+          "id": 42860478234794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1ABM30.jpg?v=1763150051",
+          "width": 580,
+          "height": 414
+        },
+        {
+          "id": 42860478267562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.54.28_PM_1.jpg?v=1763150051",
+          "width": 1101,
+          "height": 1280
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_13c177e8-4a2f-4baa-b636-ff2908a1b6b1.png?v=1763150052",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1ABM30.jpg?v=1763150051",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/WhatsApp_Image_2025-04-15_at_11.54.28_PM_1.jpg?v=1763150051"
+      ],
+      "created_at": "2025-11-14T23:54:08+04:00",
+      "updated_at": "2026-04-21T00:37:24+04:00"
+    }
+  ]
+}

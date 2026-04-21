@@ -1,0 +1,1880 @@
+{
+  "collection": "dior",
+  "source": "https://littledubai-ae.shop/collections/dior",
+  "scraped_at": "2026-04-20T20:40:54.988Z",
+  "total_products": 14,
+  "total_images": 64,
+  "products": [
+    {
+      "id": 8296685207722,
+      "title": "Dior B27 Low 'Dior Oblique Galaxy - Grey Gum'",
+      "handle": "dior-b27-low-dior-oblique-galaxy-grey-gum",
+      "url": "https://littledubai-ae.shop/products/dior-b27-low-dior-oblique-galaxy-grey-gum",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The B27 low-top sneaker is already a House essential. Crafted in gray and white smooth calfskin, the style is adorned with beige and black Dior Oblique jacquard inserts on the sides. The sneaker is enhanced with CD Icon eyelets as well as numerous hallmark details on the two-tone rubber sole, tongue and back. The low-top sneaker will enhance any favorite outfit.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630111375530,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111408298,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111441066,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111473834,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111506602,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111539370,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111572138,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860740870314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_03_jpg.jpg?v=1763150925",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740903082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_01_jpg.jpg?v=1763150925",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740935850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_08_jpg.jpg?v=1763150925",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740968618,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_06_jpg.jpg?v=1763150925",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_03_jpg.jpg?v=1763150925",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_01_jpg.jpg?v=1763150925",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_08_jpg.jpg?v=1763150925",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/798753_06_jpg.jpg?v=1763150925"
+      ],
+      "created_at": "2025-11-15T00:08:43+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296655782058,
+      "title": "Dior B44 Blade Sneaker \"White\"",
+      "handle": "dior-b44-blade-sneaker-white",
+      "url": "https://littledubai-ae.shop/products/dior-b44-blade-sneaker-white",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The B44 Blade sneaker is characterized by a boldly voluminous silhouette inspired by the 2000s. Constructed in white technical mesh, it features tonal technical fabric panels and a contrasting Blade insert on the sole that references the running universe. The top, heel and sides are accented by the Dior signature. Completed by two-tone laces and a support sock that emphasizes its athletic aesthetic, the sneaker will elevate casual looks with an ultramodern touch.",
+      "price": "419.00",
+      "price_currency": "AED",
+      "compare_at_price": "639.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629855097002,
+          "title": "40",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629855129770,
+          "title": "41",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629855162538,
+          "title": "42",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629855195306,
+          "title": "43",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629855228074,
+          "title": "44",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629855260842,
+          "title": "45",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860414140586,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_048bb001-5b38-43b5-86f8-7f4fa69c4b28.png?v=1763149894",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860414173354,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_a84f3437-b2d2-4576-a462-9d179a2312b1.png?v=1763149894",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860414206122,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_93c4ae2f-46ec-46cb-b867-c365cc924ffe.png?v=1763149894",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860414238890,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_97f067a6-0b1d-4b91-8b21-215f5ff10d6e.png?v=1763149895",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_048bb001-5b38-43b5-86f8-7f4fa69c4b28.png?v=1763149894",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_a84f3437-b2d2-4576-a462-9d179a2312b1.png?v=1763149894",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/6_93c4ae2f-46ec-46cb-b867-c365cc924ffe.png?v=1763149894",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/7_97f067a6-0b1d-4b91-8b21-215f5ff10d6e.png?v=1763149895"
+      ],
+      "created_at": "2025-11-14T23:51:32+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296679866538,
+      "title": "Jordan x Dior Air Jordan 1 Low",
+      "handle": "jordan-x-dior-air-jordan-1-low",
+      "url": "https://littledubai-ae.shop/products/jordan-x-dior-air-jordan-1-low",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "350.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630063796394,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630063829162,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630063861930,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630063894698,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630063927466,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630063960234,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630063993002,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630064025770,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630064058538,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630064091306,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "350.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860687098026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_26d36dab-142e-42d1-b58e-32d5e3de104c.png?v=1763150750",
+          "width": 3438,
+          "height": 2063
+        },
+        {
+          "id": 42860687130794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537785_1000.webp?v=1763150748",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860687163562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537786_1000.webp?v=1763150748",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860687196330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537787_1000.webp?v=1763150748",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860687229098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537789_1000.webp?v=1763150748",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860687261866,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28536246_1000.webp?v=1763150748",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860687294634,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537788_1000.webp?v=1763150748",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/rn-image_picker_lib_temp_26d36dab-142e-42d1-b58e-32d5e3de104c.png?v=1763150750",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537785_1000.webp?v=1763150748",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537786_1000.webp?v=1763150748",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537787_1000.webp?v=1763150748",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537789_1000.webp?v=1763150748",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28536246_1000.webp?v=1763150748",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15651284_28537788_1000.webp?v=1763150748"
+      ],
+      "created_at": "2025-11-15T00:05:45+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296654897322,
+      "title": "Dior B44 Blade Sneaker \"Black\"",
+      "handle": "dior-b44-blade-sneaker-black-9gipk",
+      "url": "https://littledubai-ae.shop/products/dior-b44-blade-sneaker-black-9gipk",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The B44 Blade sneaker is characterized by a boldly voluminous silhouette inspired by the 2000s. Constructed in black technical mesh, it features tonal technical fabric panels and a contrasting Blade insert on the sole that references the running universe. The top, heel and sides are accented by the Dior signature. Completed by two-tone laces and a support sock that emphasizes its athletic aesthetic, the sneaker will elevate casual looks with an ultramodern touch. The pair is equipped with a secure NFC chip, placed under the sole of the right foot, which provides access to a platform to obtain its Digital Certificate of Authenticity. Holders of the certificate benefit from news on future collections.",
+      "price": "419.00",
+      "price_currency": "AED",
+      "compare_at_price": "639.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629843234986,
+          "title": "40",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843267754,
+          "title": "41",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843300522,
+          "title": "42",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843333290,
+          "title": "43",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843366058,
+          "title": "44",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843398826,
+          "title": "45",
+          "price": "419.00",
+          "compare_at_price": "639.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860404408490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_c3124eeb-e945-4791-a8dd-f4d88d822156.png?v=1763149859",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860404441258,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32_f385595d-0803-47f1-b259-595709b3dd2a.png?v=1763149859",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860404474026,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_438a911c-0927-446c-b451-7b683e5bc2ba.png?v=1763149859",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860404506794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_af2c8337-d45d-435a-9bde-8a48795b6f24.png?v=1763149859",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_c3124eeb-e945-4791-a8dd-f4d88d822156.png?v=1763149859",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32_f385595d-0803-47f1-b259-595709b3dd2a.png?v=1763149859",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_438a911c-0927-446c-b451-7b683e5bc2ba.png?v=1763149859",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_af2c8337-d45d-435a-9bde-8a48795b6f24.png?v=1763149859"
+      ],
+      "created_at": "2025-11-14T23:50:57+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296654766250,
+      "title": "Dior B22 'White Blue'",
+      "handle": "dior-b22-white-blue-nhbwi",
+      "url": "https://littledubai-ae.shop/products/dior-b22-white-blue-nhbwi",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) This is an authentic pair of CHRISTIAN DIOR Technical Mesh Calfskin Mens B22 Sneakers in White, Blue, and Grey. These stylish sneakers are crafted of white and blue mesh with grey leather accents. These are excellent for training as well as style with the classic chic of Dior!",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629842415786,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842448554,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842481322,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842514090,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842546858,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842579626,
+          "title": "46",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860402639018,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_77188dc2-2f85-4027-9c03-dd9ac71bb1dc.jpg?v=1763149854",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860402671786,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_3767b446-afe9-4042-bdfe-362ff3ea0d60.jpg?v=1763149854",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860402704554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_aba013fb-0b4f-490d-8270-c3839cb14f44.jpg?v=1763149854",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860402737322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_6d9c5f2e-79da-41e3-9c1e-c07517140053.jpg?v=1763149854",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860402770090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_fcc15bb0-f0ad-4db4-bd4f-b55be5a0003f.jpg?v=1763149854",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_77188dc2-2f85-4027-9c03-dd9ac71bb1dc.jpg?v=1763149854",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_3767b446-afe9-4042-bdfe-362ff3ea0d60.jpg?v=1763149854",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_aba013fb-0b4f-490d-8270-c3839cb14f44.jpg?v=1763149854",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_6d9c5f2e-79da-41e3-9c1e-c07517140053.jpg?v=1763149854",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/14_fcc15bb0-f0ad-4db4-bd4f-b55be5a0003f.jpg?v=1763149854"
+      ],
+      "created_at": "2025-11-14T23:50:52+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296654831786,
+      "title": "Dior B22 'Black Reflective'",
+      "handle": "dior-b22-black-reflective",
+      "url": "https://littledubai-ae.shop/products/dior-b22-black-reflective",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The B22 sneaker reimagines the \"chunky\" sneaker through a retro lens. Combining different materials and textures, including black smooth calfskin and technical mesh, it has a bold, sportswear aesthetic. Round laces and a raised 'DIOR' signature on the side complement the thick sculpted rubber sole. The sneaker can be worn with any casual piece for a sporty and contemporary silhouette. Black technical mesh Black smooth calfskin 'DIOR' signature on the side Low-top Nylon tabs and lace-up closure Nylon and calfskin lining Black sculpted rubber outsole Welded construction Dust bag included Made in Italy",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629842809002,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842841770,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842874538,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842907306,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842940074,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842972842,
+          "title": "46",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860402999466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_03_jpg.jpg?v=1763149857",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860403032234,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_01_jpg.jpg?v=1763149856",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860403065002,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_08_jpg.jpg?v=1763149856",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860403097770,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_06_jpg.jpg?v=1763149856",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860403130538,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_04_jpg.jpg?v=1763149856",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_03_jpg.jpg?v=1763149857",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_01_jpg.jpg?v=1763149856",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_08_jpg.jpg?v=1763149856",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_06_jpg.jpg?v=1763149856",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/883976_04_jpg.jpg?v=1763149856"
+      ],
+      "created_at": "2025-11-14T23:50:54+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296679309482,
+      "title": "Jordan x Dior Air Jordan 1 Retro High",
+      "handle": "jordan-x-dior-air-jordan-1-retro-high",
+      "url": "https://littledubai-ae.shop/products/jordan-x-dior-air-jordan-1-retro-high",
+      "vendor": "Flex",
+      "product_type": "",
+      "description": "",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630058094762,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058127530,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058160298,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058193066,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058225834,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058258602,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058291370,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058324138,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058356906,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630058389674,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860683788458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291157_1000.webp?v=1763150722",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860683821226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291154_1000.webp?v=1763150722",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860683853994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291156_1000.webp?v=1763150722",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860683886762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291155_1000.webp?v=1763150722",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860683919530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28288461_1000.webp?v=1763150722",
+          "width": 1000,
+          "height": 1334
+        },
+        {
+          "id": 42860683952298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28288460_1000.webp?v=1763150722",
+          "width": 1000,
+          "height": 1334
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291157_1000.webp?v=1763150722",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291154_1000.webp?v=1763150722",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291156_1000.webp?v=1763150722",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28291155_1000.webp?v=1763150722",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28288461_1000.webp?v=1763150722",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15624504_28288460_1000.webp?v=1763150722"
+      ],
+      "created_at": "2025-11-15T00:05:19+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296654930090,
+      "title": "Dior B27 Low 'Dior Oblique Galaxy - Grey Beige'",
+      "handle": "dior-b27-low-dior-oblique-galaxy-grey-beige",
+      "url": "https://littledubai-ae.shop/products/dior-b27-low-dior-oblique-galaxy-grey-beige",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Although brand new for this collection, the B27 low-top sneaker is already a House essential. Crafted in white and gray smooth calfskin, the style is adorned with white Dior Oblique Galaxy leather inserts on the sides. The sneaker is enhanced with 'CD Icon' eyelets as well as numerous emblematic details on the two-tone rubber sole, tab and back. The low-top sneaker will enhance any favorite look.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629843431594,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843464362,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843497130,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843529898,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843562666,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843595434,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860405260458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_bc678546-61e9-453e-984f-60f49795e6c1.jpg?v=1763149861",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860405293226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_4b4de0d9-71e8-443e-8df7-951597527d39.jpg?v=1763149861",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860405325994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_23467144-00a5-4cdf-83d7-3330697dad36.jpg?v=1763149860",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860405358762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_0eff3d87-7811-4eaa-87d0-2732e6f63d64.jpg?v=1763149860",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860405391530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32_a7aaf546-fafd-42fe-8a32-42e2d593ba14.jpg?v=1763149861",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_bc678546-61e9-453e-984f-60f49795e6c1.jpg?v=1763149861",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_4b4de0d9-71e8-443e-8df7-951597527d39.jpg?v=1763149861",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_23467144-00a5-4cdf-83d7-3330697dad36.jpg?v=1763149860",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_0eff3d87-7811-4eaa-87d0-2732e6f63d64.jpg?v=1763149860",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32_a7aaf546-fafd-42fe-8a32-42e2d593ba14.jpg?v=1763149861"
+      ],
+      "created_at": "2025-11-14T23:50:58+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296655356074,
+      "title": "Dior B27 Low 'DGray Smooth'",
+      "handle": "dior-b27-low-dgray-smooth",
+      "url": "https://littledubai-ae.shop/products/dior-b27-low-dgray-smooth",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The B27 low-top sneaker is already a House essential. Crafted in Dior gray smooth calfskin, the style is enhanced by inserts in tonal coated cotton canvas with the CD Diamond printed motif, revealing a graphic design imagined by Marc Bohan in 1974, revisiting the CD initials in the form of a diamond with architectural lines on the sides. The sneaker is further elevated by CD Icon eyelets as well as numerous hallmark details on the two-tone rubber sole, tongue and back. The low-top sneaker will enhance any favorite outfit.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629850869930,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629850902698,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629850935466,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629850968234,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629851001002,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629851033770,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629851066538,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860411060394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_ea463dce-5803-479b-b55f-decffce2a5ea.png?v=1763149877",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860411093162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_80fc8564-80d2-46be-bd12-1528746e64ae.png?v=1763149877",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860411125930,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_de5a010e-a76c-4e8c-bae2-5199e223c211.png?v=1763149877",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_ea463dce-5803-479b-b55f-decffce2a5ea.png?v=1763149877",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_80fc8564-80d2-46be-bd12-1528746e64ae.png?v=1763149877",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_de5a010e-a76c-4e8c-bae2-5199e223c211.png?v=1763149877"
+      ],
+      "created_at": "2025-11-14T23:51:14+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296654799018,
+      "title": "Dior B22 'White Grey'",
+      "handle": "dior-b22-white-grey-96gm4",
+      "url": "https://littledubai-ae.shop/products/dior-b22-white-grey-96gm4",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The men's Dior B22 low top trainers featuring a white technical mesh, white and silver smooth calfskin, 'DIOR' signature on the side, nylon tabs and lace-up closure, nylon and calfskin lining, and sculpted white rubber outsole with black edging. Made in Italy.",
+      "price": "399.00",
+      "price_currency": "AED",
+      "compare_at_price": "599.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629842645162,
+          "title": "41",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842677930,
+          "title": "42",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842710698,
+          "title": "43",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842743466,
+          "title": "44",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629842776234,
+          "title": "45",
+          "price": "399.00",
+          "compare_at_price": "599.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860402802858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_3e738fc6-eb11-46f7-825b-fa03440596be.jpg?v=1763149855",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860402835626,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_a37bf621-1a6c-4180-bd80-6dbbe4c5ae0b.jpg?v=1763149855",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860402868394,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_6eccba95-42cb-4691-8393-7c53d95fe627.jpg?v=1763149855",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860402901162,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_a977b45c-b321-4979-a1df-f8ad7eb8465e.jpg?v=1763149855",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/10_3e738fc6-eb11-46f7-825b-fa03440596be.jpg?v=1763149855",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/13_a37bf621-1a6c-4180-bd80-6dbbe4c5ae0b.jpg?v=1763149855",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/12_6eccba95-42cb-4691-8393-7c53d95fe627.jpg?v=1763149855",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/11_a977b45c-b321-4979-a1df-f8ad7eb8465e.jpg?v=1763149855"
+      ],
+      "created_at": "2025-11-14T23:50:53+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296685142186,
+      "title": "Dior B30 White Mesh And Technical Fabric Low Top Sneakers",
+      "handle": "dior-b30-white-mesh-and-technical-fabric-low-top-sneakers",
+      "url": "https://littledubai-ae.shop/products/dior-b30-white-mesh-and-technical-fabric-low-top-sneakers",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The B30 sneaker has become a new House essential distinguished by its modern and sporty silhouette. Crafted in white mesh and technical fabric, it is enhanced by a reflective 'CD30' signature with a graphic aesthetic. The B30 also features silver-tone 'DIOR B30' and 'CD30' signatures on the tongue and the back of the sneaker. A sculpted and ultra-lightweight rubber outsole spotlights various hallmark details while an elastic interior provides optimal comfort. The B30 sneaker will complete any casual outfit.",
+      "price": "359.00",
+      "price_currency": "AED",
+      "compare_at_price": "589.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630110949546,
+          "title": "40",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630110982314,
+          "title": "41",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111015082,
+          "title": "42",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111047850,
+          "title": "43",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111080618,
+          "title": "44",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111113386,
+          "title": "45",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111146154,
+          "title": "46",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860740575402,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_34df0949-7dba-40c5-a33a-e16df3729ddb.jpg?v=1763150923",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740608170,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_6189c3dc-07ed-40c2-ac8c-69610f6c0872.jpg?v=1763150923",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740640938,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_b0f47bfd-231c-4a92-8744-af71e613bb0a.jpg?v=1763150923",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740673706,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_6e6a6e89-f573-4e57-afd8-74e78cd4ded9.jpg?v=1763150923",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_34df0949-7dba-40c5-a33a-e16df3729ddb.jpg?v=1763150923",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_6189c3dc-07ed-40c2-ac8c-69610f6c0872.jpg?v=1763150923",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_b0f47bfd-231c-4a92-8744-af71e613bb0a.jpg?v=1763150923",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_6e6a6e89-f573-4e57-afd8-74e78cd4ded9.jpg?v=1763150923"
+      ],
+      "created_at": "2025-11-15T00:08:41+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296654864554,
+      "title": "Dior B30 And Stone Island  - Limited And Numbered Edition \"Black\"",
+      "handle": "dior-b30-and-stone-island-limited-and-numbered-edition-black-uyas5",
+      "url": "https://littledubai-ae.shop/products/dior-b30-and-stone-island-limited-and-numbered-edition-black-uyas5",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Now a must-have for the House, the B30 low-top sneaker stands out with its athletic and very modern silhouette, this season it signs the DIOR AND STONE ISLAND capsule. Celebrating the excellence of the exclusive collaboration, the black-dyed cotton has a subtly washed appearance and an ultra-soft supple feel. The B30 displays the CD30 signatures on the sides and Dior B30 on the tongue, while the DIOR AND STONE ISLAND signature is featured on the front on a panel featuring the Cannage motif, on the back, and on the insole. A sculpted sole in ultra-light rubber enhanced with numerous iconic details and an inner elastic guarantee optimum comfort. The B30 sneaker will be combined with other DIOR AND STONE ISLAND creations to complete all casual outfits. The pair is equipped with a secure NFC chip, placed under the front sole of the right foot, and allowing access to a platform to obtain its digital certificate of authenticity. Certificate holders will benefit from information on the launches of future collections.",
+      "price": "359.00",
+      "price_currency": "AED",
+      "compare_at_price": "589.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629843038378,
+          "title": "41",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843071146,
+          "title": "42",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843103914,
+          "title": "43",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843136682,
+          "title": "44",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843169450,
+          "title": "45",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629843202218,
+          "title": "46",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860403163306,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_a9d450c0-b917-4f64-b236-bef4f09b90dd.png?v=1763149858",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860403196074,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_11793457-edaa-49af-8fce-7eeabbe53cd8.png?v=1763149858",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860403228842,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_84ca33fe-4384-4dcf-bd12-fde65290202d.png?v=1763149858",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860403261610,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_d3938465-cfd4-4829-abb5-9935689ee93e.png?v=1763149858",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_a9d450c0-b917-4f64-b236-bef4f09b90dd.png?v=1763149858",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_11793457-edaa-49af-8fce-7eeabbe53cd8.png?v=1763149858",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_84ca33fe-4384-4dcf-bd12-fde65290202d.png?v=1763149858",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_d3938465-cfd4-4829-abb5-9935689ee93e.png?v=1763149858"
+      ],
+      "created_at": "2025-11-14T23:50:55+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296685174954,
+      "title": "Dior B30 'Black'",
+      "handle": "dior-b30-black",
+      "url": "https://littledubai-ae.shop/products/dior-b30-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The B30 sneaker has become a new House essential distinguished by its modern and sporty silhouette. Crafted in black mesh and technical fabric, it is enhanced by a reflective tonal 'CD30' signature with a graphic aesthetic. The B30 also features silver-tone 'DIOR B30' and 'CD30' signatures on the tongue and the back of the sneaker. A sculpted and ultra-lightweight rubber outsole spotlights various hallmark details, while an elastic interior provides optimal comfort. The B30 sneaker will complete any casual outfit.",
+      "price": "359.00",
+      "price_currency": "AED",
+      "compare_at_price": "589.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630111178922,
+          "title": "41",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111211690,
+          "title": "42",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111244458,
+          "title": "43",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111277226,
+          "title": "44",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111309994,
+          "title": "45",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630111342762,
+          "title": "46",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860740706474,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_0e892bfc-6e00-452f-b660-c767096d97bb.jpg?v=1763150924",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740739242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/35_8caec5c6-3293-40a7-b444-e5265072e6f0.jpg?v=1763150926",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740772010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32.jpg?v=1763150924",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740804778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_afebf409-bc22-4a5c-92b0-08fd204bc0b9.jpg?v=1763150924",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740837546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_899d35e1-1b88-4511-ae92-e04a3d3fdc04.jpg?v=1763150924",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/34_0e892bfc-6e00-452f-b660-c767096d97bb.jpg?v=1763150924",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/35_8caec5c6-3293-40a7-b444-e5265072e6f0.jpg?v=1763150926",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/32.jpg?v=1763150924",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/31_afebf409-bc22-4a5c-92b0-08fd204bc0b9.jpg?v=1763150924",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/33_899d35e1-1b88-4511-ae92-e04a3d3fdc04.jpg?v=1763150924"
+      ],
+      "created_at": "2025-11-15T00:08:42+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    },
+    {
+      "id": 8296685109418,
+      "title": "Dior B30 'Black mesh and technical fabric'",
+      "handle": "dior-b30-black-mesh-and-technical-fabric-siruy",
+      "url": "https://littledubai-ae.shop/products/dior-b30-black-mesh-and-technical-fabric-siruy",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Dior",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Brand new this season, the B30 low-top sneaker is one of the collection's flagship styles. Crafted in black mesh and technical fabric, it boasts a graphic, reflective 'CD30' signature and is further adorned with 'DIOR B30' and 'CD30' signatures on the back and tongue. Its ultra-lightweight sculpted rubber sole is enhanced with hallmark accents while interior elastic detailing provides optimum comfort. The B30 sneaker will complement any casual outfit with its modern, sporty silhouette.",
+      "price": "359.00",
+      "price_currency": "AED",
+      "compare_at_price": "589.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630110720170,
+          "title": "40",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630110752938,
+          "title": "41",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630110785706,
+          "title": "42",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630110818474,
+          "title": "43",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630110851242,
+          "title": "44",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630110884010,
+          "title": "45",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630110916778,
+          "title": "46",
+          "price": "359.00",
+          "compare_at_price": "589.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860740378794,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_990ae37e-74a8-4288-8ccd-a7cdd11dcf54.jpg?v=1763150922",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740411562,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_75c4c558-8b44-4957-8eae-60e66e3116ca.jpg?v=1763150922",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740444330,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_b3087819-471b-44d1-ba48-33322d0e2f7a.jpg?v=1763150922",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860740477098,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_d56ea710-5924-45da-b4e4-ac4c90a2fda9.jpg?v=1763150922",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17_990ae37e-74a8-4288-8ccd-a7cdd11dcf54.jpg?v=1763150922",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/15_75c4c558-8b44-4957-8eae-60e66e3116ca.jpg?v=1763150922",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/16_b3087819-471b-44d1-ba48-33322d0e2f7a.jpg?v=1763150922",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/18_d56ea710-5924-45da-b4e4-ac4c90a2fda9.jpg?v=1763150922"
+      ],
+      "created_at": "2025-11-15T00:08:40+04:00",
+      "updated_at": "2026-04-21T00:40:54+04:00"
+    }
+  ]
+}

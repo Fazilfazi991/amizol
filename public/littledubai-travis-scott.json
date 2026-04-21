@@ -1,0 +1,2965 @@
+{
+  "collection": "travis-scott",
+  "source": "https://littledubai-ae.shop/collections/travis",
+  "scraped_at": "2026-04-20T20:53:13.426Z",
+  "total_products": 18,
+  "total_images": 83,
+  "products": [
+    {
+      "id": 8296673607850,
+      "title": "Travis Scott x Air Force 1 White",
+      "handle": "nike-air-force-1-x-travis-scott",
+      "url": "https://littledubai-ae.shop/products/nike-air-force-1-x-travis-scott",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Travis Scott x Nike Air Force 1 Low “Sail” released in 2018. It was the second time that the rapper collaborated on the model. Scott previously released an Air Force 1 Low in 2017. The AF1 \"Sail\" colourway is similar to the original. But the newer model has the creamier Sail colour on the canvas of the upper, instead of the brighter white used on the 2017 sneaker. The Travis Scott x Nike Air Force 1 Low “Sail” features an interchangeable Swoosh in metallic and iridescent finishes. The shoes also include the “Cactus Jack” patches and platinum grill accessories on the laces. The result is another certified hit from the rap superstar.",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "749.00",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Sail"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630011039914,
+          "title": "Sail / 36",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011072682,
+          "title": "Sail / 37",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011105450,
+          "title": "Sail / 38",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011138218,
+          "title": "Sail / 39",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011170986,
+          "title": "Sail / 40",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011203754,
+          "title": "Sail / 41",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011236522,
+          "title": "Sail / 42",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011269290,
+          "title": "Sail / 43",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011302058,
+          "title": "Sail / 44",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630011334826,
+          "title": "Sail / 45",
+          "price": "349.00",
+          "compare_at_price": "749.00",
+          "option1": "Sail",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860627361962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9050.jpg?v=1763150543",
+          "width": 828,
+          "height": 703
+        },
+        {
+          "id": 42860627394730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9051.jpg?v=1763150543",
+          "width": 828,
+          "height": 690
+        },
+        {
+          "id": 42860627427498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9052.jpg?v=1763150543",
+          "width": 828,
+          "height": 696
+        },
+        {
+          "id": 42860627460266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9053.jpg?v=1763150543",
+          "width": 828,
+          "height": 696
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9050.jpg?v=1763150543",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9051.jpg?v=1763150543",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9052.jpg?v=1763150543",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9053.jpg?v=1763150543"
+      ],
+      "created_at": "2025-11-15T00:02:21+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296655061162,
+      "title": "Travis Scott x Jordan Jumpman Jack TR Sail",
+      "handle": "travis-scott-x-jordan-jumpman-jack-tr-sail-bfpgk",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-jordan-jumpman-jack-tr-sail-bfpgk",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629844349098,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844381866,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844414634,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844447402,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844480170,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844512938,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844545706,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844578474,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844611242,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844644010,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860408963242,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1252833_01_jpg.webp?v=1763149866",
+          "width": 750,
+          "height": 377
+        },
+        {
+          "id": 42860408996010,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-jumpman-jack-tr-travis-scott-sail3.webp?v=1763149866",
+          "width": 910,
+          "height": 546
+        },
+        {
+          "id": 42860409028778,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-tr-travis-scott-sail-fz8117-100-detail_1_411b8c94-6503-4947-ace3-14aa5a8c48c5.webp?v=1763149867",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 42860409061546,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_43_9d270cc4-8e7c-4ed5-acd8-7179d8f3da2f.jpg?v=1763149866",
+          "width": 202,
+          "height": 249
+        },
+        {
+          "id": 42860409094314,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5de05927-c6b6-11ee-b2f6-f02f74dffd40_1344fb5c-c6b7-11ee-b2f6-f02f74dffd40_2b926e53-6e7b-48a0-8c5c-c126f92c22f5.png?v=1763149866",
+          "width": 759,
+          "height": 525
+        },
+        {
+          "id": 42860409127082,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-jumpman-jack-tr-travis-scott-sail2_09e70554-f8d3-4900-b56a-3bb8c96ccd21.webp?v=1763149866",
+          "width": 828,
+          "height": 497
+        },
+        {
+          "id": 42860409159850,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-jumpman-jack-tr-travis-scott-sail-oversized-2.jpg-800x570_0639819d-3a41-4123-b3c0-f30dc3a98edb.webp?v=1763149866",
+          "width": 800,
+          "height": 570
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1252833_01_jpg.webp?v=1763149866",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-jumpman-jack-tr-travis-scott-sail3.webp?v=1763149866",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-tr-travis-scott-sail-fz8117-100-detail_1_411b8c94-6503-4947-ace3-14aa5a8c48c5.webp?v=1763149867",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_43_9d270cc4-8e7c-4ed5-acd8-7179d8f3da2f.jpg?v=1763149866",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5de05927-c6b6-11ee-b2f6-f02f74dffd40_1344fb5c-c6b7-11ee-b2f6-f02f74dffd40_2b926e53-6e7b-48a0-8c5c-c126f92c22f5.png?v=1763149866",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-jumpman-jack-tr-travis-scott-sail2_09e70554-f8d3-4900-b56a-3bb8c96ccd21.webp?v=1763149866",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-jumpman-jack-tr-travis-scott-sail-oversized-2.jpg-800x570_0639819d-3a41-4123-b3c0-f30dc3a98edb.webp?v=1763149866"
+      ],
+      "created_at": "2025-11-14T23:51:04+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296655093930,
+      "title": "Travis Scott × Jordan Jumpman Jack \"DARK MOCHA\"",
+      "handle": "travis-scott-jordan-jumpman-jack-dark-mocha-ja2pw",
+      "url": "https://littledubai-ae.shop/products/travis-scott-jordan-jumpman-jack-dark-mocha-ja2pw",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "",
+      "price": "349.00",
+      "price_currency": "AED",
+      "compare_at_price": "420.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629844709546,
+          "title": "36",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844742314,
+          "title": "37",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844775082,
+          "title": "38",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844807850,
+          "title": "39",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844840618,
+          "title": "40",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844873386,
+          "title": "41",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844906154,
+          "title": "42",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844938922,
+          "title": "43",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629844971690,
+          "title": "44",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629845004458,
+          "title": "45",
+          "price": "349.00",
+          "compare_at_price": "420.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860409454762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Jordan_Jumpman_Jack_TR_Travis_Scott_Dark_Mocha.webp?v=1763149867",
+          "width": 950,
+          "height": 472
+        },
+        {
+          "id": 42860409487530,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-travis-scott-mocha-FZ8117-204-3_2048x_b151c7ff-e71f-4eac-85fe-173f0a29d3c2.webp?v=1763149868",
+          "width": 1200,
+          "height": 840
+        },
+        {
+          "id": 42860409520298,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-tr-travis-scott-mocha-FZ8117-204-2.webp?v=1763149867",
+          "width": 1445,
+          "height": 867
+        },
+        {
+          "id": 42860409553066,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/travis-scott-jordan-jumpman-jack-dark-mocha-fz8117-204-07.jpg?v=1763149867",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860409585834,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-tr-travis-scott-mocha_24894590_57170158_2048.webp?v=1763149868",
+          "width": 1445,
+          "height": 867
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Jordan_Jumpman_Jack_TR_Travis_Scott_Dark_Mocha.webp?v=1763149867",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-travis-scott-mocha-FZ8117-204-3_2048x_b151c7ff-e71f-4eac-85fe-173f0a29d3c2.webp?v=1763149868",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-tr-travis-scott-mocha-FZ8117-204-2.webp?v=1763149867",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/travis-scott-jordan-jumpman-jack-dark-mocha-fz8117-204-07.jpg?v=1763149867",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/jordan-jumpman-jack-tr-travis-scott-mocha_24894590_57170158_2048.webp?v=1763149868"
+      ],
+      "created_at": "2025-11-14T23:51:05+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296680095914,
+      "title": "Travis Scott x Air Jordan 1 Low Golf 'Neutral Olive'",
+      "handle": "travis-scott-x-air-jordan-1-low-golf-neutral-olive",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-low-golf-neutral-olive",
+      "vendor": "dubaiallstar",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The Travis Scott x Air Jordan 1 Low Golf ‘Neutral Olive’ updates the iconic silhouette with a retooled construction made for the golf course. A reverse black leather Swoosh highlights the lateral side of the upper, featuring an olive nubuck base with off-white leather overlays at the forefoot and heel. A woven Jordan Golf tag stands out on the tongue in a lime green hue, matching the Cactus Jack and Jordan Wings logos that adorn the back tab of the left and right shoe. Underfoot, the rubber cupsole features an integrated traction pattern for superior grip.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630065926314,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630065959082,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630065991850,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630066024618,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630066057386,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630066090154,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630066122922,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860688244906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_59761989-d213-41f3-bcd3-5d5f5c3eba9f.jpg?v=1763150755",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860688277674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_a229d641-1f63-494f-89e2-beb1c59a6b5a.jpg?v=1763150755",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860688310442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_6f844182-a5d7-4b56-bc16-a2e5fb8f13d5.jpg?v=1763150755",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860688343210,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_29bd0e56-1809-4b13-a482-49867ed3837f.jpg?v=1763150755",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860688375978,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_b77f73b8-394f-4ee8-8f47-a9cd4ef3d0f5.jpg?v=1763150755",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/27_59761989-d213-41f3-bcd3-5d5f5c3eba9f.jpg?v=1763150755",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/26_a229d641-1f63-494f-89e2-beb1c59a6b5a.jpg?v=1763150755",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/30_6f844182-a5d7-4b56-bc16-a2e5fb8f13d5.jpg?v=1763150755",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/28_29bd0e56-1809-4b13-a482-49867ed3837f.jpg?v=1763150755",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/29_b77f73b8-394f-4ee8-8f47-a9cd4ef3d0f5.jpg?v=1763150755"
+      ],
+      "created_at": "2025-11-15T00:05:53+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296663777450,
+      "title": "Travis Scott x Air Jordan 1 Low GREEN BLACK",
+      "handle": "travis-scott-x-air-jordan-1-low-green-black",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-low-green-black",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Nike Air Jordan 1 Low",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-2 working days, your perfect pair is just a click away.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629916340394,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916373162,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916405930,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916438698,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916471466,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916504234,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916537002,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916569770,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916602538,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629916635306,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860512575658,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitled_design_4_png_bb5c3417-468d-4cec-8285-641575a8d95c.png?v=1763150191",
+          "width": 1563,
+          "height": 1563
+        },
+        {
+          "id": 42860512608426,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_2.png?v=1763150191",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860512641194,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_4.png?v=1763150191",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860512673962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_5.png?v=1763150191",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860512706730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_1.png?v=1763150191",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 42860512739498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_3.png?v=1763150191",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitled_design_4_png_bb5c3417-468d-4cec-8285-641575a8d95c.png?v=1763150191",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_2.png?v=1763150191",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_4.png?v=1763150191",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_5.png?v=1763150191",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_1.png?v=1763150191",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowGREENBLACK_3.png?v=1763150191"
+      ],
+      "created_at": "2025-11-14T23:56:28+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296679407786,
+      "title": "Travis Scott X AIR JORDAN 1 LOW OG \"CANARY\"",
+      "handle": "travis-scott-x-air-jordan-1-low-og-canary",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-low-og-canary",
+      "vendor": "dubaiallstar",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The Travis Scott x Women's Air Jordan 1 Retro Low OG SP 'Canary', also known as 'Elkins' after Travis Scott's High School, showcases the Houston rapper's signature reverse Swoosh, in Racer Blue adorning the lateral side of the shoe. A white leather upper is contrasted with yellow overlays at the forefoot and heel. A red and black Nike Air tag adorns the tongue, while mismatched Cactus Jack and Jordan Wings branding is embroidered in white on the heel tab of each shoe. The sneaker is underpinned by a traditional cupsole, highlighted by white textured sidewalls and a gum rubber outsole.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630059143338,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630059176106,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630059208874,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630059241642,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630059274410,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630059307178,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630059339946,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860684345514,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_dc4f4e94-8809-47fc-bd19-e740ba6c463c.png?v=1763150726",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860684378282,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_2ea4e4a6-05e4-4f66-bab8-21d31c800789.png?v=1763150726",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860684411050,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_fa2c124f-0241-4366-9b1f-2428c414dd98.png?v=1763150726",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860684443818,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_cef3ea38-6cc1-4ef4-ac04-2870a4a4d50e.png?v=1763150726",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860684476586,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_89d0c945-9a76-471a-93cf-89c60cb43eb8.png?v=1763150726",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_dc4f4e94-8809-47fc-bd19-e740ba6c463c.png?v=1763150726",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_2ea4e4a6-05e4-4f66-bab8-21d31c800789.png?v=1763150726",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_fa2c124f-0241-4366-9b1f-2428c414dd98.png?v=1763150726",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_cef3ea38-6cc1-4ef4-ac04-2870a4a4d50e.png?v=1763150726",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_89d0c945-9a76-471a-93cf-89c60cb43eb8.png?v=1763150726"
+      ],
+      "created_at": "2025-11-15T00:05:23+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296679538858,
+      "title": "Travis Scott X Air Jordan 1 Low OG \"Velvet Brown\"",
+      "handle": "travis-scott-x-air-jordan-1-low-og-velvet-brown",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-low-og-velvet-brown",
+      "vendor": "AIR JORDAN 1",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The Air Jordan 1 Retro Low OG SP Travis Scott Velvet Brown is a fresh collaboration that effortlessly merges the boldness of Travis Scott’s aesthetic with the timeless allure of the Jordan 1 silhouette. Featuring a dark mocha, black, and velvet brown colorway, this sneaker embraces an earthy palette that feels both rugged and luxurious. Signature Cactus Jack branding and reverse Swoosh designs elevate the sneaker’s uniqueness, making it a must-have for collectors and fans. Beyond aesthetics, this iteration stays true to the Air Jordan 1’s roots. The premium materials and meticulous detailing—hallmarks of Travis Scott’s collaborations—promise an experience that’s as stylish as it is functional. Whether you're pairing it with streetwear or using it to anchor a statement outfit, this design delivers unparalleled versatility.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630060322986,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060355754,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060388522,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060421290,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060454058,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060486826,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060519594,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060552362,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060585130,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060617898,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860685099178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_c6b14dfb-e16e-4588-b824-d2e29d2b4175.png?v=1763150733",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860685131946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_6e8c216f-67fc-445d-92b0-63cff45df9d8.png?v=1763150733",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860685164714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_755bcd9c-9495-4e97-b69d-81d1922d2c48.png?v=1763150733",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860685197482,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_f60162cb-56c3-41a5-8e00-6a4c19400f9d.png?v=1763150733",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860685230250,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_ce528c92-f94a-4c0b-9f10-ac238a39a37a.png?v=1763150733",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_c6b14dfb-e16e-4588-b824-d2e29d2b4175.png?v=1763150733",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1_6e8c216f-67fc-445d-92b0-63cff45df9d8.png?v=1763150733",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_755bcd9c-9495-4e97-b69d-81d1922d2c48.png?v=1763150733",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_f60162cb-56c3-41a5-8e00-6a4c19400f9d.png?v=1763150733",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_ce528c92-f94a-4c0b-9f10-ac238a39a37a.png?v=1763150733"
+      ],
+      "created_at": "2025-11-15T00:05:30+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296678883498,
+      "title": "Travis Scott x Air Jordan 1 Low OG SP 'Black Phantom'",
+      "handle": "travis-scott-x-air-jordan-1-low-og-sp-black-phantom",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-low-og-sp-black-phantom",
+      "vendor": "AIR JORDAN 1",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The Travis Scott x Air Jordan 1 Low OG SP ‘Black Phantom’ continues the Houston rapper’s remixed series centered around Michael Jordan’s debut signature shoe. This pair sports a black nubuck upper with tonal suede overlays and contrast white stitching throughout. Scott’s signature reverse Swoosh decorates the lateral side, while the opposite side features a traditional Swoosh accompanied by Cactus Jack branding. Mismatched heel tabs display a retro Wings logo on the right shoe and an embroidered bee motif on the left. The low-top is mounted on a black rubber cupsole with stitched sidewall construction and encapsulated Air-sole cushioning.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630053834922,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053867690,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053900458,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053933226,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053965994,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053998762,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054031530,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860681199786,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_03_jpg_323b4010-2fd2-4fdd-a928-57de53854015.jpg?v=1763150707",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681232554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_01_jpg.jpg?v=1763150707",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681265322,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_08_jpg.jpg?v=1763150707",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681298090,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_06_jpg.jpg?v=1763150707",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681330858,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_04_jpg.jpg?v=1763150707",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_03_jpg_323b4010-2fd2-4fdd-a928-57de53854015.jpg?v=1763150707",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_01_jpg.jpg?v=1763150707",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_08_jpg.jpg?v=1763150707",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_06_jpg.jpg?v=1763150707",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/1006990_04_jpg.jpg?v=1763150707"
+      ],
+      "created_at": "2025-11-15T00:05:05+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296678817962,
+      "title": "Travis Scott x Air Jordan 1 Low OG SP sneakers",
+      "handle": "travis-scott-x-air-jordan-1-low-og-sp-sneakers",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-low-og-sp-sneakers",
+      "vendor": "dubaiallstar",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) x Travis Scott Air Jordan 1 Low OG SP sneakers After appearing in numerous colour combinations and collaborations, the AJ1s now serve as a blank canvas for a three-band collaboration with renowned American rapper Travis Scott and fragment design by Hiroshi Fujiwara. This sneaker features a premium leather garment that adorns the heel-to-toe panels with white adorning the sidewall overlays and blue on the perforated tips and back segments. And, of course, the pair wouldn't be complete without Travis' inverted Swoosh logos in the middle of the foot, as well as the Cactus Jack branding and the iconic double lightning motif of the fragment design etched into the left and right heels accordingly. To finish the look, a yellow-tinted full Air midsole gives off a vintage vibe and solidifies the coveted collaboration. Highlights white/black/beige/blue leather signature Air Jordan Wings logo signature Swoosh logo detail contrasting panel detail round toe front lace-up fastening logo patch at the tongue branded insole rubber sole These styles are supplied by a premium sneaker marketplace. Stocking only the most sought-after footwear, they source and curate some of the most hard to find sneakers from around the world. Composition Sole: Rubber 100% Lining: Fabric 100% Outer: Leather 100%",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "299.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630053048490,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "299.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053081258,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "299.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053114026,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "299.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053146794,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "299.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053179562,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "299.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053212330,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "299.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053245098,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "299.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860680839338,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35056976_1000.jpg?v=1763150704",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860680872106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35056975_1000.jpg?v=1763150704",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860680904874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35057723_1000.jpg?v=1763150704",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860680937642,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35057722_1000.jpg?v=1763150705",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35056976_1000.jpg?v=1763150704",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35056975_1000.jpg?v=1763150704",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35057723_1000.jpg?v=1763150704",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/17037229_35057722_1000.jpg?v=1763150705"
+      ],
+      "created_at": "2025-11-15T00:05:02+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296678949034,
+      "title": "Travis Scott x Air Jordan 1 Retro Low OG SP \"Reverse Mocha\"",
+      "handle": "travis-scott-x-air-jordan-1-retro-low-og-sp-reverse-mocha",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-retro-low-og-sp-reverse-mocha",
+      "vendor": "AIR JORDAN 1",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) Giving a remix on the original 'Mocha' AJ1 from 2019 is the Travis Scott x Air Jordan 1 Low from 2019. The upper features a brown suede base with ivory leather overlays and Scott's signature reverse Swoosh on the lateral side with oversized dimensions and a neutral cream finish. Contrasting scarlet accents distinguish a pair of woven Nike Air tongue tags and mismatched heel tabs with a Cactus Jack and retro Wings logos embroidered. It's built on an off-white rubber midsole with encapsulated Nike Air cushioning in the heel and a brown rubber outsole underfoot.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630054424746,
+          "title": "36",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054457514,
+          "title": "37",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054490282,
+          "title": "38",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054523050,
+          "title": "39",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054555818,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054588586,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054621354,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054654122,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054686890,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054719658,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630054752426,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860681527466,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Air-Jordan-1-Retro-Low-OG-SP-Tra.jpg?v=1763150710",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Air-Jordan-1-Retro-Low-OG-SP-Tra.jpg?v=1763150710"
+      ],
+      "created_at": "2025-11-15T00:05:07+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296679506090,
+      "title": "Travis Scott x Wmns Air Jordan 1 Retro Low OG 'Olive'",
+      "handle": "travis-scott-x-wmns-air-jordan-1-retro-low-og-olive",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-wmns-air-jordan-1-retro-low-og-olive",
+      "vendor": "AIR JORDAN 1",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The Travis Scott x Women’s Air Jordan 1 Retro Low OG ‘Olive’ presents the chart-topping rapper’s first sneaker collaboration in female sizing. The upper combines a black suede base with off-white leather overlays and olive suede Swooshes, featuring a reverse check on the lateral side and a traditional design on the opposite side. The neutral earth tones are punctuated by bold crimson accents, highlighted by woven Nike Air tongue tags and mismatched Jordan and Cactus Jack branding on each heel tab. Anchoring the low-top is a rubber cupsole that pairs vintage off-white sidewalls with an olive green rubber outsole.",
+      "price": "299.00",
+      "price_currency": "AED",
+      "compare_at_price": "549.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630060060842,
+          "title": "40",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060093610,
+          "title": "41",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060126378,
+          "title": "42",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060159146,
+          "title": "43",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060191914,
+          "title": "44",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060224682,
+          "title": "45",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630060257450,
+          "title": "46",
+          "price": "299.00",
+          "compare_at_price": "549.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860684902570,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_b33933b6-86ef-499d-a9e6-5be479e8aef0.jpg?v=1763150731",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860684935338,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_d99faffa-c055-46df-bf3c-20db36c41096.jpg?v=1763150730",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860684968106,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitled-1_8be68a03-edba-4352-acbd-88561aa9afb4.jpg?v=1763150731",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860685000874,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_909a69ba-b4de-4f05-a863-b4a1895bbb9f.jpg?v=1763150730",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860685033642,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_1f6ac79c-4db3-4ab0-bcf0-c60d1f627e6a.jpg?v=1763150731",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/4_b33933b6-86ef-499d-a9e6-5be479e8aef0.jpg?v=1763150731",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/5_d99faffa-c055-46df-bf3c-20db36c41096.jpg?v=1763150730",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitled-1_8be68a03-edba-4352-acbd-88561aa9afb4.jpg?v=1763150731",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/2_909a69ba-b4de-4f05-a863-b4a1895bbb9f.jpg?v=1763150730",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/3_1f6ac79c-4db3-4ab0-bcf0-c60d1f627e6a.jpg?v=1763150731"
+      ],
+      "created_at": "2025-11-15T00:05:28+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296676982954,
+      "title": "Jordan x Travis Scott Air Jordan 4 Retro 'Cactus Jack'",
+      "handle": "jordan-x-travis-scott-air-jordan-4-retro-cactus-jack",
+      "url": "https://littledubai-ae.shop/products/jordan-x-travis-scott-air-jordan-4-retro-cactus-jack",
+      "vendor": "Flex Dxb",
+      "product_type": "AIR JORDAN 4 RETRO",
+      "description": "",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "450.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630037156010,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037188778,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037221546,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037254314,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037287082,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037319850,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037352618,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037385386,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037418154,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037450922,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630037483690,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "450.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860663668906,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/365514_03_jpg.webp?v=1763150647",
+          "width": 750,
+          "height": 500
+        },
+        {
+          "id": 42860663701674,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-jordans-4-retro-travis-scott-cactus-jack-pour-et.webp?v=1763150647",
+          "width": 700,
+          "height": 700
+        },
+        {
+          "id": 42860663734442,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_20.jpg?v=1763150647",
+          "width": 266,
+          "height": 189
+        },
+        {
+          "id": 42860663767210,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-4-retro-travis-scott-cactus-jack-sneakers-nike-3_800x_26c89792-7c6b-46cc-8280-99ad0b1b61c5.webp?v=1763150648",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/365514_03_jpg.webp?v=1763150647",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/s-jordans-4-retro-travis-scott-cactus-jack-pour-et.webp?v=1763150647",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/images_20.jpg?v=1763150647",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/air-jordan-4-retro-travis-scott-cactus-jack-sneakers-nike-3_800x_26c89792-7c6b-46cc-8280-99ad0b1b61c5.webp?v=1763150648"
+      ],
+      "created_at": "2025-11-15T00:04:05+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296674492586,
+      "title": "Travis Scott Cactus Jack X Nike Air Jordan 1 Low",
+      "handle": "air-jordan-1-low-x-travis-scott-3",
+      "url": "https://littledubai-ae.shop/products/air-jordan-1-low-x-travis-scott-3",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Travis Scott x Air Jordan 1 Low is the low-top version of the world famous rapper’s Jordan 1 collaboration. Following the standard high-top Jordan 1 from spring 2019, this Jordan 1 Low by Travis Scott released in July in very limited quantities and achieved the same hype and coveted status as the first design. Scott once again displayed his affinity for earthy tones while also utilizing the same backwards Swoosh design as the initial high-top. The upper is constructed in premium nubuck with black and brown tones, while the large reversed Swoosh contrasts in white leather. Red highlights are found on the tongue tags and embroidered heel logos, while a Sail midsole completes the clean design.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "559.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Brown/White/Black"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630019002538,
+          "title": "Brown/White/Black / 36",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019035306,
+          "title": "Brown/White/Black / 37",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019068074,
+          "title": "Brown/White/Black / 38",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019100842,
+          "title": "Brown/White/Black / 39",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019133610,
+          "title": "Brown/White/Black / 40",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019166378,
+          "title": "Brown/White/Black / 41",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019199146,
+          "title": "Brown/White/Black / 42",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019231914,
+          "title": "Brown/White/Black / 43",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019264682,
+          "title": "Brown/White/Black / 44",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630019297450,
+          "title": "Brown/White/Black / 45",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Brown/White/Black",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860634538154,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8774.jpg?v=1763150568",
+          "width": 828,
+          "height": 742
+        },
+        {
+          "id": 42860634570922,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8775.jpg?v=1763150567",
+          "width": 828,
+          "height": 745
+        },
+        {
+          "id": 42860634603690,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8776.jpg?v=1763150568",
+          "width": 828,
+          "height": 737
+        },
+        {
+          "id": 42860634636458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8777.jpg?v=1763150568",
+          "width": 828,
+          "height": 751
+        },
+        {
+          "id": 42860634669226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowOGMocha_1.webp?v=1763150567",
+          "width": 700,
+          "height": 700
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8774.jpg?v=1763150568",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8775.jpg?v=1763150567",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8776.jpg?v=1763150568",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8777.jpg?v=1763150568",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxAirJordan1LowOGMocha_1.webp?v=1763150567"
+      ],
+      "created_at": "2025-11-15T00:02:45+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296678850730,
+      "title": "Travis Scott x Air Jordan 1 Retro High OG 'Mocha'",
+      "handle": "travis-scott-x-air-jordan-1-retro-high-og-mocha",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-air-jordan-1-retro-high-og-mocha",
+      "vendor": "AIR JORDAN 1",
+      "product_type": "Air Jordan 1",
+      "description": "DELIVERY ALL OVER UAE ( 1-2 DAYS ) The Travis Scott x Air Jordan 1 Retro High features a new look on the iconic silhouette, thanks to an oversized backward-facing Swoosh on the lateral side. A traditionally oriented Swoosh graces the medial side of the upper, which is built with a blend of white leather and brown suede. Additional unique details include a double-layer construction on the collar and Scott’s crudely drawn face logo embossed on the heel.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630053474474,
+          "title": "36",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053507242,
+          "title": "37",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053540010,
+          "title": "38",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053572778,
+          "title": "39",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053605546,
+          "title": "40",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053638314,
+          "title": "41",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053671082,
+          "title": "42",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053703850,
+          "title": "43",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053736618,
+          "title": "44",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053769386,
+          "title": "45",
+          "price": "249.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630053802154,
+          "title": "46",
+          "price": "249.00",
+          "compare_at_price": "0.00",
+          "option1": "46",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860681003178,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_03_jpg.jpg?v=1763150705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681035946,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_01_jpg.jpg?v=1763150705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681068714,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_08_jpg.jpg?v=1763150705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681101482,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_06_jpg.jpg?v=1763150705",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "id": 42860681134250,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_04_jpg.jpg?v=1763150705",
+          "width": 1000,
+          "height": 600
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_03_jpg.jpg?v=1763150705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_01_jpg.jpg?v=1763150705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_08_jpg.jpg?v=1763150705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_06_jpg.jpg?v=1763150705",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/488879_04_jpg.jpg?v=1763150705"
+      ],
+      "created_at": "2025-11-15T00:05:03+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296672886954,
+      "title": "Air Jordan 6 Scot Brown Suede x Travis Scott",
+      "handle": "air-jordan-6-x-travis-scott",
+      "url": "https://littledubai-ae.shop/products/air-jordan-6-x-travis-scott",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "American rapper Travis Scott has teamed up with Jordan to present another addition to their collection. These Air Jordan 6 Retro sneakers earned the moniker \"British Khaki\" for their use of soft tan suede panels throughout the classic high-top silhouette.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "559.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "British Khaki"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630001799338,
+          "title": "British Khaki / 36",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630001832106,
+          "title": "British Khaki / 37",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630001864874,
+          "title": "British Khaki / 38",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630001897642,
+          "title": "British Khaki / 39",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630001930410,
+          "title": "British Khaki / 40",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630001963178,
+          "title": "British Khaki / 41",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630001995946,
+          "title": "British Khaki / 42",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630002028714,
+          "title": "British Khaki / 43",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630002061482,
+          "title": "British Khaki / 44",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630002094250,
+          "title": "British Khaki / 45",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "British Khaki",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860622348458,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9426.jpg?v=1763150517",
+          "width": 828,
+          "height": 791
+        },
+        {
+          "id": 42860622381226,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9427.jpg?v=1763150517",
+          "width": 828,
+          "height": 800
+        },
+        {
+          "id": 42860622413994,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9428.jpg?v=1763150516",
+          "width": 828,
+          "height": 789
+        },
+        {
+          "id": 42860622446762,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9429.jpg?v=1763150516",
+          "width": 828,
+          "height": 802
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9426.jpg?v=1763150517",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9427.jpg?v=1763150517",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9428.jpg?v=1763150516",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9429.jpg?v=1763150516"
+      ],
+      "created_at": "2025-11-15T00:01:54+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296672919722,
+      "title": "Air Jordan 6  Cactus Jack x Travis Scott",
+      "handle": "air-jordan-6-x-travis-scott-1",
+      "url": "https://littledubai-ae.shop/products/air-jordan-6-x-travis-scott-1",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Travis Scott x Air Jordan 6 marks the third time the world famous rapper and Jordan Brand have partnered on an Air Jordan. Scott revisits earth tones as the central theme of the “Cactus Jack” Air Jordan 6, This 2019 Air Jordan 6 “Black/Infrared” released during NBA All-Star weekend on February 16 and instantly became one of the biggest sneakers of the entire year.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "559.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Cactus Jack"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630002978986,
+          "title": "Cactus Jack / 36",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003011754,
+          "title": "Cactus Jack / 37",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003044522,
+          "title": "Cactus Jack / 38",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003077290,
+          "title": "Cactus Jack / 39",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003110058,
+          "title": "Cactus Jack / 40",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003142826,
+          "title": "Cactus Jack / 41",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003175594,
+          "title": "Cactus Jack / 42",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003208362,
+          "title": "Cactus Jack / 43",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003241130,
+          "title": "Cactus Jack / 44",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630003273898,
+          "title": "Cactus Jack / 45",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Cactus Jack",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860623265962,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9430.jpg?v=1763150519",
+          "width": 828,
+          "height": 729
+        },
+        {
+          "id": 42860623298730,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9431.jpg?v=1763150519",
+          "width": 828,
+          "height": 731
+        },
+        {
+          "id": 42860623331498,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9432.jpg?v=1763150519",
+          "width": 828,
+          "height": 729
+        },
+        {
+          "id": 42860623364266,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9433.jpg?v=1763150519",
+          "width": 828,
+          "height": 726
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9430.jpg?v=1763150519",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9431.jpg?v=1763150519",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9432.jpg?v=1763150519",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_9433.jpg?v=1763150519"
+      ],
+      "created_at": "2025-11-15T00:01:57+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296673280170,
+      "title": "Air Jordan 4 Cactus Jack x Travis Scott",
+      "handle": "air-jordan-4-x-travis-scott",
+      "url": "https://littledubai-ae.shop/products/air-jordan-4-x-travis-scott",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "",
+      "description": "The Air Jordan 4 \"Cactus Jack\". The bright blue nubuck construction with black and red accents takes inspiration from the team colors of the now defunct Houston Oilers football team, a reference to the rapper's Texas roots. Speckled detailing and Scott's \"Cactus Jack\" logo on the left heel tab add more personal touches to the shoe.",
+      "price": "249.00",
+      "price_currency": "AED",
+      "compare_at_price": "559.99",
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Blue"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47630007894186,
+          "title": "Blue / 36",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "36",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630007926954,
+          "title": "Blue / 37",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "37",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630007959722,
+          "title": "Blue / 38",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "38",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630007992490,
+          "title": "Blue / 39",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "39",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630008025258,
+          "title": "Blue / 40",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "40",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630008058026,
+          "title": "Blue / 41",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "41",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630008090794,
+          "title": "Blue / 42",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "42",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630008123562,
+          "title": "Blue / 43",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "43",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630008156330,
+          "title": "Blue / 44",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "44",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630008189098,
+          "title": "Blue / 45",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "45",
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47630008221866,
+          "title": "Blue / 46",
+          "price": "249.00",
+          "compare_at_price": "559.99",
+          "option1": "Blue",
+          "option2": "46",
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860625494186,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8977.jpg?v=1763150529",
+          "width": 828,
+          "height": 755
+        },
+        {
+          "id": 42860625526954,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8978.jpg?v=1763150529",
+          "width": 828,
+          "height": 758
+        },
+        {
+          "id": 42860625559722,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8979.jpg?v=1763150529",
+          "width": 828,
+          "height": 747
+        },
+        {
+          "id": 42860625592490,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8980.jpg?v=1763150530",
+          "width": 828,
+          "height": 745
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8977.jpg?v=1763150529",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8978.jpg?v=1763150529",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8979.jpg?v=1763150529",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/IMG_8980.jpg?v=1763150530"
+      ],
+      "created_at": "2025-11-15T00:02:07+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    },
+    {
+      "id": 8296653684906,
+      "title": "Travis Scott x Playstation x Nike SB Dunk Low TS",
+      "handle": "travis-scott-x-playstation-x-nike-sb-dunk-low-ts-sayfe",
+      "url": "https://littledubai-ae.shop/products/travis-scott-x-playstation-x-nike-sb-dunk-low-ts-sayfe",
+      "vendor": "MAGIC CITY DUBAI",
+      "product_type": "Nike Dunk Low",
+      "description": "Step up your style game with our premium, affordable footwear for men and women. From sleek sneakers to elegant heels, our collection boasts high-quality craftsmanship and timeless designs. With lightning-fast shipping within 1-3 working days, your perfect pair is just a click away.",
+      "price": "219.00",
+      "price_currency": "AED",
+      "compare_at_price": "449.00",
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 47629836714154,
+          "title": "36",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "36",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836746922,
+          "title": "37",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "37",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836779690,
+          "title": "38",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "38",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836812458,
+          "title": "39",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "39",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836845226,
+          "title": "40",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "40",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836877994,
+          "title": "41",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "41",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836910762,
+          "title": "42",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "42",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836943530,
+          "title": "43",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "43",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629836976298,
+          "title": "44",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "44",
+          "option2": null,
+          "available": true,
+          "sku": null
+        },
+        {
+          "id": 47629837009066,
+          "title": "45",
+          "price": "219.00",
+          "compare_at_price": "449.00",
+          "option1": "45",
+          "option2": null,
+          "available": true,
+          "sku": null
+        }
+      ],
+      "images": [
+        {
+          "id": 42860398477482,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitleddesign_png.png?v=1763149828",
+          "width": 1563,
+          "height": 1563
+        },
+        {
+          "id": 42860398510250,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_6_df099ef5-5c42-4ed7-90b6-a10312933c96.jpg?v=1763149828",
+          "width": 800,
+          "height": 640
+        },
+        {
+          "id": 42860398543018,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_10_71d4d588-c90f-4c15-88ba-be33e34e8cc3.jpg?v=1763149827",
+          "width": 800,
+          "height": 533
+        },
+        {
+          "id": 42860398575786,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_2_8714c812-e5c4-442f-8862-716b68085593.jpg?v=1763149827",
+          "width": 800,
+          "height": 533
+        },
+        {
+          "id": 42860398608554,
+          "src": "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_7_a4a3bec7-f141-44e8-90aa-77d4037b3fcc.jpg?v=1763149827",
+          "width": 800,
+          "height": 533
+        }
+      ],
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/Untitleddesign_png.png?v=1763149828",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_6_df099ef5-5c42-4ed7-90b6-a10312933c96.jpg?v=1763149828",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_10_71d4d588-c90f-4c15-88ba-be33e34e8cc3.jpg?v=1763149827",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_2_8714c812-e5c4-442f-8862-716b68085593.jpg?v=1763149827",
+        "https://cdn.shopify.com/s/files/1/0672/2545/2714/files/TravisScottxPlaystationxNikeSBDunkLowTS_7_a4a3bec7-f141-44e8-90aa-77d4037b3fcc.jpg?v=1763149827"
+      ],
+      "created_at": "2025-11-14T23:50:25+04:00",
+      "updated_at": "2026-04-21T00:53:12+04:00"
+    }
+  ]
+}
