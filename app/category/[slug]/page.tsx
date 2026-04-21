@@ -12,7 +12,7 @@ export default function CategoryPage() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const sourceFile = (slug as string).includes('women') ? '/littledubai-womens.json' : '/littledubai-mens.json';
+        const sourceFile = (slug as string).includes('women') ? '/littledubai-womens-shoes.json' : '/littledubai-mens-shoes.json';
         const res = await fetch(sourceFile);
         const data = await res.json();
         

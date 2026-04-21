@@ -11,8 +11,8 @@ export default function HomePage() {
     async function fetchData() {
       try {
         const [mensRes, womensRes] = await Promise.all([
-          fetch('/littledubai-mens.json'),
-          fetch('/littledubai-womens.json')
+          fetch('/littledubai-mens-shoes.json'),
+          fetch('/littledubai-womens-shoes.json')
         ]);
         const mensData = await mensRes.json();
         const womensData = await womensRes.json();

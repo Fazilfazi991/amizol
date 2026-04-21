@@ -17,7 +17,8 @@ export default function ProductDetailPage() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch(\`/littledubai-\${source}.json\`);
+        const fileName = source.endsWith('-shoes') ? `littledubai-${source}.json` : `littledubai-${source}-shoes.json`;
+        const res = await fetch(`/${fileName}`);
         const data = await res.json();
         const found = data.products.find((p: any) => String(p.id) === String(id));
         if (found) {
