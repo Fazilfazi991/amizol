@@ -7,6 +7,19 @@ import { ArrowRight } from 'lucide-react';
 
 export default function HomePage() {
   const [newArrivals, setNewArrivals] = useState<any[]>([]);
+  const [email, setEmail] = useState('');
+  const [submitting, setSubmitting] = useState(false);
+  const [subscribed, setSubscribed] = useState(false);
+
+  const handleNewsletter = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email || subscribed) return;
+    setSubmitting(true);
+    await new Promise((resolve) => setTimeout(resolve, 1000));
+    setSubscribed(true);
+    setSubmitting(false);
+    setEmail('');
+  };
 
   useEffect(() => {
     async function fetchData() {
