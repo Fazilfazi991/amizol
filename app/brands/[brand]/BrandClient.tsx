@@ -28,7 +28,7 @@ const BRAND_HERO_MAP: Record<string, string> = {
 export default function BrandClient({ brandSlug, initialProducts }: Props) {
   const [sortBy, setSortBy] = useState('featured');
   const brandName = brandSlug.replace(/-/g, ' ').toUpperCase();
-  const heroImage = BRAND_HERO_MAP[brandSlug] ?? '/images/general_luxury_hero.png';
+  const heroImage = BRAND_HERO_MAP[brandSlug] ?? '/images/general_hero.png';
 
   const sortedProducts = useMemo(() => {
     let result = [...initialProducts];

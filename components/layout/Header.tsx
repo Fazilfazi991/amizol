@@ -197,13 +197,25 @@ export default function Header() {
               <Link href="/brands/adidas" className="dropdown__item">Adidas</Link>
               <Link href="/brands/new-balance" className="dropdown__item">New Balance</Link>
               <Link href="/brands/on-cloud" className="dropdown__item">On Cloud</Link>
+              <Link href="/brands/asics" className="dropdown__item">Asics</Link>
+              <Link href="/brands/hoka" className="dropdown__item">Hoka</Link>
+              <Link href="/brands/puma" className="dropdown__item">Puma</Link>
+              <Link href="/brands/timberland" className="dropdown__item">Timberland</Link>
+              <Link href="/brands/onitsuka-tiger" className="dropdown__item">Onitsuka Tiger</Link>
+              <Link href="/brands/travis-scott" className="dropdown__item">Travis Scott</Link>
               <Link href="/brands/louis-vuitton" className="dropdown__item">Louis Vuitton</Link>
               <Link href="/brands/gucci" className="dropdown__item">Gucci</Link>
               <Link href="/brands/dior" className="dropdown__item">Dior</Link>
-              <Link href="/brands/christian-louboutin" className="dropdown__item">Christian Louboutin</Link>
-              <Link href="/brands/hermes" className="dropdown__item">Hermes</Link>
-              <Link href="/brands/zegna" className="dropdown__item">Zegna</Link>
               <Link href="/brands/prada" className="dropdown__item">Prada</Link>
+              <Link href="/brands/hermes" className="dropdown__item">Hermes</Link>
+              <Link href="/brands/balenciaga" className="dropdown__item">Balenciaga</Link>
+              <Link href="/brands/amiri" className="dropdown__item">Amiri</Link>
+              <Link href="/brands/christian-louboutin" className="dropdown__item">Christian Louboutin</Link>
+              <Link href="/brands/alexander-mcqueen" className="dropdown__item">Alexander McQueen</Link>
+              <Link href="/brands/golden-goose" className="dropdown__item">Golden Goose</Link>
+              <Link href="/brands/zegna" className="dropdown__item">Zegna</Link>
+              <Link href="/brands/loro-piana" className="dropdown__item">Loro Piana</Link>
+              <Link href="/brands/dolce-gabbana" className="dropdown__item">Dolce & Gabbana</Link>
             </div>
           </li>
         </ul>

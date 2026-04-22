@@ -11,21 +11,14 @@ export default function HomePage() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const [mensRes, womensRes] = await Promise.all([
-          fetch('/littledubai-mens-shoes.json'),
-          fetch('/littledubai-womens-shoes.json')
-        ]);
-        const mensData = await mensRes.json();
-        const womensData = await womensRes.json();
-        
-        const combined = [
-          ...mensData.products.slice(0, 4).map((p: any) => ({ ...p, source: 'mens' })),
-          ...womensData.products.slice(0, 4).map((p: any) => ({ ...p, source: 'womens' }))
-        ];
-        
-        setNewArrivals(combined);
+        // Both JSON files contain the same products, so fetch only one
+        // and pick a varied selection to show on homepage
+        const res = await fetch('/littledubai-adidas.json');
+        const data = await res.json();
+        const products = (data.products || []).slice(0, 8).map((p: any) => ({ ...p, source: 'adidas' }));
+        setNewArrivals(products);
       } catch (e) {
-        console.error("Failed to fetch products", e);
+        console.error('Failed to fetch products', e);
       }
     }
     fetchData();
@@ -62,14 +55,17 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero__background">
-          <video autoPlay muted loop playsInline className="hero__image">
-            <source src="/7510030-uhd_4096_2160_25fps (1).mp4" type="video/mp4" />
-          </video>
+          <img
+            src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop"
+            alt="Little Dubai Hero"
+            className="hero__image"
+            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+          />
           <div className="hero__overlay"></div>
         </div>
         <div className="hero__content">
           <h1 className="hero__title">ELEVATE YOUR STEP</h1>
-          <p className="hero__subtitle">Discover the world's largest destination for luxury shoes, bags & accessories.</p>
+          <p className="hero__subtitle">Discover the world's largest destination for luxury shoes, bags &amp; accessories.</p>
           <div className="hero__actions">
             <Link href="/category/women" className="btn btn--white">SHOP WOMEN</Link>
             <Link href="/category/men" className="btn btn--white">SHOP MEN</Link>
