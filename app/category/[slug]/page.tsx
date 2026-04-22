@@ -3,10 +3,9 @@ import { Metadata } from 'next';
 import CategoryClient from './CategoryClient';
 
 interface Props {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }
 
-// Map each category slug to its data source(s) and a filter function
 type CategoryConfig = {
   title: string;
   hero: string;
@@ -66,9 +65,54 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
     hero: '/images/womens_hero.png',
     sources: [{ file: 'littledubai-womens-watches1.json', sourceLabel: 'womens' }],
   },
+  wallets: {
+    title: 'WALLETS',
+    hero: '/images/accessories_hero.png',
+    sources: [{ file: 'littledubai-wallets.json', sourceLabel: 'mens' }],
+  },
+  glasses: {
+    title: 'GLASSES',
+    hero: '/images/accessories_hero.png',
+    sources: [{ file: 'littledubai-glasses.json', sourceLabel: 'mens' }],
+  },
+  belts: {
+    title: 'BELTS',
+    hero: '/images/accessories_hero.png',
+    sources: [{ file: 'littledubai-belts.json', sourceLabel: 'mens' }],
+  },
+  accessories: {
+    title: 'ACCESSORIES',
+    hero: '/images/accessories_hero.png',
+    sources: [
+      { file: 'littledubai-wallets.json', sourceLabel: 'mens' },
+      { file: 'littledubai-glasses.json', sourceLabel: 'mens' },
+      { file: 'littledubai-belts.json', sourceLabel: 'mens' },
+    ],
+  },
+  heels: {
+    title: 'HEELS',
+    hero: '/images/womens_hero.png',
+    sources: [{ file: 'littledubai-heels.json', sourceLabel: 'womens' }],
+  },
+  shoes: {
+    title: 'SHOES',
+    hero: '/images/general_hero.png',
+    sources: [
+      { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
+      { file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' },
+    ],
+  },
+  slippers: {
+    title: 'SLIPPERS',
+    hero: '/images/general_hero.png',
+    sources: [
+      { file: 'littledubai-mens-slippers.json', sourceLabel: 'mens' },
+      { file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' },
+    ],
+  },
   'new-arrivals': {
     title: 'NEW ARRIVALS',
-    hero: '/images/general_luxury_hero.png',
+    hero: '/images/general_hero.png',
     sources: [
       { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
       { file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' },
@@ -101,7 +145,8 @@ async function getCategoryData(slug: string) {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const data = await getCategoryData(params.slug);
+  const { slug } = await params;
+  const data = await getCategoryData(slug);
   if (!data) return { title: 'Category Not Found | Little Dubai' };
 
   return {
@@ -111,11 +156,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function CategoryPage({ params }: Props) {
-  const data = await getCategoryData(params.slug);
-  
+  const { slug } = await params;
+  const data = await getCategoryData(slug);
+
   return (
-    <CategoryClient 
-      slug={params.slug}
+    <CategoryClient
+      slug={slug}
       initialConfig={data?.config}
       initialProducts={data?.products || []}
     />

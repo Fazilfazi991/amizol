@@ -3,12 +3,11 @@ import { Metadata } from 'next';
 import ProductDetailClient from './ProductDetailClient';
 
 interface Props {
-  params: { id: string };
-  searchParams: { source?: string };
+  params: Promise<{ id: string }>;
+  searchParams: Promise<{ source?: string }>;
 }
 
 async function getProduct(id: string, source: string) {
-  let fileName = '';
   const categoryFiles: Record<string, string> = {
     'mens-shoes': 'littledubai-mens-shoes.json',
     'womens-shoes': 'littledubai-womens-shoes.json',
@@ -18,67 +17,65 @@ async function getProduct(id: string, source: string) {
     'womens-watches': 'littledubai-womens-watches1.json',
     'mens-bags': 'littledubai-mens-shoes.json',
     'womens-bags': 'littledubai-womens-bags2.json',
-    'wallets': 'littledubai-wallets.json',
-    'glasses': 'littledubai-glasses.json',
-    'belts': 'littledubai-belts.json',
-    'mens': 'littledubai-mens-shoes.json',
-    'womens': 'littledubai-womens-shoes.json',
-    'men': 'littledubai-mens-shoes.json',
-    'women': 'littledubai-womens-shoes.json'
+    wallets: 'littledubai-wallets.json',
+    glasses: 'littledubai-glasses.json',
+    belts: 'littledubai-belts.json',
+    heels: 'littledubai-heels.json',
+    mens: 'littledubai-mens-shoes.json',
+    womens: 'littledubai-womens-shoes.json',
+    men: 'littledubai-mens-shoes.json',
+    women: 'littledubai-womens-shoes.json',
   };
 
-  const currentSource = source || 'mens-shoes';
-  if (categoryFiles[currentSource]) {
-    fileName = categoryFiles[currentSource];
-  } else {
-    fileName = `littledubai-${currentSource}.json`;
-    const brandAliases: Record<string, string> = {
-      'new-balance': 'littledubai-nb.json',
-      'loro-piana': 'littledubai-lorop.json',
-      'zegna': 'littledubai-zeg.json',
-      'alexander-mcqueen': 'littledubai-alexander-mqueen.json'
-    };
-    if (brandAliases[currentSource]) fileName = brandAliases[currentSource];
-  }
+  const brandAliases: Record<string, string> = {
+    'new-balance': 'littledubai-nb.json',
+    'loro-piana': 'littledubai-lorop.json',
+    zegna: 'littledubai-zeg.json',
+    'alexander-mcqueen': 'littledubai-alexander-mqueen.json',
+  };
 
-  // In Next.js App Router, we fetch from local public by using absolute URL in server components 
-  // or by reading filesystem. Reading filesystem is safer for server-side.
   const fs = require('fs');
   const path = require('path');
-  
+
+  const currentSource = source || 'mens-shoes';
+  let fileName = categoryFiles[currentSource] || brandAliases[currentSource] || `littledubai-${currentSource}.json`;
+
   try {
     const filePath = path.join(process.cwd(), 'public', fileName);
     if (fs.existsSync(filePath)) {
-      const fileContent = fs.readFileSync(filePath, 'utf8');
-      const data = JSON.parse(fileContent);
+      const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
       const found = data.products.find((p: any) => String(p.id) === String(id));
       if (found) return found;
     }
 
-    // Fallback search across files
+    // Fallback: search across all JSON files in public
     const fallbacks = [
-      'mens-shoes', 'womens-shoes', 'mens-slippers', 'womens-slippers', 
-      'adidas', 'nb', 'on-cloud', 'gucci', 'louis-vuitton', 'dior', 
+      'mens-shoes', 'womens-shoes', 'mens-slippers', 'womens-slippers',
+      'adidas', 'nb', 'on-cloud', 'gucci', 'louis-vuitton', 'dior',
       'prada', 'hermes', 'balenciaga', 'amiri', 'lorop', 'zeg',
-      'womens-bags2', 'wallets', 'glasses'
+      'womens-bags2', 'wallets', 'glasses', 'belts', 'heels',
+      'travis-scott', 'golden-goose', 'asics', 'hoka', 'puma',
+      'timberland', 'onitsuka-tiger', 'alexander-mqueen',
+      'christian-louboutin', 'dolce-gabbana', 'mens-watches', 'womens-watches1',
     ];
     for (const fb of fallbacks) {
       const fbPath = path.join(process.cwd(), 'public', `littledubai-${fb}.json`);
       if (fs.existsSync(fbPath)) {
-        const fbContent = fs.readFileSync(fbPath, 'utf8');
-        const fbData = JSON.parse(fbContent);
-        const found = fbData.products.find((p: any) => String(p.id) === String(id));
+        const fbData = JSON.parse(fs.readFileSync(fbPath, 'utf8'));
+        const found = (fbData.products || []).find((p: any) => String(p.id) === String(id));
         if (found) return found;
       }
     }
   } catch (e) {
-    console.error("Error finding product server-side", e);
+    console.error('Error finding product server-side', e);
   }
   return null;
 }
 
 export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
-  const product = await getProduct(params.id, searchParams.source || '');
+  const { id } = await params;
+  const { source } = await searchParams;
+  const product = await getProduct(id, source || '');
   if (!product) return { title: 'Product Not Found | Little Dubai' };
 
   const name = product.title || product.name;
@@ -97,13 +94,15 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
 }
 
 export default async function ProductDetailPage({ params, searchParams }: Props) {
-  const product = await getProduct(params.id, searchParams.source || '');
+  const { id } = await params;
+  const { source } = await searchParams;
+  const product = await getProduct(id, source || '');
 
   return (
-    <ProductDetailClient 
-      initialProduct={product} 
-      productId={params.id} 
-      source={searchParams.source || 'mens-shoes'} 
+    <ProductDetailClient
+      initialProduct={product}
+      productId={id}
+      source={source || 'mens-shoes'}
     />
   );
 }

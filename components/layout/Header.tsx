@@ -235,7 +235,7 @@ export default function Header() {
             <li><Link href="/category/men" onClick={() => setIsMobileMenuOpen(false)}>MEN</Link></li>
             <li><Link href="/category/women" onClick={() => setIsMobileMenuOpen(false)}>WOMEN</Link></li>
             <li><Link href="/brands" onClick={() => setIsMobileMenuOpen(false)}>BRANDS</Link></li>
-            <li><Link href="/admin" onClick={() => setIsMobileMenuOpen(false)}>ADMIN</Link></li>
+            <li><Link href="/about" onClick={() => setIsMobileMenuOpen(false)}>ABOUT</Link></li>
           </ul>
         </div>
       </div>

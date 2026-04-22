@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 import BrandClient from './BrandClient';
 
 interface Props {
-  params: { brand: string };
+  params: Promise<{ brand: string }>;
 }
 
 const BRAND_DATA_MAP: Record<string, { file: string; sourceLabel: string }> = {
@@ -29,6 +29,7 @@ const BRAND_DATA_MAP: Record<string, { file: string; sourceLabel: string }> = {
   timberland: { file: 'littledubai-timberland.json', sourceLabel: 'mens' },
   'onitsuka-tiger': { file: 'littledubai-onitsuka-tiger.json', sourceLabel: 'mens' },
   'alexander-mcqueen': { file: 'littledubai-alexander-mqueen.json', sourceLabel: 'mens' },
+  heels: { file: 'littledubai-heels.json', sourceLabel: 'womens' },
   nike: { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
 };
 
@@ -41,9 +42,9 @@ async function getBrandData(brandSlug: string) {
   if (!dataConfig) {
     const [mensPath, womensPath] = [
       path.join(process.cwd(), 'public', 'littledubai-mens-shoes.json'),
-      path.join(process.cwd(), 'public', 'littledubai-womens-shoes.json')
+      path.join(process.cwd(), 'public', 'littledubai-womens-shoes.json'),
     ];
-    
+
     if (fs.existsSync(mensPath) && fs.existsSync(womensPath)) {
       const mensData = JSON.parse(fs.readFileSync(mensPath, 'utf8'));
       const womensData = JSON.parse(fs.readFileSync(womensPath, 'utf8'));
@@ -70,7 +71,8 @@ async function getBrandData(brandSlug: string) {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const brandName = params.brand.replace(/-/g, ' ').toUpperCase();
+  const { brand } = await params;
+  const brandName = brand.replace(/-/g, ' ').toUpperCase();
   return {
     title: `${brandName} Collection | Little Dubai UAE`,
     description: `Shop the latest authentic ${brandName} footwear and accessories at Little Dubai. Express delivery across UAE.`,
@@ -78,11 +80,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function BrandPage({ params }: Props) {
-  const products = await getBrandData(params.brand);
-  
+  const { brand } = await params;
+  const products = await getBrandData(brand);
+
   return (
-    <BrandClient 
-      brandSlug={params.brand}
+    <BrandClient
+      brandSlug={brand}
       initialProducts={products}
     />
   );
