@@ -74,7 +74,7 @@ export default function CartDrawer() {
               {cart.length === 0 ? (
                 <div className="cart-empty-state">Your bag is empty</div>
               ) : (
-                cart.map((item) => (
+                cart.map((item, index) => (
                   <div className="cart-item" key={`${item.id}-${item.size}`}>
                     <img src={item.image} alt={item.name} className="cart-item__image" />
                     <div className="cart-item__details">
