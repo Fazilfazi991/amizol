@@ -55,12 +55,16 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero__background">
-          <img
-            src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop"
-            alt="Little Dubai Hero"
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
             className="hero__image"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-          />
+          >
+            <source src="/hero-video.mp4" type="video/mp4" />
+          </video>
           <div className="hero__overlay"></div>
         </div>
         <div className="hero__content">

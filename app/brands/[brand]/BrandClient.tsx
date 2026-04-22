@@ -45,14 +45,16 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
   return (
     <div>
       <header className="page-header page-header--lg" style={{ position: 'relative', height: '500px', overflow: 'hidden' }}>
-        <Image
-          src={heroImage}
-          alt={brandName}
-          fill
-          className="object-cover"
-          priority
-          sizes="100vw"
-        />
+        <video
+          autoPlay
+          muted
+          loop
+          playsInline
+          className="object-cover w-full h-full"
+          style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+        >
+          <source src="/hero-video.mp4" type="video/mp4" />
+        </video>
         <div className="page-header__overlay"></div>
         <div className="container page-header__content" style={{ position: 'relative', zIndex: 2 }}>
           <h1 className="page-header__title">{brandName}</h1>
