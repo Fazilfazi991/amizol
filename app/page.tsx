@@ -7,19 +7,6 @@ import { ArrowRight } from 'lucide-react';
 
 export default function HomePage() {
   const [newArrivals, setNewArrivals] = useState<any[]>([]);
-  const [email, setEmail] = useState('');
-  const [submitting, setSubmitting] = useState(false);
-  const [subscribed, setSubscribed] = useState(false);
-
-  const handleNewsletter = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!email || subscribed) return;
-    setSubmitting(true);
-    await new Promise((resolve) => setTimeout(resolve, 1000));
-    setSubscribed(true);
-    setSubmitting(false);
-    setEmail('');
-  };
 
   useEffect(() => {
     async function fetchData() {
@@ -213,28 +200,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Newsletter */}
-      <section className="section text-center bg-secondary">
-        <div className="container">
-          <h2 className="text-3xl mb-4">All news is good news</h2>
-          <p className="mb-10">Be the first to know about new arrivals, online sneaker drops, promotions and more.</p>
-          <div className="mx-auto" style={{ maxWidth: '500px' }}>
-            <form className="newsletter-form" onSubmit={handleNewsletter}>
-              <input 
-                type="email" 
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                placeholder={subscribed ? "Thanks for subscribing!" : "Enter your email address"} 
-                className="newsletter__input" 
-                disabled={submitting || subscribed}
-              />
-              <button type="submit" disabled={submitting || subscribed}>
-                {submitting ? 'SUBMITTING...' : subscribed ? 'SUBSCRIBED' : 'SUBSCRIBE'}
-              </button>
-            </form>
-          </div>
-        </div>
-      </section>
     </div>
   );
 }
+
