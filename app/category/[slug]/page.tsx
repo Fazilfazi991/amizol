@@ -1,68 +1,123 @@
-'use client';
+import React from 'react';
+import { Metadata } from 'next';
+import CategoryClient from './CategoryClient';
 
-import React, { useEffect, useState } from 'react';
-import { useParams } from 'next/navigation';
-import ProductCard from '@/components/products/ProductCard';
+interface Props {
+  params: { slug: string };
+}
 
-export default function CategoryPage() {
-  const { slug } = useParams();
-  const [products, setProducts] = useState<any[]>([]);
-  const categoryTitle = (slug as string).replace(/-/g, ' ').toUpperCase();
+// Map each category slug to its data source(s) and a filter function
+type CategoryConfig = {
+  title: string;
+  hero: string;
+  sources: { file: string; sourceLabel: string }[];
+  filter?: (p: any) => boolean;
+};
 
-  useEffect(() => {
-    async function fetchData() {
-      try {
-        const sourceFile = (slug as string).includes('women') ? '/littledubai-womens-shoes.json' : '/littledubai-mens-shoes.json';
-        const res = await fetch(sourceFile);
-        const data = await res.json();
-        
-        let filtered = data.products.map((p: any) => ({ ...p, source: (slug as string).includes('women') ? 'womens' : 'mens' }));
-        
-        // Filter by specific sub-category if needed
-        if ((slug as string).includes('shoes')) {
-           filtered = filtered.filter((p: any) => p.title.toLowerCase().includes('shoe') || p.title.toLowerCase().includes('sneaker'));
-        } else if ((slug as string).includes('bags')) {
-           filtered = filtered.filter((p: any) => p.title.toLowerCase().includes('bag'));
-        }
-        
-        setProducts(filtered);
-      } catch (e) {
-        console.error("Failed to fetch products", e);
-      }
+const CATEGORY_MAP: Record<string, CategoryConfig> = {
+  men: {
+    title: "MEN'S COLLECTION",
+    hero: '/images/mens_hero.png',
+    sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
+  },
+  women: {
+    title: "WOMEN'S COLLECTION",
+    hero: '/images/womens_hero.png',
+    sources: [{ file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' }],
+  },
+  'mens-shoes': {
+    title: "MEN'S SHOES",
+    hero: '/images/mens_hero.png',
+    sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
+  },
+  'womens-shoes': {
+    title: "WOMEN'S SHOES",
+    hero: '/images/womens_hero.png',
+    sources: [{ file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' }],
+  },
+  'mens-bags': {
+    title: "MEN'S BAGS",
+    hero: '/images/mens_hero.png',
+    sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
+    filter: (p) => p.title?.toLowerCase().includes('bag') || p.product_type?.toLowerCase().includes('bag'),
+  },
+  'womens-bags': {
+    title: "WOMEN'S BAGS",
+    hero: '/images/womens_hero.png',
+    sources: [{ file: 'littledubai-womens-bags2.json', sourceLabel: 'womens' }],
+  },
+  'mens-slippers': {
+    title: "MEN'S SLIPPERS",
+    hero: '/images/mens_hero.png',
+    sources: [{ file: 'littledubai-mens-slippers.json', sourceLabel: 'mens' }],
+  },
+  'womens-slippers': {
+    title: "WOMEN'S SLIPPERS",
+    hero: '/images/womens_hero.png',
+    sources: [{ file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' }],
+  },
+  'mens-watches': {
+    title: "MEN'S WATCHES",
+    hero: '/images/mens_hero.png',
+    sources: [{ file: 'littledubai-mens-watches.json', sourceLabel: 'mens' }],
+  },
+  'womens-watches': {
+    title: "WOMEN'S WATCHES",
+    hero: '/images/womens_hero.png',
+    sources: [{ file: 'littledubai-womens-watches1.json', sourceLabel: 'womens' }],
+  },
+  'new-arrivals': {
+    title: 'NEW ARRIVALS',
+    hero: '/images/general_luxury_hero.png',
+    sources: [
+      { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
+      { file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' },
+    ],
+  },
+};
+
+async function getCategoryData(slug: string) {
+  const config = CATEGORY_MAP[slug];
+  if (!config) return null;
+
+  const fs = require('fs');
+  const path = require('path');
+  const allProducts: any[] = [];
+
+  for (const source of config.sources) {
+    const filePath = path.join(process.cwd(), 'public', source.file);
+    if (fs.existsSync(filePath)) {
+      const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      const items = (data.products || []).map((p: any) => ({
+        ...p,
+        source: source.sourceLabel,
+      }));
+      allProducts.push(...items);
     }
-    fetchData();
-  }, [slug]);
+  }
 
-  // Map category to hero image
-  const heroImage = (slug as string).includes('women') ? '/images/womens_shoes_hero.png' : '/images/mens_shoes_hero.png';
+  const filtered = config.filter ? allProducts.filter(config.filter) : allProducts;
+  return { config, products: filtered };
+}
 
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const data = await getCategoryData(params.slug);
+  if (!data) return { title: 'Category Not Found | Little Dubai' };
+
+  return {
+    title: `${data.config.title} | Little Dubai UAE`,
+    description: `Shop the latest ${data.config.title.toLowerCase()} from luxury brands at Little Dubai. Authentic items with express delivery.`,
+  };
+}
+
+export default async function CategoryPage({ params }: Props) {
+  const data = await getCategoryData(params.slug);
+  
   return (
-    <div>
-      <header className="page-header">
-        <img src={heroImage} alt={categoryTitle} className="page-header__image" />
-        <div className="page-header__overlay"></div>
-        <div className="container page-header__content">
-           <h1 className="page-header__title">{categoryTitle}</h1>
-        </div>
-      </header>
-
-      <section className="section container">
-        <div className="product-grid">
-          {products.map((product) => (
-            <ProductCard 
-              key={product.id} 
-              product={{
-                id: product.id,
-                name: product.title || product.name,
-                brand: product.vendor || product.brandName || 'Designer',
-                price: product.price,
-                image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
-                source: product.source
-              }} 
-            />
-          ))}
-        </div>
-      </section>
-    </div>
+    <CategoryClient 
+      slug={params.slug}
+      initialConfig={data?.config}
+      initialProducts={data?.products || []}
+    />
   );
 }

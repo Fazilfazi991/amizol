@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import ProductCard from '@/components/products/ProductCard';
+import { ArrowRight } from 'lucide-react';
 
 export default function HomePage() {
   const [newArrivals, setNewArrivals] = useState<any[]>([]);
@@ -30,67 +31,195 @@ export default function HomePage() {
     fetchData();
   }, []);
 
+  const brands = [
+    { name: 'Adidas', slug: 'adidas' },
+    { name: 'New Balance', slug: 'new-balance' },
+    { name: 'Casual Sport Shoes', slug: 'mens-shoes' },
+    { name: 'Running Sport Shoes', slug: 'mens-shoes' },
+    { name: 'On Cloud', slug: 'on-cloud' },
+    { name: 'Louis Vuitton', slug: 'louis-vuitton' },
+    { name: 'Zegna', slug: 'zegna' },
+    { name: 'Heels', slug: 'heels' },
+    { name: 'Timberland', slug: 'timberland' },
+    { name: 'Loro Piana', slug: 'loro-piana', active: true },
+    { name: 'Hermes', slug: 'hermes' },
+    { name: 'Alexander McQueen', slug: 'alexander-mcqueen' },
+    { name: 'Prada', slug: 'prada' },
+    { name: 'Balenciaga', slug: 'balenciaga' },
+    { name: 'Amiri', slug: 'amiri' },
+    { name: 'Travis Scott', slug: 'travis-scott' },
+    { name: 'Loafers', slug: 'mens-shoes' },
+    { name: 'Christian Louboutin', slug: 'christian-louboutin' },
+    { name: 'Gucci', slug: 'gucci' },
+    { name: 'Dior', slug: 'dior' },
+    { name: 'Dolce & Gabbana', slug: 'dolce-gabbana' },
+    { name: 'Golden Goose', slug: 'golden-goose' },
+    { name: 'Asics', slug: 'asics' },
+    { name: 'Hoka', slug: 'hoka' },
+    { name: 'Puma', slug: 'puma' },
+    { name: 'Onitsuka Tiger', slug: 'onitsuka-tiger' },
+  ];
+
   return (
     <div>
       {/* Hero Section */}
       <section className="hero">
-        <div className="hero__video-container">
-           <img src="/images/general_luxury_hero.png" alt="Luxury Fashion" className="hero__image" />
-           <div className="hero__overlay"></div>
+        <div className="hero__background">
+          <video autoPlay muted loop playsInline className="hero__image">
+            <source src="/7510030-uhd_4096_2160_25fps (1).mp4" type="video/mp4" />
+          </video>
+          <div className="hero__overlay"></div>
         </div>
-        <div className="hero__content container">
-           <p className="hero__subtitle">ELEVATED LUXURY</p>
-           <h1 className="hero__title">THE WORLD'S LARGEST<br />SHOE DESTINATION</h1>
-           <div className="hero__actions">
-              <Link href="/category/men" className="btn btn--primary btn--lg">SHOP MEN</Link>
-              <Link href="/category/women" className="btn btn--secondary btn--lg">SHOP WOMEN</Link>
-           </div>
+        <div className="hero__content">
+          <h1 className="hero__title">ELEVATE YOUR STEP</h1>
+          <p className="hero__subtitle">Discover the world's largest destination for luxury shoes, bags & accessories.</p>
+          <div className="hero__actions">
+            <Link href="/category/women" className="btn btn--white">SHOP WOMEN</Link>
+            <Link href="/category/men" className="btn btn--white">SHOP MEN</Link>
+          </div>
         </div>
       </section>
 
-      {/* Brand Grid */}
+      {/* Category Section */}
       <section className="section container">
-        <h2 className="section__title">SHOP BY BRAND</h2>
-        <div className="brand-grid">
-           <Link href="/brands/gucci" className="brand-card">
-              <img src="/images/gucci_hero.png" alt="Gucci" />
-              <span>GUCCI</span>
-           </Link>
-           <Link href="/brands/prada" className="brand-card">
-              <img src="/images/prada_hero.png" alt="Prada" />
-              <span>PRADA</span>
-           </Link>
-           <Link href="/brands/dior" className="brand-card">
-              <img src="/images/dior_hero.png" alt="Dior" />
-              <span>DIOR</span>
-           </Link>
-           <Link href="/brands/louis-vuitton" className="brand-card">
-              <img src="/images/lv_hero.png" alt="Louis Vuitton" />
-              <span>LOUIS VUITTON</span>
-           </Link>
+        <div className="category-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))' }}>
+          <Link href="/category/womens-watches" className="category-card">
+            <img src="https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800" alt="Watches" className="category-card__image" />
+            <div className="category-card__overlay"></div>
+            <div className="category-card__content">
+              <h2 className="category-card__title">WATCHES</h2>
+              <p className="category-card__subtitle">Luxury Timepieces</p>
+            </div>
+          </Link>
+          <Link href="/category/womens-bags" className="category-card">
+            <img src="https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800" alt="Bags" className="category-card__image" />
+            <div className="category-card__overlay"></div>
+            <div className="category-card__content">
+              <h2 className="category-card__title">BAGS</h2>
+              <p className="category-card__subtitle">Designer Handbags</p>
+            </div>
+          </Link>
+          <Link href="/category/wallets" className="category-card">
+            <img src="https://images.unsplash.com/photo-1511405946472-a37e3b5ccd47?w=800" alt="Accessories" className="category-card__image" />
+            <div className="category-card__overlay"></div>
+            <div className="category-card__content">
+              <h2 className="category-card__title">ACCESSORIES</h2>
+              <p className="category-card__subtitle">Finishing Touches</p>
+            </div>
+          </Link>
+          <Link href="/category/womens-slippers" className="category-card">
+            <img src="https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800" alt="Slippers" className="category-card__image" />
+            <div className="category-card__overlay"></div>
+            <div className="category-card__content">
+              <h2 className="category-card__title">SLIPPERS</h2>
+              <p className="category-card__subtitle">Comfort & Style</p>
+            </div>
+          </Link>
+          <Link href="/category/womens-shoes" className="category-card">
+            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800" alt="Shoes" className="category-card__image" />
+            <div className="category-card__overlay"></div>
+            <div className="category-card__content">
+              <h2 className="category-card__title">SHOES</h2>
+              <p className="category-card__subtitle">Signature Footwear</p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
+      {/* Shop by Brand Section */}
+      <section className="section container brands-section">
+        <div className="section-header">
+          <h2 className="section-title">SHOP BY BRAND</h2>
+          <Link href="/brands" className="btn btn--ghost">
+            View All Brands <ArrowRight size={18} style={{ marginLeft: '8px' }} />
+          </Link>
+        </div>
+        <div className="brands-grid">
+          {brands.map((brand) => (
+            <Link 
+              key={`${brand.slug}-${brand.name}`} 
+              href={`/brands/${brand.slug}`} 
+              className={`brand-item ${brand.active ? 'active' : ''}`}
+            >
+              {brand.name}
+            </Link>
+          ))}
         </div>
       </section>
 
       {/* New Arrivals */}
-      <section className="section container">
-        <div className="section__header">
-           <h2 className="section__title">NEW ARRIVALS</h2>
-           <Link href="/category/new-arrivals" className="text-link">VIEW ALL</Link>
+      <section className="section container bg-tertiary">
+        <div className="text-center mb-10">
+          <h2 className="text-uppercase letter-spacing-wider section__title">NEW ARRIVALS</h2>
         </div>
         <div className="product-grid">
-          {newArrivals.map((product) => (
-            <ProductCard 
-              key={product.id} 
-              product={{
-                id: product.id,
-                name: product.title || product.name,
-                brand: product.vendor || product.brandName || 'Designer',
-                price: product.price,
-                image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
-                source: product.source
-              }} 
-            />
-          ))}
+          {newArrivals.length > 0 ? (
+            newArrivals.map((product) => (
+              <ProductCard 
+                key={`${product.source}-${product.id}`} 
+                product={{
+                  id: product.id,
+                  name: product.title || product.name,
+                  brand: product.vendor || product.brandName || 'Designer',
+                  price: product.price,
+                  image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
+                  source: product.source
+                }} 
+              />
+            ))
+          ) : (
+            // Skeleton loading state
+            [1, 2, 3, 4].map((i) => (
+              <div key={i} className="product-card">
+                <div className="skeleton skeleton--image" style={{ width: '100%', aspectRatio: '1/1' }}></div>
+                <div className="product-card__info">
+                  <div className="skeleton skeleton--text" style={{ width: '40%', marginBottom: '0.5rem' }}></div>
+                  <div className="skeleton skeleton--text" style={{ width: '90%', marginBottom: '0.5rem' }}></div>
+                  <div className="skeleton skeleton--text" style={{ width: '30%' }}></div>
+                </div>
+              </div>
+            ))
+          )}
+        </div>
+        <div className="text-center mt-12">
+          <Link href="/category/new-arrivals" className="btn btn--secondary">VIEW ALL NEW IN</Link>
+        </div>
+      </section>
+
+      {/* Brand Story */}
+      <section className="section p-0 overflow-hidden">
+        <div className="home-story">
+          <div className="home-story__image" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop')" }}></div>
+          <div className="home-story__content">
+            <h2 className="text-4xl mb-6">THE WORLD'S LARGEST DESTINATION</h2>
+            <p className="text-secondary mb-8">Little Dubai is the globally recognized retail concept and destination dedicated to the world of designer shoes for women, men, and kids.</p>
+            <div>
+              <Link href="/about" className="btn btn--primary">LEARN MORE</Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Newsletter */}
+      <section className="section text-center bg-secondary">
+        <div className="container">
+          <h2 className="text-3xl mb-4">All news is good news</h2>
+          <p className="mb-10">Be the first to know about new arrivals, online sneaker drops, promotions and more.</p>
+          <div className="mx-auto" style={{ maxWidth: '500px' }}>
+            <form className="newsletter-form" onSubmit={handleNewsletter}>
+              <input 
+                type="email" 
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                placeholder={subscribed ? "Thanks for subscribing!" : "Enter your email address"} 
+                className="newsletter__input" 
+                disabled={submitting || subscribed}
+              />
+              <button type="submit" disabled={submitting || subscribed}>
+                {submitting ? 'SUBMITTING...' : subscribed ? 'SUBSCRIBED' : 'SUBSCRIBE'}
+              </button>
+            </form>
+          </div>
         </div>
       </section>
     </div>

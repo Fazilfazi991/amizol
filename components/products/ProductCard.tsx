@@ -1,7 +1,6 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ShoppingBag } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
 
@@ -23,10 +22,12 @@ export default function ProductCard({ product }: ProductProps) {
     e.preventDefault();
     e.stopPropagation();
     addToCart({
+      id: String(product.id),
       name: product.name,
       price: product.price,
       image: product.image,
-      size: 'EU 42' // Default size for quick add
+      size: 'EU 42', // Default size for quick add
+      brand: product.brand
     });
   };
 
@@ -34,7 +35,13 @@ export default function ProductCard({ product }: ProductProps) {
     <div className="product-card">
       <Link href={`/product/${product.id}?source=${product.source || 'mens'}`} className="product-card__link">
         <div className="product-card__image-container">
-          <img src={product.image} alt={product.name} className="product-card__image" />
+          <Image 
+            src={product.image} 
+            alt={product.name} 
+            fill
+            sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
+            className="product-card__image" 
+          />
           <button className="product-card__add" title="Quick Add" onClick={handleQuickAdd}>
             <ShoppingBag size={18} />
           </button>
