@@ -76,14 +76,14 @@ export default function CartDrawer() {
               ) : (
                 cart.map((item, index) => (
                   <div className="cart-item" key={`${item.id}-${item.size}`}>
-                    <img src={item.image} alt={item.name} className="cart-item__image" />
+                    <img src={item.image} alt={item.name} className="cart-item__image" style={{ objectFit: 'contain', padding: '4px' }} />
                     <div className="cart-item__details">
                       <div>
                         <div className="cart-item__title">{item.name}</div>
                         <div className="cart-item__meta">Size: {item.size}</div>
                       </div>
                       <div className="cart-item__price-row">
-                        <div className="cart-item__price">{item.price}</div>
+                        <div className="cart-item__price">AED {item.price}</div>
                         <button className="cart-item__remove" onClick={() => removeFromCart(index)}>Remove</button>
                       </div>
                     </div>

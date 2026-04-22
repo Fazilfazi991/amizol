@@ -79,7 +79,7 @@ export default function ProductDetailClient({ initialProduct, productId, source 
                 src={activeImage} 
                 alt={name} 
                 fill 
-                className="product-gallery__image object-cover" 
+                className="product-gallery__image object-contain" 
                 priority
                 sizes="(max-width: 768px) 100vw, 50vw"
               />
@@ -98,7 +98,7 @@ export default function ProductDetailClient({ initialProduct, productId, source 
           </div>
           
           <div className="product-info__price">
-            <span>{price}</span>
+            <span>AED {price}</span>
             <span className="badge badge--success">In Stock</span>
           </div>
           
