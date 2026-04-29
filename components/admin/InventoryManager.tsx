@@ -64,19 +64,23 @@ export default function InventoryManager() {
         console.log('SUPABASE SUCCESS:', sbProducts?.length, 'products found');
       }
 
-      // 2. Search in JSON files (fallback)
+      // 2. Always load from JSON files when Supabase returns few/no results
       let jsonFound: any[] = [];
-      if ((!sbProducts || sbProducts.length < 5) && searchQuery.length > 2) {
-        console.log('Searching JSON fallback...');
+      if (!sbProducts || sbProducts.length < 5) {
+        console.log('Loading JSON products...');
         for (const cat of categories) {
           try {
             const res = await fetch(`/littledubai-${cat}.json`);
             if (res.ok) {
               const data = await res.json();
-              const filtered = data.products.filter((p: any) => 
-                (p.title || p.name || '').toLowerCase().includes(searchQuery.toLowerCase()) || 
-                String(p.id).includes(searchQuery)
-              );
+              let filtered = (data.products || []) as any[];
+              // Apply search filter only when user typed a query
+              if (searchQuery.trim()) {
+                filtered = filtered.filter((p: any) =>
+                  (p.title || p.name || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
+                  String(p.id).includes(searchQuery)
+                );
+              }
               jsonFound = [...jsonFound, ...filtered.map((p: any) => ({ 
                 ...p, 
                 name: p.title || p.name, 
@@ -89,7 +93,7 @@ export default function InventoryManager() {
           } catch (e) {
             console.warn(`JSON Fetch failed for ${cat}`);
           }
-          if (jsonFound.length > 30) break;
+          if (jsonFound.length > 500) break;
         }
       }
 
@@ -107,6 +111,8 @@ export default function InventoryManager() {
 
       if (merged.length === 0 && !sbError) {
         setMessage({ type: 'info', text: 'No products found. Try a different search or add a new product.' });
+      } else {
+        setMessage({ type: '', text: '' });
       }
 
       setProducts(merged);
