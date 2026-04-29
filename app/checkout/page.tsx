@@ -6,7 +6,6 @@ import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import { Truck, CheckCircle, CreditCard, ChevronLeft } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
-import { supabase } from '@/lib/supabase';
 
 export default function CheckoutPage() {
   const { cart, subtotal, clearCart } = useCart();
@@ -36,22 +35,26 @@ export default function CheckoutPage() {
     setIsProcessing(true);
 
     try {
-      const { error } = await supabase
-        .from('orders')
-        .insert([
-          {
-            customer_name: `${formData.firstName} ${formData.lastName}`.trim(),
-            customer_email: formData.email,
-            customer_phone: formData.phone,
-            customer_address: `${formData.address}, ${formData.apartment ? formData.apartment + ', ' : ''}${formData.city}`,
-            order_items: cart,
-            total_price: subtotal,
-            status: 'Pending',
-            payment_method: paymentMethod
-          }
-        ]);
+      const response = await fetch('/api/orders', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          customer_name: `${formData.firstName} ${formData.lastName}`.trim(),
+          customer_email: formData.email,
+          customer_phone: formData.phone,
+          customer_address: `${formData.address}, ${formData.apartment ? formData.apartment + ', ' : ''}${formData.city}`,
+          order_items: cart,
+          total_price: subtotal,
+          status: 'Pending',
+          payment_method: paymentMethod,
+        }),
+      });
 
-      if (error) throw error;
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.error || 'Failed to place order');
+      }
 
       setIsSuccess(true);
       clearCart();

@@ -49,9 +49,16 @@ export default function ProductDetailClient({ initialProduct, productId, source 
 
   const name = initialProduct.title || initialProduct.name;
   const brand = initialProduct.vendor || initialProduct.brandName || 'Designer';
-  const images = initialProduct.image_urls || initialProduct.images || [];
+  
+  // Filter out duplicate cloud placeholders
+  const rawImages = initialProduct.image_urls || initialProduct.images || [];
+  const images = Array.isArray(rawImages) 
+    ? rawImages.map(img => typeof img === 'string' ? img : img.src).filter((img: string) => img && !img.includes('31122025150715qXuhgIDHTMDE'))
+    : [];
+
   const price = initialProduct.price;
-  const [activeImage, setActiveImage] = useState(images[0] || '/images/placeholder.png');
+  const [activeImage, setActiveImage] = useState(images[0] || '');
+  const [imgError, setImgError] = useState(false);
 
   const handleAddToCart = () => {
     addToCart({
@@ -90,7 +97,10 @@ export default function ProductDetailClient({ initialProduct, productId, source 
               <div 
                 key={idx} 
                 className={`pdp-gallery__thumb ${activeImage === img ? 'active' : ''}`}
-                onClick={() => setActiveImage(img)}
+                onClick={() => {
+                  setActiveImage(img);
+                  setImgError(false);
+                }}
               >
                 <div className="relative w-full h-full">
                   <Image 
@@ -106,15 +116,23 @@ export default function ProductDetailClient({ initialProduct, productId, source 
           </div>
           
           {/* Main Image */}
-          <div className="pdp-gallery__main">
-            <Image 
-              src={activeImage} 
-              alt={name} 
-              fill 
-              className="object-contain p-8" 
-              priority
-              sizes="(max-width: 768px) 100vw, 50vw"
-            />
+          <div className="pdp-gallery__main relative bg-[#f8f8f8]">
+            {!imgError && activeImage ? (
+              <Image 
+                src={activeImage} 
+                alt={name} 
+                fill 
+                className="object-contain p-8" 
+                priority
+                sizes="(max-width: 768px) 100vw, 50vw"
+                onError={() => setImgError(true)}
+              />
+            ) : (
+              <div className="flex flex-col items-center justify-center w-full h-full text-center p-8">
+                <span className="text-[#999] uppercase tracking-[0.3em] text-sm font-light mb-4">{brand}</span>
+                <span className="text-[#ccc] text-xs font-light">Image temporarily unavailable</span>
+              </div>
+            )}
             <div className="absolute top-6 right-6 flex flex-col gap-3">
               <button className="w-10 h-10 bg-white shadow-sm flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
                 <Heart size={20} />

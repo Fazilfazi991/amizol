@@ -33,6 +33,7 @@ export default function ProductCard({ product }: ProductProps) {
   };
 
   const [stockStatus, setStockStatus] = React.useState<any>(null);
+  const [imgError, setImgError] = React.useState(false);
 
   React.useEffect(() => {
     async function fetchStock() {
@@ -50,13 +51,20 @@ export default function ProductCard({ product }: ProductProps) {
     <div className={`product-card ${stockStatus?.status === 'out_of_stock' ? 'out-of-stock' : ''}`}>
       <Link href={`/product/${product.id}?source=${product.source || 'mens'}`} className="product-card__link">
         <div className="product-card__image-container">
-          <Image 
-            src={product.image} 
-            alt={product.name} 
-            fill
-            sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
-            className="product-card__image" 
-          />
+          {!imgError && product.image ? (
+            <Image 
+              src={product.image} 
+              alt={product.name} 
+              fill
+              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
+              className="product-card__image" 
+              onError={() => setImgError(true)}
+            />
+          ) : (
+            <div className="flex items-center justify-center w-full h-full bg-[#f8f8f8] text-[#999] uppercase tracking-widest text-xs font-light">
+              {product.brand || 'Amizol'}
+            </div>
+          )}
           {stockStatus?.status === 'out_of_stock' && (
             <div className="product-card__status-overlay">SOLD OUT</div>
           )}
