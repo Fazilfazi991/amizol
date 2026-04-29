@@ -444,6 +444,11 @@ export default function InventoryManager() {
           height: 48px;
           object-fit: cover;
           border-radius: 4px;
+          background: #f0f0f0;
+        }
+        .product-item__info {
+          flex: 1;
+          min-width: 0;
         }
         .product-item__name {
           font-size: 14px;
@@ -451,7 +456,6 @@ export default function InventoryManager() {
           white-space: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;
-          max-width: 220px;
         }
         .product-item__id {
           font-size: 12px;
