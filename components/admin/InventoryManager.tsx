@@ -1,652 +1,392 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { supabase } from '@/lib/supabase';
-import { Search, Save, AlertCircle, Loader2, Plus, Trash2, Edit3, X, Image as ImageIcon } from 'lucide-react';
+import { Search, Save, Loader2, Plus, Trash2, Edit3, X, Image as ImageIcon, Package } from 'lucide-react';
+
+const CATEGORIES = [
+  'mens-shoes', 'womens-shoes', 'mens-slippers', 'womens-slippers',
+  'mens-watches', 'womens-watches1', 'wallets', 'glasses', 'belts', 'heels'
+];
+
+const CAT_LABELS: Record<string, string> = {
+  'mens-shoes': "Men's Shoes", 'womens-shoes': "Women's Shoes",
+  'mens-slippers': "Men's Slippers", 'womens-slippers': "Women's Slippers",
+  'mens-watches': "Men's Watches", 'womens-watches1': "Women's Watches",
+  'wallets': 'Wallets', 'glasses': 'Glasses', 'belts': 'Belts', 'heels': 'Heels'
+};
 
 export default function InventoryManager() {
   const [searchQuery, setSearchQuery] = useState('');
-  const [loading, setLoading] = useState(false);
-  const [products, setProducts] = useState<any[]>([]);
+  const [activeCategory, setActiveCategory] = useState('all');
+  const [loading, setLoading] = useState(true);
+  const [saving, setSaving] = useState(false);
+  const [allProducts, setAllProducts] = useState<any[]>([]);
   const [selectedProduct, setSelectedProduct] = useState<any>(null);
   const [isEditing, setIsEditing] = useState(false);
   const [isAdding, setIsAdding] = useState(false);
   const [message, setMessage] = useState({ type: '', text: '' });
 
-  useEffect(() => {
-    handleSearch();
-  }, []);
-
-  // Form State
   const [formData, setFormData] = useState({
-    id: '',
-    name: '',
-    brand: '',
-    price: '',
-    category: '',
-    status: 'in_stock',
-    stock_count: '' as string | number,
-    images: [] as string[]
+    id: '', name: '', brand: '', price: '', category: '',
+    status: 'in_stock', stock_count: '' as string | number, images: [] as string[]
   });
 
-  const categories = [
-    'mens-shoes', 'womens-shoes', 'mens-slippers', 'womens-slippers',
-    'mens-watches', 'womens-watches1', 'wallets', 'glasses', 'belts', 'heels'
-  ];
+  // Load all products once on mount
+  useEffect(() => {
+    loadAllProducts();
+  }, []);
 
-  const handleSearch = async (e?: React.FormEvent) => {
-    if (e) e.preventDefault();
-    
-    // If it's a manual search and empty, don't proceed. 
-    // But if it's the initial load (no event), allow it.
-    if (e && !searchQuery.trim()) return;
-
+  const loadAllProducts = async () => {
     setLoading(true);
-    try {
-      // 1. Search in Supabase products table
-      // We join with product_inventory to get the current status
-      let query = supabase
-        .from('products')
-        .select('*, product_inventory(status, stock_count)');
-      
-      if (searchQuery.trim()) {
-        query = query.or(`id.ilike.%${searchQuery}%, name.ilike.%${searchQuery}%, brand.ilike.%${searchQuery}%`);
-      }
-      
-      const { data: sbProducts, error: sbError } = await query
-        .order('created_at', { ascending: false })
-        .limit(50);
+    let all: any[] = [];
 
-      if (sbError) {
-        console.error('SUPABASE ERROR:', sbError);
-        setMessage({ type: 'error', text: `Database Error: ${sbError.message} (${sbError.code})` });
-      } else {
-        console.log('SUPABASE SUCCESS:', sbProducts?.length, 'products found');
-      }
-
-      // 2. Always load from JSON files when Supabase returns few/no results
-      let jsonFound: any[] = [];
-      if (!sbProducts || sbProducts.length < 5) {
-        console.log('Loading JSON products...');
-        for (const cat of categories) {
-          try {
-            const res = await fetch(`/littledubai-${cat}.json`);
-            if (res.ok) {
-              const data = await res.json();
-              let filtered = (data.products || []) as any[];
-              // Apply search filter only when user typed a query
-              if (searchQuery.trim()) {
-                filtered = filtered.filter((p: any) =>
-                  (p.title || p.name || '').toLowerCase().includes(searchQuery.toLowerCase()) ||
-                  String(p.id).includes(searchQuery)
-                );
-              }
-              jsonFound = [...jsonFound, ...filtered.map((p: any) => ({ 
-                ...p, 
-                name: p.title || p.name, 
-                brand: p.vendor || p.brandName, 
-                images: p.image_urls || p.images || [],
-                category: cat, 
-                source: 'json' 
-              }))];
-            }
-          } catch (e) {
-            console.warn(`JSON Fetch failed for ${cat}`);
-          }
-          if (jsonFound.length > 500) break;
+    // Load from all JSON files
+    for (const cat of CATEGORIES) {
+      try {
+        const res = await fetch(`/littledubai-${cat}.json`);
+        if (res.ok) {
+          const data = await res.json();
+          const products = (data.products || data || []) as any[];
+          all = [...all, ...products.map((p: any) => ({
+            ...p,
+            name: p.title || p.name || '',
+            brand: p.vendor || p.brandName || '',
+            images: p.image_urls || p.images || [],
+            category: cat,
+            source: 'json'
+          }))];
         }
-      }
-
-      const merged = (sbProducts || []).map((p: any) => ({
-        ...p,
-        status: p.product_inventory?.[0]?.status || p.product_inventory?.status,
-        stock_count: p.product_inventory?.[0]?.stock_count || p.product_inventory?.stock_count
-      }));
-
-      jsonFound.forEach(jp => {
-        if (!merged.find(sp => String(sp.id) === String(jp.id))) {
-          merged.push(jp);
-        }
-      });
-
-      if (merged.length === 0 && !sbError) {
-        setMessage({ type: 'info', text: 'No products found. Try a different search or add a new product.' });
-      } else {
-        setMessage({ type: '', text: '' });
-      }
-
-      setProducts(merged);
-    } catch (error: any) {
-      console.error('SYSTEM ERROR:', error);
-      setMessage({ type: 'error', text: `System Error: ${error.message}` });
-    } finally {
-      setLoading(false);
+      } catch { /* skip missing files */ }
     }
+
+    // Overlay Supabase inventory status
+    try {
+      const { data: inv } = await supabase.from('product_inventory').select('*');
+      if (inv && inv.length > 0) {
+        const invMap = Object.fromEntries(inv.map((i: any) => [String(i.product_id), i]));
+        all = all.map(p => ({
+          ...p,
+          status: invMap[String(p.id)]?.status,
+          stock_count: invMap[String(p.id)]?.stock_count,
+        }));
+      }
+    } catch { /* supabase optional */ }
+
+    setAllProducts(all);
+    setLoading(false);
   };
+
+  // Client-side filtering — instant, no network needed
+  const filteredProducts = useMemo(() => {
+    let list = allProducts;
+    if (activeCategory !== 'all') {
+      list = list.filter(p => p.category === activeCategory);
+    }
+    const q = searchQuery.trim().toLowerCase();
+    if (q) {
+      list = list.filter(p =>
+        (p.name || '').toLowerCase().includes(q) ||
+        (p.brand || '').toLowerCase().includes(q) ||
+        String(p.id).includes(q)
+      );
+    }
+    return list;
+  }, [allProducts, searchQuery, activeCategory]);
 
   const selectProduct = async (product: any) => {
     setSelectedProduct(product);
     setIsEditing(false);
     setIsAdding(false);
-    setLoading(true);
-    try {
-      const { data, error } = await supabase
-        .from('product_inventory')
-        .select('*')
-        .eq('product_id', String(product.id))
-        .single();
-
-      setFormData({
-        id: String(product.id),
-        name: product.title || product.name || '',
-        brand: product.vendor || product.brandName || '',
-        price: String(product.price || ''),
-        category: product.category || '',
-        status: data?.status || 'in_stock',
-        stock_count: data?.stock_count || '',
-        images: product.image_urls || product.images || []
-      });
-    } catch (error) {
-      console.error('Fetch status error:', error);
-    } finally {
-      setLoading(false);
-    }
+    const { data } = await supabase
+      .from('product_inventory').select('*').eq('product_id', String(product.id)).single();
+    setFormData({
+      id: String(product.id),
+      name: product.name || '',
+      brand: product.brand || '',
+      price: String(product.price || ''),
+      category: product.category || '',
+      status: data?.status || 'in_stock',
+      stock_count: data?.stock_count || '',
+      images: product.images || []
+    });
   };
 
   const handleSave = async () => {
-    setLoading(true);
+    setSaving(true);
     setMessage({ type: '', text: '' });
     try {
-      // 1. Save to product_inventory
-      const { error: invError } = await supabase
-        .from('product_inventory')
-        .upsert({
-          product_id: formData.id,
-          status: formData.status,
-          stock_count: formData.stock_count === '' ? null : Number(formData.stock_count),
-          updated_at: new Date().toISOString()
-        }, { onConflict: 'product_id' });
+      await supabase.from('product_inventory').upsert({
+        product_id: formData.id,
+        status: formData.status,
+        stock_count: formData.stock_count === '' ? null : Number(formData.stock_count),
+        updated_at: new Date().toISOString()
+      }, { onConflict: 'product_id' });
 
-      if (invError) throw invError;
+      await supabase.from('products').upsert({
+        id: formData.id, name: formData.name, brand: formData.brand,
+        price: formData.price, category: formData.category, images: formData.images,
+        updated_at: new Date().toISOString()
+      }, { onConflict: 'id' });
 
-      // 2. Save to products table
-      const { error: prodError } = await supabase
-        .from('products')
-        .upsert({
-          id: formData.id,
-          name: formData.name,
-          brand: formData.brand,
-          price: formData.price,
-          category: formData.category,
-          images: formData.images,
-          updated_at: new Date().toISOString()
-        }, { onConflict: 'id' });
-
-      if (prodError) throw prodError;
-
-      setMessage({ type: 'success', text: 'Product updated successfully!' });
+      // Update local state so UI reflects changes instantly
+      setAllProducts(prev => prev.map(p =>
+        String(p.id) === formData.id
+          ? { ...p, name: formData.name, brand: formData.brand, status: formData.status }
+          : p
+      ));
+      setMessage({ type: 'success', text: '✓ Product saved successfully!' });
       setIsEditing(false);
       setIsAdding(false);
-    } catch (error: any) {
-      console.error('Save error:', error);
-      setMessage({ type: 'error', text: error.message || 'Failed to save changes' });
+    } catch (err: any) {
+      setMessage({ type: 'error', text: err.message || 'Failed to save' });
     } finally {
-      setLoading(false);
+      setSaving(false);
     }
   };
 
   const handleDelete = async (id: string) => {
-    if (!confirm('Are you sure you want to delete this product? This will remove its inventory tracking.')) return;
-    
-    setLoading(true);
-    try {
-      const { error } = await supabase
-        .from('product_inventory')
-        .delete()
-        .eq('product_id', id);
-
-      if (error) throw error;
-      setMessage({ type: 'success', text: 'Product tracking removed.' });
-      setSelectedProduct(null);
-      handleSearch();
-    } catch (error: any) {
-      setMessage({ type: 'error', text: 'Failed to delete' });
-    } finally {
-      setLoading(false);
-    }
+    if (!confirm('Remove inventory tracking for this product?')) return;
+    await supabase.from('product_inventory').delete().eq('product_id', id);
+    setSelectedProduct(null);
+    setAllProducts(prev => prev.map(p => String(p.id) === id ? { ...p, status: undefined } : p));
   };
 
+  const statusColor = (s?: string) => s === 'in_stock' ? '#22c55e' : s === 'limited_stock' ? '#f97316' : s === 'out_of_stock' ? '#ef4444' : '#ccc';
+
   return (
-    <div className="inventory-manager">
-      <div className="inventory-grid">
-        <div className="inventory-sidebar">
-          <div className="sidebar-header">
-            <form onSubmit={handleSearch} className="search-box">
-              <input 
-                type="text" 
-                placeholder="Search..." 
+    <div style={{ display: 'flex', height: 'calc(100vh - 80px)', background: '#f8f9fa', borderRadius: 12, overflow: 'hidden', boxShadow: '0 4px 24px rgba(0,0,0,0.06)' }}>
+
+      {/* ── LEFT SIDEBAR ── */}
+      <div style={{ width: 420, minWidth: 420, background: '#fff', borderRight: '1px solid #eee', display: 'flex', flexDirection: 'column' }}>
+
+        {/* Search bar */}
+        <div style={{ padding: '16px 16px 12px', borderBottom: '1px solid #f0f0f0' }}>
+          <div style={{ display: 'flex', gap: 8 }}>
+            <div style={{ flex: 1, display: 'flex', alignItems: 'center', gap: 8, background: '#f5f5f5', borderRadius: 10, padding: '0 14px', height: 42 }}>
+              <Search size={16} color="#aaa" />
+              <input
+                type="text"
+                placeholder="Search by name, brand, or ID…"
                 value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
+                onChange={e => setSearchQuery(e.target.value)}
+                style={{ flex: 1, border: 'none', background: 'transparent', outline: 'none', fontSize: 14, color: '#111' }}
               />
-              <button type="submit" disabled={loading}>
-                <Search size={18} />
-              </button>
-            </form>
-            <button className="add-btn" onClick={() => { setIsAdding(true); setSelectedProduct({}); setFormData({ id: '', name: '', brand: '', price: '', category: '', status: 'in_stock', stock_count: '', images: [] }); }}>
+              {searchQuery && (
+                <button onClick={() => setSearchQuery('')} style={{ color: '#aaa', lineHeight: 1 }}>
+                  <X size={14} />
+                </button>
+              )}
+            </div>
+            <button
+              onClick={() => { setIsAdding(true); setSelectedProduct({}); setFormData({ id: '', name: '', brand: '', price: '', category: '', status: 'in_stock', stock_count: '', images: [] }); }}
+              style={{ width: 42, height: 42, background: '#000', color: '#fff', borderRadius: 10, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}
+            >
               <Plus size={18} />
             </button>
           </div>
 
-          <div className="product-list">
-            {products.map((p) => (
-              <div 
-                key={p.id} 
-                className={`product-item ${selectedProduct?.id === p.id ? 'active' : ''}`}
-                onClick={() => selectProduct(p)}
+          {/* Category filter chips */}
+          <div style={{ display: 'flex', gap: 6, marginTop: 10, overflowX: 'auto', paddingBottom: 2 }}>
+            {['all', ...CATEGORIES].map(cat => (
+              <button
+                key={cat}
+                onClick={() => setActiveCategory(cat)}
+                style={{
+                  padding: '4px 10px', borderRadius: 20, fontSize: 11, fontWeight: 600, whiteSpace: 'nowrap', flexShrink: 0,
+                  background: activeCategory === cat ? '#000' : '#f0f0f0',
+                  color: activeCategory === cat ? '#fff' : '#555',
+                  border: 'none', cursor: 'pointer'
+                }}
               >
-                <img src={p.image_urls?.[0] || p.images?.[0]} alt="" />
-                <div className="product-item__info">
-                  <div className="product-item__name">{p.title || p.name}</div>
-                  <div className="product-item__meta">
-                    <span className="product-item__id">ID: {p.id}</span>
+                {cat === 'all' ? 'All' : CAT_LABELS[cat] || cat}
+              </button>
+            ))}
+          </div>
+
+          <div style={{ marginTop: 8, fontSize: 12, color: '#888' }}>
+            {loading ? 'Loading products…' : `${filteredProducts.length} product${filteredProducts.length !== 1 ? 's' : ''}${searchQuery ? ` matching "${searchQuery}"` : ''}`}
+          </div>
+        </div>
+
+        {/* Product list */}
+        <div style={{ flex: 1, overflowY: 'auto' }}>
+          {loading ? (
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 200, color: '#aaa', gap: 10 }}>
+              <Loader2 size={20} className="animate-spin" style={{ animation: 'spin 1s linear infinite' }} /> Loading…
+            </div>
+          ) : filteredProducts.length === 0 ? (
+            <div style={{ textAlign: 'center', padding: 40, color: '#aaa' }}>
+              <Package size={36} style={{ opacity: 0.3, marginBottom: 8 }} />
+              <p style={{ fontSize: 14 }}>No products found</p>
+            </div>
+          ) : (
+            filteredProducts.map(p => (
+              <div
+                key={p.id}
+                onClick={() => selectProduct(p)}
+                style={{
+                  display: 'flex', alignItems: 'center', gap: 12, padding: '10px 16px',
+                  cursor: 'pointer', borderBottom: '1px solid #f5f5f5',
+                  background: selectedProduct?.id === p.id ? '#f0f4ff' : 'transparent',
+                  borderLeft: selectedProduct?.id === p.id ? '3px solid #000' : '3px solid transparent',
+                  transition: 'all 0.15s'
+                }}
+              >
+                <div style={{ width: 52, height: 52, borderRadius: 8, background: '#f5f5f5', flexShrink: 0, overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  {p.images?.[0]
+                    ? <img src={p.images[0]} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                    : <Package size={20} color="#ccc" />
+                  }
+                </div>
+                <div style={{ flex: 1, minWidth: 0 }}>
+                  <div style={{ fontSize: 13, fontWeight: 600, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', color: '#111' }}>{p.name}</div>
+                  <div style={{ fontSize: 11, color: '#888', marginTop: 2 }}>{p.brand} · {CAT_LABELS[p.category] || p.category}</div>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginTop: 4 }}>
+                    <span style={{ fontSize: 12, fontWeight: 700, color: '#111' }}>AED {p.price}</span>
                     {p.status && (
-                      <span className={`status-dot ${p.status}`}></span>
+                      <span style={{ display: 'flex', alignItems: 'center', gap: 3, fontSize: 10, color: statusColor(p.status) }}>
+                        <span style={{ width: 6, height: 6, borderRadius: '50%', background: statusColor(p.status), display: 'inline-block' }} />
+                        {p.status.replace('_', ' ')}
+                      </span>
                     )}
                   </div>
                 </div>
               </div>
-            ))}
-          </div>
-        </div>
-
-        <div className="inventory-main">
-          {selectedProduct ? (
-            <div className="product-editor">
-              <div className="editor-header">
-                <div className="header-info">
-                  <img src={formData.images[0]} alt="" />
-                  <div>
-                    <h2>{isAdding ? 'Add New Product' : (isEditing ? 'Edit Product' : formData.name)}</h2>
-                    <p className="product-id">ID: {formData.id}</p>
-                  </div>
-                </div>
-                <div className="header-actions">
-                  {!isEditing && !isAdding && (
-                    <>
-                      <button className="action-btn edit" onClick={() => setIsEditing(true)}><Edit3 size={18} /> Edit</button>
-                      <button className="action-btn delete" onClick={() => handleDelete(formData.id)}><Trash2 size={18} /></button>
-                    </>
-                  )}
-                  {(isEditing || isAdding) && (
-                    <button className="action-btn cancel" onClick={() => { setIsEditing(false); setIsAdding(false); if(isAdding) setSelectedProduct(null); }}><X size={18} /> Cancel</button>
-                  )}
-                </div>
-              </div>
-
-              <div className="editor-form">
-                <div className="form-row">
-                  <div className="form-group">
-                    <label>Product Name</label>
-                    <input 
-                      type="text" 
-                      value={formData.name} 
-                      onChange={(e) => setFormData({...formData, name: e.target.value})}
-                      disabled={!isEditing && !isAdding}
-                    />
-                  </div>
-                  <div className="form-group">
-                    <label>Brand</label>
-                    <input 
-                      type="text" 
-                      value={formData.brand} 
-                      onChange={(e) => setFormData({...formData, brand: e.target.value})}
-                      disabled={!isEditing && !isAdding}
-                    />
-                  </div>
-                </div>
-
-                <div className="form-row">
-                  <div className="form-group">
-                    <label>Price (AED)</label>
-                    <input 
-                      type="text" 
-                      value={formData.price} 
-                      onChange={(e) => setFormData({...formData, price: e.target.value})}
-                      disabled={!isEditing && !isAdding}
-                    />
-                  </div>
-                  <div className="form-group">
-                    <label>Category</label>
-                    <select 
-                      value={formData.category} 
-                      onChange={(e) => setFormData({...formData, category: e.target.value})}
-                      disabled={!isEditing && !isAdding}
-                    >
-                      {categories.map(c => <option key={c} value={c}>{c}</option>)}
-                    </select>
-                  </div>
-                </div>
-
-                <div className="form-group">
-                  <label>Images (Comma separated URLs)</label>
-                  <textarea 
-                    value={formData.images.join(', ')} 
-                    onChange={(e) => setFormData({...formData, images: e.target.value.split(',').map(s => s.trim())})}
-                    disabled={!isEditing && !isAdding}
-                    placeholder="https://example.com/image1.jpg, https://example.com/image2.jpg"
-                    style={{ minHeight: '80px', padding: '12px', border: '1px solid #eee', borderRadius: '8px' }}
-                  />
-                  <div className="image-previews" style={{ display: 'flex', gap: '10px', marginTop: '10px', flexWrap: 'wrap' }}>
-                    {formData.images.map((url, i) => url && (
-                      <img key={i} src={url} alt="" style={{ width: '60px', height: '60px', borderRadius: '4px', objectFit: 'cover' }} />
-                    ))}
-                  </div>
-                </div>
-
-                <div className="form-divider">Inventory Settings</div>
-
-                <div className="form-group">
-                  <label>Availability Status</label>
-                  <div className="status-toggle">
-                    {['in_stock', 'limited_stock', 'out_of_stock'].map(s => (
-                      <button 
-                        key={s}
-                        className={`status-chip ${formData.status === s ? 'active ' + s : ''}`}
-                        onClick={() => setFormData({...formData, status: s})}
-                      >
-                        {s.replace('_', ' ').toUpperCase()}
-                      </button>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="form-group">
-                  <label>Exact Stock Count</label>
-                  <input 
-                    type="number" 
-                    value={formData.stock_count} 
-                    onChange={(e) => setFormData({...formData, stock_count: e.target.value})}
-                    placeholder="Enter numeric stock count"
-                  />
-                </div>
-
-                {(isEditing || isAdding || true) && (
-                  <button className="save-btn" onClick={handleSave} disabled={loading}>
-                    {loading ? <Loader2 className="animate-spin" size={20} /> : <Save size={20} />}
-                    SAVE PRODUCT CHANGES
-                  </button>
-                )}
-
-                {message.text && (
-                  <div className={`message ${message.type}`}>
-                    {message.text}
-                  </div>
-                )}
-              </div>
-            </div>
-          ) : (
-            <div className="empty-state">
-              <ImageIcon size={64} opacity={0.2} />
-              <p>Select a product to view or edit details</p>
-            </div>
+            ))
           )}
         </div>
       </div>
 
-      <style jsx>{`
-        .inventory-manager {
-          height: calc(100vh - 120px);
-          background: #fff;
-          border-radius: 12px;
-          box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-          overflow: hidden;
-        }
-        .inventory-grid {
-          display: grid;
-          grid-template-columns: 350px 1fr;
-          height: 100%;
-        }
-        .inventory-sidebar {
-          border-right: 1px solid #eee;
-          display: flex;
-          flex-direction: column;
-        }
-        .sidebar-header {
-          padding: 20px;
-          display: flex;
-          gap: 10px;
-          border-bottom: 1px solid #eee;
-        }
-        .search-box {
-          flex: 1;
-          display: flex;
-          background: #f5f5f5;
-          border-radius: 8px;
-          padding: 0 12px;
-        }
-        .search-box input {
-          flex: 1;
-          border: none;
-          background: transparent;
-          height: 40px;
-          outline: none;
-          font-size: 14px;
-        }
-        .add-btn {
-          width: 40px;
-          height: 40px;
-          background: #000;
-          color: #fff;
-          border-radius: 8px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-        }
-        .product-list {
-          flex: 1;
-          overflow-y: auto;
-          padding: 10px;
-        }
-        .product-item {
-          display: flex;
-          align-items: center;
-          gap: 12px;
-          padding: 10px;
-          border-radius: 8px;
-          cursor: pointer;
-          transition: all 0.2s;
-        }
-        .product-item:hover { background: #f8f8f8; }
-        .product-item.active { background: #f0f0f0; }
-        .product-item img {
-          width: 48px;
-          height: 48px;
-          object-fit: cover;
-          border-radius: 4px;
-          background: #f0f0f0;
-        }
-        .product-item__info {
-          flex: 1;
-          min-width: 0;
-        }
-        .product-item__name {
-          font-size: 14px;
-          font-weight: 600;
-          white-space: nowrap;
-          overflow: hidden;
-          text-overflow: ellipsis;
-        }
-        .product-item__meta {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          margin-top: 4px;
-        }
-        .product-item__id {
-          font-size: 11px;
-          color: #888;
-        }
-        .status-dot {
-          width: 8px;
-          height: 8px;
-          border-radius: 50%;
-        }
-        .status-dot.in_stock { background: #22c55e; }
-        .status-dot.limited_stock { background: #f97316; }
-        .status-dot.out_of_stock { background: #ef4444; }
+      {/* ── RIGHT PANEL ── */}
+      <div style={{ flex: 1, overflowY: 'auto', padding: 32 }}>
+        {selectedProduct ? (
+          <div style={{ maxWidth: 680, margin: '0 auto', background: '#fff', borderRadius: 16, padding: 36, boxShadow: '0 2px 16px rgba(0,0,0,0.04)' }}>
 
+            {/* Header */}
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 28, paddingBottom: 24, borderBottom: '1px solid #f0f0f0' }}>
+              <div style={{ display: 'flex', gap: 16, alignItems: 'center' }}>
+                <div style={{ width: 72, height: 72, borderRadius: 12, background: '#f5f5f5', overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                  {formData.images[0]
+                    ? <img src={formData.images[0]} alt="" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                    : <ImageIcon size={28} color="#ccc" />
+                  }
+                </div>
+                <div>
+                  <h2 style={{ fontSize: 18, fontWeight: 700, margin: 0 }}>{isAdding ? 'Add New Product' : formData.name || 'Product Details'}</h2>
+                  <p style={{ fontSize: 12, color: '#888', margin: '4px 0 0' }}>ID: {formData.id || '—'} · {CAT_LABELS[formData.category] || formData.category}</p>
+                </div>
+              </div>
+              <div style={{ display: 'flex', gap: 8 }}>
+                {!isEditing && !isAdding && (
+                  <>
+                    <button onClick={() => setIsEditing(true)} style={{ display: 'flex', alignItems: 'center', gap: 6, padding: '8px 14px', borderRadius: 8, border: '1px solid #eee', fontSize: 13, fontWeight: 600, cursor: 'pointer', background: '#fff' }}>
+                      <Edit3 size={15} /> Edit
+                    </button>
+                    <button onClick={() => handleDelete(formData.id)} style={{ display: 'flex', alignItems: 'center', gap: 6, padding: '8px 14px', borderRadius: 8, border: '1px solid #fee2e2', fontSize: 13, color: '#ef4444', cursor: 'pointer', background: '#fff' }}>
+                      <Trash2 size={15} />
+                    </button>
+                  </>
+                )}
+                {(isEditing || isAdding) && (
+                  <button onClick={() => { setIsEditing(false); setIsAdding(false); if (isAdding) setSelectedProduct(null); }} style={{ display: 'flex', alignItems: 'center', gap: 6, padding: '8px 14px', borderRadius: 8, border: '1px solid #eee', fontSize: 13, background: '#f5f5f5', cursor: 'pointer' }}>
+                    <X size={15} /> Cancel
+                  </button>
+                )}
+              </div>
+            </div>
 
-        .inventory-main {
-          background: #fafafa;
-          overflow-y: auto;
-        }
-        .product-editor {
-          max-width: 800px;
-          margin: 40px auto;
-          background: #fff;
-          border-radius: 16px;
-          box-shadow: 0 4px 20px rgba(0,0,0,0.02);
-          padding: 40px;
-        }
-        .editor-header {
-          display: flex;
-          justify-content: space-between;
-          align-items: flex-start;
-          margin-bottom: 40px;
-          border-bottom: 1px solid #eee;
-          padding-bottom: 30px;
-        }
-        .header-info {
-          display: flex;
-          gap: 20px;
-        }
-        .header-info img {
-          width: 80px;
-          height: 80px;
-          border-radius: 12px;
-          object-fit: cover;
-        }
-        .header-info h2 {
-          margin: 0 0 5px 0;
-          font-size: 24px;
-        }
-        .product-id {
-          color: #888;
-          font-size: 14px;
-        }
-        .header-actions {
-          display: flex;
-          gap: 10px;
-        }
-        .action-btn {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          padding: 8px 16px;
-          border-radius: 6px;
-          font-size: 14px;
-          font-weight: 600;
-          border: 1px solid #eee;
-        }
-        .action-btn.edit { background: #fff; color: #000; }
-        .action-btn.delete { color: #ef4444; border-color: #fee2e2; }
-        .action-btn.delete:hover { background: #fef2f2; }
-        .action-btn.cancel { background: #f5f5f5; color: #666; }
+            {/* Form */}
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16, marginBottom: 16 }}>
+              {[['Product Name', 'name', 'text'], ['Brand', 'brand', 'text'], ['Price (AED)', 'price', 'text'], ['Category', 'category', 'text']].map(([label, key, type]) => (
+                <div key={key} style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+                  <label style={{ fontSize: 11, fontWeight: 700, color: '#666', textTransform: 'uppercase', letterSpacing: '0.04em' }}>{label}</label>
+                  <input
+                    type={type}
+                    value={(formData as any)[key]}
+                    onChange={e => setFormData({ ...formData, [key]: e.target.value })}
+                    disabled={!isEditing && !isAdding}
+                    style={{ padding: '10px 12px', border: '1px solid #eee', borderRadius: 8, fontSize: 14, outline: 'none', background: (!isEditing && !isAdding) ? '#fafafa' : '#fff' }}
+                  />
+                </div>
+              ))}
+            </div>
 
-        .form-row {
-          display: grid;
-          grid-template-columns: 1fr 1fr;
-          gap: 20px;
-          margin-bottom: 20px;
-        }
-        .form-group {
-          display: flex;
-          flex-direction: column;
-          gap: 8px;
-          margin-bottom: 20px;
-        }
-        .form-group label {
-          font-size: 13px;
-          font-weight: 600;
-          color: #666;
-          text-transform: uppercase;
-        }
-        .form-group input, .form-group select {
-          padding: 12px;
-          border: 1px solid #eee;
-          border-radius: 8px;
-          outline: none;
-          font-size: 15px;
-          transition: border 0.2s;
-        }
-        .form-group input:focus { border-color: #000; }
-        
-        .form-divider {
-          margin: 40px 0 20px 0;
-          padding-top: 20px;
-          border-top: 1px solid #eee;
-          font-weight: 700;
-          font-size: 14px;
-          color: #000;
-        }
+            <div style={{ marginBottom: 16 }}>
+              <label style={{ fontSize: 11, fontWeight: 700, color: '#666', textTransform: 'uppercase', letterSpacing: '0.04em', display: 'block', marginBottom: 6 }}>Images (comma-separated URLs)</label>
+              <textarea
+                value={formData.images.join(', ')}
+                onChange={e => setFormData({ ...formData, images: e.target.value.split(',').map(s => s.trim()).filter(Boolean) })}
+                disabled={!isEditing && !isAdding}
+                placeholder="https://cdn.example.com/image1.jpg, ..."
+                style={{ width: '100%', padding: '10px 12px', border: '1px solid #eee', borderRadius: 8, fontSize: 13, minHeight: 72, resize: 'vertical', outline: 'none', boxSizing: 'border-box', background: (!isEditing && !isAdding) ? '#fafafa' : '#fff' }}
+              />
+              {formData.images.length > 0 && (
+                <div style={{ display: 'flex', gap: 8, marginTop: 8, flexWrap: 'wrap' }}>
+                  {formData.images.filter(Boolean).map((url, i) => (
+                    <img key={i} src={url} alt="" style={{ width: 56, height: 56, borderRadius: 6, objectFit: 'contain', background: '#f5f5f5', border: '1px solid #eee' }} />
+                  ))}
+                </div>
+              )}
+            </div>
 
-        .status-toggle {
-          display: flex;
-          gap: 10px;
-        }
-        .status-chip {
-          flex: 1;
-          padding: 12px;
-          border: 1px solid #eee;
-          border-radius: 8px;
-          font-size: 12px;
-          font-weight: 700;
-          background: #fff;
-          cursor: pointer;
-          transition: all 0.2s;
-        }
-        .status-chip.active.in_stock { background: #e6f7ed; color: #166534; border-color: #22c55e; }
-        .status-chip.active.limited_stock { background: #fff7ed; color: #9a3412; border-color: #f97316; }
-        .status-chip.active.out_of_stock { background: #fef2f2; color: #991b1b; border-color: #ef4444; }
+            <div style={{ borderTop: '1px solid #f0f0f0', paddingTop: 20, marginBottom: 16 }}>
+              <label style={{ fontSize: 11, fontWeight: 700, color: '#666', textTransform: 'uppercase', letterSpacing: '0.04em', display: 'block', marginBottom: 10 }}>Availability Status</label>
+              <div style={{ display: 'flex', gap: 8 }}>
+                {[['in_stock', '#22c55e', '#e6f7ed', '#166534'],
+                  ['limited_stock', '#f97316', '#fff7ed', '#9a3412'],
+                  ['out_of_stock', '#ef4444', '#fef2f2', '#991b1b']].map(([s, border, bg, color]) => (
+                  <button
+                    key={s}
+                    onClick={() => setFormData({ ...formData, status: s })}
+                    style={{
+                      flex: 1, padding: '10px 8px', borderRadius: 8, fontSize: 11, fontWeight: 700, cursor: 'pointer',
+                      border: `1px solid ${formData.status === s ? border : '#eee'}`,
+                      background: formData.status === s ? bg : '#fff',
+                      color: formData.status === s ? color : '#888'
+                    }}
+                  >
+                    {s.replace(/_/g, ' ').toUpperCase()}
+                  </button>
+                ))}
+              </div>
+            </div>
 
-        .save-btn {
-          width: 100%;
-          background: #000;
-          color: #fff;
-          padding: 16px;
-          border-radius: 12px;
-          font-weight: 700;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          gap: 12px;
-          margin-top: 40px;
-          cursor: pointer;
-        }
-        .save-btn:disabled { opacity: 0.5; }
+            <div style={{ marginBottom: 24 }}>
+              <label style={{ fontSize: 11, fontWeight: 700, color: '#666', textTransform: 'uppercase', letterSpacing: '0.04em', display: 'block', marginBottom: 6 }}>Stock Count</label>
+              <input
+                type="number"
+                value={formData.stock_count}
+                onChange={e => setFormData({ ...formData, stock_count: e.target.value })}
+                placeholder="Leave blank for unlimited"
+                style={{ width: '100%', padding: '10px 12px', border: '1px solid #eee', borderRadius: 8, fontSize: 14, outline: 'none', boxSizing: 'border-box' }}
+              />
+            </div>
 
-        .message {
-          margin-top: 20px;
-          padding: 15px;
-          border-radius: 8px;
-          font-size: 14px;
-          text-align: center;
-        }
-        .message.success { background: #e6f7ed; color: #166534; }
-        .message.error { background: #fef2f2; color: #991b1b; }
+            <button
+              onClick={handleSave}
+              disabled={saving}
+              style={{ width: '100%', padding: '14px 0', background: '#000', color: '#fff', borderRadius: 10, fontWeight: 700, fontSize: 14, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10, cursor: saving ? 'not-allowed' : 'pointer', opacity: saving ? 0.7 : 1 }}
+            >
+              {saving ? <Loader2 size={18} style={{ animation: 'spin 1s linear infinite' }} /> : <Save size={18} />}
+              {saving ? 'Saving…' : 'SAVE CHANGES'}
+            </button>
 
-        .empty-state {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          height: 100%;
-          color: #aaa;
-        }
+            {message.text && (
+              <div style={{ marginTop: 14, padding: '12px 16px', borderRadius: 8, fontSize: 13, textAlign: 'center', background: message.type === 'success' ? '#e6f7ed' : '#fef2f2', color: message.type === 'success' ? '#166534' : '#991b1b' }}>
+                {message.text}
+              </div>
+            )}
+          </div>
+        ) : (
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100%', color: '#ccc' }}>
+            <ImageIcon size={64} style={{ marginBottom: 12, opacity: 0.3 }} />
+            <p style={{ fontSize: 15, color: '#aaa' }}>Select a product to view or edit details</p>
+          </div>
+        )}
+      </div>
 
-        .animate-spin { animation: spin 1s linear infinite; }
-        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-      `}</style>
+      <style>{`@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }`}</style>
     </div>
   );
 }
