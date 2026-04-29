@@ -48,13 +48,16 @@ export default function InventoryManager() {
         .order('created_at', { ascending: false });
 
       if (sbError) {
-        console.warn('Supabase search failed, falling back to JSON:', sbError.message);
+        console.error('SUPABASE ERROR:', sbError);
+        setMessage({ type: 'error', text: `Database Error: ${sbError.message} (${sbError.code})` });
+      } else {
+        console.log('SUPABASE SUCCESS:', sbProducts?.length, 'products found');
       }
 
-      // 2. Search in JSON files (fallback for products not yet migrated)
+      // 2. Search in JSON files (fallback)
       let jsonFound: any[] = [];
-      // Only search JSON if Supabase search returns few results or query is short
       if ((!sbProducts || sbProducts.length < 5) && searchQuery.length > 2) {
+        console.log('Searching JSON fallback...');
         for (const cat of categories) {
           try {
             const res = await fetch(`/littledubai-${cat}.json`);
@@ -73,12 +76,13 @@ export default function InventoryManager() {
                 source: 'json' 
               }))];
             }
-          } catch (e) {}
+          } catch (e) {
+            console.warn(`JSON Fetch failed for ${cat}`);
+          }
           if (jsonFound.length > 30) break;
         }
       }
 
-      // Merge results, favoring Supabase
       const merged = [...(sbProducts || [])];
       jsonFound.forEach(jp => {
         if (!merged.find(sp => String(sp.id) === String(jp.id))) {
@@ -86,10 +90,14 @@ export default function InventoryManager() {
         }
       });
 
+      if (merged.length === 0 && !sbError) {
+        setMessage({ type: 'info', text: 'No products found. Try a different search or add a new product.' });
+      }
+
       setProducts(merged);
-    } catch (error) {
-      console.error('Search error:', error);
-      setMessage({ type: 'error', text: 'Failed to search products' });
+    } catch (error: any) {
+      console.error('SYSTEM ERROR:', error);
+      setMessage({ type: 'error', text: `System Error: ${error.message}` });
     } finally {
       setLoading(false);
     }
