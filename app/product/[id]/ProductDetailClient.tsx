@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Truck, ShieldCheck, Heart, MessageCircle, Share2 } from 'lucide-react';
+import { Truck, ShieldCheck, Heart, MessageCircle, Share2, ChevronRight } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
 import { supabase } from '@/lib/supabase';
 
@@ -48,7 +48,7 @@ export default function ProductDetailClient({ initialProduct, productId, source 
   }
 
   const name = initialProduct.title || initialProduct.name;
-  const brand = initialProduct.vendor || initialProduct.brandName || 'Little Dubai';
+  const brand = initialProduct.vendor || initialProduct.brandName || 'Designer';
   const images = initialProduct.image_urls || initialProduct.images || [];
   const price = initialProduct.price;
   const [activeImage, setActiveImage] = useState(images[0] || '/images/placeholder.png');
@@ -71,31 +71,49 @@ export default function ProductDetailClient({ initialProduct, productId, source 
   };
 
   return (
-    <div className="container py-12 md:py-20">
-      <div className="grid lg:grid-cols-2 gap-16 items-start">
+    <div className="container">
+      {/* Breadcrumb */}
+      <nav className="flex items-center gap-2 py-6 text-[10px] uppercase tracking-widest text-secondary">
+        <Link href="/" className="hover:text-primary transition-colors">Home</Link>
+        <ChevronRight size={10} />
+        <Link href="/brands" className="hover:text-primary transition-colors">Brands</Link>
+        <ChevronRight size={10} />
+        <span className="text-primary font-bold">{brand}</span>
+      </nav>
+
+      <div className="pdp-container">
         {/* Gallery Section */}
-        <div className="flex flex-col-reverse md:flex-row gap-6 sticky top-24">
+        <div className="pdp-gallery">
           {/* Thumbnails */}
-          <div className="flex md:flex-col gap-4 overflow-x-auto md:overflow-y-auto no-scrollbar md:w-24">
-            {images.slice(0, 6).map((img: string, idx: number) => (
-              <button 
+          <div className="pdp-gallery__thumbnails no-scrollbar">
+            {images.slice(0, 5).map((img: string, idx: number) => (
+              <div 
                 key={idx} 
-                className={`relative aspect-[3/4] md:aspect-square w-20 md:w-full flex-shrink-0 border transition-all ${activeImage === img ? 'border-primary' : 'border-light opacity-60 hover:opacity-100'}`}
+                className={`pdp-gallery__thumb ${activeImage === img ? 'active' : ''}`}
                 onClick={() => setActiveImage(img)}
               >
-                <Image src={img} alt={`${name} ${idx}`} fill className="object-contain p-2" />
-              </button>
+                <div className="relative w-full h-full">
+                  <Image 
+                    src={img} 
+                    alt={`${name} thumb ${idx}`} 
+                    fill 
+                    className="object-contain"
+                    sizes="80px"
+                  />
+                </div>
+              </div>
             ))}
           </div>
           
           {/* Main Image */}
-          <div className="flex-1 relative aspect-[3/4] bg-tertiary overflow-hidden group">
+          <div className="pdp-gallery__main">
             <Image 
               src={activeImage} 
               alt={name} 
               fill 
-              className="object-contain p-8 transition-transform duration-700 group-hover:scale-110" 
+              className="object-contain p-8" 
               priority
+              sizes="(max-width: 768px) 100vw, 50vw"
             />
             <div className="absolute top-6 right-6 flex flex-col gap-3">
               <button className="w-10 h-10 bg-white shadow-sm flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
@@ -114,72 +132,72 @@ export default function ProductDetailClient({ initialProduct, productId, source 
         </div>
 
         {/* Info Section */}
-        <div className="flex flex-col gap-10">
+        <div className="pdp-info">
+          <div className="pdp-info__header">
+            <p className="pdp-info__brand">{brand}</p>
+            <h1 className="pdp-info__title">{name}</h1>
+            <div className="flex items-baseline gap-4">
+               <p className="pdp-info__price">AED {price}</p>
+               {stockStatus.status === 'limited_stock' && (
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-error bg-error/5 px-2 py-1">
+                   Only {stockStatus.count} left
+                 </span>
+               )}
+            </div>
+          </div>
+
           <div>
-            <div className="flex items-center justify-between mb-4">
-              <span className="text-secondary tracking-[0.2em] text-xs uppercase font-bold">{brand}</span>
-              {stockStatus.status === 'limited_stock' && (
-                <span className="text-error text-[10px] font-bold uppercase tracking-widest bg-error/5 px-2 py-1">Only {stockStatus.count} left</span>
-              )}
+            <div className="flex justify-between items-center mb-4">
+              <label className="text-[10px] font-bold tracking-[0.2em] text-secondary uppercase">Select Size (EU)</label>
+              <button className="text-[10px] font-bold tracking-widest text-accent border-b border-accent uppercase hover:text-primary hover:border-primary transition-colors">Size Guide</button>
             </div>
-            <h1 className="text-4xl md:text-5xl font-display leading-[1.1] mb-6 uppercase tracking-tight">{name}</h1>
-            <p className="text-3xl font-semibold">AED {price}</p>
-          </div>
-
-          <div className="py-10 border-y border-light">
-            <div className="mb-8">
-              <div className="flex justify-between items-center mb-4">
-                <label className="text-[10px] font-bold tracking-[0.2em] text-secondary uppercase">Select Size (EU)</label>
-                <button className="text-[10px] font-bold tracking-widest text-accent border-b border-accent uppercase">Size Guide</button>
-              </div>
-              <div className="grid grid-cols-4 md:grid-cols-6 gap-3">
-                {['39', '40', '41', '42', '43', '44', '45', '46'].map((size) => (
-                  <button 
-                    key={size}
-                    className={`h-12 border text-sm font-medium transition-all ${selectedSize === `EU ${size}` ? 'bg-primary text-white border-primary' : 'bg-white border-light hover:border-secondary'}`}
-                    onClick={() => setSelectedSize(`EU ${size}`)}
-                  >
-                    {size}
-                  </button>
-                ))}
-              </div>
-            </div>
-
-            <div className="flex flex-col gap-4">
-              <button 
-                className={`btn btn--primary btn--lg w-full h-16 text-sm font-bold tracking-widest ${stockStatus.status === 'out_of_stock' ? 'opacity-50 cursor-not-allowed' : 'hover:scale-[1.01]'}`}
-                disabled={stockStatus.status === 'out_of_stock'}
-                onClick={handleAddToCart}
-              >
-                {stockStatus.status === 'out_of_stock' ? 'OUT OF STOCK' : 'ADD TO BAG'}
-              </button>
-              <button 
-                className="btn btn--secondary btn--lg w-full h-16 text-sm font-bold tracking-widest border-2 flex items-center justify-center gap-3 hover:bg-success hover:border-success hover:text-white transition-all"
-                onClick={handleWhatsApp}
-              >
-                <MessageCircle size={20} />
-                ORDER ON WHATSAPP
-              </button>
+            <div className="pdp-size-grid">
+              {['39', '40', '41', '42', '43', '44', '45', '46'].map((size) => (
+                <button 
+                  key={size}
+                  className={`pdp-size-btn ${selectedSize === `EU ${size}` ? 'active' : ''}`}
+                  onClick={() => setSelectedSize(`EU ${size}`)}
+                >
+                  {size}
+                </button>
+              ))}
             </div>
           </div>
 
-          <div className="grid sm:grid-cols-2 gap-8 pt-4">
-            <div className="flex gap-4 items-start">
-              <div className="w-12 h-12 bg-tertiary flex items-center justify-center shrink-0">
-                <Truck size={22} className="text-primary" />
+          <div className="pdp-actions">
+            <button 
+              className={`btn btn--primary btn--lg w-full h-16 text-sm font-bold tracking-widest ${stockStatus.status === 'out_of_stock' ? 'opacity-50 cursor-not-allowed' : 'hover:scale-[1.01]'}`}
+              disabled={stockStatus.status === 'out_of_stock'}
+              onClick={handleAddToCart}
+            >
+              {stockStatus.status === 'out_of_stock' ? 'OUT OF STOCK' : 'ADD TO BAG'}
+            </button>
+            <button 
+              className="btn btn--secondary btn--lg w-full h-16 text-sm font-bold tracking-widest border-2 flex items-center justify-center gap-3 hover:bg-success hover:border-success hover:text-white transition-all"
+              onClick={handleWhatsApp}
+            >
+              <MessageCircle size={20} />
+              ORDER ON WHATSAPP
+            </button>
+          </div>
+
+          <div className="pdp-services">
+            <div className="pdp-service-item">
+              <div className="pdp-service-icon">
+                <Truck size={20} />
               </div>
-              <div>
-                <p className="font-bold text-sm tracking-wide mb-1 uppercase">Free Delivery</p>
-                <p className="text-secondary text-xs leading-relaxed">Express delivery across the UAE within 24-48 hours.</p>
+              <div className="pdp-service-text">
+                <h4>Free Delivery</h4>
+                <p>Express delivery across the UAE within 24-48 hours.</p>
               </div>
             </div>
-            <div className="flex gap-4 items-start">
-              <div className="w-12 h-12 bg-tertiary flex items-center justify-center shrink-0">
-                <ShieldCheck size={22} className="text-primary" />
+            <div className="pdp-service-item">
+              <div className="pdp-service-icon">
+                <ShieldCheck size={20} />
               </div>
-              <div>
-                <p className="font-bold text-sm tracking-wide mb-1 uppercase">100% Authentic</p>
-                <p className="text-secondary text-xs leading-relaxed">Guaranteed authentic luxury products sourced from authorized retailers.</p>
+              <div className="pdp-service-text">
+                <h4>100% Authentic</h4>
+                <p>Guaranteed authentic luxury products sourced from authorized retailers.</p>
               </div>
             </div>
           </div>

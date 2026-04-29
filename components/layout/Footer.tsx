@@ -15,7 +15,7 @@ export default function Footer() {
   return (
     <footer className="footer bg-primary text-inverse py-20">
       <div className="container">
-        <div className="grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '4rem', alignItems: 'start' }}>
+        <div className="footer__grid">
           <div className="flex flex-col gap-6">
             <h3 className="text-sm font-bold tracking-widest text-uppercase mb-2">CUSTOMER CARE</h3>
             <ul className="flex flex-col gap-4">
