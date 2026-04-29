@@ -36,16 +36,23 @@ export default function InventoryManager() {
 
   const handleSearch = async (e?: React.FormEvent) => {
     if (e) e.preventDefault();
-    if (!searchQuery.trim() && !isAdding) return;
+    
+    // If it's a manual search and empty, don't proceed. 
+    // But if it's the initial load (no event), allow it.
+    if (e && !searchQuery.trim()) return;
 
     setLoading(true);
     try {
       // 1. Search in Supabase products table
-      const { data: sbProducts, error: sbError } = await supabase
-        .from('products')
-        .select('*')
-        .or(`id.ilike.%${searchQuery}%, name.ilike.%${searchQuery}%, brand.ilike.%${searchQuery}%`)
-        .order('created_at', { ascending: false });
+      let query = supabase.from('products').select('*');
+      
+      if (searchQuery.trim()) {
+        query = query.or(`id.ilike.%${searchQuery}%, name.ilike.%${searchQuery}%, brand.ilike.%${searchQuery}%`);
+      }
+      
+      const { data: sbProducts, error: sbError } = await query
+        .order('created_at', { ascending: false })
+        .limit(50);
 
       if (sbError) {
         console.error('SUPABASE ERROR:', sbError);
