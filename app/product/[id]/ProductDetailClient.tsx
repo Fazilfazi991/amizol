@@ -1,5 +1,8 @@
 'use client';
 
+import React, { useState } from 'react';
+import Image from 'next/image';
+import Link from 'next/link';
 import { Truck, RotateCcw, Share2, Heart, MessageCircle, AlertTriangle } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
 import { supabase } from '@/lib/supabase';
