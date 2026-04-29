@@ -5,8 +5,12 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { ShoppingBag, Search, User, Menu, X, ChevronDown, Heart } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
+import { usePathname } from 'next/navigation';
 
 export default function Header() {
+  const pathname = usePathname();
+  const isAdminPage = pathname?.startsWith('/admin');
+  
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -27,6 +31,8 @@ export default function Header() {
       setIsMobileMenuOpen(false);
     }
   };
+
+  if (isAdminPage) return null;
 
   return (
     <header className={`header ${isScrolled ? 'scrolled' : ''}`}>

@@ -3,8 +3,14 @@
 import React from 'react';
 import Link from 'next/link';
 
+import { usePathname } from 'next/navigation';
+
 export default function Footer() {
+  const pathname = usePathname();
+  const isAdminPage = pathname?.startsWith('/admin');
   const currentYear = new Date().getFullYear();
+
+  if (isAdminPage) return null;
 
   return (
     <footer className="footer bg-primary text-inverse py-16">
