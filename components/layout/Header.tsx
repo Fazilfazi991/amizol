@@ -67,7 +67,7 @@ export default function Header() {
             </div>
           </div>
 
-          <div className="header__actions">
+          <div className="header__actions flex items-center gap-6">
             <button className="header__action-btn" title="Account">
               <User size={20} />
             </button>
