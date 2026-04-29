@@ -19,7 +19,6 @@ export async function POST(request: NextRequest) {
       order_items,
       total_price,
       status,
-      payment_method,
     } = body;
 
     if (!customer_name || !customer_phone || !order_items || !total_price) {
@@ -40,7 +39,6 @@ export async function POST(request: NextRequest) {
           order_items,
           total_price,
           status: status || 'Pending',
-          payment_method: payment_method || 'cod',
         },
       ])
       .select()
