@@ -132,10 +132,13 @@ async function getCategoryData(slug: string) {
       .eq('category', slug);
 
     if (sbProducts && sbProducts.length > 0) {
+      console.log(`SUPABASE: Loaded ${sbProducts.length} products for category ${slug}`);
       return { config, products: sbProducts.map((p: any) => ({ ...p, source: slug })) };
+    } else {
+      console.log(`SUPABASE: No products found for category ${slug}`);
     }
-  } catch (e) {
-    console.warn('Supabase fetch failed for category:', e);
+  } catch (e: any) {
+    console.error(`SUPABASE ERROR for category ${slug}:`, e.message);
   }
 
   // Fallback to JSON
