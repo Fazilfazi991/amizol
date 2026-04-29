@@ -878,6 +878,7 @@ table {
   justify-content: center;
   gap: var(--space-10);
   padding: 0 var(--space-6);
+  position: relative;
 }
 
 @media (min-width: 1024px) {
@@ -2239,6 +2240,11 @@ table {
 }
 
 .product-card__name {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  height: 2.5rem;
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-regular);
   color: var(--color-text-primary);
@@ -3770,16 +3776,16 @@ table {
 }
 
 .header__nav-list {
+  list-style: none !important;
   display: flex;
   align-items: center;
   gap: var(--space-8);
-  list-style: none;
   margin: 0;
   padding: 0;
 }
 
 .header__nav-item {
-  position: relative;
+  /* position: relative; */ /* Removed to allow mega-menu to position relative to nav container */
 }
 
 .header__nav-item .header__nav-link {
@@ -3791,19 +3797,20 @@ table {
 /* -- Mega Menu -- */
 .mega-menu {
   position: absolute;
-  top: calc(100% + 8px);
-  left: 50%;
-  transform: translateX(-50%);
+  top: 100%;
+  left: 0;
+  right: 0;
+  width: 100%;
   background: var(--color-bg-primary);
-  border: 1px solid var(--color-border);
-  box-shadow: var(--shadow-xl);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: var(--shadow-lg);
   z-index: var(--z-index-dropdown);
-  min-width: 500px;
-  padding: var(--space-6);
+  padding: var(--space-10) 0;
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  transition: opacity var(--transition-fast), visibility var(--transition-fast);
+  transition: all var(--transition-base);
 }
 
 .header__nav-item:hover .mega-menu,
@@ -3815,8 +3822,11 @@ table {
 
 .mega-menu__grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: var(--space-8);
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-12);
+  max-width: var(--container-width);
+  margin: 0 auto;
+  padding: 0 var(--space-6);
 }
 
 .mega-menu__column { display: flex; flex-direction: column; }
@@ -3831,10 +3841,10 @@ table {
 }
 
 .mega-menu__list {
+  list-style: none !important;
   display: flex;
   flex-direction: column;
   gap: var(--space-3);
-  list-style: none;
   padding: 0;
   margin: 0;
 }

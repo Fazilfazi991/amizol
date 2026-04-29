@@ -97,13 +97,13 @@ export default function CartPage() {
             <span>Total</span>
             <span>AED {subtotal.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</span>
           </div>
-          <button
+          <Link
+            href="/checkout"
             className="btn btn--primary btn--full btn--lg"
-            style={{ marginTop: '1.5rem' }}
-            onClick={() => setIsOpen(true)}
+            style={{ marginTop: '1.5rem', display: 'flex', justifyContent: 'center' }}
           >
             PROCEED TO CHECKOUT
-          </button>
+          </Link>
           <p style={{ fontSize: '0.75rem', color: 'var(--color-text-secondary)', textAlign: 'center', marginTop: '1rem' }}>
             Cash on Delivery · Free Express Delivery · 30-Day Returns
           </p>

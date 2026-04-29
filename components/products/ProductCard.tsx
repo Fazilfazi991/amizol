@@ -47,7 +47,6 @@ export default function ProductCard({ product }: ProductProps) {
           </button>
         </div>
         <div className="product-card__info">
-          <p className="product-card__brand">{product.brand}</p>
           <h3 className="product-card__title">{product.name}</h3>
           <p className="product-card__price">AED {product.price}</p>
         </div>

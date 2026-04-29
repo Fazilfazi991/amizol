@@ -23,6 +23,15 @@ const BRAND_HERO_MAP: Record<string, string> = {
   'travis-scott': '/images/travis_hero.png',
   zegna: '/images/zegna_hero.png',
   'alexander-mcqueen': '/images/mcqueen_hero.png',
+  adidas: 'https://images.unsplash.com/photo-1518002171953-a080ee817e1f?w=800&q=80',
+  'new-balance': 'https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&q=80',
+  hoka: 'https://images.unsplash.com/photo-1595341888016-a392ef81b7de?w=800&q=80',
+  'on-cloud': 'https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=800&q=80',
+  'golden-goose': 'https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?w=800&q=80',
+  asics: 'https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?w=800&q=80',
+  puma: 'https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&q=80',
+  timberland: 'https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=800&q=80',
+  'onitsuka-tiger': 'https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80',
 };
 
 export default function BrandClient({ brandSlug, initialProducts }: Props) {
@@ -41,6 +50,21 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
     }
     return result;
   }, [initialProducts, sortBy]);
+
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 20;
+
+  const paginatedProducts = useMemo(() => {
+    const start = (currentPage - 1) * itemsPerPage;
+    return sortedProducts.slice(start, start + itemsPerPage);
+  }, [sortedProducts, currentPage]);
+
+  const totalPages = Math.ceil(sortedProducts.length / itemsPerPage);
+
+  // Reset page when sortBy changes
+  React.useEffect(() => {
+    setCurrentPage(1);
+  }, [sortBy]);
 
   return (
     <div>
@@ -85,22 +109,66 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
       </div>
 
       <section className="section container">
-        {sortedProducts.length > 0 ? (
-          <div className="product-grid">
-            {sortedProducts.map((product) => (
-              <ProductCard
-                key={`${product.source}-${product.id}`}
-                product={{
-                  id: product.id,
-                  name: product.title || product.name,
-                  brand: product.vendor || product.brandName || brandName,
-                  price: product.price,
-                  image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
-                  source: product.source,
-                }}
-              />
-            ))}
-          </div>
+        {paginatedProducts.length > 0 ? (
+          <>
+            <div className="product-grid">
+              {paginatedProducts.map((product) => (
+                <ProductCard
+                  key={`${product.source}-${product.id}`}
+                  product={{
+                    id: product.id,
+                    name: product.title || product.name,
+                    brand: product.vendor || product.brandName || brandName,
+                    price: product.price,
+                    image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
+                    source: product.source,
+                  }}
+                />
+              ))}
+            </div>
+            
+            {totalPages > 1 && (
+              <div className="pagination mt-16 flex justify-center items-center gap-4" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1rem', marginTop: '4rem' }}>
+                <button 
+                  className="btn btn--secondary btn--sm" 
+                  disabled={currentPage === 1}
+                  onClick={() => {
+                    setCurrentPage(prev => prev - 1);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                  }}
+                >
+                  PREVIOUS
+                </button>
+                
+                <div className="flex gap-2" style={{ display: 'flex', gap: '0.5rem' }}>
+                  {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+                    <button
+                      key={page}
+                      className={`btn btn--sm ${currentPage === page ? 'btn--primary' : 'btn--secondary'}`}
+                      style={{ minWidth: '40px' }}
+                      onClick={() => {
+                        setCurrentPage(page);
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                      }}
+                    >
+                      {page}
+                    </button>
+                  ))}
+                </div>
+
+                <button 
+                  className="btn btn--secondary btn--sm" 
+                  disabled={currentPage === totalPages}
+                  onClick={() => {
+                    setCurrentPage(prev => prev + 1);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                  }}
+                >
+                  NEXT
+                </button>
+              </div>
+            )}
+          </>
         ) : (
           <div className="text-center py-20 w-full col-span-full">
             <p className="text-muted">No products found for this brand yet.</p>

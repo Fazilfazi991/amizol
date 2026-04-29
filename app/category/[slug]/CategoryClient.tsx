@@ -52,6 +52,21 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
     return result;
   }, [initialProducts, sortBy, slug]);
 
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 20;
+
+  const paginatedProducts = useMemo(() => {
+    const start = (currentPage - 1) * itemsPerPage;
+    return sortedProducts.slice(start, start + itemsPerPage);
+  }, [sortedProducts, currentPage]);
+
+  const totalPages = Math.ceil(sortedProducts.length / itemsPerPage);
+
+  // Reset page when sortBy or slug changes
+  React.useEffect(() => {
+    setCurrentPage(1);
+  }, [sortBy, slug]);
+
   return (
     <div>
       <header className="page-header" style={{ position: 'relative', height: '400px', overflow: 'hidden' }}>
@@ -98,26 +113,70 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
       </div>
 
       <section className="section container">
-        {sortedProducts.length === 0 ? (
+        {paginatedProducts.length === 0 ? (
           <div className="text-center py-20 w-full">
             <p className="text-muted">No products found in this category.</p>
           </div>
         ) : (
-          <div className="product-grid">
-            {sortedProducts.map((product) => (
-              <ProductCard
-                key={`${product.source}-${product.id}`}
-                product={{
-                  id: product.id,
-                  name: product.title || product.name,
-                  brand: product.vendor || product.brandName || 'Designer',
-                  price: product.price,
-                  image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
-                  source: product.source,
-                }}
-              />
-            ))}
-          </div>
+          <>
+            <div className="product-grid">
+              {paginatedProducts.map((product) => (
+                <ProductCard
+                  key={`${product.source}-${product.id}`}
+                  product={{
+                    id: product.id,
+                    name: product.title || product.name,
+                    brand: product.vendor || product.brandName || 'Designer',
+                    price: product.price,
+                    image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
+                    source: product.source,
+                  }}
+                />
+              ))}
+            </div>
+            
+            {totalPages > 1 && (
+              <div className="pagination mt-16 flex justify-center items-center gap-4" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1rem', marginTop: '4rem' }}>
+                <button 
+                  className="btn btn--secondary btn--sm" 
+                  disabled={currentPage === 1}
+                  onClick={() => {
+                    setCurrentPage(prev => prev - 1);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                  }}
+                >
+                  PREVIOUS
+                </button>
+                
+                <div className="flex gap-2" style={{ display: 'flex', gap: '0.5rem' }}>
+                  {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+                    <button
+                      key={page}
+                      className={`btn btn--sm ${currentPage === page ? 'btn--primary' : 'btn--secondary'}`}
+                      style={{ minWidth: '40px' }}
+                      onClick={() => {
+                        setCurrentPage(page);
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                      }}
+                    >
+                      {page}
+                    </button>
+                  ))}
+                </div>
+
+                <button 
+                  className="btn btn--secondary btn--sm" 
+                  disabled={currentPage === totalPages}
+                  onClick={() => {
+                    setCurrentPage(prev => prev + 1);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                  }}
+                >
+                  NEXT
+                </button>
+              </div>
+            )}
+          </>
         )}
       </section>
     </div>

@@ -2,10 +2,12 @@
 
 import React, { useEffect, useState } from 'react';
 import { supabase } from '@/lib/supabase';
-import { ShoppingBag, Globe, LogOut } from 'lucide-react';
+import { ShoppingBag, Globe, LogOut, Package, Search, Save, AlertCircle } from 'lucide-react';
+import InventoryManager from '@/components/admin/InventoryManager';
 
 export default function AdminPage() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [currentView, setCurrentView] = useState<'orders' | 'inventory'>('orders');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [orders, setOrders] = useState<any[]>([]);
@@ -98,76 +100,93 @@ export default function AdminPage() {
           <span className="badge">ADMIN</span>
         </div>
         <nav className="admin-nav">
-          <a href="#" className="admin-nav__item active"><ShoppingBag size={18} /> Orders</a>
+          <button 
+            className={`admin-nav__item ${currentView === 'orders' ? 'active' : ''}`}
+            onClick={() => setCurrentView('orders')}
+          >
+            <ShoppingBag size={18} /> Orders
+          </button>
+          <button 
+            className={`admin-nav__item ${currentView === 'inventory' ? 'active' : ''}`}
+            onClick={() => setCurrentView('inventory')}
+          >
+            <Package size={18} /> Inventory
+          </button>
           <a href="/" className="admin-nav__item"><Globe size={18} /> View Website</a>
-          <a href="#" className="admin-nav__item" onClick={handleLogout}><LogOut size={18} /> Logout</a>
+          <button className="admin-nav__item" onClick={handleLogout}><LogOut size={18} /> Logout</button>
         </nav>
       </aside>
 
       <main className="admin-main">
         <header className="admin-header">
-          <h1>Order Management</h1>
-          <div className="admin-stats">
-            <div className="stat-card">
-              <div className="stat-card__title">Total Orders</div>
-              <div className="stat-card__value">{stats.total}</div>
+          <h1>{currentView === 'orders' ? 'Order Management' : 'Inventory Management'}</h1>
+          {currentView === 'orders' && (
+            <div className="admin-stats">
+              <div className="stat-card">
+                <div className="stat-card__title">Total Orders</div>
+                <div className="stat-card__value">{stats.total}</div>
+              </div>
+              <div className="stat-card">
+                <div className="stat-card__title">Pending Action</div>
+                <div className="stat-card__value">{stats.pending}</div>
+              </div>
             </div>
-            <div className="stat-card">
-              <div className="stat-card__title">Pending Action</div>
-              <div className="stat-card__value">{stats.pending}</div>
-            </div>
-          </div>
+          )}
         </header>
 
         <div className="admin-content">
-          <div className="admin-table-container">
-            <table className="admin-table">
-              <thead>
-                <tr>
-                  <th>Date</th>
-                  <th>Customer</th>
-                  <th>Contact</th>
-                  <th>Items</th>
-                  <th>Total (AED)</th>
-                  <th>Status</th>
-                  <th>Actions</th>
-                </tr>
-              </thead>
-              <tbody>
-                {orders.map((order) => (
-                  <tr key={order.id}>
-                    <td>{new Date(order.created_at).toLocaleString()}</td>
-                    <td>
-                      <strong>{order.customer_name}</strong>
-                      <div className="customer-meta">{order.customer_address}</div>
-                    </td>
-                    <td><a href={`tel:${order.customer_phone}`}>{order.customer_phone}</a></td>
-                    <td>
-                      <ul className="order-items-list">
-                        {order.order_items?.map((item: any, idx: number) => (
-                          <li key={idx}>{item.name} ({item.size}) - {item.price}</li>
-                        ))}
-                      </ul>
-                    </td>
-                    <td><strong>AED {order.total_price.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</strong></td>
-                    <td>
-                      <span className={`status-badge ${order.status.toLowerCase()}`}>
-                        {order.status}
-                      </span>
-                    </td>
-                    <td>
-                      {order.status === 'Pending' && (
-                        <button className="btn btn--primary btn-small" onClick={() => updateStatus(order.id, 'Confirmed')}>Confirm</button>
-                      )}
-                      {order.status === 'Confirmed' && (
-                        <button className="btn btn--secondary btn-small" style={{ borderColor: '#22c55e', color: '#22c55e' }} onClick={() => updateStatus(order.id, 'Delivered')}>Mark Delivered</button>
-                      )}
-                    </td>
+          {currentView === 'orders' ? (
+            <div className="admin-table-container">
+              <table className="admin-table">
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Customer</th>
+                    <th>Contact</th>
+                    <th>Items</th>
+                    <th>Total (AED)</th>
+                    <th>Status</th>
+                    <th>Actions</th>
                   </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
+                </thead>
+                <tbody>
+                  {orders.map((order) => (
+                    <tr key={order.id}>
+                      <td>{new Date(order.created_at).toLocaleString()}</td>
+                      <td>
+                        <strong>{order.customer_name}</strong>
+                        <div className="customer-meta">{order.customer_address}</div>
+                      </td>
+                      <td><a href={`tel:${order.customer_phone}`}>{order.customer_phone}</a></td>
+                      <td>
+                        <ul className="order-items-list">
+                          {order.order_items?.map((item: any, idx: number) => (
+                            <li key={idx}>{item.name} ({item.size}) - {item.price}</li>
+                          ))}
+                        </ul>
+                      </td>
+                      <td><strong>AED {order.total_price.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</strong></td>
+                      <td>
+                        <span className={`status-badge ${order.status.toLowerCase()}`}>
+                          {order.status}
+                        </span>
+                      </td>
+                      <td>
+                        {order.status === 'Pending' && (
+                          <button className="btn btn--primary btn-small" onClick={() => updateStatus(order.id, 'Confirmed')}>Confirm</button>
+                        )}
+                        {order.status === 'Confirmed' && (
+                          <button className="btn btn--secondary btn-small" style={{ borderColor: '#22c55e', color: '#22c55e' }} onClick={() => updateStatus(order.id, 'Delivered')}>Mark Delivered</button>
+                        )}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          ) : (
+            <InventoryManager />
+          )}
         </div>
       </main>
     </div>

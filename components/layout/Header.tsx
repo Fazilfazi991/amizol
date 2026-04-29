@@ -33,12 +33,12 @@ export default function Header() {
       <div className="header__top">
         <div className="container header__top-inner">
           <div className="header__top-left">
-            <a href="#" className="header__top-link">UAE / العربية</a>
+            <button className="header__top-link cursor-pointer bg-transparent border-none p-0" onClick={() => alert('Language features coming soon')}>UAE / العربية</button>
           </div>
           <div className="header__top-right">
-            <a href="#" className="header__top-link">Track Order</a>
+            <Link href="/track" className="header__top-link">Track Order</Link>
             <span className="header__top-divider"></span>
-            <a href="#" className="header__top-link">Sign In / Register</a>
+            <Link href="/login" className="header__top-link">Sign In / Register</Link>
           </div>
         </div>
       </div>

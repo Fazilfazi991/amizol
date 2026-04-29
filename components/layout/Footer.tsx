@@ -32,7 +32,7 @@ export default function Footer() {
             <h3 className="text-sm font-bold text-uppercase mb-6">ABOUT LITTLE DUBAI</h3>
             <ul className="flex flex-col gap-3" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
               <li><Link href="/about" className="text-inverse opacity-75 hover:opacity-100">Our Story</Link></li>
-              <li><Link href="/shipping" className="text-inverse opacity-75 hover:opacity-100">Sustainability</Link></li>
+              <li><Link href="/sustainability" className="text-inverse opacity-75 hover:opacity-100">Sustainability</Link></li>
               <li><Link href="/contact" className="text-inverse opacity-75 hover:opacity-100">Careers</Link></li>
             </ul>
           </div>
@@ -40,7 +40,7 @@ export default function Footer() {
             <h3 className="text-sm font-bold text-uppercase mb-6">CONNECT WITH US</h3>
             <div className="flex flex-col gap-3" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
               <a href="https://www.instagram.com/littledubai_official" target="_blank" rel="noopener noreferrer" className="text-inverse opacity-75 hover:opacity-100">Instagram</a>
-              <a href="https://wa.me/971500000000" target="_blank" rel="noopener noreferrer" className="text-inverse opacity-75 hover:opacity-100">WhatsApp</a>
+              <a href="https://wa.me/971501234567" target="_blank" rel="noopener noreferrer" className="text-inverse opacity-75 hover:opacity-100">WhatsApp</a>
               <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="text-inverse opacity-75 hover:opacity-100">Facebook</a>
             </div>
           </div>

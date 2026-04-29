@@ -1,10 +1,8 @@
 'use client';
 
-import React, { useState } from 'react';
-import Image from 'next/image';
-import Link from 'next/link';
-import { Truck, RotateCcw, Share2, Heart, MessageCircle } from 'lucide-react';
+import { Truck, RotateCcw, Share2, Heart, MessageCircle, AlertTriangle } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
+import { supabase } from '@/lib/supabase';
 
 interface Props {
   initialProduct: any;
@@ -14,7 +12,30 @@ interface Props {
 
 export default function ProductDetailClient({ initialProduct, productId, source }: Props) {
   const [selectedSize, setSelectedSize] = useState('EU 42');
+  const [stockStatus, setStockStatus] = useState({ status: 'in_stock', count: null as number | null });
+  const [loading, setLoading] = useState(true);
   const { addToCart, setIsOpen } = useCart();
+
+  React.useEffect(() => {
+    async function fetchStock() {
+      try {
+        const { data, error } = await supabase
+          .from('product_inventory')
+          .select('status, stock_count')
+          .eq('product_id', productId)
+          .single();
+
+        if (data) {
+          setStockStatus({ status: data.status, count: data.stock_count });
+        }
+      } catch (e) {
+        console.error('Error fetching stock status:', e);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchStock();
+  }, [productId]);
   
   if (!initialProduct) {
     return (
@@ -99,36 +120,64 @@ export default function ProductDetailClient({ initialProduct, productId, source 
           
           <div className="product-info__price">
             <span>AED {price}</span>
-            <span className="badge badge--success">In Stock</span>
+            {stockStatus.status === 'in_stock' && (
+              <span className="badge badge--success">In Stock</span>
+            )}
+            {stockStatus.status === 'limited_stock' && (
+              <span className="badge" style={{ backgroundColor: '#fff7ed', color: '#9a3412', borderColor: '#f97316' }}>
+                Limited Stock {stockStatus.count ? `(${stockStatus.count} left)` : ''}
+              </span>
+            )}
+            {stockStatus.status === 'out_of_stock' && (
+              <span className="badge" style={{ backgroundColor: '#fef2f2', color: '#991b1b', borderColor: '#ef4444' }}>
+                Out of Stock
+              </span>
+            )}
           </div>
           
-          <div className="product-info__options">
-            <div className="product-info__option">
-              <p className="product-info__option-label">SELECT SIZE (EU)</p>
-              <div className="size-selector">
-                {['40', '41', '42', '43', '44', '45'].map(size => (
-                  <button 
-                    key={size} 
-                    className={`size-swatch__item ${selectedSize === `EU ${size}` ? 'size-swatch__item--selected' : ''}`}
-                    onClick={() => setSelectedSize(`EU ${size}`)}
-                  >
-                    {size}
-                  </button>
-                ))}
+          {!(name.toLowerCase().includes('watch') || name.toLowerCase().includes('bag') || brand.toLowerCase().includes('watch') || brand.toLowerCase().includes('bag') || initialProduct.product_type?.toLowerCase().includes('watch') || initialProduct.product_type?.toLowerCase().includes('bag')) && (
+            <div className="product-info__options">
+              <div className="product-info__option">
+                <p className="product-info__option-label">SELECT SIZE (EU)</p>
+                <div className="size-selector">
+                  {['40', '41', '42', '43', '44', '45'].map(size => (
+                    <button 
+                      key={size} 
+                      className={`size-swatch__item ${selectedSize === `EU ${size}` ? 'size-swatch__item--selected' : ''}`}
+                      onClick={() => setSelectedSize(`EU ${size}`)}
+                    >
+                      {size}
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
+          )}
 
           <div className="product-info__actions">
-            <button className="btn btn--primary btn--full btn--lg" onClick={handleAddToCart}>
-              ADD TO BAG
-            </button>
+            {stockStatus.status === 'out_of_stock' ? (
+              <button className="btn btn--secondary btn--full btn--lg" disabled style={{ opacity: 0.7, cursor: 'not-allowed' }}>
+                SOLD OUT
+              </button>
+            ) : (
+              <button className="btn btn--primary btn--full btn--lg" onClick={handleAddToCart}>
+                ADD TO BAG
+              </button>
+            )}
+            
             <button 
               className="btn btn--full btn--lg" 
-              style={{ backgroundColor: '#25D366', color: 'white', borderColor: '#25D366' }}
-              onClick={handleWhatsApp}
+              style={{ 
+                backgroundColor: stockStatus.status === 'out_of_stock' ? '#f5f5f5' : '#25D366', 
+                color: stockStatus.status === 'out_of_stock' ? '#888' : 'white', 
+                borderColor: stockStatus.status === 'out_of_stock' ? '#ddd' : '#25D366',
+                cursor: stockStatus.status === 'out_of_stock' ? 'not-allowed' : 'pointer'
+              }}
+              onClick={stockStatus.status === 'out_of_stock' ? undefined : handleWhatsApp}
+              disabled={stockStatus.status === 'out_of_stock'}
             >
-              <MessageCircle size={20} className="mr-2" /> ORDER ON WHATSAPP
+              <MessageCircle size={20} className="mr-2" /> 
+              {stockStatus.status === 'out_of_stock' ? 'NOT AVAILABLE' : 'ORDER ON WHATSAPP'}
             </button>
           </div>
 

@@ -11,12 +11,18 @@ export default function HomePage() {
   useEffect(() => {
     async function fetchData() {
       try {
-        // Both JSON files contain the same products, so fetch only one
-        // and pick a varied selection to show on homepage
-        const res = await fetch('/littledubai-adidas.json');
-        const data = await res.json();
-        const products = (data.products || []).slice(0, 8).map((p: any) => ({ ...p, source: 'adidas' }));
-        setNewArrivals(products);
+        const [mensRes, womensRes] = await Promise.all([
+          fetch('/littledubai-mens-shoes.json'),
+          fetch('/littledubai-womens-shoes.json')
+        ]);
+        
+        const mensData = await mensRes.json();
+        const womensData = await womensRes.json();
+        
+        const mensProducts = (mensData.products || []).slice(0, 4).map((p: any) => ({ ...p, source: 'mens' }));
+        const womensProducts = (womensData.products || []).slice(4, 8).map((p: any) => ({ ...p, source: 'womens' }));
+        
+        setNewArrivals([...mensProducts, ...womensProducts]);
       } catch (e) {
         console.error('Failed to fetch products', e);
       }
