@@ -44,7 +44,10 @@ export default function InventoryManager() {
     setLoading(true);
     try {
       // 1. Search in Supabase products table
-      let query = supabase.from('products').select('*');
+      // We join with product_inventory to get the current status
+      let query = supabase
+        .from('products')
+        .select('*, product_inventory(status, stock_count)');
       
       if (searchQuery.trim()) {
         query = query.or(`id.ilike.%${searchQuery}%, name.ilike.%${searchQuery}%, brand.ilike.%${searchQuery}%`);
@@ -90,7 +93,12 @@ export default function InventoryManager() {
         }
       }
 
-      const merged = [...(sbProducts || [])];
+      const merged = (sbProducts || []).map((p: any) => ({
+        ...p,
+        status: p.product_inventory?.[0]?.status || p.product_inventory?.status,
+        stock_count: p.product_inventory?.[0]?.stock_count || p.product_inventory?.stock_count
+      }));
+
       jsonFound.forEach(jp => {
         if (!merged.find(sp => String(sp.id) === String(jp.id))) {
           merged.push(jp);
@@ -233,7 +241,12 @@ export default function InventoryManager() {
                 <img src={p.image_urls?.[0] || p.images?.[0]} alt="" />
                 <div className="product-item__info">
                   <div className="product-item__name">{p.title || p.name}</div>
-                  <div className="product-item__id">ID: {p.id}</div>
+                  <div className="product-item__meta">
+                    <span className="product-item__id">ID: {p.id}</span>
+                    {p.status && (
+                      <span className={`status-dot ${p.status}`}></span>
+                    )}
+                  </div>
                 </div>
               </div>
             ))}
@@ -457,10 +470,25 @@ export default function InventoryManager() {
           overflow: hidden;
           text-overflow: ellipsis;
         }
+        .product-item__meta {
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          margin-top: 4px;
+        }
         .product-item__id {
-          font-size: 12px;
+          font-size: 11px;
           color: #888;
         }
+        .status-dot {
+          width: 8px;
+          height: 8px;
+          border-radius: 50%;
+        }
+        .status-dot.in_stock { background: #22c55e; }
+        .status-dot.limited_stock { background: #f97316; }
+        .status-dot.out_of_stock { background: #ef4444; }
+
 
         .inventory-main {
           background: #fafafa;

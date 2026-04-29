@@ -4335,3 +4335,40 @@ table {
 
 
 @media (max-width: 768px) { .product-card__add { opacity: 1 !important; transform: translateY(0) !important; } }
+/* Product Card Status Badges */
+.product-card.out-of-stock .product-card__image {
+    opacity: 0.6;
+    filter: grayscale(1);
+}
+
+.product-card__status-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.4);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 1.2rem;
+    letter-spacing: 0.1em;
+    z-index: 2;
+}
+
+.product-card__status-badge {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: #fff;
+    color: #9a3412;
+    padding: 4px 8px;
+    font-size: 10px;
+    font-weight: 800;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 1px solid #f97316;
+    z-index: 2;
+}
