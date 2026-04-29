@@ -2,8 +2,8 @@
 
 import React from 'react';
 import Link from 'next/link';
-
 import { usePathname } from 'next/navigation';
+import { Instagram, Facebook, MessageCircle } from 'lucide-react';
 
 export default function Footer() {
   const pathname = usePathname();
@@ -44,14 +44,20 @@ export default function Footer() {
           </div>
           <div className="flex flex-col gap-6">
             <h3 className="text-sm font-bold tracking-widest text-uppercase mb-2">CONNECT WITH US</h3>
-            <div className="flex flex-col gap-4">
-              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="text-inverse opacity-70 hover:opacity-100 transition-opacity">Instagram</a>
-              <a href="https://wa.me/971500000000" target="_blank" rel="noopener noreferrer" className="text-inverse opacity-70 hover:opacity-100 transition-opacity">WhatsApp</a>
-              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="text-inverse opacity-70 hover:opacity-100 transition-opacity">Facebook</a>
+            <div className="flex gap-4">
+              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-colors" title="Instagram">
+                <Instagram size={20} />
+              </a>
+              <a href="https://wa.me/971500000000" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-colors" title="WhatsApp">
+                <MessageCircle size={20} />
+              </a>
+              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-colors" title="Facebook">
+                <Facebook size={20} />
+              </a>
             </div>
           </div>
         </div>
-        <div className="text-center mt-16 pt-8 border-t border-secondary opacity-50">
+        <div className="text-center mt-16 pt-8 border-t border-white/10 opacity-50">
           <p className="text-xs">© {currentYear} Little Dubai. All Rights Reserved. | UAE</p>
         </div>
       </div>

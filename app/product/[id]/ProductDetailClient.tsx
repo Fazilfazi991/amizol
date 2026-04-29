@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Truck, RotateCcw, Share2, Heart, MessageCircle, AlertTriangle } from 'lucide-react';
+import { Truck, ShieldCheck, Heart, MessageCircle, Share2 } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
 import { supabase } from '@/lib/supabase';
 
@@ -16,13 +16,12 @@ interface Props {
 export default function ProductDetailClient({ initialProduct, productId, source }: Props) {
   const [selectedSize, setSelectedSize] = useState('EU 42');
   const [stockStatus, setStockStatus] = useState({ status: 'in_stock', count: null as number | null });
-  const [loading, setLoading] = useState(true);
   const { addToCart, setIsOpen } = useCart();
 
   React.useEffect(() => {
     async function fetchStock() {
       try {
-        const { data, error } = await supabase
+        const { data } = await supabase
           .from('product_inventory')
           .select('status, stock_count')
           .eq('product_id', productId)
@@ -33,8 +32,6 @@ export default function ProductDetailClient({ initialProduct, productId, source 
         }
       } catch (e) {
         console.error('Error fetching stock status:', e);
-      } finally {
-        setLoading(false);
       }
     }
     fetchStock();
@@ -42,20 +39,19 @@ export default function ProductDetailClient({ initialProduct, productId, source 
   
   if (!initialProduct) {
     return (
-      <div className="container py-20 text-center">
-        <h2>Product not found</h2>
-        <p className="text-secondary mb-8">The product you are looking for does not exist or has been removed.</p>
-        <Link href="/" className="btn btn--primary">BACK TO HOME</Link>
+      <div className="container py-32 text-center">
+        <h2 className="text-3xl font-display mb-4">Product not found</h2>
+        <p className="text-secondary mb-12">The product you are looking for does not exist or has been removed.</p>
+        <Link href="/" className="btn btn--primary px-12">BACK TO HOME</Link>
       </div>
     );
   }
 
-  const [activeImage, setActiveImage] = useState(initialProduct.image_urls?.[0] || initialProduct.images?.[0] || '/images/placeholder.png');
-
   const name = initialProduct.title || initialProduct.name;
-  const brand = initialProduct.vendor || initialProduct.brandName || 'Designer';
+  const brand = initialProduct.vendor || initialProduct.brandName || 'Little Dubai';
   const images = initialProduct.image_urls || initialProduct.images || [];
   const price = initialProduct.price;
+  const [activeImage, setActiveImage] = useState(images[0] || '/images/placeholder.png');
 
   const handleAddToCart = () => {
     addToCart({
@@ -75,128 +71,115 @@ export default function ProductDetailClient({ initialProduct, productId, source 
   };
 
   return (
-    <div className="container section">
-      <div className="product-detail">
-        <div className="product-gallery">
-          <div className="product-gallery__thumbnails">
-            {images.slice(0, 5).map((img: string, idx: number) => (
-              <div 
+    <div className="container py-12 md:py-20">
+      <div className="grid lg:grid-cols-2 gap-16 items-start">
+        {/* Gallery Section */}
+        <div className="flex flex-col-reverse md:flex-row gap-6 sticky top-24">
+          {/* Thumbnails */}
+          <div className="flex md:flex-col gap-4 overflow-x-auto md:overflow-y-auto no-scrollbar md:w-24">
+            {images.slice(0, 6).map((img: string, idx: number) => (
+              <button 
                 key={idx} 
-                className={`product-gallery__thumb ${activeImage === img ? 'active' : ''}`}
+                className={`relative aspect-[3/4] md:aspect-square w-20 md:w-full flex-shrink-0 border transition-all ${activeImage === img ? 'border-primary' : 'border-light opacity-60 hover:opacity-100'}`}
                 onClick={() => setActiveImage(img)}
               >
-                <div style={{ position: 'relative', width: '100%', height: '100%' }}>
-                  <Image 
-                    src={img} 
-                    alt={`${name} thumb ${idx}`} 
-                    fill 
-                    className="object-cover"
-                    sizes="80px"
-                  />
-                </div>
-              </div>
+                <Image src={img} alt={`${name} ${idx}`} fill className="object-contain p-2" />
+              </button>
             ))}
           </div>
-          <div className="product-gallery__main">
-            <div style={{ position: 'relative', width: '100%', height: '600px' }}>
-              <Image 
-                src={activeImage} 
-                alt={name} 
-                fill 
-                className="product-gallery__image object-contain" 
-                priority
-                sizes="(max-width: 768px) 100vw, 50vw"
-              />
+          
+          {/* Main Image */}
+          <div className="flex-1 relative aspect-[3/4] bg-tertiary overflow-hidden group">
+            <Image 
+              src={activeImage} 
+              alt={name} 
+              fill 
+              className="object-contain p-8 transition-transform duration-700 group-hover:scale-110" 
+              priority
+            />
+            <div className="absolute top-6 right-6 flex flex-col gap-3">
+              <button className="w-10 h-10 bg-white shadow-sm flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
+                <Heart size={20} />
+              </button>
+              <button className="w-10 h-10 bg-white shadow-sm flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
+                <Share2 size={20} />
+              </button>
             </div>
-            <div className="product-gallery__actions">
-               <button className="icon-btn"><Share2 size={18} /></button>
-               <button className="icon-btn"><Heart size={18} /></button>
-            </div>
+            {stockStatus.status === 'out_of_stock' && (
+              <div className="absolute inset-0 bg-white/60 flex items-center justify-center">
+                <span className="bg-primary text-white px-8 py-4 font-bold text-xl tracking-widest uppercase">Sold Out</span>
+              </div>
+            )}
           </div>
         </div>
 
-        <div className="product-info">
-          <div className="product-info__header">
-            <p className="product-info__brand">{brand}</p>
-            <h1 className="product-info__title">{name}</h1>
-          </div>
-          
-          <div className="product-info__price">
-            <span>AED {price}</span>
-            {stockStatus.status === 'in_stock' && (
-              <span className="badge badge--success">In Stock</span>
-            )}
-            {stockStatus.status === 'limited_stock' && (
-              <span className="badge" style={{ backgroundColor: '#fff7ed', color: '#9a3412', borderColor: '#f97316' }}>
-                Limited Stock {stockStatus.count ? `(${stockStatus.count} left)` : ''}
-              </span>
-            )}
-            {stockStatus.status === 'out_of_stock' && (
-              <span className="badge" style={{ backgroundColor: '#fef2f2', color: '#991b1b', borderColor: '#ef4444' }}>
-                Out of Stock
-              </span>
-            )}
-          </div>
-          
-          {!(name.toLowerCase().includes('watch') || name.toLowerCase().includes('bag') || brand.toLowerCase().includes('watch') || brand.toLowerCase().includes('bag') || initialProduct.product_type?.toLowerCase().includes('watch') || initialProduct.product_type?.toLowerCase().includes('bag')) && (
-            <div className="product-info__options">
-              <div className="product-info__option">
-                <p className="product-info__option-label">SELECT SIZE (EU)</p>
-                <div className="size-selector">
-                  {['40', '41', '42', '43', '44', '45'].map(size => (
-                    <button 
-                      key={size} 
-                      className={`size-swatch__item ${selectedSize === `EU ${size}` ? 'size-swatch__item--selected' : ''}`}
-                      onClick={() => setSelectedSize(`EU ${size}`)}
-                    >
-                      {size}
-                    </button>
-                  ))}
-                </div>
-              </div>
+        {/* Info Section */}
+        <div className="flex flex-col gap-10">
+          <div>
+            <div className="flex items-center justify-between mb-4">
+              <span className="text-secondary tracking-[0.2em] text-xs uppercase font-bold">{brand}</span>
+              {stockStatus.status === 'limited_stock' && (
+                <span className="text-error text-[10px] font-bold uppercase tracking-widest bg-error/5 px-2 py-1">Only {stockStatus.count} left</span>
+              )}
             </div>
-          )}
-
-          <div className="product-info__actions">
-            {stockStatus.status === 'out_of_stock' ? (
-              <button className="btn btn--secondary btn--full btn--lg" disabled style={{ opacity: 0.7, cursor: 'not-allowed' }}>
-                SOLD OUT
-              </button>
-            ) : (
-              <button className="btn btn--primary btn--full btn--lg" onClick={handleAddToCart}>
-                ADD TO BAG
-              </button>
-            )}
-            
-            <button 
-              className="btn btn--full btn--lg" 
-              style={{ 
-                backgroundColor: stockStatus.status === 'out_of_stock' ? '#f5f5f5' : '#25D366', 
-                color: stockStatus.status === 'out_of_stock' ? '#888' : 'white', 
-                borderColor: stockStatus.status === 'out_of_stock' ? '#ddd' : '#25D366',
-                cursor: stockStatus.status === 'out_of_stock' ? 'not-allowed' : 'pointer'
-              }}
-              onClick={stockStatus.status === 'out_of_stock' ? undefined : handleWhatsApp}
-              disabled={stockStatus.status === 'out_of_stock'}
-            >
-              <MessageCircle size={20} className="mr-2" /> 
-              {stockStatus.status === 'out_of_stock' ? 'NOT AVAILABLE' : 'ORDER ON WHATSAPP'}
-            </button>
+            <h1 className="text-4xl md:text-5xl font-display leading-[1.1] mb-6 uppercase tracking-tight">{name}</h1>
+            <p className="text-3xl font-semibold">AED {price}</p>
           </div>
 
-          <div className="product-info__services">
-            <div className="product-info__service">
-              <Truck size={20} className="product-info__service-icon" />
-              <div>
-                <strong>Free Express Delivery</strong>
-                <p className="text-xs text-muted">Delivery within 24-48 hours in UAE</p>
+          <div className="py-10 border-y border-light">
+            <div className="mb-8">
+              <div className="flex justify-between items-center mb-4">
+                <label className="text-[10px] font-bold tracking-[0.2em] text-secondary uppercase">Select Size (EU)</label>
+                <button className="text-[10px] font-bold tracking-widest text-accent border-b border-accent uppercase">Size Guide</button>
+              </div>
+              <div className="grid grid-cols-4 md:grid-cols-6 gap-3">
+                {['39', '40', '41', '42', '43', '44', '45', '46'].map((size) => (
+                  <button 
+                    key={size}
+                    className={`h-12 border text-sm font-medium transition-all ${selectedSize === `EU ${size}` ? 'bg-primary text-white border-primary' : 'bg-white border-light hover:border-secondary'}`}
+                    onClick={() => setSelectedSize(`EU ${size}`)}
+                  >
+                    {size}
+                  </button>
+                ))}
               </div>
             </div>
-            <div className="product-info__service">
-              <RotateCcw size={20} className="product-info__service-icon" />
+
+            <div className="flex flex-col gap-4">
+              <button 
+                className={`btn btn--primary btn--lg w-full h-16 text-sm font-bold tracking-widest ${stockStatus.status === 'out_of_stock' ? 'opacity-50 cursor-not-allowed' : 'hover:scale-[1.01]'}`}
+                disabled={stockStatus.status === 'out_of_stock'}
+                onClick={handleAddToCart}
+              >
+                {stockStatus.status === 'out_of_stock' ? 'OUT OF STOCK' : 'ADD TO BAG'}
+              </button>
+              <button 
+                className="btn btn--secondary btn--lg w-full h-16 text-sm font-bold tracking-widest border-2 flex items-center justify-center gap-3 hover:bg-success hover:border-success hover:text-white transition-all"
+                onClick={handleWhatsApp}
+              >
+                <MessageCircle size={20} />
+                ORDER ON WHATSAPP
+              </button>
+            </div>
+          </div>
+
+          <div className="grid sm:grid-cols-2 gap-8 pt-4">
+            <div className="flex gap-4 items-start">
+              <div className="w-12 h-12 bg-tertiary flex items-center justify-center shrink-0">
+                <Truck size={22} className="text-primary" />
+              </div>
               <div>
-                <strong>Easy Returns</strong>
-                <p className="text-xs text-muted">30-day free returns and exchanges</p>
+                <p className="font-bold text-sm tracking-wide mb-1 uppercase">Free Delivery</p>
+                <p className="text-secondary text-xs leading-relaxed">Express delivery across the UAE within 24-48 hours.</p>
+              </div>
+            </div>
+            <div className="flex gap-4 items-start">
+              <div className="w-12 h-12 bg-tertiary flex items-center justify-center shrink-0">
+                <ShieldCheck size={22} className="text-primary" />
+              </div>
+              <div>
+                <p className="font-bold text-sm tracking-wide mb-1 uppercase">100% Authentic</p>
+                <p className="text-secondary text-xs leading-relaxed">Guaranteed authentic luxury products sourced from authorized retailers.</p>
               </div>
             </div>
           </div>

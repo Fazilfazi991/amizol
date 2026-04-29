@@ -68,36 +68,36 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
 
   return (
     <div>
-      <header className="page-header page-header--lg" style={{ position: 'relative', height: '500px', overflow: 'hidden' }}>
-        <video
-          autoPlay
-          muted
-          loop
-          playsInline
-          className="object-cover w-full h-full"
-          style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-        >
-          <source src="/hero-video.mp4" type="video/mp4" />
-        </video>
-        <div className="page-header__overlay"></div>
-        <div className="container page-header__content" style={{ position: 'relative', zIndex: 2 }}>
-          <h1 className="page-header__title">{brandName}</h1>
-          <p className="page-header__subtitle">Explore the latest collection from {brandName}</p>
+      <header className="page-header page-header--lg relative h-[500px] overflow-hidden flex items-center justify-center">
+        <Image 
+          src={heroImage} 
+          alt={brandName} 
+          fill 
+          className="object-cover" 
+          priority
+          onError={(e: any) => {
+            e.target.src = 'https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=2012&auto=format&fit=crop';
+          }}
+        />
+        <div className="page-header__overlay absolute inset-0 bg-black/40"></div>
+        <div className="container page-header__content relative z-10 text-center text-white">
+          <h1 className="page-header__title text-5xl font-display mb-4 tracking-widest">{brandName}</h1>
+          <p className="page-header__subtitle text-xl font-light opacity-90">Explore the exclusive collection from {brandName}</p>
         </div>
       </header>
 
-      <div className="container py-8">
-        <div className="flex justify-between items-center" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <div>
-             <span className="text-secondary text-sm">{sortedProducts.length} Products</span>
+      <div className="container py-12 border-b border-light">
+        <div className="flex flex-col md:flex-row justify-between items-center gap-6">
+          <div className="flex items-center gap-2">
+             <span className="w-2 h-2 bg-accent rounded-full"></span>
+             <span className="text-secondary text-sm font-medium tracking-wide uppercase">{sortedProducts.length} Products Found</span>
           </div>
-          <div className="sort-container">
-            <label className="text-xs font-bold mr-2">SORT BY:</label>
+          <div className="sort-container flex items-center gap-4">
+            <label className="text-[10px] font-bold tracking-[0.2em] text-secondary uppercase">SORT BY:</label>
             <select 
               value={sortBy} 
               onChange={(e) => setSortBy(e.target.value)}
-              className="form-select text-sm"
-              style={{ padding: '0.5rem', border: '1px solid var(--color-border)' }}
+              className="form-select text-sm bg-transparent border-b border-secondary/30 pb-1 pr-8 focus:border-accent transition-colors"
             >
               <option value="featured">Featured</option>
               <option value="newest">Newest Arrivals</option>
