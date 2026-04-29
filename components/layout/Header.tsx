@@ -50,21 +50,21 @@ export default function Header() {
       </div>
 
       <div className="header__main container">
-        <div className="header__inner">
+        <div className="header__inner flex items-center justify-between w-full">
           <button className="header__mobile-toggle" onClick={() => setIsMobileMenuOpen(true)}>
             <Menu size={24} />
           </button>
 
-          <div className="header__logo">
-            <Link href="/">LITTLE DUBAI</Link>
+          <div className="header__logo flex-shrink-0">
+            <Link href="/" className="font-display text-2xl tracking-tight">LITTLE DUBAI</Link>
           </div>
 
-          <div className="header__search">
-            <div className="header__search-container">
-              <Search size={18} className="header__search-icon" />
+          <div className="header__search flex-1 max-w-md mx-10 hidden md:block">
+            <div className="header__search-container relative">
+              <Search size={18} className="absolute left-4 top-1/2 -translate-y-1/2 text-secondary" />
               <input 
                 type="text" 
-                className="header__search-input" 
+                className="header__search-input w-full pl-12 pr-4 py-2 bg-secondary rounded-none text-sm" 
                 placeholder="Search brands, products..." 
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
@@ -73,7 +73,7 @@ export default function Header() {
             </div>
           </div>
 
-          <div className="header__actions flex items-center gap-6">
+          <div className="header__actions flex items-center gap-6 flex-shrink-0">
             <button className="header__action-btn" title="Account">
               <User size={20} />
             </button>
@@ -81,9 +81,13 @@ export default function Header() {
               <Heart size={20} />
             </button>
             <button className="header__action-btn" onClick={() => setIsOpen(true)} title="Bag">
-              <div className="header__cart-icon-wrapper">
+              <div className="relative">
                 <ShoppingBag size={20} />
-                {cart.length > 0 && <span className="header__action-badge">{cart.length}</span>}
+                {cart.length > 0 && (
+                  <span className="absolute -top-2 -right-2 bg-accent text-inverse text-[10px] font-bold w-4 h-4 flex items-center justify-center rounded-full">
+                    {cart.length}
+                  </span>
+                )}
               </div>
             </button>
           </div>

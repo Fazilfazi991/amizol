@@ -776,14 +776,18 @@ table {
 
 /* Header Top Bar */
 .header__top {
-  height: var(--header-top-height);
+  height: 42px; /* Increased height */
   display: none;
   align-items: center;
   justify-content: flex-end;
   gap: var(--space-6);
   padding: 0 var(--space-6);
-  font-size: var(--font-size-xs);
+  font-size: 11px; /* Slightly larger and more readable */
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
   background-color: var(--color-bg-secondary);
+  border-bottom: 1px solid var(--color-border-light);
 }
 
 @media (min-width: 768px) {
@@ -1087,10 +1091,11 @@ table {
 
 .hero__title {
   font-family: var(--font-family-display);
-  font-size: var(--font-size-4xl);
-  font-weight: var(--font-weight-regular);
-  line-height: 1.2;
-  margin-bottom: var(--space-6);
+  font-size: var(--font-size-5xl);
+  font-weight: 700; /* Bolder for luxury feel */
+  line-height: 1.1;
+  margin-bottom: var(--space-4);
+  letter-spacing: -0.02em;
 }
 
 @media (min-width: 768px) {
@@ -1108,8 +1113,9 @@ table {
 .hero__actions {
   display: flex;
   flex-direction: column;
-  gap: var(--space-4);
+  gap: var(--space-6);
   align-items: center;
+  margin-top: var(--space-8);
 }
 
 @media (min-width: 480px) {
@@ -1137,9 +1143,10 @@ table {
 
 .category-card {
   position: relative;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 4 / 5; /* Standardized luxury aspect ratio */
   overflow: hidden;
   display: block;
+  background-color: #000;
 }
 
 .category-card__image {
@@ -1871,14 +1878,16 @@ table {
 }
 
 .btn--white {
-  background-color: transparent;
-  color: var(--color-text-inverse);
-  border-color: var(--color-text-inverse);
+  background-color: var(--color-bg-primary);
+  color: var(--color-primary);
+  border-color: var(--color-bg-primary);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
 }
 
 .btn--white:hover:not(:disabled) {
-  background-color: var(--color-text-inverse);
-  color: var(--color-primary);
+  background-color: #f8f8f8;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
 /* Button with Icon */
@@ -3001,8 +3010,9 @@ table {
 .brands-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-3);
+  gap: 1.5rem; /* Increased spacing for readability */
   justify-content: flex-start;
+  padding: var(--space-4) 0;
 }
 
 .brand-item {
