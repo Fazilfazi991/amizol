@@ -124,6 +124,21 @@ async function getCategoryData(slug: string) {
   const config = CATEGORY_MAP[slug];
   if (!config) return null;
 
+  try {
+    const { supabase } = require('@/lib/supabase');
+    const { data: sbProducts, error } = await supabase
+      .from('products')
+      .select('*')
+      .eq('category', slug);
+
+    if (sbProducts && sbProducts.length > 0) {
+      return { config, products: sbProducts.map((p: any) => ({ ...p, source: slug })) };
+    }
+  } catch (e) {
+    console.warn('Supabase fetch failed for category:', e);
+  }
+
+  // Fallback to JSON
   const fs = require('fs');
   const path = require('path');
   const allProducts: any[] = [];

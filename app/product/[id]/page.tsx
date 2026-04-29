@@ -8,6 +8,19 @@ interface Props {
 }
 
 async function getProduct(id: string, source: string) {
+  try {
+    const { supabase } = require('@/lib/supabase');
+    const { data: sbProduct, error } = await supabase
+      .from('products')
+      .select('*')
+      .eq('id', id)
+      .single();
+
+    if (sbProduct) return sbProduct;
+  } catch (e) {
+    console.warn('Supabase fetch failed for product:', e);
+  }
+
   const categoryFiles: Record<string, string> = {
     'mens-shoes': 'littledubai-mens-shoes.json',
     'womens-shoes': 'littledubai-womens-shoes.json',

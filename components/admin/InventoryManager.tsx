@@ -13,6 +13,10 @@ export default function InventoryManager() {
   const [isAdding, setIsAdding] = useState(false);
   const [message, setMessage] = useState({ type: '', text: '' });
 
+  useEffect(() => {
+    handleSearch();
+  }, []);
+
   // Form State
   const [formData, setFormData] = useState({
     id: '',
@@ -40,29 +44,37 @@ export default function InventoryManager() {
       const { data: sbProducts, error: sbError } = await supabase
         .from('products')
         .select('*')
-        .or(`id.ilike.%${searchQuery}%, name.ilike.%${searchQuery}%, brand.ilike.%${searchQuery}%`);
+        .or(`id.ilike.%${searchQuery}%, name.ilike.%${searchQuery}%, brand.ilike.%${searchQuery}%`)
+        .order('created_at', { ascending: false });
+
+      if (sbError) {
+        console.warn('Supabase search failed, falling back to JSON:', sbError.message);
+      }
 
       // 2. Search in JSON files (fallback for products not yet migrated)
       let jsonFound: any[] = [];
-      if (!sbProducts || sbProducts.length < 10) {
+      // Only search JSON if Supabase search returns few results or query is short
+      if ((!sbProducts || sbProducts.length < 5) && searchQuery.length > 2) {
         for (const cat of categories) {
-          const res = await fetch(`/littledubai-${cat}.json`);
-          if (res.ok) {
-            const data = await res.json();
-            const filtered = data.products.filter((p: any) => 
-              p.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
-              String(p.id).includes(searchQuery)
-            );
-            jsonFound = [...jsonFound, ...filtered.map((p: any) => ({ 
-              ...p, 
-              name: p.title, 
-              brand: p.vendor, 
-              images: p.image_urls || p.images,
-              category: cat, 
-              source: 'json' 
-            }))];
-          }
-          if (jsonFound.length > 50) break;
+          try {
+            const res = await fetch(`/littledubai-${cat}.json`);
+            if (res.ok) {
+              const data = await res.json();
+              const filtered = data.products.filter((p: any) => 
+                (p.title || p.name || '').toLowerCase().includes(searchQuery.toLowerCase()) || 
+                String(p.id).includes(searchQuery)
+              );
+              jsonFound = [...jsonFound, ...filtered.map((p: any) => ({ 
+                ...p, 
+                name: p.title || p.name, 
+                brand: p.vendor || p.brandName, 
+                images: p.image_urls || p.images || [],
+                category: cat, 
+                source: 'json' 
+              }))];
+            }
+          } catch (e) {}
+          if (jsonFound.length > 30) break;
         }
       }
 
