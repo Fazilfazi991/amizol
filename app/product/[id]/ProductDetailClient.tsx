@@ -154,11 +154,19 @@ export default function ProductDetailClient({ initialProduct, productId, source 
           <div className="pdp-info__header">
             <p className="pdp-info__brand">{brand}</p>
             <h1 className="pdp-info__title">{name}</h1>
-            <div className="flex items-baseline gap-4">
-               <p className="pdp-info__price">AED {price}</p>
-               {stockStatus.status === 'limited_stock' && (
+            <div className="flex items-center gap-4">
+               <p className="pdp-info__price m-0">AED {price}</p>
+               {stockStatus.status === 'limited_stock' ? (
                  <span className="text-[10px] font-bold uppercase tracking-widest text-error bg-error/5 px-2 py-1">
                    Only {stockStatus.count} left
+                 </span>
+               ) : stockStatus.status === 'out_of_stock' ? (
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-error bg-error/5 px-2 py-1">
+                   Out of Stock
+                 </span>
+               ) : (
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-[#5cb85c] bg-[#5cb85c]/10 px-2 py-1">
+                   In Stock
                  </span>
                )}
             </div>

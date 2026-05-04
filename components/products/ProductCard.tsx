@@ -77,9 +77,18 @@ export default function ProductCard({ product }: ProductProps) {
             </button>
           )}
         </div>
-        <div className="product-card__info">
-          <h3 className="product-card__title">{product.name}</h3>
-          <p className="product-card__price">AED {product.price}</p>
+        <div className="product-card__info flex flex-col gap-1 mt-2">
+          <h3 className="product-card__title mb-0">{product.name}</h3>
+          <div className="flex items-center justify-between">
+            <p className="product-card__price m-0">AED {product.price}</p>
+            {stockStatus?.status === 'limited_stock' ? (
+              <span className="text-[9px] font-bold uppercase tracking-widest text-error">Limited Stock</span>
+            ) : stockStatus?.status === 'out_of_stock' ? (
+              <span className="text-[9px] font-bold uppercase tracking-widest text-error">Out of Stock</span>
+            ) : (
+              <span className="text-[9px] font-bold uppercase tracking-widest text-[#5cb85c]">In Stock</span>
+            )}
+          </div>
         </div>
       </Link>
     </div>
