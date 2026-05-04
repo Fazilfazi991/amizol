@@ -2,6 +2,8 @@ import React from 'react';
 import { Metadata } from 'next';
 import ProductDetailClient from './ProductDetailClient';
 
+export const dynamic = 'force-dynamic';
+
 interface Props {
   params: Promise<{ id: string }>;
   searchParams: Promise<{ source?: string }>;

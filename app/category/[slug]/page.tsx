@@ -2,6 +2,8 @@ import React from 'react';
 import { Metadata } from 'next';
 import CategoryClient from './CategoryClient';
 
+export const dynamic = 'force-dynamic';
+
 interface Props {
   params: Promise<{ slug: string }>;
 }

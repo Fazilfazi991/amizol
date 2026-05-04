@@ -5,12 +5,25 @@ import Link from 'next/link';
 import ProductCard from '@/components/products/ProductCard';
 import { ArrowRight } from 'lucide-react';
 
+import { supabase } from '@/lib/supabase';
+
 export default function HomePage() {
   const [newArrivals, setNewArrivals] = useState<any[]>([]);
 
   useEffect(() => {
     async function fetchData() {
       try {
+        const { data, error } = await supabase
+          .from('products')
+          .select('*')
+          .order('updated_at', { ascending: false })
+          .limit(8);
+
+        if (data && data.length > 0) {
+          setNewArrivals(data.map((p: any) => ({ ...p, source: p.category || 'mens' })));
+          return;
+        }
+
         const [mensRes, womensRes] = await Promise.all([
           fetch('/littledubai-mens-shoes.json'),
           fetch('/littledubai-womens-shoes.json')

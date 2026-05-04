@@ -2,6 +2,8 @@ import React from 'react';
 import { Metadata } from 'next';
 import BrandClient from './BrandClient';
 
+export const dynamic = 'force-dynamic';
+
 interface Props {
   params: Promise<{ brand: string }>;
 }
@@ -34,6 +36,23 @@ const BRAND_DATA_MAP: Record<string, { file: string; sourceLabel: string }> = {
 };
 
 async function getBrandData(brandSlug: string) {
+  try {
+    const { supabase } = require('@/lib/supabase');
+    // We do an ilike or text search for the brand
+    const searchTerm = brandSlug.replace(/-/g, ' ').toLowerCase();
+    const { data: sbProducts, error } = await supabase
+      .from('products')
+      .select('*')
+      .ilike('brand', `%${searchTerm}%`);
+
+    if (sbProducts && sbProducts.length > 0) {
+      console.log(`SUPABASE: Loaded ${sbProducts.length} products for brand ${brandSlug}`);
+      return sbProducts.map((p: any) => ({ ...p, source: p.category || 'mens-shoes' }));
+    }
+  } catch (e: any) {
+    console.error(`SUPABASE ERROR for brand ${brandSlug}:`, e.message);
+  }
+
   const fs = require('fs');
   const path = require('path');
   const dataConfig = BRAND_DATA_MAP[brandSlug];
