@@ -2,12 +2,13 @@
 
 import React, { useEffect, useState } from 'react';
 import { supabase } from '@/lib/supabase';
-import { ShoppingBag, Globe, LogOut, Package, Search, Save, AlertCircle } from 'lucide-react';
+import { ShoppingBag, Globe, LogOut, Package, Search, Save, AlertCircle, BarChart3 } from 'lucide-react';
 import InventoryManager from '@/components/admin/InventoryManager';
+import BusinessAnalytics from '@/components/admin/BusinessAnalytics';
 
 export default function AdminPage() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [currentView, setCurrentView] = useState<'orders' | 'inventory'>('orders');
+  const [currentView, setCurrentView] = useState<'orders' | 'inventory' | 'analytics'>('orders');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [orders, setOrders] = useState<any[]>([]);
@@ -57,15 +58,29 @@ export default function AdminPage() {
 
   const updateStatus = async (id: string, newStatus: string) => {
     try {
-      const { error } = await supabase
-        .from('orders')
-        .update({ status: newStatus })
-        .eq('id', id);
+      // Temporarily update UI to feel responsive
+      setOrders(prev => prev.map(o => o.id === id ? { ...o, status: newStatus } : o));
 
-      if (error) throw error;
+      // Use the new API endpoint which handles emails
+      const response = await fetch(`/api/orders/${id}/status`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ status: newStatus }),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to update status on server');
+      }
+
+      // Re-fetch to ensure sync with DB
       fetchOrders();
     } catch (e) {
       console.error("Error updating status:", e);
+      // Revert if error
+      fetchOrders();
+      alert('Failed to update order status. Please try again.');
     }
   };
 
@@ -112,6 +127,12 @@ export default function AdminPage() {
           >
             <Package size={18} /> Inventory
           </button>
+          <button 
+            className={`admin-nav__item ${currentView === 'analytics' ? 'active' : ''}`}
+            onClick={() => setCurrentView('analytics')}
+          >
+            <BarChart3 size={18} /> Business Details
+          </button>
           <a href="/" className="admin-nav__item"><Globe size={18} /> View Website</a>
           <button className="admin-nav__item" onClick={handleLogout}><LogOut size={18} /> Logout</button>
         </nav>
@@ -119,7 +140,7 @@ export default function AdminPage() {
 
       <main className="admin-main">
         <header className="admin-header">
-          <h1>{currentView === 'orders' ? 'Order Management' : 'Inventory Management'}</h1>
+          <h1>{currentView === 'orders' ? 'Order Management' : currentView === 'inventory' ? 'Inventory Management' : 'Business Analytics'}</h1>
           {currentView === 'orders' && (
             <div className="admin-stats">
               <div className="stat-card">
@@ -157,7 +178,7 @@ export default function AdminPage() {
                         <strong>{order.customer_name}</strong>
                         <div className="customer-meta">{order.customer_address}</div>
                       </td>
-                      <td><a href={`tel:${order.customer_phone}`}>{order.customer_phone}</a></td>
+                      <td><a href={`mailto:${order.customer_email || ''}`}>{order.customer_email || 'No email'}</a><br/><a href={`tel:${order.customer_phone}`}>{order.customer_phone}</a></td>
                       <td>
                         <ul className="order-items-list">
                           {order.order_items?.map((item: any, idx: number) => (
@@ -184,8 +205,10 @@ export default function AdminPage() {
                 </tbody>
               </table>
             </div>
-          ) : (
+          ) : currentView === 'inventory' ? (
             <InventoryManager />
+          ) : (
+            <BusinessAnalytics orders={orders} />
           )}
         </div>
       </main>
