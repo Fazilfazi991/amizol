@@ -37,7 +37,8 @@ export async function POST(
       const emailParams = {
         service_id: 'service_nymzmv6',
         template_id: 'template_4ja34sn',
-        user_id: 'jMsAQJjx7zYJSwHoxBgH', // Public Key
+        user_id: '0abBmDLF2W7AYEvOm', // Public Key
+        accessToken: 'jMsAQJjx7zYJSwHoxBgH', // Private Key
         template_params: {
           customer_email: order.customer_email,
           customer_name: order.customer_name || 'Customer',
