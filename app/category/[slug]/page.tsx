@@ -26,7 +26,7 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   'mens-shoes': {
     title: "MEN'S SHOES",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoe-header.png',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
   },
   'womens-shoes': {
