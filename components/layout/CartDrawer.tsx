@@ -10,6 +10,7 @@ export default function CartDrawer() {
   const [isProcessing, setIsProcessing] = useState(false);
   const [formData, setFormData] = useState({
     name: '',
+    email: '',
     phone: '',
     address: ''
   });
@@ -24,6 +25,7 @@ export default function CartDrawer() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           customer_name: formData.name,
+          customer_email: formData.email,
           customer_phone: formData.phone,
           customer_address: formData.address,
           order_items: cart,
@@ -112,6 +114,16 @@ export default function CartDrawer() {
                       placeholder="John Doe" 
                       value={formData.name}
                       onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+                    />
+                  </div>
+                  <div className="checkout-form__group">
+                    <label>Email Address</label>
+                    <input 
+                      type="email" 
+                      required 
+                      placeholder="john@example.com" 
+                      value={formData.email}
+                      onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                     />
                   </div>
                   <div className="checkout-form__group">
