@@ -95,7 +95,7 @@ export default function HomePage() {
 
       {/* Category Section */}
       <section className="section container">
-        <div className="category-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '2rem' }}>
+        <div className="category-grid grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 md:gap-6 lg:gap-8">
           <Link href="/category/womens-watches" className="category-card group">
             <img src="https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800" alt="Watches" className="category-card__image group-hover:scale-110 transition-transform duration-700" />
             <div className="category-card__overlay" style={{ background: 'linear-gradient(to top, rgba(0,0,0,0.8) 0%, transparent 60%)' }}></div>
