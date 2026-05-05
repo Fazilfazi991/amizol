@@ -29,6 +29,7 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
 
   const categoryTitle = initialConfig?.title ?? slug.replace(/-/g, ' ').toUpperCase();
   const heroImage = initialConfig?.hero ?? '/images/general_luxury_hero.png';
+  const mobileHeroImage = initialConfig?.mobileHero;
   const isGenderPage = slug === 'men' || slug === 'women';
   const subLinks = slug === 'men' ? MEN_LINKS : slug === 'women' ? WOMEN_LINKS : [];
 
@@ -70,16 +71,35 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
   return (
     <div>
       <header className="page-header relative h-[450px] overflow-hidden flex items-center justify-center">
-        <Image 
-          src={heroImage} 
-          alt={categoryTitle} 
-          fill 
-          className="object-cover" 
-          priority
-          onError={(e: any) => {
-            e.target.src = 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop';
-          }}
-        />
+        {mobileHeroImage ? (
+          <>
+            <Image 
+              src={heroImage} 
+              alt={categoryTitle} 
+              fill 
+              className="object-cover hidden md:block" 
+              priority
+            />
+            <Image 
+              src={mobileHeroImage} 
+              alt={categoryTitle} 
+              fill 
+              className="object-cover md:hidden" 
+              priority
+            />
+          </>
+        ) : (
+          <Image 
+            src={heroImage} 
+            alt={categoryTitle} 
+            fill 
+            className="object-cover" 
+            priority
+            onError={(e: any) => {
+              e.target.src = 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop';
+            }}
+          />
+        )}
         <div className="page-header__overlay absolute inset-0 bg-black/40"></div>
         <div className="container page-header__content relative z-10 text-center text-white">
           <h1 className="page-header__title text-5xl font-display mb-2 tracking-widest">{categoryTitle}</h1>

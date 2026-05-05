@@ -11,6 +11,7 @@ interface Props {
 type CategoryConfig = {
   title: string;
   hero: string;
+  mobileHero?: string;
   sources: { file: string; sourceLabel: string }[];
   filter?: (p: any) => boolean;
 };
@@ -33,7 +34,8 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   'womens-shoes': {
     title: "WOMEN'S SHOES",
-    hero: '/images/womens_hero.png',
+    hero: '/images/w1.jpg',
+    mobileHero: '/images/w2.jpg',
     sources: [{ file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' }],
   },
   'mens-bags': {
