@@ -19,17 +19,18 @@ type CategoryConfig = {
 const CATEGORY_MAP: Record<string, CategoryConfig> = {
   men: {
     title: "MEN'S COLLECTION",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
   },
   women: {
     title: "WOMEN'S COLLECTION",
-    hero: '/images/womens_hero.png',
+    hero: '/images/w1.jpg',
+    mobileHero: '/images/w2.jpg',
     sources: [{ file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' }],
   },
   'mens-shoes': {
     title: "MEN'S SHOES",
-    hero: '/images/mens-shoe-header.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
   },
   'womens-shoes': {
@@ -40,53 +41,54 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   'mens-bags': {
     title: "MEN'S BAGS",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
     filter: (p) => p.title?.toLowerCase().includes('bag') || p.product_type?.toLowerCase().includes('bag'),
   },
   'womens-bags': {
     title: "WOMEN'S BAGS",
-    hero: '/images/womens_hero.png',
+    hero: '/images/womens-bags-hero-l.jpg',
     sources: [{ file: 'littledubai-womens-bags2.json', sourceLabel: 'womens' }],
   },
   'mens-slippers': {
     title: "MEN'S SLIPPERS",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-slippers-hero-l.jpg',
     sources: [{ file: 'littledubai-mens-slippers.json', sourceLabel: 'mens' }],
   },
   'womens-slippers': {
     title: "WOMEN'S SLIPPERS",
-    hero: '/images/womens_hero.png',
+    hero: '/images/womens-slippers-hero-l.jpg',
     sources: [{ file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' }],
   },
   'mens-watches': {
     title: "MEN'S WATCHES",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
     sources: [{ file: 'littledubai-mens-watches.json', sourceLabel: 'mens' }],
   },
   'womens-watches': {
     title: "WOMEN'S WATCHES",
-    hero: '/images/womens_hero.png',
+    hero: '/images/w1.jpg',
+    mobileHero: '/images/w2.jpg',
     sources: [{ file: 'littledubai-womens-watches1.json', sourceLabel: 'womens' }],
   },
   wallets: {
     title: 'WALLETS',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/wallets-hero-l.jpg',
     sources: [{ file: 'littledubai-wallets.json', sourceLabel: 'mens' }],
   },
   glasses: {
     title: 'GLASSES',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/glasses-hero-l.jpg',
     sources: [{ file: 'littledubai-glasses.json', sourceLabel: 'mens' }],
   },
   belts: {
     title: 'BELTS',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/belts-hero-l.jpg',
     sources: [{ file: 'littledubai-belts.json', sourceLabel: 'mens' }],
   },
   accessories: {
     title: 'ACCESSORIES',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/wallets-hero-l.jpg',
     sources: [
       { file: 'littledubai-wallets.json', sourceLabel: 'mens' },
       { file: 'littledubai-glasses.json', sourceLabel: 'mens' },
@@ -95,12 +97,13 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   heels: {
     title: 'HEELS',
-    hero: '/images/womens_hero.png',
+    hero: '/images/w1.jpg',
+    mobileHero: '/images/w2.jpg',
     sources: [{ file: 'littledubai-heels.json', sourceLabel: 'womens' }],
   },
   shoes: {
     title: 'SHOES',
-    hero: '/images/general_hero.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
     sources: [
       { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
       { file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' },
@@ -108,7 +111,7 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   slippers: {
     title: 'SLIPPERS',
-    hero: '/images/general_hero.png',
+    hero: '/images/mens-slippers-hero-l.jpg',
     sources: [
       { file: 'littledubai-mens-slippers.json', sourceLabel: 'mens' },
       { file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' },
@@ -116,7 +119,7 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   'new-arrivals': {
     title: 'NEW ARRIVALS',
-    hero: '/images/general_hero.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
     sources: [
       { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
       { file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' },
