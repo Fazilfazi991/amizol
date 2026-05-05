@@ -35,10 +35,24 @@ const BRAND_HERO_MAP: Record<string, string> = {
   'onitsuka-tiger': 'https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80',
 };
 
+const BRAND_MOBILE_HERO_MAP: Record<string, string> = {
+  gucci: '/images/gucci-hero-m.png',
+  prada: '/images/prada-hero-m.png',
+  hermes: '/images/hermes-hero-m.png',
+  'loro-piana': '/images/loropiana-hero-m.png',
+  'christian-louboutin': '/images/louboutin-hero-m.png',
+  'travis-scott': '/images/travis-hero-m.png',
+  nike: '/images/nike-hero-m.png',
+  hoka: '/images/hoka-hero-m.png',
+  'on-cloud': '/images/on-cloud-hero-m.png',
+  timberland: '/images/timberland-hero-m.png',
+};
+
 export default function BrandClient({ brandSlug, initialProducts }: Props) {
   const [sortBy, setSortBy] = useState('featured');
   const brandName = brandSlug.replace(/-/g, ' ').toUpperCase();
   const heroImage = BRAND_HERO_MAP[brandSlug] ?? '/images/general_hero.png';
+  const mobileHeroImage = BRAND_MOBILE_HERO_MAP[brandSlug];
 
   const sortedProducts = useMemo(() => {
     let result = [...initialProducts];
@@ -70,16 +84,35 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
   return (
     <div>
       <header className="page-header page-header--lg relative h-[500px] overflow-hidden flex items-center justify-center">
-        <Image 
-          src={heroImage} 
-          alt={brandName} 
-          fill 
-          className="object-cover" 
-          priority
-          onError={(e: any) => {
-            e.target.src = 'https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=2012&auto=format&fit=crop';
-          }}
-        />
+        {mobileHeroImage ? (
+          <>
+            <Image
+              src={heroImage}
+              alt={brandName}
+              fill
+              className="object-cover hidden md:block"
+              priority
+            />
+            <Image
+              src={mobileHeroImage}
+              alt={brandName}
+              fill
+              className="object-cover md:hidden"
+              priority
+            />
+          </>
+        ) : (
+          <Image
+            src={heroImage}
+            alt={brandName}
+            fill
+            className="object-cover"
+            priority
+            onError={(e: any) => {
+              e.target.src = 'https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=2012&auto=format&fit=crop';
+            }}
+          />
+        )}
         <div className="page-header__overlay absolute inset-0 bg-black/40"></div>
         <div className="container page-header__content relative z-10 text-center text-white">
           <h1 className="page-header__title text-5xl font-display mb-4 tracking-widest">{brandName}</h1>
