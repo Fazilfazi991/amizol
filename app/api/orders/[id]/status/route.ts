@@ -40,8 +40,8 @@ export async function POST(
         user_id: '0abBmDLF2W7AYEvOm',     // Public Key
         accessToken: 'jMsAQJjx7zYJSwHoxBgH', // Private Key
         template_params: {
-          // Standard EmailJS routing fields — MUST match template variable names
-          to_email: order.customer_email,
+          // Matches {{email}} in the EmailJS template "To Email" field
+          email: order.customer_email,
           to_name: order.customer_name || 'Customer',
           reply_to: order.customer_email,
           // Additional order details for the template body
