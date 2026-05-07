@@ -15,6 +15,8 @@ export async function POST(
     const body = await request.json();
     const { status } = body;
 
+    console.log(`🔔 Status route called — order: ${id}, new status: ${status}`);
+
     if (!status) {
       return NextResponse.json({ error: 'Status is required' }, { status: 400 });
     }
@@ -31,6 +33,8 @@ export async function POST(
       console.error('Supabase update error:', error);
       return NextResponse.json({ error: error.message }, { status: 500 });
     }
+
+    console.log(`✅ Order updated — email: ${order.customer_email || 'NONE'}, status: ${status}`);
 
     // Send email if status is Confirmed and email exists
     if (status === 'Confirmed' && order.customer_email) {
