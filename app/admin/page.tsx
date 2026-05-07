@@ -2,13 +2,14 @@
 
 import React, { useEffect, useState } from 'react';
 import { supabase } from '@/lib/supabase';
-import { ShoppingBag, Globe, LogOut, Package, Search, Save, AlertCircle, BarChart3 } from 'lucide-react';
+import { ShoppingBag, Globe, LogOut, Package, Search, Save, AlertCircle, BarChart3, Image as ImageIcon } from 'lucide-react';
 import InventoryManager from '@/components/admin/InventoryManager';
 import BusinessAnalytics from '@/components/admin/BusinessAnalytics';
+import HeroManager from '@/components/admin/HeroManager';
 
 export default function AdminPage() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [currentView, setCurrentView] = useState<'orders' | 'inventory' | 'analytics'>('orders');
+  const [currentView, setCurrentView] = useState<'orders' | 'inventory' | 'analytics' | 'heroes'>('orders');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [orders, setOrders] = useState<any[]>([]);
@@ -133,6 +134,12 @@ export default function AdminPage() {
           >
             <BarChart3 size={18} /> Business Details
           </button>
+          <button 
+            className={`admin-nav__item ${currentView === 'heroes' ? 'active' : ''}`}
+            onClick={() => setCurrentView('heroes')}
+          >
+            <ImageIcon size={18} /> Hero Images
+          </button>
           <a href="/" className="admin-nav__item"><Globe size={18} /> View Website</a>
           <button className="admin-nav__item" onClick={handleLogout}><LogOut size={18} /> Logout</button>
         </nav>
@@ -140,7 +147,7 @@ export default function AdminPage() {
 
       <main className="admin-main">
         <header className="admin-header">
-          <h1>{currentView === 'orders' ? 'Order Management' : currentView === 'inventory' ? 'Inventory Management' : 'Business Analytics'}</h1>
+          <h1>{currentView === 'orders' ? 'Order Management' : currentView === 'inventory' ? 'Inventory Management' : currentView === 'heroes' ? 'Hero Image Manager' : 'Business Analytics'}</h1>
           {currentView === 'orders' && (
             <div className="admin-stats">
               <div className="stat-card">
@@ -207,6 +214,8 @@ export default function AdminPage() {
             </div>
           ) : currentView === 'inventory' ? (
             <InventoryManager />
+          ) : currentView === 'heroes' ? (
+            <HeroManager />
           ) : (
             <BusinessAnalytics orders={orders} />
           )}
