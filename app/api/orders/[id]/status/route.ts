@@ -38,53 +38,44 @@ export async function POST(
 
     // Send email if status is Confirmed and email exists
     if (status === 'Confirmed' && order.customer_email) {
+      // Dynamic import to avoid edge runtime issues if any
+      const emailjs = require('@emailjs/nodejs');
 
-      // Build orders array to match {{#orders}}...{{/orders}} in the template
-      const ordersArray = Array.isArray(order.order_items)
-        ? order.order_items.map((i: any) => ({
-            name: i.name || 'Item',
-            units: i.quantity || i.qty || 1,
-            price: Number(i.price || 0).toFixed(2),
-            image_url: i.image || i.image_url || '',
-          }))
-        : [{ name: 'Order items', units: 1, price: Number(order.total_price).toFixed(2), image_url: '' }];
+      const itemsList = Array.isArray(order.order_items)
+        ? order.order_items.map((i: any) =>
+            `• ${i.name}${i.size ? ` (Size: ${i.size})` : ''} — AED ${i.price}`
+          ).join('\n')
+        : 'See order for details';
 
-      const emailParams = {
-        service_id: 'service_nymzmv6',
-        template_id: 'template_4ja34sn',
-        user_id: '0abBmDLF2W7AYEvOm',
-        accessToken: 'jMsAQJjx7zYJSwHoxBgH',
-        template_params: {
-          // Routing — matches "To Email: {{email}}" in template settings
-          email: order.customer_email,
-          // Body variables — match template exactly
-          order_id: order.id,
-          orders: ordersArray,
-          cost: {
-            shipping: '0.00',
-            tax: '0.00',
-            total: Number(order.total_price).toFixed(2),
-          },
-        }
+      const templateParams = {
+        email: order.customer_email,
+        order_id: order.id,
+        customer_name: order.customer_name || 'Valued Customer',
+        customer_address: order.customer_address || 'N/A',
+        orders: itemsList,
+        'cost.shipping': 'FREE',
+        total_price: `AED ${Number(order.total_price).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`,
       };
 
       try {
-        console.log('📧 Sending EmailJS to:', order.customer_email);
-        const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(emailParams)
-        });
+        console.log('📧 Sending EmailJS (SDK) to:', order.customer_email);
+        
+        const response = await emailjs.send(
+          'service_nymzmv6',
+          'template_4ja34sn',
+          templateParams,
+          {
+            publicKey: '0abBmDLF2W7AYEvOm',
+            privateKey: 'jMsAQJjx7zYJSwHoxBgH',
+          }
+        );
 
-        const responseText = await response.text();
-        if (response.ok) {
-          console.log(`✅ Email sent to ${order.customer_email} — ${responseText}`);
-        } else {
-          console.error(`❌ EmailJS error (${response.status}): ${responseText}`);
-          console.error('Payload:', JSON.stringify(emailParams, null, 2));
+        console.log(`✅ Email sent to ${order.customer_email} — Status: ${response.status} ${response.text}`);
+      } catch (emailError: any) {
+        console.error('❌ EmailJS SDK call failed:', emailError);
+        if (emailError.status) {
+          console.error('EmailJS Status:', emailError.status, 'Text:', emailError.text);
         }
-      } catch (emailError) {
-        console.error('❌ EmailJS call failed:', emailError);
       }
     }
 
