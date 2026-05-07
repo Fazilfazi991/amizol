@@ -92,6 +92,10 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
               fill
               className="object-cover hidden md:block"
               priority
+              unoptimized={true}
+              onError={(e: any) => {
+                e.target.src = '/images/general_hero.png';
+              }}
             />
             <Image
               src={mobileHeroImage}
@@ -99,6 +103,10 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
               fill
               className="object-cover md:hidden"
               priority
+              unoptimized={true}
+              onError={(e: any) => {
+                e.target.src = '/images/general_hero.png';
+              }}
             />
           </>
         ) : (
@@ -108,8 +116,9 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
             fill
             className="object-cover"
             priority
+            unoptimized={true}
             onError={(e: any) => {
-              e.target.src = 'https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=2012&auto=format&fit=crop';
+              e.target.src = '/images/general_hero.png';
             }}
           />
         )}

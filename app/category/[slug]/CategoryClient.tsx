@@ -79,6 +79,10 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
               fill 
               className="object-cover hidden md:block" 
               priority
+              unoptimized={true}
+              onError={(e: any) => {
+                e.target.src = '/images/general_hero.png';
+              }}
             />
             <Image 
               src={mobileHeroImage} 
@@ -86,6 +90,10 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
               fill 
               className="object-cover md:hidden" 
               priority
+              unoptimized={true}
+              onError={(e: any) => {
+                e.target.src = '/images/general_hero.png';
+              }}
             />
           </>
         ) : (
@@ -95,8 +103,9 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
             fill 
             className="object-cover" 
             priority
+            unoptimized={true}
             onError={(e: any) => {
-              e.target.src = 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop';
+              e.target.src = '/images/general_hero.png';
             }}
           />
         )}
