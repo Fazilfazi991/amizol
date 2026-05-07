@@ -70,14 +70,14 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
 
   return (
     <div>
-      <header className="page-header relative h-[450px] overflow-hidden flex items-center justify-center">
+      <header className="page-header relative h-[450px] overflow-hidden flex items-center justify-center bg-black">
         {mobileHeroImage ? (
           <>
             <Image 
               src={heroImage} 
               alt={categoryTitle} 
               fill 
-              className="object-cover hidden md:block" 
+              className="object-contain hidden md:block" 
               priority
               unoptimized={true}
               onError={(e: any) => {
@@ -88,7 +88,7 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
               src={mobileHeroImage} 
               alt={categoryTitle} 
               fill 
-              className="object-cover md:hidden" 
+              className="object-contain md:hidden" 
               priority
               unoptimized={true}
               onError={(e: any) => {
@@ -101,7 +101,7 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
             src={heroImage} 
             alt={categoryTitle} 
             fill 
-            className="object-cover" 
+            className="object-contain" 
             priority
             unoptimized={true}
             onError={(e: any) => {

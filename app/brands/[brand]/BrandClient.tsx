@@ -83,14 +83,14 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
 
   return (
     <div>
-      <header className="page-header page-header--lg relative h-[500px] overflow-hidden flex items-center justify-center">
+      <header className="page-header page-header--lg relative h-[500px] overflow-hidden flex items-center justify-center bg-black">
         {mobileHeroImage ? (
           <>
             <Image
               src={heroImage}
               alt={brandName}
               fill
-              className="object-cover hidden md:block"
+              className="object-contain hidden md:block"
               priority
               unoptimized={true}
               onError={(e: any) => {
@@ -101,7 +101,7 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
               src={mobileHeroImage}
               alt={brandName}
               fill
-              className="object-cover md:hidden"
+              className="object-contain md:hidden"
               priority
               unoptimized={true}
               onError={(e: any) => {
@@ -114,7 +114,7 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
             src={heroImage}
             alt={brandName}
             fill
-            className="object-cover"
+            className="object-contain"
             priority
             unoptimized={true}
             onError={(e: any) => {

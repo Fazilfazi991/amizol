@@ -72,12 +72,12 @@ export default function HomePage() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="hero">
+      <section className="hero bg-black">
         <div className="hero__background">
           <img 
             src="/images/gucci-l.jpg" 
             alt="Luxury Shoes" 
-            className="hero__image"
+            className="hero__image object-contain"
           />
           <div className="hero__overlay" style={{ background: 'linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6))' }}></div>
         </div>
