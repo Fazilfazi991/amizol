@@ -66,7 +66,7 @@ export async function POST(
           templateParams,
           {
             publicKey: '0abBmDLF2W7AYEvOm',
-            privateKey: 'jMsAQJjx7zYJSwHoxBgH',
+            privateKey: 'jMsAQJjx7zYJSwHoxBgH-',
           }
         );
 
