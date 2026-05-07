@@ -103,12 +103,11 @@ export default function ProductDetailClient({ initialProduct, productId, source 
                 }}
               >
                 <div className="relative w-full h-full">
-                  <Image 
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img 
                     src={img} 
                     alt={`${name} thumb ${idx}`} 
-                    fill 
-                    className="object-contain"
-                    sizes="80px"
+                    style={{ width: '100%', height: '100%', objectFit: 'contain' }}
                   />
                 </div>
               </div>
@@ -117,15 +116,13 @@ export default function ProductDetailClient({ initialProduct, productId, source 
           
           {/* Main Image */}
           <div className="pdp-gallery__main relative bg-[#f8f8f8]">
-            {!imgError && activeImage ? (
-              <Image 
+            {activeImage ? (
+              /* eslint-disable-next-line @next/next/no-img-element */
+              <img 
                 src={activeImage} 
                 alt={name} 
-                fill 
-                className="object-contain p-8" 
-                priority
-                sizes="(max-width: 768px) 100vw, 50vw"
-                onError={() => setImgError(true)}
+                style={{ width: '100%', height: '100%', objectFit: 'contain', padding: '2rem' }}
+                onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
               />
             ) : (
               <div className="flex flex-col items-center justify-center w-full h-full text-center p-8">
