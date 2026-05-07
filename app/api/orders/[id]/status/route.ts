@@ -41,20 +41,27 @@ export async function POST(
       // Dynamic import to avoid edge runtime issues if any
       const emailjs = require('@emailjs/nodejs');
 
-      const itemsList = Array.isArray(order.order_items)
-        ? order.order_items.map((i: any) =>
-            `• ${i.name}${i.size ? ` (Size: ${i.size})` : ''} — AED ${i.price}`
-          ).join('\n')
-        : 'See order for details';
+      // Build orders array to perfectly match {{#orders}}...{{/orders}} in the template
+      const ordersArray = Array.isArray(order.order_items)
+        ? order.order_items.map((i: any) => ({
+            name: i.name || 'Item',
+            units: i.quantity || i.qty || 1,
+            price: Number(i.price || 0).toFixed(2),
+            image_url: i.image || i.image_url || 'https://www.thelittledubai.com/images/logo.png',
+          }))
+        : [{ name: 'Order items', units: 1, price: Number(order.total_price).toFixed(2), image_url: 'https://www.thelittledubai.com/images/logo.png' }];
 
       const templateParams = {
         email: order.customer_email,
         order_id: order.id,
         customer_name: order.customer_name || 'Valued Customer',
         customer_address: order.customer_address || 'N/A',
-        orders: itemsList,
-        'cost.shipping': 'FREE',
-        total_price: `AED ${Number(order.total_price).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`,
+        orders: ordersArray,
+        cost: {
+          shipping: '0.00',
+          tax: '0.00',
+          total: Number(order.total_price).toFixed(2),
+        }
       };
 
       try {
