@@ -19,7 +19,7 @@ type CategoryConfig = {
 const CATEGORY_MAP: Record<string, CategoryConfig> = {
   men: {
     title: "MEN'S COLLECTION",
-    hero: '/images/mens-shoe-hero-l.jpg',
+    hero: '/images/mens-shoes-l.jpg',
     mobileHero: '/images/mens-shoe-hero-m.png',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
   },
@@ -31,13 +31,13 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   'mens-shoes': {
     title: "MEN'S SHOES",
-    hero: '/images/mens-shoe-hero-l.jpg',
+    hero: '/images/mens-shoes-l.jpg',
     mobileHero: '/images/mens-shoe-hero-m.png',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
   },
   'womens-shoes': {
     title: "WOMEN'S SHOES",
-    hero: '/images/w1.jpg',
+    hero: '/images/womens-shoes-l.jpg',
     mobileHero: '/images/w2.jpg',
     sources: [{ file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' }],
   },
@@ -50,19 +50,19 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   'womens-bags': {
     title: "WOMEN'S BAGS",
-    hero: '/images/womens-bags-hero-l.jpg',
+    hero: '/images/womens-bags-l.jpg',
     mobileHero: '/images/womens-bags-hero-m.png',
     sources: [{ file: 'littledubai-womens-bags2.json', sourceLabel: 'womens' }],
   },
   'mens-slippers': {
     title: "MEN'S SLIPPERS",
-    hero: '/images/mens-slippers-hero-l.jpg',
+    hero: "/images/mens-slippers-l.jpg",
     mobileHero: '/images/mens-slippers-hero-m.png',
     sources: [{ file: 'littledubai-mens-slippers.json', sourceLabel: 'mens' }],
   },
   'womens-slippers': {
     title: "WOMEN'S SLIPPERS",
-    hero: '/images/womens-slippers-hero-l.jpg',
+    hero: '/images/womens-slippers-l.jpg',
     mobileHero: '/images/womens-slippers-hero-m.png',
     sources: [{ file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' }],
   },
@@ -80,19 +80,19 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   wallets: {
     title: 'WALLETS',
-    hero: '/images/wallets-hero-l.jpg',
+    hero: '/images/wallets-l.jpg',
     mobileHero: '/images/wallets-hero-m.png',
     sources: [{ file: 'littledubai-wallets.json', sourceLabel: 'mens' }],
   },
   glasses: {
     title: 'GLASSES',
-    hero: '/images/glasses-hero-l.jpg',
+    hero: '/images/glasses-l.jpg',
     mobileHero: '/images/glasses-hero-m.png',
     sources: [{ file: 'littledubai-glasses.json', sourceLabel: 'mens' }],
   },
   belts: {
     title: 'BELTS',
-    hero: '/images/belts-hero-l.jpg',
+    hero: '/images/belts-l.jpg',
     mobileHero: '/images/belts-hero-m.png',
     sources: [{ file: 'littledubai-belts.json', sourceLabel: 'mens' }],
   },

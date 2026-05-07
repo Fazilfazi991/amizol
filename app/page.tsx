@@ -75,7 +75,7 @@ export default function HomePage() {
       <section className="hero">
         <div className="hero__background">
           <img 
-            src="https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=2012&auto=format&fit=crop" 
+            src="/images/gucci-l.jpg" 
             alt="Luxury Shoes" 
             className="hero__image"
           />
