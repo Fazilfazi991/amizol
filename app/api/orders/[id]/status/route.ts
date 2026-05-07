@@ -37,18 +37,28 @@ export async function POST(
       const emailParams = {
         service_id: 'service_nymzmv6',
         template_id: 'template_4ja34sn',
-        user_id: '0abBmDLF2W7AYEvOm', // Public Key
+        user_id: '0abBmDLF2W7AYEvOm',     // Public Key
         accessToken: 'jMsAQJjx7zYJSwHoxBgH', // Private Key
         template_params: {
+          // Standard EmailJS routing fields — MUST match template variable names
+          to_email: order.customer_email,
+          to_name: order.customer_name || 'Customer',
+          reply_to: order.customer_email,
+          // Additional order details for the template body
           customer_email: order.customer_email,
           customer_name: order.customer_name || 'Customer',
           order_id: order.id,
-          total_price: Number(order.total_price).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 }),
-          customer_address: order.customer_address
+          order_status: 'Confirmed',
+          total_price: `AED ${Number(order.total_price).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`,
+          customer_address: order.customer_address || 'N/A',
+          order_items: Array.isArray(order.order_items)
+            ? order.order_items.map((i: any) => `${i.name} (Size: ${i.size || 'N/A'}) - ${i.price}`).join('\n')
+            : 'See order details',
         }
       };
 
       try {
+        console.log('Sending EmailJS to:', order.customer_email, '| Template:', emailParams.template_id);
         const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
           method: 'POST',
           headers: {
@@ -57,14 +67,15 @@ export async function POST(
           body: JSON.stringify(emailParams)
         });
 
+        const responseText = await response.text();
         if (response.ok) {
-          console.log(`EmailJS: Email successfully sent to ${order.customer_email}`);
+          console.log(`✅ EmailJS sent to ${order.customer_email} — Response: ${responseText}`);
         } else {
-          const errorText = await response.text();
-          console.error('EmailJS Error:', errorText);
+          console.error(`❌ EmailJS failed (${response.status}): ${responseText}`);
+          console.error('Params sent:', JSON.stringify(emailParams, null, 2));
         }
       } catch (emailError) {
-        console.error('Error sending email via EmailJS:', emailError);
+        console.error('❌ Error calling EmailJS:', emailError);
       }
     }
 
