@@ -36,16 +36,15 @@ const BRAND_HERO_MAP: Record<string, string> = {
 };
 
 const BRAND_MOBILE_HERO_MAP: Record<string, string> = {
-  gucci: '/images/gucci-hero-m.png',
-  prada: '/images/prada-hero-m.png',
-  hermes: '/images/hermes-hero-m.png',
-  'loro-piana': '/images/loropiana-hero-m.png',
-  'christian-louboutin': '/images/louboutin-hero-m.png',
-  'travis-scott': '/images/travis-hero-m.png',
-  nike: '/images/nike-hero-m.png',
-  hoka: '/images/hoka-hero-m.png',
-  'on-cloud': '/images/on-cloud-hero-m.png',
-  timberland: '/images/timberland-hero-m.png',
+  gucci: '/images/gucci-m.png',
+  prada: '/images/prada-m.png',
+  hermes: '/images/hermes-m.png',
+  'loro-piana': '/images/loro-piana-m.png',
+  'christian-louboutin': '/images/christian-louboutin-m.png',
+  'travis-scott': '/images/travis-scott-m.png',
+  nike: '/images/nike-m.png',
+  hoka: '/images/hoka-m.png',
+  'on-cloud': '/images/on-cloud-m.png',
 };
 
 export default function BrandClient({ brandSlug, initialProducts }: Props) {
