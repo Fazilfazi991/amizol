@@ -86,28 +86,32 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
       <header className="page-header page-header--lg relative h-[500px] overflow-hidden flex items-center justify-center bg-black">
         {mobileHeroImage ? (
           <>
-            <Image
-              src={heroImage}
-              alt={brandName}
-              fill
-              className="object-contain hidden md:block"
-              priority
-              unoptimized={true}
-              onError={(e: any) => {
-                e.target.src = '/images/general_hero.png';
-              }}
-            />
-            <Image
-              src={mobileHeroImage}
-              alt={brandName}
-              fill
-              className="object-contain md:hidden"
-              priority
-              unoptimized={true}
-              onError={(e: any) => {
-                e.target.src = '/images/general_hero.png';
-              }}
-            />
+            <div className="hidden md:block absolute inset-0 bg-black">
+              <Image
+                src={heroImage}
+                alt={brandName}
+                fill
+                className="object-contain"
+                priority
+                unoptimized={true}
+                onError={(e: any) => {
+                  e.target.src = '/images/general_hero.png';
+                }}
+              />
+            </div>
+            <div className="md:hidden absolute inset-0 bg-black">
+              <Image
+                src={mobileHeroImage}
+                alt={brandName}
+                fill
+                className="object-contain"
+                priority
+                unoptimized={true}
+                onError={(e: any) => {
+                  e.target.src = '/images/general_hero.png';
+                }}
+              />
+            </div>
           </>
         ) : (
           <Image

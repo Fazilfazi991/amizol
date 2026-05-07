@@ -63,7 +63,7 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   'womens-slippers': {
     title: "WOMEN'S SLIPPERS",
     hero: '/images/womens-slippers-l.jpg',
-    mobileHero: '/images/womens-slippers-hero-m.png',
+    mobileHero: '/images/womens-slippers-m.png',
     sources: [{ file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' }],
   },
   'mens-watches': {
