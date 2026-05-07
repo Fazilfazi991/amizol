@@ -34,48 +34,50 @@ export async function POST(
 
     // Send email if status is Confirmed and email exists
     if (status === 'Confirmed' && order.customer_email) {
+
+      // Build a plain-text items list (REST API doesn't support Handlebars loops)
+      const itemsList = Array.isArray(order.order_items)
+        ? order.order_items.map((i: any) =>
+            `• ${i.name}${i.size ? ` (Size: ${i.size})` : ''} — AED ${i.price}`
+          ).join('\n')
+        : 'See order for details';
+
       const emailParams = {
         service_id: 'service_nymzmv6',
         template_id: 'template_4ja34sn',
-        user_id: '0abBmDLF2W7AYEvOm',     // Public Key
-        accessToken: 'jMsAQJjx7zYJSwHoxBgH', // Private Key
+        user_id: '0abBmDLF2W7AYEvOm',
+        accessToken: 'jMsAQJjx7zYJSwHoxBgH',
         template_params: {
-          // Matches {{email}} in the EmailJS template "To Email" field
+          // ---- Routing (must match "To Email" field in EmailJS template) ----
           email: order.customer_email,
-          to_name: order.customer_name || 'Customer',
-          reply_to: order.customer_email,
-          // Additional order details for the template body
-          customer_email: order.customer_email,
-          customer_name: order.customer_name || 'Customer',
+          // ---- Body variables (must match {{variable}} names in template) ----
           order_id: order.id,
-          order_status: 'Confirmed',
-          total_price: `AED ${Number(order.total_price).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`,
+          customer_name: order.customer_name || 'Valued Customer',
           customer_address: order.customer_address || 'N/A',
-          order_items: Array.isArray(order.order_items)
-            ? order.order_items.map((i: any) => `${i.name} (Size: ${i.size || 'N/A'}) - ${i.price}`).join('\n')
-            : 'See order details',
+          // Replace Handlebars loop with pre-formatted string
+          orders: itemsList,
+          // cost.shipping variable the template references
+          'cost.shipping': 'FREE',
+          total_price: `AED ${Number(order.total_price).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`,
         }
       };
 
       try {
-        console.log('Sending EmailJS to:', order.customer_email, '| Template:', emailParams.template_id);
+        console.log('📧 Sending EmailJS confirmation to:', order.customer_email);
         const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
           method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(emailParams)
         });
 
         const responseText = await response.text();
         if (response.ok) {
-          console.log(`✅ EmailJS sent to ${order.customer_email} — Response: ${responseText}`);
+          console.log(`✅ Email sent to ${order.customer_email} — ${responseText}`);
         } else {
-          console.error(`❌ EmailJS failed (${response.status}): ${responseText}`);
-          console.error('Params sent:', JSON.stringify(emailParams, null, 2));
+          console.error(`❌ EmailJS error (${response.status}): ${responseText}`);
         }
       } catch (emailError) {
-        console.error('❌ Error calling EmailJS:', emailError);
+        console.error('❌ EmailJS call failed:', emailError);
       }
     }
 
