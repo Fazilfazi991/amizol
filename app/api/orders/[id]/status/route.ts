@@ -35,12 +35,15 @@ export async function POST(
     // Send email if status is Confirmed and email exists
     if (status === 'Confirmed' && order.customer_email) {
 
-      // Build a plain-text items list (REST API doesn't support Handlebars loops)
-      const itemsList = Array.isArray(order.order_items)
-        ? order.order_items.map((i: any) =>
-            `• ${i.name}${i.size ? ` (Size: ${i.size})` : ''} — AED ${i.price}`
-          ).join('\n')
-        : 'See order for details';
+      // Build orders array to match {{#orders}}...{{/orders}} in the template
+      const ordersArray = Array.isArray(order.order_items)
+        ? order.order_items.map((i: any) => ({
+            name: i.name || 'Item',
+            units: i.quantity || i.qty || 1,
+            price: Number(i.price || 0).toFixed(2),
+            image_url: i.image || i.image_url || '',
+          }))
+        : [{ name: 'Order items', units: 1, price: Number(order.total_price).toFixed(2), image_url: '' }];
 
       const emailParams = {
         service_id: 'service_nymzmv6',
@@ -48,22 +51,21 @@ export async function POST(
         user_id: '0abBmDLF2W7AYEvOm',
         accessToken: 'jMsAQJjx7zYJSwHoxBgH',
         template_params: {
-          // ---- Routing (must match "To Email" field in EmailJS template) ----
+          // Routing — matches "To Email: {{email}}" in template settings
           email: order.customer_email,
-          // ---- Body variables (must match {{variable}} names in template) ----
+          // Body variables — match template exactly
           order_id: order.id,
-          customer_name: order.customer_name || 'Valued Customer',
-          customer_address: order.customer_address || 'N/A',
-          // Replace Handlebars loop with pre-formatted string
-          orders: itemsList,
-          // cost.shipping variable the template references
-          'cost.shipping': 'FREE',
-          total_price: `AED ${Number(order.total_price).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`,
+          orders: ordersArray,
+          cost: {
+            shipping: '0.00',
+            tax: '0.00',
+            total: Number(order.total_price).toFixed(2),
+          },
         }
       };
 
       try {
-        console.log('📧 Sending EmailJS confirmation to:', order.customer_email);
+        console.log('📧 Sending EmailJS to:', order.customer_email);
         const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -75,6 +77,7 @@ export async function POST(
           console.log(`✅ Email sent to ${order.customer_email} — ${responseText}`);
         } else {
           console.error(`❌ EmailJS error (${response.status}): ${responseText}`);
+          console.error('Payload:', JSON.stringify(emailParams, null, 2));
         }
       } catch (emailError) {
         console.error('❌ EmailJS call failed:', emailError);
