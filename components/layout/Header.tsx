@@ -60,16 +60,29 @@ export default function Header() {
           </div>
 
           <div className="header__search flex-1 max-w-md mx-10 max-md:hidden">
-            <div className="header__search-container relative">
-              <Search size={18} className="absolute left-4 top-1/2 -translate-y-1/2 text-secondary" />
+            <div className="header__search-container relative w-full flex items-center">
               <input 
                 type="text" 
-                className="header__search-input w-full pl-12 pr-4 py-2 bg-secondary rounded-none text-sm" 
+                className="header__search-input w-full py-2 bg-secondary text-sm" 
+                style={{ paddingLeft: '1rem', paddingRight: '2.5rem', borderRadius: '4px', border: '1px solid #E5E5E5' }}
                 placeholder="Search brands, products..." 
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 onKeyDown={handleSearch}
               />
+              <button
+                type="button"
+                onClick={() => {
+                  if (searchQuery.trim()) {
+                    router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+                    setIsMobileMenuOpen(false);
+                  }
+                }}
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-secondary hover:text-accent cursor-pointer bg-transparent border-none p-0 flex items-center justify-center"
+                aria-label="Submit Search"
+              >
+                <Search size={18} />
+              </button>
             </div>
           </div>
 
