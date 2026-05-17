@@ -11,7 +11,9 @@
   "dependencies": {
     "@emailjs/nodejs": "^5.0.2",
     "@supabase/supabase-js": "^2.104.0",
+    "adm-zip": "^0.5.17",
     "lucide-react": "^0.410.0",
+    "mime-types": "^3.0.2",
     "next": "16.2.4",
     "react": "19.2.4",
     "react-dom": "19.2.4",

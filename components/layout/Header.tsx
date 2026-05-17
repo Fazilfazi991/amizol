@@ -59,7 +59,7 @@ export default function Header() {
             <Link href="/" className="font-display text-2xl tracking-tight">LITTLE DUBAI</Link>
           </div>
 
-          <div className="header__search flex-1 max-w-md mx-10 hidden md:block">
+          <div className="header__search flex-1 max-w-md mx-10 max-md:hidden">
             <div className="header__search-container relative">
               <Search size={18} className="absolute left-4 top-1/2 -translate-y-1/2 text-secondary" />
               <input 
