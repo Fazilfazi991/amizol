@@ -4,6 +4,7 @@ import React, { useEffect, useState, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import ProductCard from '@/components/products/ProductCard';
 import Link from 'next/link';
+import { getProductMainImage } from '@/lib/image-helper';
 
 // All available product JSON sources
 const ALL_SOURCES = [
@@ -123,7 +124,7 @@ function SearchContent() {
                 name: product.title || product.name,
                 brand: product.vendor || product.brandName || 'Designer',
                 price: product.price,
-                image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
+                image: getProductMainImage(product),
                 source: product.source,
               }}
             />

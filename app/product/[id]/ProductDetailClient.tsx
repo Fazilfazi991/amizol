@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Truck, RotateCcw, Share2, Heart, MessageCircle } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
+import { getProductImages, getProductMainImage } from '@/lib/image-helper';
 
 interface Props {
   initialProduct: any;
@@ -26,11 +27,11 @@ export default function ProductDetailClient({ initialProduct, productId, source 
     );
   }
 
-  const [activeImage, setActiveImage] = useState(initialProduct.image_urls?.[0] || initialProduct.images?.[0] || '/images/placeholder.png');
+  const [activeImage, setActiveImage] = useState(getProductMainImage(initialProduct));
 
   const name = initialProduct.title || initialProduct.name;
   const brand = initialProduct.vendor || initialProduct.brandName || 'Designer';
-  const images = initialProduct.image_urls || initialProduct.images || [];
+  const images = getProductImages(initialProduct);
   const price = initialProduct.price;
 
   const handleAddToCart = () => {

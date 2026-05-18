@@ -1,6 +1,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import ProductDetailClient from './ProductDetailClient';
+import { getProductMainImage } from '@/lib/image-helper';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -80,7 +81,7 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
 
   const name = product.title || product.name;
   const brand = product.vendor || product.brandName || 'Little Dubai';
-  const image = product.image_urls?.[0] || product.images?.[0];
+  const image = getProductMainImage(product);
 
   return {
     title: `${brand} ${name} | Little Dubai UAE`,

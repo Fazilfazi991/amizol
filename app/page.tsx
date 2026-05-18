@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import ProductCard from '@/components/products/ProductCard';
 import { ArrowRight } from 'lucide-react';
+import { getProductMainImage } from '@/lib/image-helper';
 
 export default function HomePage() {
   const [newArrivals, setNewArrivals] = useState<any[]>([]);
@@ -159,7 +160,7 @@ export default function HomePage() {
                   name: product.title || product.name,
                   brand: product.vendor || product.brandName || 'Designer',
                   price: product.price,
-                  image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
+                  image: getProductMainImage(product),
                   source: product.source
                 }} 
               />

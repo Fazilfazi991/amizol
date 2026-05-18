@@ -4,6 +4,7 @@ import React, { useState, useMemo } from 'react';
 import ProductCard from '@/components/products/ProductCard';
 import Link from 'next/link';
 import Image from 'next/image';
+import { getProductMainImage } from '@/lib/image-helper';
 
 interface Props {
   slug: string;
@@ -112,7 +113,7 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
                   name: product.title || product.name,
                   brand: product.vendor || product.brandName || 'Designer',
                   price: product.price,
-                  image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
+                  image: getProductMainImage(product),
                   source: product.source,
                 }}
               />

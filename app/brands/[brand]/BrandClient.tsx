@@ -3,6 +3,7 @@
 import React, { useState, useMemo } from 'react';
 import ProductCard from '@/components/products/ProductCard';
 import Image from 'next/image';
+import { getProductMainImage } from '@/lib/image-helper';
 
 interface Props {
   brandSlug: string;
@@ -95,7 +96,7 @@ export default function BrandClient({ brandSlug, initialProducts }: Props) {
                   name: product.title || product.name,
                   brand: product.vendor || product.brandName || brandName,
                   price: product.price,
-                  image: product.image_urls?.[0] || product.images?.[0] || '/images/placeholder.png',
+                  image: getProductMainImage(product),
                   source: product.source,
                 }}
               />
