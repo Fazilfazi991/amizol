@@ -1,5 +1,6 @@
 import React from 'react';
 import { Metadata } from 'next';
+import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
@@ -11,55 +12,42 @@ export default function AboutPage() {
   return (
     <div>
       {/* Hero */}
-      <section
-        className="section text-center"
-        style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop')",
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          minHeight: '60vh',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          position: 'relative',
-        }}
-      >
-        <div style={{ position: 'absolute', inset: 0, background: 'rgba(0,0,0,0.55)' }} />
-        <div style={{ position: 'relative', zIndex: 1, color: '#fff', maxWidth: '700px', margin: '0 auto', padding: '0 1rem' }}>
-          <h1 style={{ fontSize: '3rem', fontWeight: 700, letterSpacing: '0.1em', marginBottom: '1.5rem' }}>
-            THE WORLD'S LARGEST DESTINATION
-          </h1>
-          <p style={{ fontSize: '1.2rem', lineHeight: 1.7, opacity: 0.9 }}>
-            Little Dubai is the globally recognized retail concept dedicated to the world of designer shoes, bags, and accessories for women, men, and kids.
-          </p>
+      <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
+        <Image 
+          src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2070&auto=format&fit=crop" 
+          alt="Luxury Retail" 
+          fill 
+          className="object-cover" 
+          priority
+        />
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="relative z-10 text-center text-white px-4">
+          <h1 className="text-5xl md:text-6xl font-display mb-6 tracking-tight">THE WORLD'S LARGEST DESTINATION</h1>
+          <p className="text-xl font-light tracking-wide max-w-2xl mx-auto opacity-90">Redefining luxury retail in the heart of Dubai.</p>
         </div>
       </section>
 
       {/* Story */}
-      <section className="section container">
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '4rem', alignItems: 'center' }}>
+      <section className="py-24 container">
+        <div className="grid md:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 style={{ fontSize: '2rem', fontWeight: 700, marginBottom: '1.5rem', letterSpacing: '0.05em' }}>OUR STORY</h2>
-            <p className="text-secondary" style={{ lineHeight: 1.8, marginBottom: '1rem' }}>
-              Little Dubai was founded with one mission: to bring the world's finest footwear and luxury accessories to customers across the UAE and beyond. What began as a passion for authentic luxury goods has grown into the region's most trusted destination for designer footwear.
-            </p>
-            <p className="text-secondary" style={{ lineHeight: 1.8, marginBottom: '1rem' }}>
-              We partner directly with the world's most prestigious brands — from Gucci and Louis Vuitton to Adidas and New Balance — to bring you guaranteed authentic products at competitive prices, delivered to your door within 24–48 hours.
-            </p>
-            <p className="text-secondary" style={{ lineHeight: 1.8 }}>
-              With thousands of styles across hundreds of brands, Little Dubai is where luxury meets convenience.
-            </p>
+            <span className="text-accent uppercase tracking-widest font-semibold text-sm mb-4 block">Our Story</span>
+            <h2 className="text-4xl font-display mb-8">AUTHENTICITY & LUXURY</h2>
+            <div className="space-y-6 text-secondary text-lg leading-relaxed">
+              <p>Founded with a vision to bring the world's most exclusive footwear to the Middle East, Little Dubai has grown into a global retail landmark.</p>
+              <p>We pride ourselves on curating a collection that transcends trends, focusing on timeless craftsmanship and the avant-garde spirit of modern luxury.</p>
+            </div>
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem' }}>
+          <div className="grid grid-cols-2 gap-6">
             {[
               { value: '500+', label: 'Brands' },
               { value: '10K+', label: 'Products' },
               { value: '24–48h', label: 'Delivery' },
               { value: '100%', label: 'Authentic' },
             ].map((stat) => (
-              <div key={stat.label} style={{ background: 'var(--color-bg-secondary)', padding: '2rem', textAlign: 'center', borderRadius: '4px' }}>
-                <div style={{ fontSize: '2.5rem', fontWeight: 700, marginBottom: '0.5rem' }}>{stat.value}</div>
-                <div style={{ fontSize: '0.85rem', letterSpacing: '0.1em', opacity: 0.6, textTransform: 'uppercase' }}>{stat.label}</div>
+              <div key={stat.label} className="p-8 bg-tertiary text-center border border-light shadow-sm hover:shadow-md transition-shadow">
+                <div className="text-4xl font-display mb-2">{stat.value}</div>
+                <div className="text-xs uppercase tracking-widest text-secondary font-bold">{stat.label}</div>
               </div>
             ))}
           </div>

@@ -30,6 +30,7 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
 
   const categoryTitle = initialConfig?.title ?? slug.replace(/-/g, ' ').toUpperCase();
   const heroImage = initialConfig?.hero ?? '/images/general_luxury_hero.png';
+  const mobileHeroImage = initialConfig?.mobileHero;
   const isGenderPage = slug === 'men' || slug === 'women';
   const subLinks = slug === 'men' ? MEN_LINKS : slug === 'women' ? WOMEN_LINKS : [];
 
@@ -53,41 +54,88 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
     return result;
   }, [initialProducts, sortBy, slug]);
 
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 20;
+
+  const paginatedProducts = useMemo(() => {
+    const start = (currentPage - 1) * itemsPerPage;
+    return sortedProducts.slice(start, start + itemsPerPage);
+  }, [sortedProducts, currentPage]);
+
+  const totalPages = Math.ceil(sortedProducts.length / itemsPerPage);
+
+  // Reset page when sortBy or slug changes
+  React.useEffect(() => {
+    setCurrentPage(1);
+  }, [sortBy, slug]);
+
   return (
     <div>
-      <header className="page-header" style={{ position: 'relative', height: '400px', overflow: 'hidden' }}>
-        <video
-          autoPlay
-          muted
-          loop
-          playsInline
-          className="object-cover w-full h-full"
-          style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-        >
-          <source src="/hero-video.mp4" type="video/mp4" />
-        </video>
-        <div className="page-header__overlay"></div>
-        <div className="container page-header__content" style={{ position: 'relative', zIndex: 2 }}>
-          <h1 className="page-header__title">{categoryTitle}</h1>
+      <header className="page-header relative h-[450px] overflow-hidden flex items-center justify-center bg-black">
+        {mobileHeroImage ? (
+          <>
+            <div className="hidden md:block absolute inset-0 bg-black">
+              <Image 
+                src={heroImage} 
+                alt={categoryTitle} 
+                fill 
+                className="object-contain" 
+                priority
+                unoptimized={true}
+                onError={(e: any) => {
+                  e.target.src = '/images/general_hero.png';
+                }}
+              />
+            </div>
+            <div className="md:hidden absolute inset-0 bg-black">
+              <Image 
+                src={mobileHeroImage} 
+                alt={categoryTitle} 
+                fill 
+                className="object-contain" 
+                priority
+                unoptimized={true}
+                onError={(e: any) => {
+                  e.target.src = '/images/general_hero.png';
+                }}
+              />
+            </div>
+          </>
+        ) : (
+          <Image 
+            src={heroImage} 
+            alt={categoryTitle} 
+            fill 
+            className="object-contain" 
+            priority
+            unoptimized={true}
+            onError={(e: any) => {
+              e.target.src = '/images/general_hero.png';
+            }}
+          />
+        )}
+        <div className="page-header__overlay absolute inset-0 bg-black/40"></div>
+        <div className="container page-header__content relative z-10 text-center text-white">
+          <h1 className="page-header__title text-5xl font-display mb-2 tracking-widest">{categoryTitle}</h1>
+          <p className="page-header__subtitle text-lg font-light opacity-80 uppercase tracking-widest">Premium Collection</p>
         </div>
       </header>
 
-      <div className="container py-8">
-        <div className="flex justify-between items-center" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <div className="flex gap-4">
+      <div className="container py-12 border-b border-light">
+        <div className="flex flex-col md:flex-row justify-between items-center gap-8">
+          <div className="flex flex-wrap gap-4 justify-center md:justify-start">
             {isGenderPage && subLinks.map((link) => (
-              <Link key={link.href} href={link.href} className="btn btn--secondary btn--sm">
+              <Link key={link.href} href={link.href} className="btn btn--secondary btn--sm px-6">
                 {link.label}
               </Link>
             ))}
           </div>
-          <div className="sort-container">
-            <label className="text-xs font-bold mr-2">SORT BY:</label>
+          <div className="sort-container flex items-center gap-4">
+            <label className="text-[10px] font-bold tracking-[0.2em] text-secondary uppercase">SORT BY:</label>
             <select 
               value={sortBy} 
               onChange={(e) => setSortBy(e.target.value)}
-              className="form-select text-sm"
-              style={{ padding: '0.5rem', border: '1px solid var(--color-border)' }}
+              className="form-select text-sm bg-transparent border-b border-secondary/30 pb-1 pr-8 focus:border-accent transition-colors"
             >
               <option value="featured">Featured</option>
               <option value="newest">Newest Arrivals</option>
@@ -99,26 +147,70 @@ export default function CategoryClient({ slug, initialConfig, initialProducts }:
       </div>
 
       <section className="section container">
-        {sortedProducts.length === 0 ? (
+        {paginatedProducts.length === 0 ? (
           <div className="text-center py-20 w-full">
             <p className="text-muted">No products found in this category.</p>
           </div>
         ) : (
-          <div className="product-grid">
-            {sortedProducts.map((product) => (
-              <ProductCard
-                key={`${product.source}-${product.id}`}
-                product={{
-                  id: product.id,
-                  name: product.title || product.name,
-                  brand: product.vendor || product.brandName || 'Designer',
-                  price: product.price,
-                  image: getProductMainImage(product),
-                  source: product.source,
-                }}
-              />
-            ))}
-          </div>
+          <>
+            <div className="product-grid">
+              {paginatedProducts.map((product) => (
+                <ProductCard
+                  key={`${product.source}-${product.id}`}
+                  product={{
+                    id: product.id,
+                    name: product.title || product.name,
+                    brand: product.vendor || product.brandName || 'Designer',
+                    price: product.price,
+                    image: getProductMainImage(product),
+                    source: product.source,
+                  }}
+                />
+              ))}
+            </div>
+            
+            {totalPages > 1 && (
+              <div className="pagination mt-16 flex justify-center items-center gap-4" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1rem', marginTop: '4rem' }}>
+                <button 
+                  className="btn btn--secondary btn--sm" 
+                  disabled={currentPage === 1}
+                  onClick={() => {
+                    setCurrentPage(prev => prev - 1);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                  }}
+                >
+                  PREVIOUS
+                </button>
+                
+                <div className="flex gap-2" style={{ display: 'flex', gap: '0.5rem' }}>
+                  {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+                    <button
+                      key={page}
+                      className={`btn btn--sm ${currentPage === page ? 'btn--primary' : 'btn--secondary'}`}
+                      style={{ minWidth: '40px' }}
+                      onClick={() => {
+                        setCurrentPage(page);
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                      }}
+                    >
+                      {page}
+                    </button>
+                  ))}
+                </div>
+
+                <button 
+                  className="btn btn--secondary btn--sm" 
+                  disabled={currentPage === totalPages}
+                  onClick={() => {
+                    setCurrentPage(prev => prev + 1);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                  }}
+                >
+                  NEXT
+                </button>
+              </div>
+            )}
+          </>
         )}
       </section>
     </div>

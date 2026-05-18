@@ -20,13 +20,13 @@ export default function ContactPage() {
           <div className="flex flex-col gap-6">
             <div>
               <h3 className="text-sm font-bold text-uppercase mb-2">WHATSAPP</h3>
-              <p className="text-secondary">+971 50 000 0000</p>
-              <a href="https://wa.me/971500000000" target="_blank" rel="noopener noreferrer" className="text-accent text-sm font-bold">CHAT NOW</a>
+              <p className="text-secondary">+971 50 123 4567 (Demo)</p>
+              <a href="https://wa.me/971501234567" target="_blank" rel="noopener noreferrer" className="text-accent text-sm font-bold">CHAT NOW</a>
             </div>
             
             <div>
               <h3 className="text-sm font-bold text-uppercase mb-2">EMAIL</h3>
-              <p className="text-secondary">support@littledubai.com</p>
+              <p className="text-secondary">support@amizol.com</p>
             </div>
             
             <div>

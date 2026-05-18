@@ -2,6 +2,8 @@ import React from 'react';
 import { Metadata } from 'next';
 import CategoryClient from './CategoryClient';
 
+export const dynamic = 'force-dynamic';
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
@@ -9,6 +11,7 @@ interface Props {
 type CategoryConfig = {
   title: string;
   hero: string;
+  mobileHero?: string;
   sources: { file: string; sourceLabel: string }[];
   filter?: (p: any) => boolean;
 };
@@ -16,73 +19,87 @@ type CategoryConfig = {
 const CATEGORY_MAP: Record<string, CategoryConfig> = {
   men: {
     title: "MEN'S COLLECTION",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoes-l.jpg',
+    mobileHero: '/images/mens-shoes-m.png',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
   },
   women: {
     title: "WOMEN'S COLLECTION",
-    hero: '/images/womens_hero.png',
+    hero: '/images/womens-shoes-l.jpg',
+    mobileHero: '/images/womens-shoes-m.jpg',
     sources: [{ file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' }],
   },
   'mens-shoes': {
     title: "MEN'S SHOES",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoes-l.jpg',
+    mobileHero: '/images/mens-shoes-m.png',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
   },
   'womens-shoes': {
     title: "WOMEN'S SHOES",
-    hero: '/images/womens_hero.png',
+    hero: '/images/womens-shoes-l.jpg',
+    mobileHero: '/images/womens-shoes-m.jpg',
     sources: [{ file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' }],
   },
   'mens-bags': {
     title: "MEN'S BAGS",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoes-l.jpg',
+    mobileHero: '/images/mens-shoes-m.png',
     sources: [{ file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' }],
     filter: (p) => p.title?.toLowerCase().includes('bag') || p.product_type?.toLowerCase().includes('bag'),
   },
   'womens-bags': {
     title: "WOMEN'S BAGS",
-    hero: '/images/womens_hero.png',
+    hero: '/images/womens-bags-l.jpg',
+    mobileHero: '/images/womens-bags-m.png',
     sources: [{ file: 'littledubai-womens-bags2.json', sourceLabel: 'womens' }],
   },
   'mens-slippers': {
     title: "MEN'S SLIPPERS",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-slippers-l.jpg',
+    mobileHero: '/images/mens-slippers-m.png',
     sources: [{ file: 'littledubai-mens-slippers.json', sourceLabel: 'mens' }],
   },
   'womens-slippers': {
     title: "WOMEN'S SLIPPERS",
-    hero: '/images/womens_hero.png',
+    hero: '/images/womens-slippers-l.jpg',
+    mobileHero: '/images/womens-slippers-m.png',
     sources: [{ file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' }],
   },
   'mens-watches': {
     title: "MEN'S WATCHES",
-    hero: '/images/mens_hero.png',
+    hero: '/images/mens-shoes-l.jpg',
+    mobileHero: '/images/mens-shoes-m.png',
     sources: [{ file: 'littledubai-mens-watches.json', sourceLabel: 'mens' }],
   },
   'womens-watches': {
     title: "WOMEN'S WATCHES",
-    hero: '/images/womens_hero.png',
+    hero: '/images/womens-shoes-l.jpg',
+    mobileHero: '/images/womens-shoes-m.jpg',
     sources: [{ file: 'littledubai-womens-watches1.json', sourceLabel: 'womens' }],
   },
   wallets: {
     title: 'WALLETS',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/wallets-l.jpg',
+    mobileHero: '/images/wallets-m.png',
     sources: [{ file: 'littledubai-wallets.json', sourceLabel: 'mens' }],
   },
   glasses: {
     title: 'GLASSES',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/glasses-l.jpg',
+    mobileHero: '/images/glasses-m.png',
     sources: [{ file: 'littledubai-glasses.json', sourceLabel: 'mens' }],
   },
   belts: {
     title: 'BELTS',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/belts-l.jpg',
+    mobileHero: '/images/belts-m.png',
     sources: [{ file: 'littledubai-belts.json', sourceLabel: 'mens' }],
   },
   accessories: {
     title: 'ACCESSORIES',
-    hero: '/images/accessories_hero.png',
+    hero: '/images/wallets-hero-l.jpg',
+    mobileHero: '/images/wallets-hero-m.png',
     sources: [
       { file: 'littledubai-wallets.json', sourceLabel: 'mens' },
       { file: 'littledubai-glasses.json', sourceLabel: 'mens' },
@@ -91,12 +108,14 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   heels: {
     title: 'HEELS',
-    hero: '/images/womens_hero.png',
+    hero: '/images/w1.jpg',
+    mobileHero: '/images/w2.jpg',
     sources: [{ file: 'littledubai-heels.json', sourceLabel: 'womens' }],
   },
   shoes: {
     title: 'SHOES',
-    hero: '/images/general_hero.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
+    mobileHero: '/images/mens-shoe-hero-m.png',
     sources: [
       { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
       { file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' },
@@ -104,7 +123,8 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   slippers: {
     title: 'SLIPPERS',
-    hero: '/images/general_hero.png',
+    hero: '/images/mens-slippers-hero-l.jpg',
+    mobileHero: '/images/mens-slippers-hero-m.png',
     sources: [
       { file: 'littledubai-mens-slippers.json', sourceLabel: 'mens' },
       { file: 'littledubai-womens-slippers1.json', sourceLabel: 'womens' },
@@ -112,7 +132,8 @@ const CATEGORY_MAP: Record<string, CategoryConfig> = {
   },
   'new-arrivals': {
     title: 'NEW ARRIVALS',
-    hero: '/images/general_hero.png',
+    hero: '/images/mens-shoe-hero-l.jpg',
+    mobileHero: '/images/mens-shoe-hero-m.png',
     sources: [
       { file: 'littledubai-mens-shoes.json', sourceLabel: 'mens' },
       { file: 'littledubai-womens-shoes.json', sourceLabel: 'womens' },
@@ -124,6 +145,24 @@ async function getCategoryData(slug: string) {
   const config = CATEGORY_MAP[slug];
   if (!config) return null;
 
+  try {
+    const { supabase } = require('@/lib/supabase');
+    const { data: sbProducts, error } = await supabase
+      .from('products')
+      .select('*')
+      .eq('category', slug);
+
+    if (sbProducts && sbProducts.length > 0) {
+      console.log(`SUPABASE: Loaded ${sbProducts.length} products for category ${slug}`);
+      return { config, products: sbProducts.map((p: any) => ({ ...p, source: slug })) };
+    } else {
+      console.log(`SUPABASE: No products found for category ${slug}`);
+    }
+  } catch (e: any) {
+    console.error(`SUPABASE ERROR for category ${slug}:`, e.message);
+  }
+
+  // Fallback to JSON
   const fs = require('fs');
   const path = require('path');
   const allProducts: any[] = [];

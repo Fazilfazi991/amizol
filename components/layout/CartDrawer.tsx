@@ -3,7 +3,6 @@
 import React, { useState } from 'react';
 import { X, ShoppingBag, Truck, CheckCircle } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
-import { supabase } from '@/lib/supabase';
 
 export default function CartDrawer() {
   const { cart, isOpen, setIsOpen, subtotal, removeFromCart, clearCart } = useCart();
@@ -11,6 +10,7 @@ export default function CartDrawer() {
   const [isProcessing, setIsProcessing] = useState(false);
   const [formData, setFormData] = useState({
     name: '',
+    email: '',
     phone: '',
     address: ''
   });
@@ -20,20 +20,26 @@ export default function CartDrawer() {
     setIsProcessing(true);
 
     try {
-      const { error } = await supabase
-        .from('orders')
-        .insert([
-          {
-            customer_name: formData.name,
-            customer_phone: formData.phone,
-            customer_address: formData.address,
-            order_items: cart,
-            total_price: subtotal,
-            status: 'Pending'
-          }
-        ]);
+      const response = await fetch('/api/orders', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          customer_name: formData.name,
+          customer_email: formData.email,
+          customer_phone: formData.phone,
+          customer_address: formData.address,
+          order_items: cart,
+          total_price: subtotal,
+          status: 'Pending',
+          payment_method: 'cod',
+        }),
+      });
 
-      if (error) throw error;
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.error || 'Failed to place order');
+      }
 
       setIsSuccess(true);
       clearCart();
@@ -108,6 +114,16 @@ export default function CartDrawer() {
                       placeholder="John Doe" 
                       value={formData.name}
                       onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+                    />
+                  </div>
+                  <div className="checkout-form__group">
+                    <label>Email Address</label>
+                    <input 
+                      type="email" 
+                      required 
+                      placeholder="john@example.com" 
+                      value={formData.email}
+                      onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                     />
                   </div>
                   <div className="checkout-form__group">

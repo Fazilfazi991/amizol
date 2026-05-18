@@ -3,12 +3,27 @@ import { Metadata } from 'next';
 import ProductDetailClient from './ProductDetailClient';
 import { getProductMainImage } from '@/lib/image-helper';
 
+export const dynamic = 'force-dynamic';
+
 interface Props {
   params: Promise<{ id: string }>;
   searchParams: Promise<{ source?: string }>;
 }
 
 async function getProduct(id: string, source: string) {
+  try {
+    const { supabase } = require('@/lib/supabase');
+    const { data: sbProduct, error } = await supabase
+      .from('products')
+      .select('*')
+      .eq('id', id)
+      .single();
+
+    if (sbProduct) return sbProduct;
+  } catch (e) {
+    console.warn('Supabase fetch failed for product:', e);
+  }
+
   const categoryFiles: Record<string, string> = {
     'mens-shoes': 'littledubai-mens-shoes.json',
     'womens-shoes': 'littledubai-womens-shoes.json',
@@ -26,12 +41,27 @@ async function getProduct(id: string, source: string) {
     womens: 'littledubai-womens-shoes.json',
     men: 'littledubai-mens-shoes.json',
     women: 'littledubai-womens-shoes.json',
-  };
-
-  const brandAliases: Record<string, string> = {
-    'new-balance': 'littledubai-nb.json',
+    'gucci': 'littledubai-gucci.json',
+    'prada': 'littledubai-prada.json',
+    'dior': 'littledubai-dior.json',
+    'louis-vuitton': 'littledubai-louis-vuitton.json',
+    'balenciaga': 'littledubai-balenciaga.json',
+    'hermes': 'littledubai-hermes.json',
+    'amiri': 'littledubai-amiri.json',
+    'dolce-gabbana': 'littledubai-dolce-gabbana.json',
     'loro-piana': 'littledubai-lorop.json',
-    zegna: 'littledubai-zeg.json',
+    'christian-louboutin': 'littledubai-christian-louboutin.json',
+    'travis-scott': 'littledubai-travis-scott.json',
+    'zegna': 'littledubai-zeg.json',
+    'adidas': 'littledubai-adidas.json',
+    'new-balance': 'littledubai-nb.json',
+    'hoka': 'littledubai-hoka.json',
+    'on-cloud': 'littledubai-on-cloud.json',
+    'golden-goose': 'littledubai-golden-goose.json',
+    'asics': 'littledubai-asics.json',
+    'puma': 'littledubai-puma.json',
+    'timberland': 'littledubai-timberland.json',
+    'onitsuka-tiger': 'littledubai-onitsuka-tiger.json',
     'alexander-mcqueen': 'littledubai-alexander-mqueen.json',
   };
 
@@ -39,28 +69,22 @@ async function getProduct(id: string, source: string) {
   const path = require('path');
 
   const currentSource = source || 'mens-shoes';
-  let fileName = categoryFiles[currentSource] || brandAliases[currentSource] || `littledubai-${currentSource}.json`;
+  let fileName = categoryFiles[currentSource] || `littledubai-${currentSource}.json`;
 
   try {
     const filePath = path.join(process.cwd(), 'public', fileName);
     if (fs.existsSync(filePath)) {
       const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      const found = data.products.find((p: any) => String(p.id) === String(id));
+      const found = (data.products || []).find((p: any) => String(p.id) === String(id));
       if (found) return found;
     }
 
-    // Fallback: search across all JSON files in public
-    const fallbacks = [
-      'mens-shoes', 'womens-shoes', 'mens-slippers', 'womens-slippers',
-      'adidas', 'nb', 'on-cloud', 'gucci', 'louis-vuitton', 'dior',
-      'prada', 'hermes', 'balenciaga', 'amiri', 'lorop', 'zeg',
-      'womens-bags2', 'wallets', 'glasses', 'belts', 'heels',
-      'travis-scott', 'golden-goose', 'asics', 'hoka', 'puma',
-      'timberland', 'onitsuka-tiger', 'alexander-mqueen',
-      'christian-louboutin', 'dolce-gabbana', 'mens-watches', 'womens-watches1',
-    ];
-    for (const fb of fallbacks) {
-      const fbPath = path.join(process.cwd(), 'public', `littledubai-${fb}.json`);
+    // Exhaustive search across ALL known JSON files
+    const allFiles = Object.values(categoryFiles);
+    const uniqueFiles = Array.from(new Set(allFiles));
+    
+    for (const file of uniqueFiles) {
+      const fbPath = path.join(process.cwd(), 'public', file);
       if (fs.existsSync(fbPath)) {
         const fbData = JSON.parse(fs.readFileSync(fbPath, 'utf8'));
         const found = (fbData.products || []).find((p: any) => String(p.id) === String(id));

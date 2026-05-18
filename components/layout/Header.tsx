@@ -5,8 +5,12 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { ShoppingBag, Search, User, Menu, X, ChevronDown, Heart } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
+import { usePathname } from 'next/navigation';
 
 export default function Header() {
+  const pathname = usePathname();
+  const isAdminPage = pathname?.startsWith('/admin');
+  
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -28,46 +32,61 @@ export default function Header() {
     }
   };
 
+  if (isAdminPage) return null;
+
   return (
     <header className={`header ${isScrolled ? 'scrolled' : ''}`}>
       <div className="header__top">
         <div className="container header__top-inner">
           <div className="header__top-left">
-            <a href="#" className="header__top-link">UAE / العربية</a>
+            <button className="header__top-link cursor-pointer bg-transparent border-none p-0" onClick={() => alert('Language features coming soon')}>UAE / العربية</button>
           </div>
           <div className="header__top-right">
-            <a href="#" className="header__top-link">Track Order</a>
+            <Link href="/track" className="header__top-link">Track Order</Link>
             <span className="header__top-divider"></span>
-            <a href="#" className="header__top-link">Sign In / Register</a>
+            <Link href="/login" className="header__top-link">Sign In / Register</Link>
           </div>
         </div>
       </div>
 
       <div className="header__main container">
-        <div className="header__inner">
+        <div className="header__inner flex items-center justify-between w-full">
           <button className="header__mobile-toggle" onClick={() => setIsMobileMenuOpen(true)}>
             <Menu size={24} />
           </button>
 
-          <div className="header__logo">
-            <Link href="/">LITTLE DUBAI</Link>
+          <div className="header__logo flex-shrink-0">
+            <Link href="/" className="font-display text-2xl tracking-tight">LITTLE DUBAI</Link>
           </div>
 
-          <div className="header__search">
-            <div className="header__search-container">
-              <Search size={18} className="header__search-icon" />
+          <div className="header__search flex-1 max-w-md mx-10 max-md:hidden">
+            <div className="header__search-container relative w-full flex items-center">
               <input 
                 type="text" 
-                className="header__search-input" 
+                className="header__search-input w-full py-2 bg-secondary text-sm" 
+                style={{ paddingLeft: '1rem', paddingRight: '2.5rem', borderRadius: '4px', border: '1px solid #E5E5E5' }}
                 placeholder="Search brands, products..." 
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 onKeyDown={handleSearch}
               />
+              <button
+                type="button"
+                onClick={() => {
+                  if (searchQuery.trim()) {
+                    router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+                    setIsMobileMenuOpen(false);
+                  }
+                }}
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-secondary hover:text-accent cursor-pointer bg-transparent border-none p-0 flex items-center justify-center"
+                aria-label="Submit Search"
+              >
+                <Search size={18} />
+              </button>
             </div>
           </div>
 
-          <div className="header__actions">
+          <div className="header__actions flex items-center gap-6 flex-shrink-0">
             <button className="header__action-btn" title="Account">
               <User size={20} />
             </button>
@@ -75,9 +94,13 @@ export default function Header() {
               <Heart size={20} />
             </button>
             <button className="header__action-btn" onClick={() => setIsOpen(true)} title="Bag">
-              <div className="header__cart-icon-wrapper">
+              <div className="relative">
                 <ShoppingBag size={20} />
-                {cart.length > 0 && <span className="header__action-badge">{cart.length}</span>}
+                {cart.length > 0 && (
+                  <span className="absolute -top-2 -right-2 bg-accent text-inverse text-[10px] font-bold w-4 h-4 flex items-center justify-center rounded-full">
+                    {cart.length}
+                  </span>
+                )}
               </div>
             </button>
           </div>

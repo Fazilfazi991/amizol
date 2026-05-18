@@ -3,8 +3,9 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Truck, RotateCcw, Share2, Heart, MessageCircle } from 'lucide-react';
+import { Truck, ShieldCheck, Heart, MessageCircle, Share2, ChevronRight } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
+import { supabase } from '@/lib/supabase';
 import { getProductImages, getProductMainImage } from '@/lib/image-helper';
 
 interface Props {
@@ -15,24 +16,44 @@ interface Props {
 
 export default function ProductDetailClient({ initialProduct, productId, source }: Props) {
   const [selectedSize, setSelectedSize] = useState('EU 42');
+  const [stockStatus, setStockStatus] = useState({ status: 'in_stock', count: null as number | null });
   const { addToCart, setIsOpen } = useCart();
+
+  React.useEffect(() => {
+    async function fetchStock() {
+      try {
+        const { data } = await supabase
+          .from('product_inventory')
+          .select('status, stock_count')
+          .eq('product_id', productId)
+          .single();
+
+        if (data) {
+          setStockStatus({ status: data.status, count: data.stock_count });
+        }
+      } catch (e) {
+        console.error('Error fetching stock status:', e);
+      }
+    }
+    fetchStock();
+  }, [productId]);
   
   if (!initialProduct) {
     return (
-      <div className="container py-20 text-center">
-        <h2>Product not found</h2>
-        <p className="text-secondary mb-8">The product you are looking for does not exist or has been removed.</p>
-        <Link href="/" className="btn btn--primary">BACK TO HOME</Link>
+      <div className="container py-32 text-center">
+        <h2 className="text-3xl font-display mb-4">Product not found</h2>
+        <p className="text-secondary mb-12">The product you are looking for does not exist or has been removed.</p>
+        <Link href="/" className="btn btn--primary px-12">BACK TO HOME</Link>
       </div>
     );
   }
-
-  const [activeImage, setActiveImage] = useState(getProductMainImage(initialProduct));
 
   const name = initialProduct.title || initialProduct.name;
   const brand = initialProduct.vendor || initialProduct.brandName || 'Designer';
   const images = getProductImages(initialProduct);
   const price = initialProduct.price;
+  const [activeImage, setActiveImage] = useState(images[0] || '');
+  const [imgError, setImgError] = useState(false);
 
   const handleAddToCart = () => {
     addToCart({
@@ -52,100 +73,149 @@ export default function ProductDetailClient({ initialProduct, productId, source 
   };
 
   return (
-    <div className="container section">
-      <div className="product-detail">
-        <div className="product-gallery">
-          <div className="product-gallery__thumbnails">
+    <div className="container">
+      {/* Breadcrumb */}
+      <nav className="flex items-center gap-2 py-6 text-[10px] uppercase tracking-widest text-secondary">
+        <Link href="/" className="hover:text-primary transition-colors">Home</Link>
+        <ChevronRight size={10} />
+        <Link href="/brands" className="hover:text-primary transition-colors">Brands</Link>
+        <ChevronRight size={10} />
+        <span className="text-primary font-bold">{brand}</span>
+      </nav>
+
+      <div className="pdp-container">
+        {/* Gallery Section */}
+        <div className="pdp-gallery">
+          {/* Thumbnails */}
+          <div className="pdp-gallery__thumbnails no-scrollbar">
             {images.slice(0, 5).map((img: string, idx: number) => (
               <div 
                 key={idx} 
-                className={`product-gallery__thumb ${activeImage === img ? 'active' : ''}`}
-                onClick={() => setActiveImage(img)}
+                className={`pdp-gallery__thumb ${activeImage === img ? 'active' : ''}`}
+                onClick={() => {
+                  setActiveImage(img);
+                  setImgError(false);
+                }}
               >
-                <div style={{ position: 'relative', width: '100%', height: '100%' }}>
-                  <Image 
+                <div className="relative w-full h-full">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img 
                     src={img} 
                     alt={`${name} thumb ${idx}`} 
-                    fill 
-                    className="object-cover"
-                    sizes="80px"
+                    style={{ width: '100%', height: '100%', objectFit: 'contain' }}
                   />
                 </div>
               </div>
             ))}
           </div>
-          <div className="product-gallery__main">
-            <div style={{ position: 'relative', width: '100%', height: '600px' }}>
-              <Image 
+          
+          {/* Main Image */}
+          <div className="pdp-gallery__main relative bg-[#f8f8f8]">
+            {activeImage ? (
+              /* eslint-disable-next-line @next/next/no-img-element */
+              <img 
                 src={activeImage} 
                 alt={name} 
-                fill 
-                className="product-gallery__image object-contain" 
-                priority
-                sizes="(max-width: 768px) 100vw, 50vw"
+                style={{ width: '100%', height: '100%', objectFit: 'contain', padding: '2rem' }}
+                onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
               />
+            ) : (
+              <div className="flex flex-col items-center justify-center w-full h-full text-center p-8">
+                <span className="text-[#999] uppercase tracking-[0.3em] text-sm font-light mb-4">{brand}</span>
+                <span className="text-[#ccc] text-xs font-light">Image temporarily unavailable</span>
+              </div>
+            )}
+            <div className="absolute top-6 right-6 flex flex-col gap-3">
+              <button className="w-10 h-10 bg-white shadow-sm flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
+                <Heart size={20} />
+              </button>
+              <button className="w-10 h-10 bg-white shadow-sm flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
+                <Share2 size={20} />
+              </button>
             </div>
-            <div className="product-gallery__actions">
-               <button className="icon-btn"><Share2 size={18} /></button>
-               <button className="icon-btn"><Heart size={18} /></button>
-            </div>
+            {stockStatus.status === 'out_of_stock' && (
+              <div className="absolute inset-0 bg-white/60 flex items-center justify-center">
+                <span className="bg-primary text-white px-8 py-4 font-bold text-xl tracking-widest uppercase">Sold Out</span>
+              </div>
+            )}
           </div>
         </div>
 
-        <div className="product-info">
-          <div className="product-info__header">
-            <p className="product-info__brand">{brand}</p>
-            <h1 className="product-info__title">{name}</h1>
-          </div>
-          
-          <div className="product-info__price">
-            <span>AED {price}</span>
-            <span className="badge badge--success">In Stock</span>
-          </div>
-          
-          <div className="product-info__options">
-            <div className="product-info__option">
-              <p className="product-info__option-label">SELECT SIZE (EU)</p>
-              <div className="size-selector">
-                {['40', '41', '42', '43', '44', '45'].map(size => (
-                  <button 
-                    key={size} 
-                    className={`size-swatch__item ${selectedSize === `EU ${size}` ? 'size-swatch__item--selected' : ''}`}
-                    onClick={() => setSelectedSize(`EU ${size}`)}
-                  >
-                    {size}
-                  </button>
-                ))}
-              </div>
+        {/* Info Section */}
+        <div className="pdp-info">
+          <div className="pdp-info__header">
+            <p className="pdp-info__brand">{brand}</p>
+            <h1 className="pdp-info__title">{name}</h1>
+            <div className="flex items-center gap-4">
+               <p className="pdp-info__price m-0">AED {price}</p>
+               {stockStatus.status === 'limited_stock' ? (
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-error bg-error/5 px-2 py-1">
+                   Only {stockStatus.count} left
+                 </span>
+               ) : stockStatus.status === 'out_of_stock' ? (
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-error bg-error/5 px-2 py-1">
+                   Out of Stock
+                 </span>
+               ) : (
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-[#5cb85c] bg-[#5cb85c]/10 px-2 py-1">
+                   In Stock
+                 </span>
+               )}
             </div>
           </div>
 
-          <div className="product-info__actions">
-            <button className="btn btn--primary btn--full btn--lg" onClick={handleAddToCart}>
-              ADD TO BAG
+          <div>
+            <div className="flex justify-between items-center mb-4">
+              <label className="text-[10px] font-bold tracking-[0.2em] text-secondary uppercase">Select Size (EU)</label>
+              <button className="text-[10px] font-bold tracking-widest text-accent border-b border-accent uppercase hover:text-primary hover:border-primary transition-colors">Size Guide</button>
+            </div>
+            <div className="pdp-size-grid">
+              {['39', '40', '41', '42', '43', '44', '45', '46'].map((size) => (
+                <button 
+                  key={size}
+                  className={`pdp-size-btn ${selectedSize === `EU ${size}` ? 'active' : ''}`}
+                  onClick={() => setSelectedSize(`EU ${size}`)}
+                >
+                  {size}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="pdp-actions">
+            <button 
+              className={`btn btn--primary btn--lg w-full h-16 text-sm font-bold tracking-widest ${stockStatus.status === 'out_of_stock' ? 'opacity-50 cursor-not-allowed' : 'hover:scale-[1.01]'}`}
+              disabled={stockStatus.status === 'out_of_stock'}
+              onClick={handleAddToCart}
+            >
+              {stockStatus.status === 'out_of_stock' ? 'OUT OF STOCK' : 'ADD TO BAG'}
             </button>
             <button 
-              className="btn btn--full btn--lg" 
-              style={{ backgroundColor: '#25D366', color: 'white', borderColor: '#25D366' }}
+              className="btn btn--secondary btn--lg w-full h-16 text-sm font-bold tracking-widest border-2 flex items-center justify-center gap-3 hover:bg-success hover:border-success hover:text-white transition-all"
               onClick={handleWhatsApp}
             >
-              <MessageCircle size={20} className="mr-2" /> ORDER ON WHATSAPP
+              <MessageCircle size={20} />
+              ORDER ON WHATSAPP
             </button>
           </div>
 
-          <div className="product-info__services">
-            <div className="product-info__service">
-              <Truck size={20} className="product-info__service-icon" />
-              <div>
-                <strong>Free Express Delivery</strong>
-                <p className="text-xs text-muted">Delivery within 24-48 hours in UAE</p>
+          <div className="pdp-services">
+            <div className="pdp-service-item">
+              <div className="pdp-service-icon">
+                <Truck size={20} />
+              </div>
+              <div className="pdp-service-text">
+                <h4>Free Delivery</h4>
+                <p>Express delivery across the UAE within 24-48 hours.</p>
               </div>
             </div>
-            <div className="product-info__service">
-              <RotateCcw size={20} className="product-info__service-icon" />
-              <div>
-                <strong>Easy Returns</strong>
-                <p className="text-xs text-muted">30-day free returns and exchanges</p>
+            <div className="pdp-service-item">
+              <div className="pdp-service-icon">
+                <ShieldCheck size={20} />
+              </div>
+              <div className="pdp-service-text">
+                <h4>100% Authentic</h4>
+                <p>Guaranteed authentic luxury products sourced from authorized retailers.</p>
               </div>
             </div>
           </div>

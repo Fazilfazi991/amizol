@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ShoppingBag } from 'lucide-react';
 import { useCart } from '@/lib/cart-context';
+import { supabase } from '@/lib/supabase';
 
 interface ProductProps {
   product: {
@@ -31,25 +32,63 @@ export default function ProductCard({ product }: ProductProps) {
     });
   };
 
+  const [stockStatus, setStockStatus] = React.useState<any>(null);
+  const [imgError, setImgError] = React.useState(false);
+
+  React.useEffect(() => {
+    async function fetchStock() {
+      const { data } = await supabase
+        .from('product_inventory')
+        .select('status, stock_count')
+        .eq('product_id', String(product.id))
+        .single();
+      if (data) setStockStatus(data);
+    }
+    fetchStock();
+  }, [product.id]);
+
   return (
-    <div className="product-card">
+    <div className={`product-card ${stockStatus?.status === 'out_of_stock' ? 'out-of-stock' : ''}`}>
       <Link href={`/product/${product.id}?source=${product.source || 'mens'}`} className="product-card__link">
         <div className="product-card__image-container">
-          <Image 
-            src={product.image} 
-            alt={product.name} 
-            fill
-            sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
-            className="product-card__image" 
-          />
-          <button className="product-card__add" title="Quick Add" onClick={handleQuickAdd}>
-            <ShoppingBag size={18} />
-          </button>
+          {!imgError && product.image ? (
+            <Image 
+              src={product.image} 
+              alt={product.name} 
+              fill
+              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
+              className="product-card__image" 
+              onError={() => setImgError(true)}
+            />
+          ) : (
+            <div className="flex items-center justify-center w-full h-full bg-[#f8f8f8] text-[#999] uppercase tracking-widest text-xs font-light">
+              {product.brand || 'Amizol'}
+            </div>
+          )}
+          {stockStatus?.status === 'out_of_stock' && (
+            <div className="product-card__status-overlay">SOLD OUT</div>
+          )}
+          {stockStatus?.status === 'limited_stock' && (
+            <div className="product-card__status-badge">ONLY {stockStatus.stock_count || 5} LEFT</div>
+          )}
+          {!stockStatus || stockStatus.status !== 'out_of_stock' && (
+            <button className="product-card__add" title="Quick Add" onClick={handleQuickAdd}>
+              <ShoppingBag size={18} />
+            </button>
+          )}
         </div>
-        <div className="product-card__info">
-          <p className="product-card__brand">{product.brand}</p>
-          <h3 className="product-card__title">{product.name}</h3>
-          <p className="product-card__price">AED {product.price}</p>
+        <div className="product-card__info flex flex-col gap-1 mt-2">
+          <h3 className="product-card__title mb-0">{product.name}</h3>
+          <div className="flex items-center justify-between">
+            <p className="product-card__price m-0">AED {product.price}</p>
+            {stockStatus?.status === 'limited_stock' ? (
+              <span className="text-[9px] font-bold uppercase tracking-widest text-error">Limited Stock</span>
+            ) : stockStatus?.status === 'out_of_stock' ? (
+              <span className="text-[9px] font-bold uppercase tracking-widest text-error">Out of Stock</span>
+            ) : (
+              <span className="text-[9px] font-bold uppercase tracking-widest text-[#5cb85c]">In Stock</span>
+            )}
+          </div>
         </div>
       </Link>
     </div>
