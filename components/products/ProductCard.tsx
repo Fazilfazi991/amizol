@@ -52,11 +52,10 @@ export default function ProductCard({ product }: ProductProps) {
       <Link href={`/product/${product.id}?source=${product.source || 'mens'}`} className="product-card__link">
         <div className="product-card__image-container">
           {!imgError && product.image ? (
-            <Image 
+            /* eslint-disable-next-line @next/next/no-img-element */
+            <img 
               src={product.image} 
               alt={product.name} 
-              fill
-              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
               className="product-card__image" 
               onError={() => setImgError(true)}
             />
