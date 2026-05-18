@@ -1,10 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
 
-// Use service role key on the server to bypass RLS
 const supabaseAdmin = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://mherqrjuoafvkbauvaob.supabase.co',
-  process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ''
+  process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1oZXJxcmp1b2FmdmtiYXV2YW9iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY3NDkyMTAsImV4cCI6MjA5MjMyNTIxMH0.wypisj0nT9iw-PE6NU8FJU6GzeW2AXw7zrxM9BhrpKs'
 );
 
 export async function POST(request: NextRequest) {
